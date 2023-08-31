@@ -15,6 +15,7 @@
     <li><a href=#keypoint-detection>Keypoint Detection</a></li>
     <li><a href=#image-matching>Image Matching</a></li>
     <li><a href=#nerf>NeRF</a></li>
+    <li><a href=#mot>MOT</a></li>
   </ol>
 </details>
 
@@ -1871,6 +1872,23 @@
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+<p align=right>(<a href=#updated-on-20230831>back to top</a>)</p>
+
+## MOT
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-08-29**|**Lifelike Agility and Play on Quadrupedal Robots using Reinforcement Learning and Generative Pre-trained Models**|Lei Han et.al.|[2308.15143](http://arxiv.org/abs/2308.15143)|null|
+|**2023-08-23**|**Unraveling the Neural Network: Identifying Temporal Labeling of Visual Events through EEG-Based Functional Connectivity Analysis of Brain Regions**|Sina Khoonbani et.al.|[2308.12056](http://arxiv.org/abs/2308.12056)|null|
+|**2023-08-22**|**Estimating Noise Correlations in Neural Populations with Wishart Processes**|Amin Nejatbakhsh et.al.|[2308.11824](http://arxiv.org/abs/2308.11824)|**[link](https://github.com/neurostatslab/wishart-process)**|
+|**2023-08-21**|**Pseudo-online framework for BCI evaluation: A MOABB perspective**|Igor Carrara et.al.|[2308.11656](http://arxiv.org/abs/2308.11656)|null|
+|**2023-08-22**|**Delving into Motion-Aware Matching for Monocular 3D Object Tracking**|Kuan-Chih Huang et.al.|[2308.11607](http://arxiv.org/abs/2308.11607)|**[link](https://github.com/kuanchihhuang/moma-m3t)**|
+|**2023-08-22**|**Low Tensor Rank Learning of Neural Dynamics**|Arthur Pellegrino et.al.|[2308.11567](http://arxiv.org/abs/2308.11567)|null|
+|**2023-08-22**|**Magical or magnetic? Less commonly taught facts about real-world permanent magnets and their diverse interactions with objects**|Yan-Cong Chen et.al.|[2308.11542](http://arxiv.org/abs/2308.11542)|null|
+|**2023-08-21**|**I-BaR: Integrated Balance Rehabilitation Framework**|Tugce Ersoy et.al.|[2308.10777](http://arxiv.org/abs/2308.10777)|null|
+|**2023-08-21**|**Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robot Hand**|Jay Best et.al.|[2308.10409](http://arxiv.org/abs/2308.10409)|null|
+|**2023-08-18**|**Towards Human-Robot Collaboration with Parallel Robots by Kinetostatic Analysis, Impedance Control and Contact Detection**|Aran Mohammad et.al.|[2308.09633](http://arxiv.org/abs/2308.09633)|null|
 
 <p align=right>(<a href=#updated-on-20230831>back to top</a>)</p>
 
