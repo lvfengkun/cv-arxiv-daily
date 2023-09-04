@@ -1879,6 +1879,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**Deep Segmented DMP Networks for Learning Discontinuous Motions**|Edgar Anarossi et.al.|[2309.00320](http://arxiv.org/abs/2309.00320)|null|
 |**2023-08-31**|**Motor crosslinking augments elasticity in active nematics**|Steven A. Redford et.al.|[2308.16831](http://arxiv.org/abs/2308.16831)|**[link](https://github.com/gardel-lab/responsefunction)**|
 |**2023-08-29**|**Lifelike Agility and Play on Quadrupedal Robots using Reinforcement Learning and Generative Pre-trained Models**|Lei Han et.al.|[2308.15143](http://arxiv.org/abs/2308.15143)|null|
 |**2023-08-23**|**Unraveling the Neural Network: Identifying Temporal Labeling of Visual Events through EEG-Based Functional Connectivity Analysis of Brain Regions**|Sina Khoonbani et.al.|[2308.12056](http://arxiv.org/abs/2308.12056)|null|
