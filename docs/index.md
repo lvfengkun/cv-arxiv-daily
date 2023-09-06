@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-04**|**EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity**|Zijie Jiang et.al.|[2309.01296](http://arxiv.org/abs/2309.01296)|null|
 |**2023-08-27**|**Deep Learning for Visual Localization and Mapping: A Survey**|Changhao Chen et.al.|[2308.14039](http://arxiv.org/abs/2308.14039)|null|
 |**2023-08-19**|**Enhancing State Estimation in Robots: A Data-Driven Approach with Differentiable Ensemble Kalman Filters**|Xiao Liu et.al.|[2308.09870](http://arxiv.org/abs/2308.09870)|**[link](https://github.com/ir-lab/denkf)**|
 |**2023-08-12**|**4DRVO-Net: Deep 4D Radar-Visual Odometry Using Multi-Modal and Multi-Scale Adaptive Fusion**|Guirong Zhuo et.al.|[2308.06573](http://arxiv.org/abs/2308.06573)|null|
@@ -1858,6 +1859,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**The Simons Observatory: A fully remote controlled calibration system with a sparse wire grid for cosmic microwave background telescopes**|Masaaki Murata et.al.|[2309.02035](http://arxiv.org/abs/2309.02035)|null|
+|**2023-09-04**|**Difference between charge-voltage relations of ordinary and fractional capacitors**|Eirik Brenner Marthins et.al.|[2309.01701](http://arxiv.org/abs/2309.01701)|null|
+|**2023-09-03**|**Under-frequency Load Shedding for Power Reserve Management in Islanded Microgrids**|Bei Xu et.al.|[2309.01278](http://arxiv.org/abs/2309.01278)|null|
+|**2023-09-02**|**Advanced spike sorting approaches in implantable VLSI wireless brain computer interfaces: a survey**|Soujatya Sarkar et.al.|[2309.00913](http://arxiv.org/abs/2309.00913)|null|
+|**2023-09-02**|**A Unifying Variational Framework for Gaussian Process Motion Planning**|Lucas Cosier et.al.|[2309.00854](http://arxiv.org/abs/2309.00854)|null|
 |**2023-09-01**|**Deep Segmented DMP Networks for Learning Discontinuous Motions**|Edgar Anarossi et.al.|[2309.00320](http://arxiv.org/abs/2309.00320)|null|
 |**2023-08-31**|**Motor crosslinking augments elasticity in active nematics**|Steven A. Redford et.al.|[2308.16831](http://arxiv.org/abs/2308.16831)|**[link](https://github.com/gardel-lab/responsefunction)**|
 |**2023-08-29**|**Lifelike Agility and Play on Quadrupedal Robots using Reinforcement Learning and Generative Pre-trained Models**|Lei Han et.al.|[2308.15143](http://arxiv.org/abs/2308.15143)|null|
