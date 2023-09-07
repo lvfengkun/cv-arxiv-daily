@@ -1859,6 +1859,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**MyoDex: A Generalizable Prior for Dexterous Manipulation**|Vittorio Caggiano et.al.|[2309.03130](http://arxiv.org/abs/2309.03130)|null|
+|**2023-09-06**|**Can Telematics Improve Driving Style? The Use of Behavioural Data in Motor Insurance**|Alberto Cevolini et.al.|[2309.02814](http://arxiv.org/abs/2309.02814)|null|
+|**2023-09-06**|**Stochastic nucleosome disassembly mediated by remodelers and histone fragmentation**|Xiangting Li et.al.|[2309.02736](http://arxiv.org/abs/2309.02736)|null|
 |**2023-09-05**|**The Simons Observatory: A fully remote controlled calibration system with a sparse wire grid for cosmic microwave background telescopes**|Masaaki Murata et.al.|[2309.02035](http://arxiv.org/abs/2309.02035)|null|
 |**2023-09-04**|**Difference between charge-voltage relations of ordinary and fractional capacitors**|Eirik Brenner Marthins et.al.|[2309.01701](http://arxiv.org/abs/2309.01701)|null|
 |**2023-09-06**|**Under-frequency Load Shedding for Power Reserve Management in Islanded Microgrids**|Bei Xu et.al.|[2309.01278](http://arxiv.org/abs/2309.01278)|null|
