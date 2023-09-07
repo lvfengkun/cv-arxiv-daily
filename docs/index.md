@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.06
+## Updated on 2023.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1861,7 +1861,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-05**|**The Simons Observatory: A fully remote controlled calibration system with a sparse wire grid for cosmic microwave background telescopes**|Masaaki Murata et.al.|[2309.02035](http://arxiv.org/abs/2309.02035)|null|
 |**2023-09-04**|**Difference between charge-voltage relations of ordinary and fractional capacitors**|Eirik Brenner Marthins et.al.|[2309.01701](http://arxiv.org/abs/2309.01701)|null|
-|**2023-09-03**|**Under-frequency Load Shedding for Power Reserve Management in Islanded Microgrids**|Bei Xu et.al.|[2309.01278](http://arxiv.org/abs/2309.01278)|null|
+|**2023-09-06**|**Under-frequency Load Shedding for Power Reserve Management in Islanded Microgrids**|Bei Xu et.al.|[2309.01278](http://arxiv.org/abs/2309.01278)|null|
 |**2023-09-02**|**Advanced spike sorting approaches in implantable VLSI wireless brain computer interfaces: a survey**|Soujatya Sarkar et.al.|[2309.00913](http://arxiv.org/abs/2309.00913)|null|
 |**2023-09-02**|**A Unifying Variational Framework for Gaussian Process Motion Planning**|Lucas Cosier et.al.|[2309.00854](http://arxiv.org/abs/2309.00854)|null|
 |**2023-09-01**|**Deep Segmented DMP Networks for Learning Discontinuous Motions**|Edgar Anarossi et.al.|[2309.00320](http://arxiv.org/abs/2309.00320)|null|
