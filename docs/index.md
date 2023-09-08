@@ -1859,6 +1859,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**Machine Learning for Tangible Effects: Natural Language Processing for Uncovering the Illicit Massage Industry & Computer Vision for Tactile Sensing**|Rui Ouyang et.al.|[2309.03470](http://arxiv.org/abs/2309.03470)|null|
+|**2023-09-06**|**Steady-Hand Eye Robot 3.0: Optimization and Benchtop Evaluation for Subretinal Injection**|Alireza Alamdar et.al.|[2309.03356](http://arxiv.org/abs/2309.03356)|null|
 |**2023-09-06**|**MyoDex: A Generalizable Prior for Dexterous Manipulation**|Vittorio Caggiano et.al.|[2309.03130](http://arxiv.org/abs/2309.03130)|null|
 |**2023-09-06**|**Can Telematics Improve Driving Style? The Use of Behavioural Data in Motor Insurance**|Alberto Cevolini et.al.|[2309.02814](http://arxiv.org/abs/2309.02814)|null|
 |**2023-09-06**|**Stochastic nucleosome disassembly mediated by remodelers and histone fragmentation**|Xiangting Li et.al.|[2309.02736](http://arxiv.org/abs/2309.02736)|null|
