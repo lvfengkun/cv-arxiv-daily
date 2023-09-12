@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249](http://arxiv.org/abs/2309.05249)|null|
 |**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147](http://arxiv.org/abs/2309.04147)|null|
 |**2023-09-04**|**EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity**|Zijie Jiang et.al.|[2309.01296](http://arxiv.org/abs/2309.01296)|null|
 |**2023-08-27**|**Deep Learning for Visual Localization and Mapping: A Survey**|Changhao Chen et.al.|[2308.14039](http://arxiv.org/abs/2308.14039)|null|
@@ -1860,6 +1861,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**Safety Barrier Certificates for Stochastic Control Systems with Wireless Communication Networks**|Omid Akbarzadeh et.al.|[2309.05570](http://arxiv.org/abs/2309.05570)|null|
+|**2023-09-11**|**Haptic Guidance and Haptic Error Amplification in a Virtual Surgical Robotic Training Environment**|Yousi A. Oquendo et.al.|[2309.05187](http://arxiv.org/abs/2309.05187)|null|
+|**2023-09-09**|**Advancements in Upper Body Exoskeleton: Implementing Active Gravity Compensation with a Feedforward Controller**|Muhammad Ayaz Hussain et.al.|[2309.04698](http://arxiv.org/abs/2309.04698)|null|
+|**2023-09-08**|**Learning Task Skills and Goals Simultaneously from Physical Interaction**|Haonan Chen et.al.|[2309.04596](http://arxiv.org/abs/2309.04596)|null|
 |**2023-09-08**|**Learning from Power Signals: An Automated Approach to Electrical Disturbance Identification Within a Power Transmission System**|Jonathan D. Boyd et.al.|[2309.04361](http://arxiv.org/abs/2309.04361)|null|
 |**2023-09-07**|**Machine Learning for Tangible Effects: Natural Language Processing for Uncovering the Illicit Massage Industry & Computer Vision for Tactile Sensing**|Rui Ouyang et.al.|[2309.03470](http://arxiv.org/abs/2309.03470)|null|
 |**2023-09-06**|**Steady-Hand Eye Robot 3.0: Optimization and Benchtop Evaluation for Subretinal Injection**|Alireza Alamdar et.al.|[2309.03356](http://arxiv.org/abs/2309.03356)|null|
