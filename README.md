@@ -1882,6 +1882,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-12**|**Bifurcations and nonlinear dynamics of the follower force model for active filaments**|Bethany Clarke et.al.|[2309.06294](http://arxiv.org/abs/2309.06294)|null|
+|**2023-09-12**|**Which Framework is Suitable for Online 3D Multi-Object Tracking for Autonomous Driving with Automotive 4D Imaging Radar?**|Jianan Liu et.al.|[2309.06036](http://arxiv.org/abs/2309.06036)|null|
 |**2023-09-11**|**Safety Barrier Certificates for Stochastic Control Systems with Wireless Communication Networks**|Omid Akbarzadeh et.al.|[2309.05570](http://arxiv.org/abs/2309.05570)|null|
 |**2023-09-11**|**Haptic Guidance and Haptic Error Amplification in a Virtual Surgical Robotic Training Environment**|Yousi A. Oquendo et.al.|[2309.05187](http://arxiv.org/abs/2309.05187)|null|
 |**2023-09-09**|**Advancements in Upper Body Exoskeleton: Implementing Active Gravity Compensation with a Feedforward Controller**|Muhammad Ayaz Hussain et.al.|[2309.04698](http://arxiv.org/abs/2309.04698)|null|
