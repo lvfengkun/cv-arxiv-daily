@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 |**2023-09-11**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249](http://arxiv.org/abs/2309.05249)|null|
 |**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147](http://arxiv.org/abs/2309.04147)|null|
 |**2023-09-04**|**EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity**|Zijie Jiang et.al.|[2309.01296](http://arxiv.org/abs/2309.01296)|null|
@@ -1861,6 +1862,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**Enhancing Performance, Calibration Time and Efficiency in Brain-Machine Interfaces through Transfer Learning and Wearable EEG Technology**|Xiaying Wang et.al.|[2309.07798](http://arxiv.org/abs/2309.07798)|null|
+|**2023-09-13**|**A Health Monitoring System Based on Flexible Triboelectric Sensors for Intelligence Medical Internet of Things and its Applications in Virtual Reality**|Junqi Mao et.al.|[2309.07185](http://arxiv.org/abs/2309.07185)|null|
+|**2023-09-11**|**A Strong and Simple Deep Learning Baseline for BCI MI Decoding**|Yassine El Ouahidi et.al.|[2309.07159](http://arxiv.org/abs/2309.07159)|null|
 |**2023-09-13**|**Designing Voice Interfaces to Support Mindfulness-Based Pain Management**|Sanjana Mendu et.al.|[2309.06697](http://arxiv.org/abs/2309.06697)|null|
 |**2023-09-12**|**Bifurcations and nonlinear dynamics of the follower force model for active filaments**|Bethany Clarke et.al.|[2309.06294](http://arxiv.org/abs/2309.06294)|null|
 |**2023-09-13**|**Which Framework is Suitable for Online 3D Multi-Object Tracking for Autonomous Driving with Automotive 4D Imaging Radar?**|Jianan Liu et.al.|[2309.06036](http://arxiv.org/abs/2309.06036)|null|
