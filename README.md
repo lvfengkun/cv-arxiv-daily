@@ -1883,6 +1883,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Compositional Foundation Models for Hierarchical Planning**|Anurag Ajay et.al.|[2309.08587](http://arxiv.org/abs/2309.08587)|null|
 |**2023-09-14**|**Enhancing Performance, Calibration Time and Efficiency in Brain-Machine Interfaces through Transfer Learning and Wearable EEG Technology**|Xiaying Wang et.al.|[2309.07798](http://arxiv.org/abs/2309.07798)|null|
 |**2023-09-13**|**A Health Monitoring System Based on Flexible Triboelectric Sensors for Intelligence Medical Internet of Things and its Applications in Virtual Reality**|Junqi Mao et.al.|[2309.07185](http://arxiv.org/abs/2309.07185)|null|
 |**2023-09-11**|**A Strong and Simple Deep Learning Baseline for BCI MI Decoding**|Yassine El Ouahidi et.al.|[2309.07159](http://arxiv.org/abs/2309.07159)|**[link](https://github.com/elouayas/eegsimpleconv)**|
