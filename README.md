@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 |**2023-09-11**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249](http://arxiv.org/abs/2309.05249)|null|
 |**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147](http://arxiv.org/abs/2309.04147)|null|
@@ -1883,6 +1884,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-17**|**CapsuleBot: A Novel Compact Hybrid Aerial-Ground Robot with Two Actuated-wheel-rotors**|Zhi Zheng et.al.|[2309.09224](http://arxiv.org/abs/2309.09224)|null|
+|**2023-09-17**|**From Knowing to Doing: Learning Diverse Motor Skills through Instruction Learning**|Linqi Ye et.al.|[2309.09167](http://arxiv.org/abs/2309.09167)|null|
+|**2023-09-16**|**Neural Network-based Fault Detection and Identification for Quadrotors using Dynamic Symmetry**|Kunal Garg et.al.|[2309.09108](http://arxiv.org/abs/2309.09108)|null|
+|**2023-09-16**|**A store-and-forward cloud-based telemonitoring system for automatic assessing dysarthria evolution in neurological diseases from video-recording analysis**|Lucia Migliorelli et.al.|[2309.09038](http://arxiv.org/abs/2309.09038)|null|
 |**2023-09-15**|**Compositional Foundation Models for Hierarchical Planning**|Anurag Ajay et.al.|[2309.08587](http://arxiv.org/abs/2309.08587)|null|
 |**2023-09-14**|**Enhancing Performance, Calibration Time and Efficiency in Brain-Machine Interfaces through Transfer Learning and Wearable EEG Technology**|Xiaying Wang et.al.|[2309.07798](http://arxiv.org/abs/2309.07798)|null|
 |**2023-09-13**|**A Health Monitoring System Based on Flexible Triboelectric Sensors for Intelligence Medical Internet of Things and its Applications in Virtual Reality**|Junqi Mao et.al.|[2309.07185](http://arxiv.org/abs/2309.07185)|null|
