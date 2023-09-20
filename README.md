@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436](http://arxiv.org/abs/2309.10436)|null|
+|**2023-09-19**|**Dive Deeper into Rectifying Homography for Stereo Camera Online Self-Calibration**|Hongbo Zhao et.al.|[2309.10314](http://arxiv.org/abs/2309.10314)|null|
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 |**2023-09-11**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249](http://arxiv.org/abs/2309.05249)|null|
@@ -1884,6 +1886,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**Sex-based Disparities in Brain Aging: A Focus on Parkinson's Disease**|Iman Beheshti et.al.|[2309.10069](http://arxiv.org/abs/2309.10069)|null|
 |**2023-09-17**|**CapsuleBot: A Novel Compact Hybrid Aerial-Ground Robot with Two Actuated-wheel-rotors**|Zhi Zheng et.al.|[2309.09224](http://arxiv.org/abs/2309.09224)|null|
 |**2023-09-17**|**From Knowing to Doing: Learning Diverse Motor Skills through Instruction Learning**|Linqi Ye et.al.|[2309.09167](http://arxiv.org/abs/2309.09167)|null|
 |**2023-09-16**|**Neural Network-based Fault Detection and Identification for Quadrotors using Dynamic Symmetry**|Kunal Garg et.al.|[2309.09108](http://arxiv.org/abs/2309.09108)|null|
