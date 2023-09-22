@@ -1888,6 +1888,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**Mental imagery timing affects hybrid BCI control of robotic arms**|Tristan Venot et.al.|[2309.12195](http://arxiv.org/abs/2309.12195)|null|
+|**2023-09-21**|**Towards In-Cabin Monitoring: A Preliminary Study on Sensors Data Collection and Analysis**|Jacopo Sini et.al.|[2309.11890](http://arxiv.org/abs/2309.11890)|null|
+|**2023-09-21**|**A Dynamic Domain Adaptation Deep Learning Network for EEG-based Motor Imagery Classification**|Jie Jiao et.al.|[2309.11714](http://arxiv.org/abs/2309.11714)|null|
+|**2023-09-20**|**TOPPQuad: Dynamically-Feasible Time Optimal Path Parametrization for Quadrotors**|Katherine Mao et.al.|[2309.11637](http://arxiv.org/abs/2309.11637)|null|
 |**2023-09-20**|**Dynamic Hand Gesture-Featured Human Motor Adaptation in Tool Delivery using Voice Recognition**|Haolin Fei et.al.|[2309.11368](http://arxiv.org/abs/2309.11368)|null|
 |**2023-09-18**|**Sex-based Disparities in Brain Aging: A Focus on Parkinson's Disease**|Iman Beheshti et.al.|[2309.10069](http://arxiv.org/abs/2309.10069)|null|
 |**2023-09-17**|**CapsuleBot: A Novel Compact Hybrid Aerial-Ground Robot with Two Actuated-wheel-rotors**|Zhi Zheng et.al.|[2309.09224](http://arxiv.org/abs/2309.09224)|null|
