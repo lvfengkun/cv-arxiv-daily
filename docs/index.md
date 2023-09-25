@@ -1867,6 +1867,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-22**|**GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators**|Philipp Wu et.al.|[2309.13037](http://arxiv.org/abs/2309.13037)|null|
+|**2023-09-21**|**Ying-Yang Competitive Harmony between Direct and Indirect Pathways in A Spiking Neural Network of The Basal Ganglia**|Sang-Yoon Kim et.al.|[2309.12540](http://arxiv.org/abs/2309.12540)|null|
 |**2023-09-22**|**Mental imagery timing affects hybrid BCI control of robotic arms**|Tristan Venot et.al.|[2309.12195](http://arxiv.org/abs/2309.12195)|null|
 |**2023-09-21**|**Towards In-Cabin Monitoring: A Preliminary Study on Sensors Data Collection and Analysis**|Jacopo Sini et.al.|[2309.11890](http://arxiv.org/abs/2309.11890)|null|
 |**2023-09-21**|**A Dynamic Domain Adaptation Deep Learning Network for EEG-based Motor Imagery Classification**|Jie Jiao et.al.|[2309.11714](http://arxiv.org/abs/2309.11714)|null|
