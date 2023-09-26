@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-23**|**Tag-based Visual Odometry Estimation for Indoor UAVs Localization**|Massimiliano Bertoni et.al.|[2309.13311](http://arxiv.org/abs/2309.13311)|null|
+|**2023-09-22**|**Exposing the Unseen: Exposure Time Emulation for Offline Benchmarking of Vision Algorithms**|Olivier Gamache et.al.|[2309.13139](http://arxiv.org/abs/2309.13139)|null|
 |**2023-09-20**|**Conformalized Multimodal Uncertainty Regression and Reasoning**|Domenico Parente et.al.|[2309.11018](http://arxiv.org/abs/2309.11018)|null|
 |**2023-09-20**|**OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving**|Heng Li et.al.|[2309.11011](http://arxiv.org/abs/2309.11011)|null|
 |**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436](http://arxiv.org/abs/2309.10436)|**[link](https://github.com/tiers/ws-lidar-as-camera-odom)**|
@@ -1867,6 +1869,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**A geometric formulation of Schaefer's theory of Cosserat solids**|Balázs Németh et.al.|[2309.14268](http://arxiv.org/abs/2309.14268)|null|
+|**2023-09-25**|**The Hydra Hand: A Mode-Switching Underactuated Gripper with Precision and Power Grasping Modes**|Digby Chappell et.al.|[2309.14266](http://arxiv.org/abs/2309.14266)|null|
+|**2023-09-25**|**Transcending the Acceleration-Bandwidth Trade-off: Lightweight Precision Stages with Active Control of Flexible Dynamics**|Jingjie Wu et.al.|[2309.14248](http://arxiv.org/abs/2309.14248)|null|
+|**2023-09-25**|**MoDem-V2: Visuo-Motor World Models for Real-World Robot Manipulation**|Patrick Lancaster et.al.|[2309.14236](http://arxiv.org/abs/2309.14236)|null|
+|**2023-09-24**|**6-DOF All-Terrain Cyclocopter**|Jingwei Li et.al.|[2309.13631](http://arxiv.org/abs/2309.13631)|null|
+|**2023-09-24**|**Control Performance Analysis of Power Steering System Electromechanical Dynamics**|Prerit Pramod et.al.|[2309.13623](http://arxiv.org/abs/2309.13623)|null|
+|**2023-09-24**|**Swashplateless-elevon Actuation for a Dual-rotor Tail-sitter VTOL UAV**|Nan Chen et.al.|[2309.13559](http://arxiv.org/abs/2309.13559)|null|
+|**2023-09-22**|**Robust self-propulsion in sand using simply controlled vibrating cubes**|Bangyuan Liu et.al.|[2309.13174](http://arxiv.org/abs/2309.13174)|null|
+|**2023-09-22**|**Patient-perceived progression in multiple system atrophy: natural history of quality of life**|Tiphaine Saulnier et.al.|[2309.13089](http://arxiv.org/abs/2309.13089)|null|
 |**2023-09-22**|**GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators**|Philipp Wu et.al.|[2309.13037](http://arxiv.org/abs/2309.13037)|null|
 |**2023-09-21**|**Ying-Yang Competitive Harmony between Direct and Indirect Pathways in A Spiking Neural Network of The Basal Ganglia**|Sang-Yoon Kim et.al.|[2309.12540](http://arxiv.org/abs/2309.12540)|null|
 |**2023-09-22**|**Mental imagery timing affects hybrid BCI control of robotic arms**|Tristan Venot et.al.|[2309.12195](http://arxiv.org/abs/2309.12195)|null|
