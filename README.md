@@ -1890,6 +1890,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-26**|**The Simons Observatory: Cryogenic Half Wave Plate Rotation Mechanism for the Small Aperture Telescopes**|K. Yamada et.al.|[2309.14803](http://arxiv.org/abs/2309.14803)|null|
+|**2023-09-25**|**Skilog: A Smart Sensor System for Performance Analysis and Biofeedback in Ski Jumping**|Lukas Schulthess et.al.|[2309.14455](http://arxiv.org/abs/2309.14455)|null|
 |**2023-09-25**|**A geometric formulation of Schaefer's theory of Cosserat solids**|Balázs Németh et.al.|[2309.14268](http://arxiv.org/abs/2309.14268)|null|
 |**2023-09-26**|**The Hydra Hand: A Mode-Switching Underactuated Gripper with Precision and Power Grasping Modes**|Digby Chappell et.al.|[2309.14266](http://arxiv.org/abs/2309.14266)|null|
 |**2023-09-25**|**Transcending the Acceleration-Bandwidth Trade-off: Lightweight Precision Stages with Active Control of Flexible Dynamics**|Jingjie Wu et.al.|[2309.14248](http://arxiv.org/abs/2309.14248)|null|
