@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.26
+## Updated on 2023.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1870,7 +1870,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-25**|**A geometric formulation of Schaefer's theory of Cosserat solids**|Balázs Németh et.al.|[2309.14268](http://arxiv.org/abs/2309.14268)|null|
-|**2023-09-25**|**The Hydra Hand: A Mode-Switching Underactuated Gripper with Precision and Power Grasping Modes**|Digby Chappell et.al.|[2309.14266](http://arxiv.org/abs/2309.14266)|null|
+|**2023-09-26**|**The Hydra Hand: A Mode-Switching Underactuated Gripper with Precision and Power Grasping Modes**|Digby Chappell et.al.|[2309.14266](http://arxiv.org/abs/2309.14266)|null|
 |**2023-09-25**|**Transcending the Acceleration-Bandwidth Trade-off: Lightweight Precision Stages with Active Control of Flexible Dynamics**|Jingjie Wu et.al.|[2309.14248](http://arxiv.org/abs/2309.14248)|null|
 |**2023-09-25**|**MoDem-V2: Visuo-Motor World Models for Real-World Robot Manipulation**|Patrick Lancaster et.al.|[2309.14236](http://arxiv.org/abs/2309.14236)|null|
 |**2023-09-24**|**6-DOF All-Terrain Cyclocopter**|Jingwei Li et.al.|[2309.13631](http://arxiv.org/abs/2309.13631)|null|
