@@ -1870,6 +1870,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**The effect of 3D stereopsis and hand-tool alignment on learning effectiveness and skill transfer of a VR-based simulator for dental training**|Maximilian Kaluschke et.al.|[2309.16251](http://arxiv.org/abs/2309.16251)|null|
 |**2023-09-28**|**3D Multiple Object Tracking on Autonomous Driving: A Literature Review**|Peng Zhang et.al.|[2309.15411](http://arxiv.org/abs/2309.15411)|null|
 |**2023-09-26**|**The Simons Observatory: Cryogenic Half Wave Plate Rotation Mechanism for the Small Aperture Telescopes**|K. Yamada et.al.|[2309.14803](http://arxiv.org/abs/2309.14803)|null|
 |**2023-09-25**|**Skilog: A Smart Sensor System for Performance Analysis and Biofeedback in Ski Jumping**|Lukas Schulthess et.al.|[2309.14455](http://arxiv.org/abs/2309.14455)|null|
