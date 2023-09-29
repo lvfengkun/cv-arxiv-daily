@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.28
+## Updated on 2023.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1870,7 +1870,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-27**|**3D Multiple Object Tracking on Autonomous Driving: A Literature Review**|Peng Zhang et.al.|[2309.15411](http://arxiv.org/abs/2309.15411)|null|
+|**2023-09-28**|**3D Multiple Object Tracking on Autonomous Driving: A Literature Review**|Peng Zhang et.al.|[2309.15411](http://arxiv.org/abs/2309.15411)|null|
 |**2023-09-26**|**The Simons Observatory: Cryogenic Half Wave Plate Rotation Mechanism for the Small Aperture Telescopes**|K. Yamada et.al.|[2309.14803](http://arxiv.org/abs/2309.14803)|null|
 |**2023-09-25**|**Skilog: A Smart Sensor System for Performance Analysis and Biofeedback in Ski Jumping**|Lukas Schulthess et.al.|[2309.14455](http://arxiv.org/abs/2309.14455)|null|
 |**2023-09-25**|**A geometric formulation of Schaefer's theory of Cosserat solids**|Balázs Németh et.al.|[2309.14268](http://arxiv.org/abs/2309.14268)|null|
