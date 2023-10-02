@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai et.al.|[2309.16772](http://arxiv.org/abs/2309.16772)|null|
 |**2023-09-26**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins et.al.|[2309.15268](http://arxiv.org/abs/2309.15268)|null|
 |**2023-09-23**|**Tag-based Visual Odometry Estimation for Indoor UAVs Localization**|Massimiliano Bertoni et.al.|[2309.13311](http://arxiv.org/abs/2309.13311)|null|
 |**2023-09-22**|**Exposing the Unseen: Exposure Time Emulation for Offline Benchmarking of Vision Algorithms**|Olivier Gamache et.al.|[2309.13139](http://arxiv.org/abs/2309.13139)|**[link](https://github.com/norlab-ulaval/borealhdr)**|
@@ -1891,6 +1892,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**Powertrain Hybridization for Autonomous Vehicles**|Shima Nazari et.al.|[2309.17442](http://arxiv.org/abs/2309.17442)|null|
+|**2023-09-29**|**Nonlinear Bayesian Identification for Motor Commutation: Applied to Switched Reluctance Motors**|Max van Meer et.al.|[2309.17099](http://arxiv.org/abs/2309.17099)|null|
 |**2023-09-28**|**The effect of 3D stereopsis and hand-tool alignment on learning effectiveness and skill transfer of a VR-based simulator for dental training**|Maximilian Kaluschke et.al.|[2309.16251](http://arxiv.org/abs/2309.16251)|null|
 |**2023-09-28**|**3D Multiple Object Tracking on Autonomous Driving: A Literature Review**|Peng Zhang et.al.|[2309.15411](http://arxiv.org/abs/2309.15411)|null|
 |**2023-09-26**|**The Simons Observatory: Cryogenic Half Wave Plate Rotation Mechanism for the Small Aperture Telescopes**|K. Yamada et.al.|[2309.14803](http://arxiv.org/abs/2309.14803)|null|
