@@ -1871,6 +1871,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**Graph Neural Network-based EEG Classification: A Survey**|Dominik Klepl et.al.|[2310.02152](http://arxiv.org/abs/2310.02152)|null|
+|**2023-10-03**|**A mobile digital device proficiency performance test for cognitive clinical research**|Alan Cronemberger Andrade et.al.|[2310.01774](http://arxiv.org/abs/2310.01774)|null|
+|**2023-10-02**|**H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation**|Yanjie Ze et.al.|[2310.01404](http://arxiv.org/abs/2310.01404)|null|
+|**2023-10-02**|**Position Sensing Errors in Synchronous Motor Drives**|Prerit Pramod et.al.|[2310.00977](http://arxiv.org/abs/2310.00977)|null|
+|**2023-10-02**|**Performance Analysis of Synchronous Motor Drives under Concurrent Errors in Position and Current Sensing**|Prerit Pramod et.al.|[2310.00975](http://arxiv.org/abs/2310.00975)|null|
+|**2023-09-30**|**Automated Gait Generation For Walking, Soft Robotic Quadrupeds**|Jake Ketchum et.al.|[2310.00498](http://arxiv.org/abs/2310.00498)|null|
+|**2023-09-30**|**Magneto-optical trap reaction microscope for photoioization of cold strontium atoms**|Shushu Ruan et.al.|[2310.00389](http://arxiv.org/abs/2310.00389)|null|
+|**2023-09-30**|**Is controlling a brain-computer interface just a matter of presence of mind? The limits of cognitive-motor dissociation**|Perrine Seguin et.al.|[2310.00266](http://arxiv.org/abs/2310.00266)|null|
+|**2023-09-30**|**The Distributional Impact of Price Inflation in Pakistan: A Case Study of a New Price Focused Microsimulation Framework, PRICES**|Cathal ODonoghue et.al.|[2310.00231](http://arxiv.org/abs/2310.00231)|null|
+|**2023-09-29**|**How to Model Brushless Electric Motors for the Design of Lightweight Robotic Systems**|Ung Hee Lee et.al.|[2310.00080](http://arxiv.org/abs/2310.00080)|null|
 |**2023-09-29**|**Powertrain Hybridization for Autonomous Vehicles**|Shima Nazari et.al.|[2309.17442](http://arxiv.org/abs/2309.17442)|null|
 |**2023-09-29**|**Nonlinear Bayesian Identification for Motor Commutation: Applied to Switched Reluctance Motors**|Max van Meer et.al.|[2309.17099](http://arxiv.org/abs/2309.17099)|null|
 |**2023-09-28**|**The effect of 3D stereopsis and hand-tool alignment on learning effectiveness and skill transfer of a VR-based simulator for dental training**|Maximilian Kaluschke et.al.|[2309.16251](http://arxiv.org/abs/2309.16251)|null|
