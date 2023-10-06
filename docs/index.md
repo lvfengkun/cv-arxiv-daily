@@ -1871,6 +1871,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-05**|**Multispectral Imaging with Fresnel Lens**|Khen Cohen et.al.|[2310.03625](http://arxiv.org/abs/2310.03625)|null|
+|**2023-10-05**|**Global density equations for a population of actively switching particles**|Paul C. Bressloff et.al.|[2310.03418](http://arxiv.org/abs/2310.03418)|null|
+|**2023-10-05**|**Inverter Pulse Width Modulation Control Techniques for Electric Motor Drive Systems**|Prerit Pramod et.al.|[2310.03362](http://arxiv.org/abs/2310.03362)|null|
+|**2023-10-04**|**Application-Oriented Co-Design of Motors and Motions for a 6DOF Robot Manipulator**|Adrian Stein et.al.|[2310.03132](http://arxiv.org/abs/2310.03132)|null|
 |**2023-10-04**|**HappyFeat -- An interactive and efficient BCI framework for clinical applications**|Arthur Desbois et.al.|[2310.02948](http://arxiv.org/abs/2310.02948)|null|
 |**2023-10-04**|**ShaSTA-Fuse: Camera-LiDAR Sensor Fusion to Model Shape and Spatio-Temporal Affinities for 3D Multi-Object Tracking**|Tara Sadjadpour et.al.|[2310.02532](http://arxiv.org/abs/2310.02532)|null|
 |**2023-10-03**|**Graph Neural Network-based EEG Classification: A Survey**|Dominik Klepl et.al.|[2310.02152](http://arxiv.org/abs/2310.02152)|null|
