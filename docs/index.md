@@ -1871,6 +1871,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Study on the impact of uncertain design parameters on the perfomances of a permanent magnet assisted synchronous reluctance motor**|Adán Reyes Reyes et.al.|[2310.04106](http://arxiv.org/abs/2310.04106)|null|
+|**2023-10-05**|**Bridging Low-level Geometry to High-level Concepts in Visual Servoing of Robot Manipulation Task Using Event Knowledge Graphs and Vision-Language Models**|Chen Jiang et.al.|[2310.03932](http://arxiv.org/abs/2310.03932)|null|
 |**2023-10-05**|**Multispectral Imaging with Fresnel Lens**|Khen Cohen et.al.|[2310.03625](http://arxiv.org/abs/2310.03625)|null|
 |**2023-10-05**|**Global density equations for a population of actively switching particles**|Paul C. Bressloff et.al.|[2310.03418](http://arxiv.org/abs/2310.03418)|null|
 |**2023-10-05**|**Inverter Pulse Width Modulation Control Techniques for Electric Motor Drive Systems**|Prerit Pramod et.al.|[2310.03362](http://arxiv.org/abs/2310.03362)|null|
