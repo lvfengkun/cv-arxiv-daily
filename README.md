@@ -1892,6 +1892,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**Open STM: A low-cost scanning tunneling microscope with a fast approach method**|Weilin Ma et.al.|[2310.05413](http://arxiv.org/abs/2310.05413)|null|
+|**2023-10-08**|**Modeling motor control in continuous-time Active Inference: a survey**|Matteo Priorelli et.al.|[2310.05144](http://arxiv.org/abs/2310.05144)|null|
+|**2023-10-06**|**Universal Humanoid Motion Representations for Physics-Based Control**|Zhengyi Luo et.al.|[2310.04582](http://arxiv.org/abs/2310.04582)|null|
 |**2023-10-06**|**Study on the impact of uncertain design parameters on the perfomances of a permanent magnet assisted synchronous reluctance motor**|Adán Reyes Reyes et.al.|[2310.04106](http://arxiv.org/abs/2310.04106)|null|
 |**2023-10-05**|**Bridging Low-level Geometry to High-level Concepts in Visual Servoing of Robot Manipulation Task Using Event Knowledge Graphs and Vision-Language Models**|Chen Jiang et.al.|[2310.03932](http://arxiv.org/abs/2310.03932)|null|
 |**2023-10-05**|**Multispectral Imaging with Fresnel Lens**|Khen Cohen et.al.|[2310.03625](http://arxiv.org/abs/2310.03625)|null|
