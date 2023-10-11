@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249](http://arxiv.org/abs/2310.06249)|null|
 |**2023-10-08**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai et.al.|[2309.16772](http://arxiv.org/abs/2309.16772)|null|
 |**2023-09-26**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins et.al.|[2309.15268](http://arxiv.org/abs/2309.15268)|null|
 |**2023-09-23**|**Tag-based Visual Odometry Estimation for Indoor UAVs Localization**|Massimiliano Bertoni et.al.|[2309.13311](http://arxiv.org/abs/2309.13311)|null|
@@ -1871,6 +1872,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**Exploring Users Pointing Performance on Large Displays with Different Curvatures in Virtual Reality**|A K M Amanat Ullah et.al.|[2310.06296](http://arxiv.org/abs/2310.06296)|null|
+|**2023-10-09**|**Exoskeleton-Mediated Physical Human-Human Interaction for a Sit-to-Stand Rehabilitation Task**|Lorenzo Vianello et.al.|[2310.06084](http://arxiv.org/abs/2310.06084)|null|
 |**2023-10-09**|**Open STM: A low-cost scanning tunneling microscope with a fast approach method**|Weilin Ma et.al.|[2310.05413](http://arxiv.org/abs/2310.05413)|null|
 |**2023-10-08**|**Modeling motor control in continuous-time Active Inference: a survey**|Matteo Priorelli et.al.|[2310.05144](http://arxiv.org/abs/2310.05144)|null|
 |**2023-10-06**|**Universal Humanoid Motion Representations for Physics-Based Control**|Zhengyi Luo et.al.|[2310.04582](http://arxiv.org/abs/2310.04582)|null|
