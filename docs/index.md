@@ -1872,6 +1872,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**The Control System of the Elliptical Cavity and Cryomodule Test Stand Demonstrator for ESS**|Alexis Gaget et.al.|[2310.07272](http://arxiv.org/abs/2310.07272)|null|
 |**2023-10-10**|**Exploring Users Pointing Performance on Large Displays with Different Curvatures in Virtual Reality**|A K M Amanat Ullah et.al.|[2310.06296](http://arxiv.org/abs/2310.06296)|null|
 |**2023-10-09**|**Exoskeleton-Mediated Physical Human-Human Interaction for a Sit-to-Stand Rehabilitation Task**|Lorenzo Vianello et.al.|[2310.06084](http://arxiv.org/abs/2310.06084)|null|
 |**2023-10-09**|**Open STM: A low-cost scanning tunneling microscope with a fast approach method**|Weilin Ma et.al.|[2310.05413](http://arxiv.org/abs/2310.05413)|null|
