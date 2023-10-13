@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082](http://arxiv.org/abs/2310.08082)|null|
 |**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249](http://arxiv.org/abs/2310.06249)|null|
 |**2023-10-08**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai et.al.|[2309.16772](http://arxiv.org/abs/2309.16772)|null|
 |**2023-09-26**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins et.al.|[2309.15268](http://arxiv.org/abs/2309.15268)|**[link](https://github.com/ut-amrl/obvi-slam)**|
@@ -1893,6 +1894,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**Multicriteria Optimization of Lower Limb Exoskeleton Mechanism**|Sayat Ibrayev et.al.|[2310.08308](http://arxiv.org/abs/2310.08308)|null|
+|**2023-10-12**|**LGL-BCI: A Lightweight Geometric Learning Framework for Motor Imagery-Based Brain-Computer Interfaces**|Jianchao Lu et.al.|[2310.08051](http://arxiv.org/abs/2310.08051)|null|
 |**2023-10-11**|**The Control System of the Elliptical Cavity and Cryomodule Test Stand Demonstrator for ESS**|Alexis Gaget et.al.|[2310.07272](http://arxiv.org/abs/2310.07272)|null|
 |**2023-10-10**|**Exploring Users Pointing Performance on Large Displays with Different Curvatures in Virtual Reality**|A K M Amanat Ullah et.al.|[2310.06296](http://arxiv.org/abs/2310.06296)|null|
 |**2023-10-09**|**Exoskeleton-Mediated Physical Human-Human Interaction for a Sit-to-Stand Rehabilitation Task**|Lorenzo Vianello et.al.|[2310.06084](http://arxiv.org/abs/2310.06084)|null|
