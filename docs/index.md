@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.16
+## Updated on 2023.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1873,6 +1873,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-13**|**An Unbiased Look at Datasets for Visuo-Motor Pre-Training**|Sudeep Dasari et.al.|[2310.09289](http://arxiv.org/abs/2310.09289)|null|
+|**2023-10-13**|**A Hybrid Approach for Depression Classification: Random Forest-ANN Ensemble on Motor Activity Signals**|Anket Patil et.al.|[2310.09277](http://arxiv.org/abs/2310.09277)|null|
+|**2023-10-13**|**Track Lab: extensible data acquisition software for fast pixel detectors, online analysis and automation**|Petr Mánek et.al.|[2310.08974](http://arxiv.org/abs/2310.08974)|null|
+|**2023-10-13**|**Sensory Manipulation as a Countermeasure to Robot Teleoperation Delays: System and Evidence**|Jing Du et.al.|[2310.08788](http://arxiv.org/abs/2310.08788)|null|
+|**2023-10-13**|**Flagellum Pumping Efficacy in Shear-Thinning Viscoelastic Fluids**|Aaron Barrett et.al.|[2310.08787](http://arxiv.org/abs/2310.08787)|null|
 |**2023-10-12**|**Multicriteria Optimization of Lower Limb Exoskeleton Mechanism**|Sayat Ibrayev et.al.|[2310.08308](http://arxiv.org/abs/2310.08308)|null|
 |**2023-10-12**|**LGL-BCI: A Lightweight Geometric Learning Framework for Motor Imagery-Based Brain-Computer Interfaces**|Jianchao Lu et.al.|[2310.08051](http://arxiv.org/abs/2310.08051)|null|
 |**2023-10-11**|**The Control System of the Elliptical Cavity and Cryomodule Test Stand Demonstrator for ESS**|Alexis Gaget et.al.|[2310.07272](http://arxiv.org/abs/2310.07272)|null|
