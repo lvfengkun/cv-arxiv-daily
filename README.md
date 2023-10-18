@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931](http://arxiv.org/abs/2310.10931)|null|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082](http://arxiv.org/abs/2310.08082)|null|
 |**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249](http://arxiv.org/abs/2310.06249)|null|
 |**2023-10-08**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai et.al.|[2309.16772](http://arxiv.org/abs/2309.16772)|null|
@@ -1894,6 +1895,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**EEG motor imagery decoding: A framework for comparative analysis with channel attention mechanisms**|Martin Wimpff et.al.|[2310.11198](http://arxiv.org/abs/2310.11198)|null|
+|**2023-10-17**|**Assessment of the Electromagnetic Behaviour of Servovalve Torque Motor Using Reluctance Network Models**|Marion Ribout et.al.|[2310.11076](http://arxiv.org/abs/2310.11076)|null|
+|**2023-10-16**|**ManyQuadrupeds: Learning a Single Locomotion Policy for Diverse Quadruped Robots**|Milad Shafiee et.al.|[2310.10486](http://arxiv.org/abs/2310.10486)|null|
+|**2023-10-16**|**Mimicking the Maestro: Exploring the Efficacy of a Virtual AI Teacher in Fine Motor Skill Acquisition**|Hadar Mulian et.al.|[2310.10280](http://arxiv.org/abs/2310.10280)|null|
+|**2023-10-15**|**Reinforcement Learning for Reduced-order Models of Legged Robots**|Yu-Ming Chen et.al.|[2310.09873](http://arxiv.org/abs/2310.09873)|null|
+|**2023-10-13**|**MEMTRACK: A Deep Learning-Based Approach to Microrobot Tracking in Dense and Low-Contrast Environments**|Medha Sawhney et.al.|[2310.09441](http://arxiv.org/abs/2310.09441)|**[link](https://github.com/sawhney-medha/memtrack)**|
 |**2023-10-13**|**An Unbiased Look at Datasets for Visuo-Motor Pre-Training**|Sudeep Dasari et.al.|[2310.09289](http://arxiv.org/abs/2310.09289)|null|
 |**2023-10-13**|**A Hybrid Approach for Depression Classification: Random Forest-ANN Ensemble on Motor Activity Signals**|Anket Patil et.al.|[2310.09277](http://arxiv.org/abs/2310.09277)|null|
 |**2023-10-13**|**Track Lab: extensible data acquisition software for fast pixel detectors, online analysis and automation**|Petr Mánek et.al.|[2310.08974](http://arxiv.org/abs/2310.08974)|null|
