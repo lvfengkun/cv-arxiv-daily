@@ -1895,6 +1895,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Electro-Mechanical system design:Self-balancing Robot**|Mustakim Hayder et.al.|[2310.12142](http://arxiv.org/abs/2310.12142)|null|
+|**2023-10-18**|**Topological phase locking in dissipatively-coupled noise-activated processes**|Michalis Chatzittofi et.al.|[2310.11788](http://arxiv.org/abs/2310.11788)|null|
+|**2023-10-18**|**Performance of FPGA controller in ISAC-1 accelerator chain**|K. Fong et.al.|[2310.11735](http://arxiv.org/abs/2310.11735)|null|
+|**2023-10-18**|**Break-up and Recovery of Harmony between Direct and Indirect Pathways in The Basal Ganglia; Huntington's Disease and Treatment**|Sang-Yoon Kim et.al.|[2310.11635](http://arxiv.org/abs/2310.11635)|null|
+|**2023-10-17**|**Robust-MBFD: A Robust Deep Learning System for Motor Bearing Faults Detection Using Multiple Deep Learning Training Strategies and A Novel Double Loss Function**|Khoa Tran et.al.|[2310.11477](http://arxiv.org/abs/2310.11477)|null|
 |**2023-10-17**|**EEG motor imagery decoding: A framework for comparative analysis with channel attention mechanisms**|Martin Wimpff et.al.|[2310.11198](http://arxiv.org/abs/2310.11198)|null|
 |**2023-10-17**|**Assessment of the Electromagnetic Behaviour of Servovalve Torque Motor Using Reluctance Network Models**|Marion Ribout et.al.|[2310.11076](http://arxiv.org/abs/2310.11076)|null|
 |**2023-10-16**|**ManyQuadrupeds: Learning a Single Locomotion Policy for Diverse Quadruped Robots**|Milad Shafiee et.al.|[2310.10486](http://arxiv.org/abs/2310.10486)|null|
