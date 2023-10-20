@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.19
+## Updated on 2023.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1874,7 +1874,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-18**|**Electro-Mechanical system design:Self-balancing Robot**|Mustakim Hayder et.al.|[2310.12142](http://arxiv.org/abs/2310.12142)|null|
+|**2023-10-19**|**Electromechanical System Design for Self-Balancing Robot**|Md. Abid Al Morshed et.al.|[2310.12142](http://arxiv.org/abs/2310.12142)|null|
 |**2023-10-18**|**Topological phase locking in dissipatively-coupled noise-activated processes**|Michalis Chatzittofi et.al.|[2310.11788](http://arxiv.org/abs/2310.11788)|null|
 |**2023-10-18**|**Performance of FPGA controller in ISAC-1 accelerator chain**|K. Fong et.al.|[2310.11735](http://arxiv.org/abs/2310.11735)|null|
 |**2023-10-18**|**Break-up and Recovery of Harmony between Direct and Indirect Pathways in The Basal Ganglia; Huntington's Disease and Treatment**|Sang-Yoon Kim et.al.|[2310.11635](http://arxiv.org/abs/2310.11635)|null|
