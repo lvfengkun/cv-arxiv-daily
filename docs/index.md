@@ -1874,6 +1874,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**An experimental study for early diagnosing Parkinson's disease using machine learning**|Md. Taufiqul Haque Khan Tusar et.al.|[2310.13654](http://arxiv.org/abs/2310.13654)|null|
 |**2023-10-19**|**Electromechanical System Design for Self-Balancing Robot**|Md. Abid Al Morshed et.al.|[2310.12142](http://arxiv.org/abs/2310.12142)|null|
 |**2023-10-18**|**Topological phase locking in dissipatively-coupled noise-activated processes**|Michalis Chatzittofi et.al.|[2310.11788](http://arxiv.org/abs/2310.11788)|null|
 |**2023-10-20**|**Performance of FPGA controller in ISAC-1 accelerator chain**|K. Fong et.al.|[2310.11735](http://arxiv.org/abs/2310.11735)|null|
