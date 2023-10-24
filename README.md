@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924](http://arxiv.org/abs/2310.14924)|**[link](https://github.com/rlsch/depth-conversions)**|
 |**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931](http://arxiv.org/abs/2310.10931)|**[link](https://github.com/yanyan-li/open-structure)**|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082](http://arxiv.org/abs/2310.08082)|null|
 |**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249](http://arxiv.org/abs/2310.06249)|null|
@@ -1895,6 +1896,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Robot Skill Generalization via Keypoint Integrated Soft Actor-Critic Gaussian Mixture Models**|Iman Nematollahi et.al.|[2310.15059](http://arxiv.org/abs/2310.15059)|null|
+|**2023-10-22**|**Effective and anatomical connectivity of the dorso-central insula during the processing of action forms**|Di Cesare G. et.al.|[2310.14213](http://arxiv.org/abs/2310.14213)|null|
+|**2023-10-21**|**An Experimental Study of Model-based Control for Planar Handed Shearing Auxetics Robots**|Maximilian Stölzle et.al.|[2310.13889](http://arxiv.org/abs/2310.13889)|null|
 |**2023-10-20**|**An experimental study for early diagnosing Parkinson's disease using machine learning**|Md. Taufiqul Haque Khan Tusar et.al.|[2310.13654](http://arxiv.org/abs/2310.13654)|null|
 |**2023-10-19**|**Electromechanical System Design for Self-Balancing Robot**|Md. Abid Al Morshed et.al.|[2310.12142](http://arxiv.org/abs/2310.12142)|null|
 |**2023-10-18**|**Topological phase locking in dissipatively-coupled noise-activated processes**|Michalis Chatzittofi et.al.|[2310.11788](http://arxiv.org/abs/2310.11788)|null|
