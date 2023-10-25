@@ -1896,6 +1896,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**Finetuning Offline World Models in the Real World**|Yunhai Feng et.al.|[2310.16029](http://arxiv.org/abs/2310.16029)|null|
+|**2023-10-24**|**Numerical Derivative-based Flexible Integration Algorithm for Power Electronic Systems Simulation Considering Nonlinear Components**|Han Xu et.al.|[2310.15794](http://arxiv.org/abs/2310.15794)|null|
 |**2023-10-23**|**Robot Skill Generalization via Keypoint Integrated Soft Actor-Critic Gaussian Mixture Models**|Iman Nematollahi et.al.|[2310.15059](http://arxiv.org/abs/2310.15059)|null|
 |**2023-10-22**|**Effective and anatomical connectivity of the dorso-central insula during the processing of action forms**|Di Cesare G. et.al.|[2310.14213](http://arxiv.org/abs/2310.14213)|null|
 |**2023-10-21**|**An Experimental Study of Model-based Control for Planar Handed Shearing Auxetics Robots**|Maximilian Stölzle et.al.|[2310.13889](http://arxiv.org/abs/2310.13889)|null|
