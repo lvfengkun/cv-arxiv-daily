@@ -1875,11 +1875,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**Nighttime Driver Behavior Prediction Using Taillight Signal Recognition via CNN-SVM Classifier**|Amir Hossein Barshooi et.al.|[2310.16706](http://arxiv.org/abs/2310.16706)|**[link](https://github.com/deepcar/taillight_recognition)**|
+|**2023-10-24**|**Subtle Signals: Video-based Detection of Infant Non-nutritive Sucking as a Neurodevelopmental Cue**|Shaotong Zhu et.al.|[2310.16138](http://arxiv.org/abs/2310.16138)|**[link](https://github.com/ostadabbas/nns-detection-and-segmentation)**|
 |**2023-10-24**|**Finetuning Offline World Models in the Real World**|Yunhai Feng et.al.|[2310.16029](http://arxiv.org/abs/2310.16029)|null|
 |**2023-10-24**|**Numerical Derivative-based Flexible Integration Algorithm for Power Electronic Systems Simulation Considering Nonlinear Components**|Han Xu et.al.|[2310.15794](http://arxiv.org/abs/2310.15794)|null|
 |**2023-10-23**|**Robot Skill Generalization via Keypoint Integrated Soft Actor-Critic Gaussian Mixture Models**|Iman Nematollahi et.al.|[2310.15059](http://arxiv.org/abs/2310.15059)|null|
 |**2023-10-22**|**Effective and anatomical connectivity of the dorso-central insula during the processing of action forms**|Di Cesare G. et.al.|[2310.14213](http://arxiv.org/abs/2310.14213)|null|
-|**2023-10-21**|**An Experimental Study of Model-based Control for Planar Handed Shearing Auxetics Robots**|Maximilian Stölzle et.al.|[2310.13889](http://arxiv.org/abs/2310.13889)|null|
+|**2023-10-21**|**An Experimental Study of Model-based Control for Planar Handed Shearing Auxetics Robots**|Maximilian Stölzle et.al.|[2310.13889](http://arxiv.org/abs/2310.13889)|**[link](https://github.com/tud-cor-sr/hsa-planar-control)**|
 |**2023-10-20**|**An experimental study for early diagnosing Parkinson's disease using machine learning**|Md. Taufiqul Haque Khan Tusar et.al.|[2310.13654](http://arxiv.org/abs/2310.13654)|null|
 |**2023-10-19**|**Electromechanical System Design for Self-Balancing Robot**|Md. Abid Al Morshed et.al.|[2310.12142](http://arxiv.org/abs/2310.12142)|null|
 |**2023-10-18**|**Topological phase locking in dissipatively-coupled noise-activated processes**|Michalis Chatzittofi et.al.|[2310.11788](http://arxiv.org/abs/2310.11788)|null|
