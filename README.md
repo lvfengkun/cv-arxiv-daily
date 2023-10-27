@@ -1896,6 +1896,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-26**|**Test Bench Study on Attitude Estimation in Ground Effect Region Based on Motor Current for In-Flight Inductive Power Transfer of Drones**|Kota Fujimoto et.al.|[2310.17541](http://arxiv.org/abs/2310.17541)|null|
+|**2023-10-26**|**Examination of Cybersickness in Virtual Reality: The Role of Individual Differences, Effects on Cognitive Functions & Motor Skills, and Intensity Differences During and After Immersion**|Panagiotis Kourtesis et.al.|[2310.17344](http://arxiv.org/abs/2310.17344)|null|
+|**2023-10-26**|**Maximum Power and The Corresponding Efficiency for A Carnot-like Thermoelectric Cycle Based on Fluctuation Theorem**|Yuchao Hua et.al.|[2310.17222](http://arxiv.org/abs/2310.17222)|null|
+|**2023-10-26**|**Single-Motor Robotic Gripper With Three Functional Modes for Grasping in Confined Spaces**|Toshihiro Nishimura et.al.|[2310.17192](http://arxiv.org/abs/2310.17192)|null|
+|**2023-10-25**|**Diseno y Desarrollo de Prototipos Roboticos para Competencias de Futbol utilizando Motores Dynamixel**|Pablo Moraes et.al.|[2310.17058](http://arxiv.org/abs/2310.17058)|null|
 |**2023-10-25**|**Nighttime Driver Behavior Prediction Using Taillight Signal Recognition via CNN-SVM Classifier**|Amir Hossein Barshooi et.al.|[2310.16706](http://arxiv.org/abs/2310.16706)|**[link](https://github.com/deepcar/taillight_recognition)**|
 |**2023-10-24**|**Subtle Signals: Video-based Detection of Infant Non-nutritive Sucking as a Neurodevelopmental Cue**|Shaotong Zhu et.al.|[2310.16138](http://arxiv.org/abs/2310.16138)|**[link](https://github.com/ostadabbas/nns-detection-and-segmentation)**|
 |**2023-10-24**|**Finetuning Offline World Models in the Real World**|Yunhai Feng et.al.|[2310.16029](http://arxiv.org/abs/2310.16029)|null|
