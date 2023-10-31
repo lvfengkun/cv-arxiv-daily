@@ -1896,6 +1896,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**Improved Motor Imagery Classification Using Adaptive Spatial Filters Based on Particle Swarm Optimization Algorithm**|Xiong Xiong et.al.|[2310.19202](http://arxiv.org/abs/2310.19202)|null|
+|**2023-10-29**|**Enhancing Motor Imagery Decoding in Brain Computer Interfaces using Riemann Tangent Space Mapping and Cross Frequency Coupling**|Xiong Xiong et.al.|[2310.19198](http://arxiv.org/abs/2310.19198)|null|
+|**2023-10-29**|**Microscopic theory of a Janus motor in a non-equilibrium fluid: Surface hydrodynamics and boundary conditions**|Bryan Robertson et.al.|[2310.19004](http://arxiv.org/abs/2310.19004)|null|
+|**2023-10-28**|**Robot Control based on Motor Primitives -- A Comparison of Two Approaches**|Moses C. Nah et.al.|[2310.18771](http://arxiv.org/abs/2310.18771)|null|
 |**2023-10-26**|**Test Bench Study on Attitude Estimation in Ground Effect Region Based on Motor Current for In-Flight Inductive Power Transfer of Drones**|Kota Fujimoto et.al.|[2310.17541](http://arxiv.org/abs/2310.17541)|null|
 |**2023-10-26**|**Examination of Cybersickness in Virtual Reality: The Role of Individual Differences, Effects on Cognitive Functions & Motor Skills, and Intensity Differences During and After Immersion**|Panagiotis Kourtesis et.al.|[2310.17344](http://arxiv.org/abs/2310.17344)|null|
 |**2023-10-26**|**Maximum Power and The Corresponding Efficiency for A Carnot-like Thermoelectric Cycle Based on Fluctuation Theorem**|Yuchao Hua et.al.|[2310.17222](http://arxiv.org/abs/2310.17222)|null|
