@@ -1896,6 +1896,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**Compliant actuators that mimic biological muscle performance with applications in a highly biomimetic robotic arm**|Haosen Yang et.al.|[2310.20602](http://arxiv.org/abs/2310.20602)|null|
+|**2023-10-31**|**Progress and outlook on advanced fly scans based on Mamba**|Peng-Cheng Li et.al.|[2310.20106](http://arxiv.org/abs/2310.20106)|null|
+|**2023-10-30**|**Design and Analysis of a Novel Radial Deployment Mechanism of Payloads in Sounding Rockets**|Thakur Pranav G. Singh et.al.|[2310.19673](http://arxiv.org/abs/2310.19673)|null|
+|**2023-10-30**|**DrM: Mastering Visual Reinforcement Learning through Dormant Ratio Minimization**|Guowei Xu et.al.|[2310.19668](http://arxiv.org/abs/2310.19668)|null|
+|**2023-10-30**|**Explaining the Decisions of Deep Policy Networks for Robotic Manipulations**|Seongun Kim et.al.|[2310.19432](http://arxiv.org/abs/2310.19432)|null|
+|**2023-10-30**|**Motions of a homopolar motor inside a conducting tube**|Anh Q. Do et.al.|[2310.19249](http://arxiv.org/abs/2310.19249)|null|
 |**2023-10-29**|**Improved Motor Imagery Classification Using Adaptive Spatial Filters Based on Particle Swarm Optimization Algorithm**|Xiong Xiong et.al.|[2310.19202](http://arxiv.org/abs/2310.19202)|null|
 |**2023-10-29**|**Enhancing Motor Imagery Decoding in Brain Computer Interfaces using Riemann Tangent Space Mapping and Cross Frequency Coupling**|Xiong Xiong et.al.|[2310.19198](http://arxiv.org/abs/2310.19198)|null|
 |**2023-10-29**|**Microscopic theory of a Janus motor in a non-equilibrium fluid: Surface hydrodynamics and boundary conditions**|Bryan Robertson et.al.|[2310.19004](http://arxiv.org/abs/2310.19004)|null|
