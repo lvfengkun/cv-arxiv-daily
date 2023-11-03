@@ -1896,6 +1896,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**Learning to See Physical Properties with Active Sensing Motor Policies**|Gabriel B. Margolis et.al.|[2311.01405](http://arxiv.org/abs/2311.01405)|null|
+|**2023-11-02**|**Building for Speech: Designing the Next Generation of Social Robots for Audio Interaction**|Angus Addlesee et.al.|[2311.01146](http://arxiv.org/abs/2311.01146)|null|
+|**2023-11-02**|**Deep Learning for real-time neural decoding of grasp**|Paolo Viviani et.al.|[2311.01061](http://arxiv.org/abs/2311.01061)|null|
+|**2023-11-02**|**Gray matter volume correlates of Comorbid Depression in Autism Spectrum Disorder**|Dolcy Dhar et.al.|[2311.00997](http://arxiv.org/abs/2311.00997)|null|
+|**2023-11-01**|**An Integrated Approach to Aerial Grasping: Combining a Bistable Gripper with Adaptive Control**|Rishabh Dev Yadav et.al.|[2311.00769](http://arxiv.org/abs/2311.00769)|null|
 |**2023-11-01**|**How Hard Is Squash? -- Towards Information Theoretic Analysis of Motor Behavior in Squash**|Kavya Anand et.al.|[2311.00514](http://arxiv.org/abs/2311.00514)|null|
 |**2023-11-01**|**Design, Modeling, and Control of a Low-Cost and Rapid Response Soft-Growing Manipulator for Orchard Operations**|Ryan Dorosh et.al.|[2311.00197](http://arxiv.org/abs/2311.00197)|null|
 |**2023-10-31**|**Compliant actuators that mimic biological muscle performance with applications in a highly biomimetic robotic arm**|Haosen Yang et.al.|[2310.20602](http://arxiv.org/abs/2310.20602)|null|
