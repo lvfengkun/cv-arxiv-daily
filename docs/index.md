@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.04
+## Updated on 2023.11.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1883,7 +1883,7 @@ layout: default
 |**2023-11-01**|**How Hard Is Squash? -- Towards Information Theoretic Analysis of Motor Behavior in Squash**|Kavya Anand et.al.|[2311.00514](http://arxiv.org/abs/2311.00514)|null|
 |**2023-11-01**|**Design, Modeling, and Control of a Low-Cost and Rapid Response Soft-Growing Manipulator for Orchard Operations**|Ryan Dorosh et.al.|[2311.00197](http://arxiv.org/abs/2311.00197)|null|
 |**2023-10-31**|**Compliant actuators that mimic biological muscle performance with applications in a highly biomimetic robotic arm**|Haosen Yang et.al.|[2310.20602](http://arxiv.org/abs/2310.20602)|null|
-|**2023-10-31**|**Progress and outlook on advanced fly scans based on Mamba**|Peng-Cheng Li et.al.|[2310.20106](http://arxiv.org/abs/2310.20106)|null|
+|**2023-10-31**|**Progress and outlook on advanced fly scans based on Mamba**|Peng-Cheng Li et.al.|[2310.20106](http://arxiv.org/abs/2310.20106)|**[link](https://github.com/caspervector/ihep-pkg-ose)**|
 |**2023-10-30**|**Design and Analysis of a Novel Radial Deployment Mechanism of Payloads in Sounding Rockets**|Thakur Pranav G. Singh et.al.|[2310.19673](http://arxiv.org/abs/2310.19673)|null|
 |**2023-10-30**|**DrM: Mastering Visual Reinforcement Learning through Dormant Ratio Minimization**|Guowei Xu et.al.|[2310.19668](http://arxiv.org/abs/2310.19668)|null|
 |**2023-10-30**|**Explaining the Decisions of Deep Policy Networks for Robotic Manipulations**|Seongun Kim et.al.|[2310.19432](http://arxiv.org/abs/2310.19432)|null|
