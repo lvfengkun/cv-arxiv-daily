@@ -1896,6 +1896,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-03**|**Structure design and coordinated motion analysis of bionic crocodile robot**|Jun Wang et.al.|[2311.01764](http://arxiv.org/abs/2311.01764)|null|
+|**2023-11-03**|**Motor vehicles accidents and teenage drivers: A statistical analysis of their age and injuries**|Debo Brata Paul Argha et.al.|[2311.01669](http://arxiv.org/abs/2311.01669)|null|
 |**2023-11-02**|**Learning to See Physical Properties with Active Sensing Motor Policies**|Gabriel B. Margolis et.al.|[2311.01405](http://arxiv.org/abs/2311.01405)|null|
 |**2023-11-02**|**Building for Speech: Designing the Next Generation of Social Robots for Audio Interaction**|Angus Addlesee et.al.|[2311.01146](http://arxiv.org/abs/2311.01146)|null|
 |**2023-11-02**|**Deep Learning for real-time neural decoding of grasp**|Paolo Viviani et.al.|[2311.01061](http://arxiv.org/abs/2311.01061)|null|
