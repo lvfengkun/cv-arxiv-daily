@@ -1875,6 +1875,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Designing a Hair-Clip Inspired Bistable Mechanism for Soft Fish Robots**|Zechen Xiong et.al.|[2311.03212](http://arxiv.org/abs/2311.03212)|null|
+|**2023-11-03**|**Elastic energy storage of spring-driven jumping robots**|John Lo et.al.|[2311.02188](http://arxiv.org/abs/2311.02188)|null|
 |**2023-11-03**|**Structure design and coordinated motion analysis of bionic crocodile robot**|Jun Wang et.al.|[2311.01764](http://arxiv.org/abs/2311.01764)|null|
 |**2023-11-03**|**Motor vehicles accidents and teenage drivers: A statistical analysis of their age and injuries**|Debo Brata Paul Argha et.al.|[2311.01669](http://arxiv.org/abs/2311.01669)|null|
 |**2023-11-02**|**Learning to See Physical Properties with Active Sensing Motor Policies**|Gabriel B. Margolis et.al.|[2311.01405](http://arxiv.org/abs/2311.01405)|null|
