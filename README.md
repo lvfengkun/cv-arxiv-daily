@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**|Seongwook Yoon et.al.|[2311.03722](http://arxiv.org/abs/2311.03722)|null|
 |**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924](http://arxiv.org/abs/2310.14924)|**[link](https://github.com/rlsch/depth-conversions)**|
 |**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931](http://arxiv.org/abs/2310.10931)|**[link](https://github.com/yanyan-li/open-structure)**|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082](http://arxiv.org/abs/2310.08082)|null|
@@ -1896,6 +1897,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**A Stochastic Model of Translocation of Knotted Proteins**|Karol Capała et.al.|[2311.03917](http://arxiv.org/abs/2311.03917)|null|
+|**2023-11-07**|**Design and Experimental Verification of a Jumping Legged Robot for Martian Lava Tube Exploration**|Jørgen Anker Olsen et.al.|[2311.03854](http://arxiv.org/abs/2311.03854)|null|
+|**2023-11-07**|**Neuro-GPT: Developing A Foundation Model for EEG**|Wenhui Cui et.al.|[2311.03764](http://arxiv.org/abs/2311.03764)|null|
+|**2023-11-06**|**Use Adaptive Fast Function Approximator in Motor-Filament Binding Kinetics**|Zihan Zhang et.al.|[2311.03602](http://arxiv.org/abs/2311.03602)|null|
+|**2023-11-06**|**Time-optimal Design and Control of Electric Race Cars Equipped with Multi-speed Transmissions**|Camiel Cartignij et.al.|[2311.03545](http://arxiv.org/abs/2311.03545)|null|
+|**2023-11-06**|**A Generative Neural Network Approach for 3D Multi-Criteria Design Generation and Optimization of an Engine Mount for an Unmanned Air Vehicle**|Christoph Petroll et.al.|[2311.03414](http://arxiv.org/abs/2311.03414)|null|
+|**2023-11-05**|**QOMIC: Quantum optimization for motif identification**|Hoang M. Ngo et.al.|[2311.03400](http://arxiv.org/abs/2311.03400)|null|
 |**2023-11-06**|**Designing a Hair-Clip Inspired Bistable Mechanism for Soft Fish Robots**|Zechen Xiong et.al.|[2311.03212](http://arxiv.org/abs/2311.03212)|null|
 |**2023-11-03**|**Elastic energy storage of spring-driven jumping robots**|John Lo et.al.|[2311.02188](http://arxiv.org/abs/2311.02188)|null|
 |**2023-11-03**|**Structure design and coordinated motion analysis of bionic crocodile robot**|Jun Wang et.al.|[2311.01764](http://arxiv.org/abs/2311.01764)|null|
