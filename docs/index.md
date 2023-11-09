@@ -1876,6 +1876,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**A Lightweight Architecture for Real-Time Neuronal-Spike Classification**|Muhammad Ali Siddiqi et.al.|[2311.04808](http://arxiv.org/abs/2311.04808)|null|
 |**2023-11-07**|**A Stochastic Model of Translocation of Knotted Proteins**|Karol Capała et.al.|[2311.03917](http://arxiv.org/abs/2311.03917)|null|
 |**2023-11-07**|**Design and Experimental Verification of a Jumping Legged Robot for Martian Lava Tube Exploration**|Jørgen Anker Olsen et.al.|[2311.03854](http://arxiv.org/abs/2311.03854)|null|
 |**2023-11-07**|**Neuro-GPT: Developing A Foundation Model for EEG**|Wenhui Cui et.al.|[2311.03764](http://arxiv.org/abs/2311.03764)|null|
