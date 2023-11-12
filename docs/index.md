@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.11
+## Updated on 2023.11.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1877,7 +1877,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-09**|**Parkinson's Disease Detection through Vocal Biomarkers and Advanced Machine Learning Algorithms: A Comprehensive Study**|Md Abu Sayed et.al.|[2311.05435](http://arxiv.org/abs/2311.05435)|null|
-|**2023-11-09**|**EEG-DG: A Multi-Source Domain Generalization Framework for Motor Imagery EEG Classification**|Xiao-Cong Zhong et.al.|[2311.05415](http://arxiv.org/abs/2311.05415)|null|
+|**2023-11-09**|**EEG-DG: A Multi-Source Domain Generalization Framework for Motor Imagery EEG Classification**|Xiao-Cong Zhong et.al.|[2311.05415](http://arxiv.org/abs/2311.05415)|**[link](https://github.com/xc-zhonghit/eeg-dg)**|
 |**2023-11-09**|**Design and Control of a VTOL Aerial Vehicle Tilting its Rotors Only with Rotor Thrusts and a Passive Joint**|Takumi Ito et.al.|[2311.05259](http://arxiv.org/abs/2311.05259)|null|
 |**2023-11-08**|**Electric or gasoline: a simple model to decide when buying a new vehicle**|René Ledesma-Alonso et.al.|[2311.05055](http://arxiv.org/abs/2311.05055)|null|
 |**2023-11-08**|**A Lightweight Architecture for Real-Time Neuronal-Spike Classification**|Muhammad Ali Siddiqi et.al.|[2311.04808](http://arxiv.org/abs/2311.04808)|null|
