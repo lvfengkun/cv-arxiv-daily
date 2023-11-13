@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Dense Visual Odometry Using Genetic Algorithm**|Slimane Djema et.al.|[2311.06149](http://arxiv.org/abs/2311.06149)|null|
 |**2023-11-07**|**Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**|Seongwook Yoon et.al.|[2311.03722](http://arxiv.org/abs/2311.03722)|null|
 |**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924](http://arxiv.org/abs/2310.14924)|**[link](https://github.com/rlsch/depth-conversions)**|
 |**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931](http://arxiv.org/abs/2310.10931)|**[link](https://github.com/yanyan-li/open-structure)**|
@@ -1876,6 +1877,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Combined Parameter and Shape Optimization of Electric Machines with Isogeometric Analysis**|Michael Wiesheu et.al.|[2311.06046](http://arxiv.org/abs/2311.06046)|null|
 |**2023-11-09**|**Parkinson's Disease Detection through Vocal Biomarkers and Advanced Machine Learning Algorithms: A Comprehensive Study**|Md Abu Sayed et.al.|[2311.05435](http://arxiv.org/abs/2311.05435)|null|
 |**2023-11-09**|**EEG-DG: A Multi-Source Domain Generalization Framework for Motor Imagery EEG Classification**|Xiao-Cong Zhong et.al.|[2311.05415](http://arxiv.org/abs/2311.05415)|**[link](https://github.com/xc-zhonghit/eeg-dg)**|
 |**2023-11-09**|**Design and Control of a VTOL Aerial Vehicle Tilting its Rotors Only with Rotor Thrusts and a Passive Joint**|Takumi Ito et.al.|[2311.05259](http://arxiv.org/abs/2311.05259)|null|
