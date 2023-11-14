@@ -1906,7 +1906,7 @@
 |**2023-11-08**|**A Lightweight Architecture for Real-Time Neuronal-Spike Classification**|Muhammad Ali Siddiqi et.al.|[2311.04808](http://arxiv.org/abs/2311.04808)|null|
 |**2023-11-07**|**A Stochastic Model of Translocation of Knotted Proteins**|Karol Capała et.al.|[2311.03917](http://arxiv.org/abs/2311.03917)|null|
 |**2023-11-07**|**Design and Experimental Verification of a Jumping Legged Robot for Martian Lava Tube Exploration**|Jørgen Anker Olsen et.al.|[2311.03854](http://arxiv.org/abs/2311.03854)|null|
-|**2023-11-09**|**Neuro-GPT: Developing A Foundation Model for EEG**|Wenhui Cui et.al.|[2311.03764](http://arxiv.org/abs/2311.03764)|null|
+|**2023-11-11**|**Neuro-GPT: Developing A Foundation Model for EEG**|Wenhui Cui et.al.|[2311.03764](http://arxiv.org/abs/2311.03764)|null|
 |**2023-11-06**|**Use Adaptive Fast Function Approximator in Motor-Filament Binding Kinetics**|Zihan Zhang et.al.|[2311.03602](http://arxiv.org/abs/2311.03602)|**[link](https://github.com/stevenzhang0116/kmc)**|
 |**2023-11-06**|**Time-optimal Design and Control of Electric Race Cars Equipped with Multi-speed Transmissions**|Camiel Cartignij et.al.|[2311.03545](http://arxiv.org/abs/2311.03545)|null|
 |**2023-11-06**|**A Generative Neural Network Approach for 3D Multi-Criteria Design Generation and Optimization of an Engine Mount for an Unmanned Air Vehicle**|Christoph Petroll et.al.|[2311.03414](http://arxiv.org/abs/2311.03414)|null|
