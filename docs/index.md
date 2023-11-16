@@ -1877,6 +1877,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Brain Functional Connectivity under Teleoperation Latency: a fNIRS Study**|Yang Ye et.al.|[2311.09062](http://arxiv.org/abs/2311.09062)|null|
+|**2023-11-14**|**Topology of Surface Electromyogram Signals: Hand Gesture Decoding on Riemannian Manifolds**|Harshavardhana T. Gowda et.al.|[2311.08548](http://arxiv.org/abs/2311.08548)|**[link](https://github.com/harshavardhanatg/geometryofsemg)**|
 |**2023-11-14**|**Neural Dynamics of Delayed Feedback in Robot Teleoperation: Insights from fNIRS Analysis**|Tianyu Zhou et.al.|[2311.08255](http://arxiv.org/abs/2311.08255)|null|
 |**2023-11-14**|**Robust Learning Based Condition Diagnosis Method for Distribution Network Switchgear**|Wenxi Zhang et.al.|[2311.07956](http://arxiv.org/abs/2311.07956)|null|
 |**2023-11-14**|**A Neuro-Inspired Hierarchical Reinforcement Learning for Motor Control**|Pei Zhang et.al.|[2311.07822](http://arxiv.org/abs/2311.07822)|null|
