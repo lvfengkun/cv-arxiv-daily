@@ -1877,6 +1877,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**Improving fairness for spoken language understanding in atypical speech with Text-to-Speech**|Helin Wang et.al.|[2311.10149](http://arxiv.org/abs/2311.10149)|null|
 |**2023-11-16**|**A Dynamic Computational Model of Head Sway Responses in Human Upright Stance Postural Control during Support Surface Tilt**|Vittorio Lippi et.al.|[2311.09697](http://arxiv.org/abs/2311.09697)|null|
 |**2023-11-15**|**Brain Functional Connectivity under Teleoperation Latency: a fNIRS Study**|Yang Ye et.al.|[2311.09062](http://arxiv.org/abs/2311.09062)|null|
 |**2023-11-14**|**Topology of Surface Electromyogram Signals: Hand Gesture Decoding on Riemannian Manifolds**|Harshavardhana T. Gowda et.al.|[2311.08548](http://arxiv.org/abs/2311.08548)|**[link](https://github.com/harshavardhanatg/geometryofsemg)**|
