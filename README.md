@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems**|Young-Hee Lee et.al.|[2311.12580](http://arxiv.org/abs/2311.12580)|null|
 |**2023-11-10**|**Dense Visual Odometry Using Genetic Algorithm**|Slimane Djema et.al.|[2311.06149](http://arxiv.org/abs/2311.06149)|null|
 |**2023-11-07**|**Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**|Seongwook Yoon et.al.|[2311.03722](http://arxiv.org/abs/2311.03722)|null|
 |**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924](http://arxiv.org/abs/2310.14924)|**[link](https://github.com/rlsch/depth-conversions)**|
@@ -1898,11 +1899,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**ChronoPscychosis: Temporal Segmentation and Its Impact on Schizophrenia Classification Using Motor Activity Data**|Pradnya Rajendra Jadhav et.al.|[2311.12590](http://arxiv.org/abs/2311.12590)|null|
+|**2023-11-20**|**Teaching Robots to Build Simulations of Themselves**|Yuhang Hu et.al.|[2311.12151](http://arxiv.org/abs/2311.12151)|null|
 |**2023-11-20**|**Optical control of spatially localized red blood cell activity by holographic tweezing**|Niccolò Caselli et.al.|[2311.11950](http://arxiv.org/abs/2311.11950)|null|
 |**2023-11-20**|**Measuring and Mitigating Biases in Motor Insurance Pricing**|Mulah Moriah et.al.|[2311.11900](http://arxiv.org/abs/2311.11900)|null|
 |**2023-11-20**|**Modeling Insurance Claims using Bayesian Nonparametric Regression**|Mostafa Shams Esfand Abadi et.al.|[2311.11487](http://arxiv.org/abs/2311.11487)|null|
 |**2023-11-17**|**The Otbot project: Dynamic modelling, parameter identification, and motion control of an omnidirectional tire-wheeled robot**|Pere Giró et.al.|[2311.10834](http://arxiv.org/abs/2311.10834)|null|
-|**2023-11-16**|**Improving fairness for spoken language understanding in atypical speech with Text-to-Speech**|Helin Wang et.al.|[2311.10149](http://arxiv.org/abs/2311.10149)|null|
+|**2023-11-16**|**Improving fairness for spoken language understanding in atypical speech with Text-to-Speech**|Helin Wang et.al.|[2311.10149](http://arxiv.org/abs/2311.10149)|**[link](https://github.com/wanghelin1997/aty-tts)**|
 |**2023-11-16**|**A Dynamic Computational Model of Head Sway Responses in Human Upright Stance Postural Control during Support Surface Tilt**|Vittorio Lippi et.al.|[2311.09697](http://arxiv.org/abs/2311.09697)|null|
 |**2023-11-15**|**Brain Functional Connectivity under Teleoperation Latency: a fNIRS Study**|Yang Ye et.al.|[2311.09062](http://arxiv.org/abs/2311.09062)|null|
 |**2023-11-14**|**Topology of Surface Electromyogram Signals: Hand Gesture Decoding on Riemannian Manifolds**|Harshavardhana T. Gowda et.al.|[2311.08548](http://arxiv.org/abs/2311.08548)|**[link](https://github.com/harshavardhanatg/geometryofsemg)**|
