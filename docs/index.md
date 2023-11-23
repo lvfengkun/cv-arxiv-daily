@@ -1878,6 +1878,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-22**|**Applying Dimensionality Reduction as Precursor to LSTM-CNN Models for Classifying Imagery and Motor Signals in ECoG-Based BCIs**|Soham Bafana et.al.|[2311.13507](http://arxiv.org/abs/2311.13507)|null|
+|**2023-11-21**|**A Self-Consistent Field Solution for Robust Common Spatial Pattern Analysis**|Dong Min Roh et.al.|[2311.13004](http://arxiv.org/abs/2311.13004)|null|
+|**2023-11-21**|**A web-based gamification of upper extremity robotic rehabilitation**|Payman Sharafianardakani et.al.|[2311.12948](http://arxiv.org/abs/2311.12948)|null|
 |**2023-11-21**|**ChronoPscychosis: Temporal Segmentation and Its Impact on Schizophrenia Classification Using Motor Activity Data**|Pradnya Rajendra Jadhav et.al.|[2311.12590](http://arxiv.org/abs/2311.12590)|null|
 |**2023-11-20**|**Teaching Robots to Build Simulations of Themselves**|Yuhang Hu et.al.|[2311.12151](http://arxiv.org/abs/2311.12151)|null|
 |**2023-11-20**|**Optical control of spatially localized red blood cell activity by holographic tweezing**|Niccolò Caselli et.al.|[2311.11950](http://arxiv.org/abs/2311.11950)|null|
