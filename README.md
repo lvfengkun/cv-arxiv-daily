@@ -1899,6 +1899,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-24**|**Comparing Feature Engineering and End-to-End Deep Learning for Autism Spectrum Disorder Assessment based on Fullbody-Tracking**|Alberto Altozano et.al.|[2311.14533](http://arxiv.org/abs/2311.14533)|null|
+|**2023-11-23**|**A DRL solution to help reduce the cost in waiting time of securing a traffic light for cyclists**|Lucas Magnana et.al.|[2311.13905](http://arxiv.org/abs/2311.13905)|null|
+|**2023-11-23**|**HandiMathKey-Device**|Frédéric Vella et.al.|[2311.13898](http://arxiv.org/abs/2311.13898)|null|
+|**2023-11-23**|**Dynamics and rheology of 2D colloidal crystals with active anisotropic impurities**|Jacob John et.al.|[2311.13773](http://arxiv.org/abs/2311.13773)|null|
+|**2023-11-22**|**Recursive Rigid-Body Dynamics Algorithms for Systems with Kinematic Loops**|Matthew Chignoli et.al.|[2311.13732](http://arxiv.org/abs/2311.13732)|null|
 |**2023-11-22**|**Applying Dimensionality Reduction as Precursor to LSTM-CNN Models for Classifying Imagery and Motor Signals in ECoG-Based BCIs**|Soham Bafana et.al.|[2311.13507](http://arxiv.org/abs/2311.13507)|**[link](https://github.com/bafanas/dim-reduction-with-cnn-lstm)**|
 |**2023-11-21**|**A Self-Consistent Field Solution for Robust Common Spatial Pattern Analysis**|Dong Min Roh et.al.|[2311.13004](http://arxiv.org/abs/2311.13004)|null|
 |**2023-11-21**|**A web-based gamification of upper extremity robotic rehabilitation**|Payman Sharafianardakani et.al.|[2311.12948](http://arxiv.org/abs/2311.12948)|null|
