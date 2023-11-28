@@ -1899,6 +1899,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**Active Foundational Models for Fault Diagnosis of Electrical Motors**|Sriram Anbalagan et.al.|[2311.15516](http://arxiv.org/abs/2311.15516)|null|
+|**2023-11-24**|**Placement of Biological Membrane Patches in a Nanofluidic Gap with Control over Position and Orientation**|Francesca Ruggeri et.al.|[2311.14779](http://arxiv.org/abs/2311.14779)|null|
 |**2023-11-24**|**Comparing Feature Engineering and End-to-End Deep Learning for Autism Spectrum Disorder Assessment based on Fullbody-Tracking**|Alberto Altozano et.al.|[2311.14533](http://arxiv.org/abs/2311.14533)|null|
 |**2023-11-23**|**A DRL solution to help reduce the cost in waiting time of securing a traffic light for cyclists**|Lucas Magnana et.al.|[2311.13905](http://arxiv.org/abs/2311.13905)|null|
 |**2023-11-23**|**HandiMathKey-Device**|Frédéric Vella et.al.|[2311.13898](http://arxiv.org/abs/2311.13898)|null|
