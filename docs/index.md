@@ -1878,6 +1878,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**Reliability-aware Control of Power Converters in Mobility Applications**|Amin Rezaeizadeh et.al.|[2311.17729](http://arxiv.org/abs/2311.17729)|null|
+|**2023-11-29**|**Myosin-independent amoeboid cell motility**|Winfried Schmidt et.al.|[2311.17659](http://arxiv.org/abs/2311.17659)|null|
+|**2023-11-29**|**Using Monte Carlo simulations to predict the distribution of properties in an ensemble of fluctuating ratchets**|Rupsha Mukherjee et.al.|[2311.17520](http://arxiv.org/abs/2311.17520)|null|
 |**2023-11-28**|**End-to-end Reinforcement Learning for Time-Optimal Quadcopter Flight**|Robin Ferede et.al.|[2311.16948](http://arxiv.org/abs/2311.16948)|null|
 |**2023-11-28**|**Motor State Prediction and Friction Compensation based on Data-driven Techniques**|Nimantha Dasanayake et.al.|[2311.16533](http://arxiv.org/abs/2311.16533)|null|
 |**2023-11-28**|**Deep Learning for Time Series Classification of Parkinson's Disease Eye Tracking Data**|Gonzalo Uribarri et.al.|[2311.16381](http://arxiv.org/abs/2311.16381)|null|
