@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**Event-based Visual Inertial Velometer**|Xiuyuan Lu et.al.|[2311.18189](http://arxiv.org/abs/2311.18189)|null|
 |**2023-11-21**|**CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems**|Young-Hee Lee et.al.|[2311.12580](http://arxiv.org/abs/2311.12580)|null|
 |**2023-11-10**|**Dense Visual Odometry Using Genetic Algorithm**|Slimane Djema et.al.|[2311.06149](http://arxiv.org/abs/2311.06149)|null|
 |**2023-11-07**|**Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**|Seongwook Yoon et.al.|[2311.03722](http://arxiv.org/abs/2311.03722)|null|
@@ -1878,6 +1879,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**Calibration-free online test-time adaptation for electroencephalography motor imagery decoding**|Martin Wimpff et.al.|[2311.18520](http://arxiv.org/abs/2311.18520)|null|
+|**2023-11-30**|**Compact computer controlled biaxial tensile device for low-temperature transport measurements of layered materials**|S. V. Zaitsev-Zotov et.al.|[2311.18336](http://arxiv.org/abs/2311.18336)|null|
+|**2023-11-29**|**Latent Alignment with Deep Set EEG Decoders**|Stylianos Bakas et.al.|[2311.17968](http://arxiv.org/abs/2311.17968)|null|
 |**2023-11-29**|**Reliability-aware Control of Power Converters in Mobility Applications**|Amin Rezaeizadeh et.al.|[2311.17729](http://arxiv.org/abs/2311.17729)|null|
 |**2023-11-29**|**Myosin-independent amoeboid cell motility**|Winfried Schmidt et.al.|[2311.17659](http://arxiv.org/abs/2311.17659)|null|
 |**2023-11-29**|**Using Monte Carlo simulations to predict the distribution of properties in an ensemble of fluctuating ratchets**|Rupsha Mukherjee et.al.|[2311.17520](http://arxiv.org/abs/2311.17520)|null|
