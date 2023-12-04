@@ -1879,6 +1879,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Investigating a domain adaptation approach for integrating different measurement instruments in a longitudinal clinical registry**|Maren Hackenberg et.al.|[2312.00616](http://arxiv.org/abs/2312.00616)|null|
+|**2023-11-30**|**Planning Reliability Assurance Tests for Autonomous Vehicles**|Simin Zheng et.al.|[2312.00186](http://arxiv.org/abs/2312.00186)|null|
+|**2023-11-29**|**LEAP: LLM-Generation of Egocentric Action Programs**|Eadom Dessalene et.al.|[2312.00055](http://arxiv.org/abs/2312.00055)|null|
 |**2023-11-30**|**Calibration-free online test-time adaptation for electroencephalography motor imagery decoding**|Martin Wimpff et.al.|[2311.18520](http://arxiv.org/abs/2311.18520)|null|
 |**2023-11-30**|**Compact computer controlled biaxial tensile device for low-temperature transport measurements of layered materials**|S. V. Zaitsev-Zotov et.al.|[2311.18336](http://arxiv.org/abs/2311.18336)|null|
 |**2023-11-29**|**Latent Alignment with Deep Set EEG Decoders**|Stylianos Bakas et.al.|[2311.17968](http://arxiv.org/abs/2311.17968)|null|
