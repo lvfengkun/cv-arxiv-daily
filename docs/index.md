@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**iMatching: Imperative Correspondence Learning**|Zitong Zhan et.al.|[2312.02141](http://arxiv.org/abs/2312.02141)|null|
 |**2023-11-30**|**Event-based Visual Inertial Velometer**|Xiuyuan Lu et.al.|[2311.18189](http://arxiv.org/abs/2311.18189)|null|
 |**2023-11-21**|**CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems**|Young-Hee Lee et.al.|[2311.12580](http://arxiv.org/abs/2311.12580)|null|
 |**2023-11-10**|**Dense Visual Odometry Using Genetic Algorithm**|Slimane Djema et.al.|[2311.06149](http://arxiv.org/abs/2311.06149)|null|
@@ -1879,6 +1880,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-03**|**Using Large Language Models to Accelerate Communication for Users with Severe Motor Impairments**|Shanqing Cai et.al.|[2312.01532](http://arxiv.org/abs/2312.01532)|null|
+|**2023-12-03**|**BetterMinton Service: Analyzing the Badminton Service using Open Kinetic Chain**|Eden Cong-He Xu et.al.|[2312.01487](http://arxiv.org/abs/2312.01487)|null|
+|**2023-12-03**|**FeltingReel: Density Varying Soft Fabrication with Reeling and Felting**|Ping-Yi Wang et.al.|[2312.01482](http://arxiv.org/abs/2312.01482)|null|
+|**2023-12-02**|**Model-Based Sensor Diagnostics for Robotic Manipulators**|Astha Kukreja et.al.|[2312.01214](http://arxiv.org/abs/2312.01214)|null|
 |**2023-12-01**|**Investigating a domain adaptation approach for integrating different measurement instruments in a longitudinal clinical registry**|Maren Hackenberg et.al.|[2312.00616](http://arxiv.org/abs/2312.00616)|null|
 |**2023-11-30**|**Planning Reliability Assurance Tests for Autonomous Vehicles**|Simin Zheng et.al.|[2312.00186](http://arxiv.org/abs/2312.00186)|null|
 |**2023-11-29**|**LEAP: LLM-Generation of Egocentric Action Programs**|Eadom Dessalene et.al.|[2312.00055](http://arxiv.org/abs/2312.00055)|null|
