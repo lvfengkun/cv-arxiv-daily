@@ -1901,6 +1901,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**H-GAP: Humanoid Control with a Generalist Planner**|Zhengyao Jiang et.al.|[2312.02682](http://arxiv.org/abs/2312.02682)|null|
+|**2023-12-05**|**A Self-Commissioning Edge Computing Method for Data-Driven Anomaly Detection in Power Electronic Systems**|Pere Izquierdo Gomez et.al.|[2312.02661](http://arxiv.org/abs/2312.02661)|null|
 |**2023-12-03**|**Using Large Language Models to Accelerate Communication for Users with Severe Motor Impairments**|Shanqing Cai et.al.|[2312.01532](http://arxiv.org/abs/2312.01532)|null|
 |**2023-12-03**|**BetterMinton Service: Analyzing the Badminton Service using Open Kinetic Chain**|Eden Cong-He Xu et.al.|[2312.01487](http://arxiv.org/abs/2312.01487)|null|
 |**2023-12-03**|**FeltingReel: Density Varying Soft Fabrication with Reeling and Felting**|Ping-Yi Wang et.al.|[2312.01482](http://arxiv.org/abs/2312.01482)|null|
