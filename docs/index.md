@@ -1880,6 +1880,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-07**|**Modeling and Design of a Double-Sided Linear Motor with Halbach Array for Low-Vibration and High-Acceleration Applications**|Sajjad Mohammadi et.al.|[2312.04053](http://arxiv.org/abs/2312.04053)|null|
+|**2023-12-06**|**Learning the Dynamics of Future Marine Microgrids Using Temporal Convolutional Neural Network**|Xiaoyu Ge et.al.|[2312.03850](http://arxiv.org/abs/2312.03850)|null|
 |**2023-12-05**|**H-GAP: Humanoid Control with a Generalist Planner**|Zhengyao Jiang et.al.|[2312.02682](http://arxiv.org/abs/2312.02682)|null|
 |**2023-12-05**|**A Self-Commissioning Edge Computing Method for Data-Driven Anomaly Detection in Power Electronic Systems**|Pere Izquierdo Gomez et.al.|[2312.02661](http://arxiv.org/abs/2312.02661)|null|
 |**2023-12-03**|**Using Large Language Models to Accelerate Communication for Users with Severe Motor Impairments**|Shanqing Cai et.al.|[2312.01532](http://arxiv.org/abs/2312.01532)|null|
