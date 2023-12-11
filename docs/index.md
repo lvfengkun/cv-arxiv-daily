@@ -1880,6 +1880,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**Learning to Fly Omnidirectional Micro Aerial Vehicles with an End-To-End Control Network**|Eugenio Cuniato et.al.|[2312.05125](http://arxiv.org/abs/2312.05125)|null|
+|**2023-12-08**|**Reinforcement Learning-Based Bionic Reflex Control for Anthropomorphic Robotic Grasping exploiting Domain Randomization**|Hirakjyoti Basumatary et.al.|[2312.05023](http://arxiv.org/abs/2312.05023)|null|
+|**2023-12-07**|**MR-conditional Robotic Actuation of Concentric Tendon-Driven Cardiac Catheters**|Yifan Wang et.al.|[2312.04726](http://arxiv.org/abs/2312.04726)|null|
+|**2023-12-07**|**Rapid Motor Adaptation for Robotic Manipulator Arms**|Yichao Liang et.al.|[2312.04670](http://arxiv.org/abs/2312.04670)|null|
 |**2023-12-07**|**Modeling and Design of a Double-Sided Linear Motor with Halbach Array for Low-Vibration and High-Acceleration Applications**|Sajjad Mohammadi et.al.|[2312.04053](http://arxiv.org/abs/2312.04053)|null|
 |**2023-12-06**|**Learning the Dynamics of Future Marine Microgrids Using Temporal Convolutional Neural Network**|Xiaoyu Ge et.al.|[2312.03850](http://arxiv.org/abs/2312.03850)|null|
 |**2023-12-05**|**H-GAP: Humanoid Control with a Generalist Planner**|Zhengyao Jiang et.al.|[2312.02682](http://arxiv.org/abs/2312.02682)|null|
