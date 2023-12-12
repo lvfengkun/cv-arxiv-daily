@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-10**|**SuperPrimitive: Scene Reconstruction at a Primitive Level**|Kirill Mazur et.al.|[2312.05889](http://arxiv.org/abs/2312.05889)|null|
 |**2023-12-04**|**iMatching: Imperative Correspondence Learning**|Zitong Zhan et.al.|[2312.02141](http://arxiv.org/abs/2312.02141)|null|
 |**2023-11-30**|**Event-based Visual Inertial Velometer**|Xiuyuan Lu et.al.|[2311.18189](http://arxiv.org/abs/2311.18189)|null|
 |**2023-11-21**|**CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems**|Young-Hee Lee et.al.|[2311.12580](http://arxiv.org/abs/2311.12580)|null|
@@ -1880,6 +1881,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-10**|**Sparse Multitask Learning for Efficient Neural Representation of Motor Imagery and Execution**|Hye-Bin Shin et.al.|[2312.05828](http://arxiv.org/abs/2312.05828)|null|
+|**2023-12-10**|**Explosive Legged Robotic Hopping: Energy Accumulation and Power Amplification via Pneumatic Augmentation**|Yifei Chen et.al.|[2312.05773](http://arxiv.org/abs/2312.05773)|null|
+|**2023-12-09**|**NiSNN-A: Non-iterative Spiking Neural Networks with Attention with Application to Motor Imagery EEG Classification**|Chuhan Zhang et.al.|[2312.05643](http://arxiv.org/abs/2312.05643)|null|
+|**2023-12-09**|**Deformation and motion of giant unilamellar vesicles loaded with gold nanoparticles driven by induced charge electro-osmotic flow**|Kotaro Nakazawa et.al.|[2312.05545](http://arxiv.org/abs/2312.05545)|null|
+|**2023-12-09**|**Functional Data Analysis: An Introduction and Recent Developments**|Jan Gertheiss et.al.|[2312.05523](http://arxiv.org/abs/2312.05523)|null|
 |**2023-12-08**|**Learning to Fly Omnidirectional Micro Aerial Vehicles with an End-To-End Control Network**|Eugenio Cuniato et.al.|[2312.05125](http://arxiv.org/abs/2312.05125)|null|
 |**2023-12-08**|**Reinforcement Learning-Based Bionic Reflex Control for Anthropomorphic Robotic Grasping exploiting Domain Randomization**|Hirakjyoti Basumatary et.al.|[2312.05023](http://arxiv.org/abs/2312.05023)|null|
 |**2023-12-07**|**MR-conditional Robotic Actuation of Concentric Tendon-Driven Cardiac Catheters**|Yifan Wang et.al.|[2312.04726](http://arxiv.org/abs/2312.04726)|null|
