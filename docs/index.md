@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.15
+## Updated on 2023.12.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1881,6 +1881,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-14**|**Design, construction and evaluation of emotional multimodal pathological speech database**|Ting Zhu et.al.|[2312.08998](http://arxiv.org/abs/2312.08998)|null|
 |**2023-12-12**|**Codesign of Humanoid Robots for Ergonomy Collaboration with Multiple Humans via Genetic Algorithms and Nonlinear Optimization**|Carlotta Sartore et.al.|[2312.07459](http://arxiv.org/abs/2312.07459)|null|
 |**2023-12-12**|**Exploring the functional hierarchy of different pyramidal cell types in temporal processing**|Anh Duong Vo et.al.|[2312.07422](http://arxiv.org/abs/2312.07422)|null|
 |**2023-12-12**|**Robotics Applications in Neurology: A Review of Recent Advancements and Future Directions**|Retnaningsih Retnaningsih et.al.|[2312.06956](http://arxiv.org/abs/2312.06956)|null|
