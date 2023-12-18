@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Deep Event Visual Odometry**|Simon Klenk et.al.|[2312.09800](http://arxiv.org/abs/2312.09800)|null|
 |**2023-12-10**|**SuperPrimitive: Scene Reconstruction at a Primitive Level**|Kirill Mazur et.al.|[2312.05889](http://arxiv.org/abs/2312.05889)|null|
 |**2023-12-04**|**iMatching: Imperative Correspondence Learning**|Zitong Zhan et.al.|[2312.02141](http://arxiv.org/abs/2312.02141)|null|
 |**2023-11-30**|**Event-based Visual Inertial Velometer**|Xiuyuan Lu et.al.|[2311.18189](http://arxiv.org/abs/2311.18189)|null|
@@ -1902,6 +1903,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Digital Twin of a DC Brushless Electric Motor-Propeller System with Application to Drone Dynamics**|D. J. Gauthier et.al.|[2312.09981](http://arxiv.org/abs/2312.09981)|null|
+|**2023-12-15**|**A wearable Gait Assessment Method for Lumbar Disc Herniation Based on Adaptive Kalman Filtering**|Yongsong Wang et.al.|[2312.09517](http://arxiv.org/abs/2312.09517)|null|
 |**2023-12-14**|**Design, construction and evaluation of emotional multimodal pathological speech database**|Ting Zhu et.al.|[2312.08998](http://arxiv.org/abs/2312.08998)|null|
 |**2023-12-12**|**Codesign of Humanoid Robots for Ergonomy Collaboration with Multiple Humans via Genetic Algorithms and Nonlinear Optimization**|Carlotta Sartore et.al.|[2312.07459](http://arxiv.org/abs/2312.07459)|null|
 |**2023-12-12**|**Exploring the functional hierarchy of different pyramidal cell types in temporal processing**|Anh Duong Vo et.al.|[2312.07422](http://arxiv.org/abs/2312.07422)|null|
