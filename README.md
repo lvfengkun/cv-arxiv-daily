@@ -1903,6 +1903,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**Virtual Reality-Assisted Physiotherapy for Visuospatial Neglect Rehabilitation: A Proof-of-Concept Study**|Andrew Danso et.al.|[2312.12399](http://arxiv.org/abs/2312.12399)|null|
+|**2023-12-18**|**Machine Vision-Enabled Sports Performance Analysis**|Timilehin B. Aderinola et.al.|[2312.11340](http://arxiv.org/abs/2312.11340)|null|
 |**2023-12-17**|**Exploring Sound vs Vibration for Robust Fault Detection on Rotating Machinery**|Serkan Kiranyaz et.al.|[2312.10742](http://arxiv.org/abs/2312.10742)|null|
 |**2023-12-15**|**Digital Twin of a DC Brushless Electric Motor-Propeller System with Application to Drone Dynamics**|D. J. Gauthier et.al.|[2312.09981](http://arxiv.org/abs/2312.09981)|null|
 |**2023-12-15**|**A wearable Gait Assessment Method for Lumbar Disc Herniation Based on Adaptive Kalman Filtering**|Yongsong Wang et.al.|[2312.09517](http://arxiv.org/abs/2312.09517)|null|
