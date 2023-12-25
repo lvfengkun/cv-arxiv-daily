@@ -1886,6 +1886,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**The HCP multi-pipeline dataset: an opportunity to investigate analytical variability in fMRI data analysis**|Elodie Germani et.al.|[2312.14493](http://arxiv.org/abs/2312.14493)|null|
 |**2023-12-20**|**Microscopic model for a Brownian Translator**|Bart Wijns et.al.|[2312.13158](http://arxiv.org/abs/2312.13158)|null|
 |**2023-12-20**|**3D-CLMI: A Motor Imagery EEG Classification Model via Fusion of 3D-CNN and LSTM with Attention**|Shiwei Cheng et.al.|[2312.12744](http://arxiv.org/abs/2312.12744)|null|
 |**2023-12-19**|**Controllable chiral light generation and vortex field investigation using plasmonic holes revealed by cathodoluminescence**|Takumi Sannomiya et.al.|[2312.12671](http://arxiv.org/abs/2312.12671)|null|
