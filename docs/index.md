@@ -1887,6 +1887,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-29**|**Actuator-Constrained Reinforcement Learning for High-Speed Quadrupedal Locomotion**|Young-Ha Shin et.al.|[2312.17507](http://arxiv.org/abs/2312.17507)|null|
+|**2023-12-28**|**Combining Convolution Neural Networks with Long-Short Time Memory Layers to Predict Parkinson's Disease Progression**|Maria Frasca et.al.|[2312.17290](http://arxiv.org/abs/2312.17290)|null|
 |**2023-12-26**|**ANN vs SNN: A case study for Neural Decoding in Implantable Brain-Machine Interfaces**|Biyan Zhou et.al.|[2312.15889](http://arxiv.org/abs/2312.15889)|null|
 |**2023-12-26**|**Hairpin Motors for Electromobility: Twists and Bends of a Technological Breakthrough that Initially Arrived A Century Too Soon**|Stefan M. Goetz et.al.|[2312.15830](http://arxiv.org/abs/2312.15830)|null|
 |**2023-12-25**|**Astrocyte Regulated Neuromorphic CPG Control of Legged Robotic Locomotion**|Zhuangyu Han et.al.|[2312.15805](http://arxiv.org/abs/2312.15805)|null|
