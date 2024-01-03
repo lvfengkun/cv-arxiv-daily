@@ -1887,13 +1887,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**Influence of scanning plane on Human Spinal Cord functional Magnetic Resonance echo planar imaging**|Marta Moraschi et.al.|[2401.01281](http://arxiv.org/abs/2401.01281)|null|
+|**2024-01-01**|**GenH2R: Learning Generalizable Human-to-Robot Handover via Scalable Simulation, Demonstration, and Imitation**|Zifan Wang et.al.|[2401.00929](http://arxiv.org/abs/2401.00929)|null|
+|**2024-01-01**|**Enhancing Pre-trained ASR System Fine-tuning for Dysarthric Speech Recognition using Adversarial Data Augmentation**|Huimeng Wang et.al.|[2401.00662](http://arxiv.org/abs/2401.00662)|null|
 |**2023-12-29**|**Actuator-Constrained Reinforcement Learning for High-Speed Quadrupedal Locomotion**|Young-Ha Shin et.al.|[2312.17507](http://arxiv.org/abs/2312.17507)|null|
 |**2023-12-28**|**Combining Convolution Neural Networks with Long-Short Time Memory Layers to Predict Parkinson's Disease Progression**|Maria Frasca et.al.|[2312.17290](http://arxiv.org/abs/2312.17290)|null|
 |**2023-12-26**|**ANN vs SNN: A case study for Neural Decoding in Implantable Brain-Machine Interfaces**|Biyan Zhou et.al.|[2312.15889](http://arxiv.org/abs/2312.15889)|null|
 |**2023-12-26**|**Hairpin Motors for Electromobility: Twists and Bends of a Technological Breakthrough that Initially Arrived A Century Too Soon**|Stefan M. Goetz et.al.|[2312.15830](http://arxiv.org/abs/2312.15830)|null|
 |**2023-12-25**|**Astrocyte Regulated Neuromorphic CPG Control of Legged Robotic Locomotion**|Zhuangyu Han et.al.|[2312.15805](http://arxiv.org/abs/2312.15805)|null|
 |**2023-12-24**|**Inverse Measurements in Active Nematics**|Aleix Boquet-Pujadas et.al.|[2312.15553](http://arxiv.org/abs/2312.15553)|null|
-|**2023-12-22**|**Independence in the Home: A Wearable Interface for a Person with Quadriplegia to Teleoperate a Mobile Manipulator**|Akhil Padmanabha et.al.|[2312.15071](http://arxiv.org/abs/2312.15071)|null|
+|**2024-01-02**|**Independence in the Home: A Wearable Interface for a Person with Quadriplegia to Teleoperate a Mobile Manipulator**|Akhil Padmanabha et.al.|[2312.15071](http://arxiv.org/abs/2312.15071)|null|
 |**2023-12-22**|**The HCP multi-pipeline dataset: an opportunity to investigate analytical variability in fMRI data analysis**|Elodie Germani et.al.|[2312.14493](http://arxiv.org/abs/2312.14493)|null|
 |**2023-12-20**|**Microscopic model for a Brownian Translator**|Bart Wijns et.al.|[2312.13158](http://arxiv.org/abs/2312.13158)|null|
 |**2023-12-20**|**3D-CLMI: A Motor Imagery EEG Classification Model via Fusion of 3D-CNN and LSTM with Attention**|Shiwei Cheng et.al.|[2312.12744](http://arxiv.org/abs/2312.12744)|null|
