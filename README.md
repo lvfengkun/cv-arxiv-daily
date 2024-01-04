@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887](http://arxiv.org/abs/2401.01887)|null|
 |**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800](http://arxiv.org/abs/2312.16800)|**[link](https://github.com/ZikangYuan/sr_livo)**|
 |**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471](http://arxiv.org/abs/2312.13471)|null|
 |**2023-12-22**|**Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM**|Junru Lin et.al.|[2312.13332](http://arxiv.org/abs/2312.13332)|null|
@@ -1908,6 +1909,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**The Neuron as a Direct Data-Driven Controller**|Jason Moore et.al.|[2401.01489](http://arxiv.org/abs/2401.01489)|null|
 |**2024-01-02**|**Influence of scanning plane on Human Spinal Cord functional Magnetic Resonance echo planar imaging**|Marta Moraschi et.al.|[2401.01281](http://arxiv.org/abs/2401.01281)|null|
 |**2024-01-01**|**GenH2R: Learning Generalizable Human-to-Robot Handover via Scalable Simulation, Demonstration, and Imitation**|Zifan Wang et.al.|[2401.00929](http://arxiv.org/abs/2401.00929)|null|
 |**2024-01-01**|**Enhancing Pre-trained ASR System Fine-tuning for Dysarthric Speech Recognition using Adversarial Data Augmentation**|Huimeng Wang et.al.|[2401.00662](http://arxiv.org/abs/2401.00662)|null|
