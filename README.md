@@ -1909,6 +1909,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**A network-level transport model of tau progression in the Alzheimer's brain**|Veronica Tora et.al.|[2401.02407](http://arxiv.org/abs/2401.02407)|null|
 |**2024-01-03**|**The Neuron as a Direct Data-Driven Controller**|Jason Moore et.al.|[2401.01489](http://arxiv.org/abs/2401.01489)|null|
 |**2024-01-02**|**Influence of scanning plane on Human Spinal Cord functional Magnetic Resonance echo planar imaging**|Marta Moraschi et.al.|[2401.01281](http://arxiv.org/abs/2401.01281)|null|
 |**2024-01-01**|**GenH2R: Learning Generalizable Human-to-Robot Handover via Scalable Simulation, Demonstration, and Imitation**|Zifan Wang et.al.|[2401.00929](http://arxiv.org/abs/2401.00929)|null|
