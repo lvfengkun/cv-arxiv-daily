@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-07**|**Amirkabir campus dataset: Real-world challenges and scenarios of Visual Inertial Odometry (VIO) for visually impaired people**|Ali Samadzadeh et.al.|[2401.03604](http://arxiv.org/abs/2401.03604)|null|
 |**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887](http://arxiv.org/abs/2401.01887)|null|
 |**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800](http://arxiv.org/abs/2312.16800)|**[link](https://github.com/ZikangYuan/sr_livo)**|
 |**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471](http://arxiv.org/abs/2312.13471)|null|
@@ -1888,7 +1889,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-04**|**A network-level transport model of tau progression in the Alzheimer's brain**|Veronica Tora et.al.|[2401.02407](http://arxiv.org/abs/2401.02407)|null|
+|**2024-01-08**|**Active Diffusion of Self-Propelled Particles in Semi-Flexible Polymer Networks**|Yeongjin Kim et.al.|[2401.03819](http://arxiv.org/abs/2401.03819)|null|
+|**2024-01-08**|**A network-level transport model of tau progression in the Alzheimer's brain**|Veronica Tora et.al.|[2401.02407](http://arxiv.org/abs/2401.02407)|null|
 |**2024-01-03**|**The Neuron as a Direct Data-Driven Controller**|Jason Moore et.al.|[2401.01489](http://arxiv.org/abs/2401.01489)|null|
 |**2024-01-02**|**Influence of scanning plane on Human Spinal Cord functional Magnetic Resonance echo planar imaging**|Marta Moraschi et.al.|[2401.01281](http://arxiv.org/abs/2401.01281)|null|
 |**2024-01-01**|**GenH2R: Learning Generalizable Human-to-Robot Handover via Scalable Simulation, Demonstration, and Imitation**|Zifan Wang et.al.|[2401.00929](http://arxiv.org/abs/2401.00929)|null|
