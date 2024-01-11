@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.10
+## Updated on 2024.01.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1889,7 +1889,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-08**|**Active Diffusion of Self-Propelled Particles in Semi-Flexible Polymer Networks**|Yeongjin Kim et.al.|[2401.03819](http://arxiv.org/abs/2401.03819)|null|
+|**2024-01-09**|**A Deep Network for Explainable Prediction of Non-Imaging Phenotypes using Anatomical Multi-View Data**|Yuxiang Wei et.al.|[2401.04579](http://arxiv.org/abs/2401.04579)|null|
+|**2024-01-09**|**Controlling chaos: Periodic defect braiding in active nematics confined to a cardioid**|Fereshteh L. Memarian et.al.|[2401.04363](http://arxiv.org/abs/2401.04363)|null|
+|**2024-01-09**|**Active Diffusion of Self-Propelled Particles in Semi-Flexible Polymer Networks**|Yeongjin Kim et.al.|[2401.03819](http://arxiv.org/abs/2401.03819)|null|
 |**2024-01-08**|**A network-level transport model of tau progression in the Alzheimer's brain**|Veronica Tora et.al.|[2401.02407](http://arxiv.org/abs/2401.02407)|null|
 |**2024-01-03**|**The Neuron as a Direct Data-Driven Controller**|Jason Moore et.al.|[2401.01489](http://arxiv.org/abs/2401.01489)|null|
 |**2024-01-02**|**Influence of scanning plane on Human Spinal Cord functional Magnetic Resonance echo planar imaging**|Marta Moraschi et.al.|[2401.01281](http://arxiv.org/abs/2401.01281)|null|
