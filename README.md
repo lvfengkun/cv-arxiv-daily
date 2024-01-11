@@ -1910,6 +1910,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**Supramolecular assemblies in active motor-filament systems: micelles, bilayers, and foams**|Filippo De Luca et.al.|[2401.05070](http://arxiv.org/abs/2401.05070)|null|
 |**2024-01-09**|**A Deep Network for Explainable Prediction of Non-Imaging Phenotypes using Anatomical Multi-View Data**|Yuxiang Wei et.al.|[2401.04579](http://arxiv.org/abs/2401.04579)|null|
 |**2024-01-09**|**Controlling chaos: Periodic defect braiding in active nematics confined to a cardioid**|Fereshteh L. Memarian et.al.|[2401.04363](http://arxiv.org/abs/2401.04363)|null|
 |**2024-01-09**|**Active Diffusion of Self-Propelled Particles in Semi-Flexible Polymer Networks**|Yeongjin Kim et.al.|[2401.03819](http://arxiv.org/abs/2401.03819)|null|
