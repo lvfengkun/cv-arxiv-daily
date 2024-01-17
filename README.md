@@ -1912,9 +1912,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-15**|**Machine Learning Based Object Tracking**|Md Rakibul Karim Akanda et.al.|[2401.07929](http://arxiv.org/abs/2401.07929)|null|
+|**2024-01-15**|**Low-cost, Lightweight Electronic Flow Regulators for Throttling Liquid Rocket Engines**|Vint Lee et.al.|[2401.07444](http://arxiv.org/abs/2401.07444)|null|
+|**2024-01-13**|**Exploring of Discrete and Continuous Input Control for AI-enhanced Assistive Robotic Arms**|Max Pascher et.al.|[2401.07118](http://arxiv.org/abs/2401.07118)|null|
 |**2024-01-11**|**LiDAR data acquisition and processing for ecology applications**|Ion Ciobotari et.al.|[2401.05891](http://arxiv.org/abs/2401.05891)|null|
 |**2024-01-10**|**Supramolecular assemblies in active motor-filament systems: micelles, bilayers, and foams**|Filippo De Luca et.al.|[2401.05070](http://arxiv.org/abs/2401.05070)|null|
-|**2024-01-09**|**A Deep Network for Explainable Prediction of Non-Imaging Phenotypes using Anatomical Multi-View Data**|Yuxiang Wei et.al.|[2401.04579](http://arxiv.org/abs/2401.04579)|null|
+|**2024-01-13**|**A Deep Network for Explainable Prediction of Non-Imaging Phenotypes using Anatomical Multi-View Data**|Yuxiang Wei et.al.|[2401.04579](http://arxiv.org/abs/2401.04579)|null|
 |**2024-01-09**|**Controlling chaos: Periodic defect braiding in active nematics confined to a cardioid**|Fereshteh L. Memarian et.al.|[2401.04363](http://arxiv.org/abs/2401.04363)|null|
 |**2024-01-09**|**Active Diffusion of Self-Propelled Particles in Semi-Flexible Polymer Networks**|Yeongjin Kim et.al.|[2401.03819](http://arxiv.org/abs/2401.03819)|null|
 |**2024-01-08**|**A network-level transport model of tau progression in the Alzheimer's brain**|Veronica Tora et.al.|[2401.02407](http://arxiv.org/abs/2401.02407)|null|
