@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**Event-Based Visual Odometry on Non-Holonomic Ground Vehicles**|Wanting Xu et.al.|[2401.09331](http://arxiv.org/abs/2401.09331)|**[link](https://github.com/gowanting/nhevo)**|
 |**2024-01-11**|**On State Estimation in Multi-Sensor Fusion Navigation: Optimization and Filtering**|Feng Zhu et.al.|[2401.05836](http://arxiv.org/abs/2401.05836)|null|
 |**2023-12-19**|**Loss it right: Euclidean and Riemannian Metrics in Learning-based Visual Odometry**|Olaya Álvarez-Tuñón et.al.|[2401.05396](http://arxiv.org/abs/2401.05396)|**[link](https://github.com/remaro-network/Loss_VO_right)**|
 |**2024-01-07**|**Amirkabir campus dataset: Real-world challenges and scenarios of Visual Inertial Odometry (VIO) for visually impaired people**|Ali Samadzadeh et.al.|[2401.03604](http://arxiv.org/abs/2401.03604)|**[link](https://github.com/A3DV/VIRec)**|
@@ -1891,6 +1892,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**Graph-based vulnerability assessment of resting-state functional brain networks in full-term neonates**|Mahshid Fouladivanda et.al.|[2401.09255](http://arxiv.org/abs/2401.09255)|null|
+|**2024-01-17**|**Uncertainty estimates for semantic segmentation: providing enhanced reliability for automated motor claims handling**|Jan Küchler et.al.|[2401.09245](http://arxiv.org/abs/2401.09245)|null|
+|**2024-01-16**|**Wind tunnel actuation movement system**|Qiaoqiao Ren et.al.|[2401.08844](http://arxiv.org/abs/2401.08844)|null|
 |**2024-01-15**|**Machine Learning Based Object Tracking**|Md Rakibul Karim Akanda et.al.|[2401.07929](http://arxiv.org/abs/2401.07929)|null|
 |**2024-01-15**|**Low-cost, Lightweight Electronic Flow Regulators for Throttling Liquid Rocket Engines**|Vint Lee et.al.|[2401.07444](http://arxiv.org/abs/2401.07444)|null|
 |**2024-01-13**|**Exploring of Discrete and Continuous Input Control for AI-enhanced Assistive Robotic Arms**|Max Pascher et.al.|[2401.07118](http://arxiv.org/abs/2401.07118)|null|
