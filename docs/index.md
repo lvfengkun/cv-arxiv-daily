@@ -1892,6 +1892,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**Thermodynamic precision of a chain of motors: the difference between phase and noise correlation**|Giulio Costantini et.al.|[2401.09952](http://arxiv.org/abs/2401.09952)|null|
 |**2024-01-17**|**Graph-based vulnerability assessment of resting-state functional brain networks in full-term neonates**|Mahshid Fouladivanda et.al.|[2401.09255](http://arxiv.org/abs/2401.09255)|null|
 |**2024-01-17**|**Uncertainty estimates for semantic segmentation: providing enhanced reliability for automated motor claims handling**|Jan Küchler et.al.|[2401.09245](http://arxiv.org/abs/2401.09245)|null|
 |**2024-01-16**|**Wind tunnel actuation movement system**|Qiaoqiao Ren et.al.|[2401.08844](http://arxiv.org/abs/2401.08844)|null|
