@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning**|André O. Françani et.al.|[2401.10857](http://arxiv.org/abs/2401.10857)|null|
 |**2024-01-17**|**Event-Based Visual Odometry on Non-Holonomic Ground Vehicles**|Wanting Xu et.al.|[2401.09331](http://arxiv.org/abs/2401.09331)|**[link](https://github.com/gowanting/nhevo)**|
 |**2024-01-11**|**On State Estimation in Multi-Sensor Fusion Navigation: Optimization and Filtering**|Feng Zhu et.al.|[2401.05836](http://arxiv.org/abs/2401.05836)|null|
 |**2023-12-19**|**Loss it right: Euclidean and Riemannian Metrics in Learning-based Visual Odometry**|Olaya Álvarez-Tuñón et.al.|[2401.05396](http://arxiv.org/abs/2401.05396)|**[link](https://github.com/remaro-network/Loss_VO_right)**|
@@ -1892,6 +1893,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**Detecting Post-Stroke Aphasia Via Brain Responses to Speech in a Deep Learning Framework**|Pieter De Clercq et.al.|[2401.10291](http://arxiv.org/abs/2401.10291)|null|
+|**2024-01-17**|**Design and development of opto-neural processors for simulation of neural networks trained in image detection for potential implementation in hybrid robotics**|Sanjana Shetty et.al.|[2401.10289](http://arxiv.org/abs/2401.10289)|null|
 |**2024-01-18**|**Thermodynamic precision of a chain of motors: the difference between phase and noise correlation**|Giulio Costantini et.al.|[2401.09952](http://arxiv.org/abs/2401.09952)|null|
 |**2024-01-17**|**Graph-based vulnerability assessment of resting-state functional brain networks in full-term neonates**|Mahshid Fouladivanda et.al.|[2401.09255](http://arxiv.org/abs/2401.09255)|null|
 |**2024-01-17**|**Uncertainty estimates for semantic segmentation: providing enhanced reliability for automated motor claims handling**|Jan Küchler et.al.|[2401.09245](http://arxiv.org/abs/2401.09245)|null|
