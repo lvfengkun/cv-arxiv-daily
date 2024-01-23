@@ -1893,6 +1893,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**Beyond the Manual Touch: Situational-aware Force Control for Increased Safety in Robot-assisted Skullbase Surgery**|Hisashi Ishida et.al.|[2401.11721](http://arxiv.org/abs/2401.11721)|null|
+|**2024-01-20**|**A versatile apparatus for simultaneous trapping of multiple species of ultracold atoms and ions to enable studies of low energy collisions and cold chemistry**|Bubai Rahaman et.al.|[2401.11233](http://arxiv.org/abs/2401.11233)|null|
 |**2024-01-17**|**Detecting Post-Stroke Aphasia Via Brain Responses to Speech in a Deep Learning Framework**|Pieter De Clercq et.al.|[2401.10291](http://arxiv.org/abs/2401.10291)|null|
 |**2024-01-17**|**Design and development of opto-neural processors for simulation of neural networks trained in image detection for potential implementation in hybrid robotics**|Sanjana Shetty et.al.|[2401.10289](http://arxiv.org/abs/2401.10289)|null|
 |**2024-01-18**|**Thermodynamic precision of a chain of motors: the difference between phase and noise correlation**|Giulio Costantini et.al.|[2401.09952](http://arxiv.org/abs/2401.09952)|null|
