@@ -1893,6 +1893,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**Guiding Soft Robots with Motor-Imagery Brain Signals and Impedance Control**|Maximilian Stölzle et.al.|[2401.13441](http://arxiv.org/abs/2401.13441)|null|
+|**2024-01-24**|**Single NV in nanodiamond for quantum sensing of protein dynamics in an ABEL trap**|Ivan Perez et.al.|[2401.13180](http://arxiv.org/abs/2401.13180)|null|
 |**2024-01-22**|**Beyond the Manual Touch: Situational-aware Force Control for Increased Safety in Robot-assisted Skullbase Surgery**|Hisashi Ishida et.al.|[2401.11721](http://arxiv.org/abs/2401.11721)|null|
 |**2024-01-20**|**A versatile apparatus for simultaneous trapping of multiple species of ultracold atoms and ions to enable studies of low energy collisions and cold chemistry**|Bubai Rahaman et.al.|[2401.11233](http://arxiv.org/abs/2401.11233)|null|
 |**2024-01-17**|**Detecting Post-Stroke Aphasia Via Brain Responses to Speech in a Deep Learning Framework**|Pieter De Clercq et.al.|[2401.10291](http://arxiv.org/abs/2401.10291)|null|
