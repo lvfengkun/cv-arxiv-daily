@@ -1893,6 +1893,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**PWM strategy with harmonics injection and modulated frequency triangular carrier. A review**|Antonio Ruiz-Gonzalez et.al.|[2401.14297](http://arxiv.org/abs/2401.14297)|null|
+|**2024-01-25**|**Pulse width modulation technique with harmonic injection in the modulating wave and discontinuous frequency modulation for the carrier wave to reduce vibrations in asynchronous machines**|Antonio Ruiz-Gonzalez et.al.|[2401.14263](http://arxiv.org/abs/2401.14263)|null|
+|**2024-01-25**|**Left/Right Brain, human motor control and the implications for robotics**|Jarrad Rinaldo et.al.|[2401.14057](http://arxiv.org/abs/2401.14057)|null|
 |**2024-01-24**|**Guiding Soft Robots with Motor-Imagery Brain Signals and Impedance Control**|Maximilian Stölzle et.al.|[2401.13441](http://arxiv.org/abs/2401.13441)|null|
 |**2024-01-24**|**Single NV in nanodiamond for quantum sensing of protein dynamics in an ABEL trap**|Ivan Perez et.al.|[2401.13180](http://arxiv.org/abs/2401.13180)|null|
 |**2024-01-22**|**Beyond the Manual Touch: Situational-aware Force Control for Increased Safety in Robot-assisted Skullbase Surgery**|Hisashi Ishida et.al.|[2401.11721](http://arxiv.org/abs/2401.11721)|null|
