@@ -1914,6 +1914,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Motion-induced error reduction for high-speed dynamic digital fringe projection system**|Sanghoon Jeon et.al.|[2401.15938](http://arxiv.org/abs/2401.15938)|null|
+|**2024-01-28**|**ARGOS: An Automaton Referencing Guided Overtake System for Head-to-Head Autonomous Racing**|Varundev Sukhil et.al.|[2401.15783](http://arxiv.org/abs/2401.15783)|null|
+|**2024-01-27**|**Pulse-Width Modulation Technique With Harmonic Injection in the Modulating Wave and Discontinuous Frequency Modulation for the Carrier Wave for Multilevel Inverters: An Application to the Reduction of Acoustic Noise in Induction Motors**|Antonio Ruiz-Gonzalez et.al.|[2401.15486](http://arxiv.org/abs/2401.15486)|null|
+|**2024-01-27**|**R $\times$ R: Rapid eXploration for Reinforcement Learning via Sampling-based Reset Distributions and Imitation Pre-training**|Gagan Khandate et.al.|[2401.15484](http://arxiv.org/abs/2401.15484)|null|
+|**2024-01-27**|**iDeLog: Iterative Dual Spatial and Kinematic Extraction of Sigma-Lognormal Parameters**|Miguel A. Ferrer et.al.|[2401.15473](http://arxiv.org/abs/2401.15473)|null|
+|**2024-01-27**|**Fault Diagnosis on Induction Motor using Machine Learning and Signal Processing**|Muhammad Samiullah et.al.|[2401.15417](http://arxiv.org/abs/2401.15417)|null|
+|**2024-01-27**|**Hyperphosphorylation-Induced Phase Transition in Vesicle Delivery Dynamics of Motor Proteins in Neuronal Cells**|Eunsang Lee et.al.|[2401.15413](http://arxiv.org/abs/2401.15413)|null|
+|**2024-01-27**|**Validation of artificial neural networks to model the acoustic behaviour of induction motors**|F. J. Jimenez-Romero et.al.|[2401.15377](http://arxiv.org/abs/2401.15377)|null|
 |**2024-01-25**|**PWM strategy with harmonics injection and modulated frequency triangular carrier. A review**|Antonio Ruiz-Gonzalez et.al.|[2401.14297](http://arxiv.org/abs/2401.14297)|null|
 |**2024-01-25**|**Pulse width modulation technique with harmonic injection in the modulating wave and discontinuous frequency modulation for the carrier wave to reduce vibrations in asynchronous machines**|Antonio Ruiz-Gonzalez et.al.|[2401.14263](http://arxiv.org/abs/2401.14263)|null|
 |**2024-01-25**|**Left/Right Brain, human motor control and the implications for robotics**|Jarrad Rinaldo et.al.|[2401.14057](http://arxiv.org/abs/2401.14057)|null|
