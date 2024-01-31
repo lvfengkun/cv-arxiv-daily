@@ -1893,6 +1893,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Wrist movement classification for adaptive mobile phone based rehabilitation of children with motor skill impairments**|Kayleigh Schoorl et.al.|[2401.17134](http://arxiv.org/abs/2401.17134)|null|
+|**2024-01-30**|**Static and Dynamic Synthesis of Bengali and Devanagari Signatures**|Miguel A. Ferrer et.al.|[2401.17026](http://arxiv.org/abs/2401.17026)|null|
+|**2024-01-29**|**Discontinuous PWM Strategy with Frequency Modulation for Vibration Reduction in Asynchronous Machines**|A Ruiz-Gonzalez et.al.|[2401.16557](http://arxiv.org/abs/2401.16557)|null|
+|**2024-01-28**|**ACCESS: Prompt Engineering for Automated Web Accessibility Violation Corrections**|Calista Huang et.al.|[2401.16450](http://arxiv.org/abs/2401.16450)|null|
 |**2024-01-29**|**Motion-induced error reduction for high-speed dynamic digital fringe projection system**|Sanghoon Jeon et.al.|[2401.15938](http://arxiv.org/abs/2401.15938)|null|
 |**2024-01-28**|**ARGOS: An Automaton Referencing Guided Overtake System for Head-to-Head Autonomous Racing**|Varundev Sukhil et.al.|[2401.15783](http://arxiv.org/abs/2401.15783)|null|
 |**2024-01-27**|**Pulse-Width Modulation Technique With Harmonic Injection in the Modulating Wave and Discontinuous Frequency Modulation for the Carrier Wave for Multilevel Inverters: An Application to the Reduction of Acoustic Noise in Induction Motors**|Antonio Ruiz-Gonzalez et.al.|[2401.15486](http://arxiv.org/abs/2401.15486)|null|
