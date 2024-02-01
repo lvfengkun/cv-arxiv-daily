@@ -1914,6 +1914,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-31**|**Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion**|Tairan He et.al.|[2401.17583](http://arxiv.org/abs/2401.17583)|null|
+|**2024-01-27**|**Sigma-lognormal modeling of speech**|C. Carmona-Duarte et.al.|[2401.17320](http://arxiv.org/abs/2401.17320)|null|
 |**2024-01-30**|**Wrist movement classification for adaptive mobile phone based rehabilitation of children with motor skill impairments**|Kayleigh Schoorl et.al.|[2401.17134](http://arxiv.org/abs/2401.17134)|null|
 |**2024-01-30**|**Static and Dynamic Synthesis of Bengali and Devanagari Signatures**|Miguel A. Ferrer et.al.|[2401.17026](http://arxiv.org/abs/2401.17026)|null|
 |**2024-01-29**|**Discontinuous PWM Strategy with Frequency Modulation for Vibration Reduction in Asynchronous Machines**|A Ruiz-Gonzalez et.al.|[2401.16557](http://arxiv.org/abs/2401.16557)|null|
