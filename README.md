@@ -1914,6 +1914,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**SLIM: Skill Learning with Multiple Critics**|David Emukpere et.al.|[2402.00823](http://arxiv.org/abs/2402.00823)|null|
 |**2024-01-31**|**Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion**|Tairan He et.al.|[2401.17583](http://arxiv.org/abs/2401.17583)|null|
 |**2024-01-27**|**Sigma-lognormal modeling of speech**|C. Carmona-Duarte et.al.|[2401.17320](http://arxiv.org/abs/2401.17320)|null|
 |**2024-01-30**|**Wrist movement classification for adaptive mobile phone based rehabilitation of children with motor skill impairments**|Kayleigh Schoorl et.al.|[2401.17134](http://arxiv.org/abs/2401.17134)|null|
