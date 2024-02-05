@@ -1914,6 +1914,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Robust Commutation Design: Applied to Switched Reluctance Motors**|Max van Meer et.al.|[2402.01216](http://arxiv.org/abs/2402.01216)|null|
+|**2024-02-02**|**Simulation Framework for Vehicle and Electric Scooter Interaction**|Zhitong He et.al.|[2402.01104](http://arxiv.org/abs/2402.01104)|null|
+|**2024-02-02**|**Neural Models and Algorithms for Sensorimotor Control of an Octopus Arm**|Tixian Wang et.al.|[2402.01074](http://arxiv.org/abs/2402.01074)|null|
 |**2024-02-01**|**SLIM: Skill Learning with Multiple Critics**|David Emukpere et.al.|[2402.00823](http://arxiv.org/abs/2402.00823)|null|
 |**2024-01-31**|**Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion**|Tairan He et.al.|[2401.17583](http://arxiv.org/abs/2401.17583)|null|
 |**2024-01-27**|**Sigma-lognormal modeling of speech**|C. Carmona-Duarte et.al.|[2401.17320](http://arxiv.org/abs/2401.17320)|null|
