@@ -1915,6 +1915,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**FLAGRED -- Fuzzy Logic-based Algorithm Generalizing Risk Estimation for Drones**|Samuel Hovington et.al.|[2402.04518](http://arxiv.org/abs/2402.04518)|null|
 |**2024-02-06**|**PMSM transient response optimization by end-to-end optimal control**|Yuta Kawachi et.al.|[2402.03820](http://arxiv.org/abs/2402.03820)|null|
 |**2024-02-05**|**ANN-based position and speed sensorless estimation for BLDC motors**|Jose-Carlos Gamazo-Real et.al.|[2402.03534](http://arxiv.org/abs/2402.03534)|null|
 |**2024-02-05**|**Classification of Emerging Neural Activity from Planning to Grasp Execution using a Novel EEG-Based BCI Platform**|Anna Cetera et.al.|[2402.03493](http://arxiv.org/abs/2402.03493)|null|
