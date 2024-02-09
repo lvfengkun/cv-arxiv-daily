@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Online and Certifiably Correct Visual Odometry and Mapping**|Devansh R Agrawal et.al.|[2402.05254](http://arxiv.org/abs/2402.05254)|null|
 |**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989](http://arxiv.org/abs/2402.03989)|null|
 |**2024-01-19**|**Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning**|André O. Françani et.al.|[2401.10857](http://arxiv.org/abs/2401.10857)|null|
 |**2024-01-17**|**Event-Based Visual Odometry on Non-Holonomic Ground Vehicles**|Wanting Xu et.al.|[2401.09331](http://arxiv.org/abs/2401.09331)|**[link](https://github.com/gowanting/nhevo)**|
@@ -1915,6 +1916,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**Determining the severity of Parkinson's disease in patients using a multi task neural network**|María Teresa García-Ordás et.al.|[2402.05491](http://arxiv.org/abs/2402.05491)|null|
+|**2024-02-08**|**Learning to Control Emulated Muscles in Real Robots: Towards Exploiting Bio-Inspired Actuator Morphology**|Pierre Schumacher et.al.|[2402.05371](http://arxiv.org/abs/2402.05371)|null|
+|**2024-02-07**|**Position and Speed Control of Brushless DC Motors Using Sensorless Techniques and Application Trends**|Jose-Carlos Gamazo-Real et.al.|[2402.05263](http://arxiv.org/abs/2402.05263)|null|
+|**2024-02-07**|**TMS-EEG Reliability: Bridging the Gap to Clinical Use**|Giacomo Bertazzoli et.al.|[2402.05216](http://arxiv.org/abs/2402.05216)|null|
 |**2024-02-07**|**FLAGRED -- Fuzzy Logic-based Algorithm Generalizing Risk Estimation for Drones**|Samuel Hovington et.al.|[2402.04518](http://arxiv.org/abs/2402.04518)|null|
 |**2024-02-06**|**PMSM transient response optimization by end-to-end optimal control**|Yuta Kawachi et.al.|[2402.03820](http://arxiv.org/abs/2402.03820)|null|
 |**2024-02-05**|**ANN-based position and speed sensorless estimation for BLDC motors**|Jose-Carlos Gamazo-Real et.al.|[2402.03534](http://arxiv.org/abs/2402.03534)|null|
