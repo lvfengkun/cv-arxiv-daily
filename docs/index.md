@@ -1895,6 +1895,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-09**|**The Effect of Haptic Guidance during Robotic-assisted Motor Training is Modulated by Personality Traits**|Alberto Garzás-Villar et.al.|[2402.06325](http://arxiv.org/abs/2402.06325)|null|
 |**2024-02-08**|**Determining the severity of Parkinson's disease in patients using a multi task neural network**|María Teresa García-Ordás et.al.|[2402.05491](http://arxiv.org/abs/2402.05491)|null|
 |**2024-02-08**|**Learning to Control Emulated Muscles in Real Robots: Towards Exploiting Bio-Inspired Actuator Morphology**|Pierre Schumacher et.al.|[2402.05371](http://arxiv.org/abs/2402.05371)|null|
 |**2024-02-07**|**Position and Speed Control of Brushless DC Motors Using Sensorless Techniques and Application Trends**|Jose-Carlos Gamazo-Real et.al.|[2402.05263](http://arxiv.org/abs/2402.05263)|null|
