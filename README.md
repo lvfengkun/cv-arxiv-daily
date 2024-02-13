@@ -1916,6 +1916,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Advecting Scaffolds: Controlling The Remodelling Of Actomyosin With Anillin**|Denni Currin-Ross et.al.|[2402.07430](http://arxiv.org/abs/2402.07430)|null|
+|**2024-02-12**|**A Unified MPC Strategy for a Tilt-rotor VTOL UAV Towards Seamless Mode Transitioning**|Qizhao Chen et.al.|[2402.07375](http://arxiv.org/abs/2402.07375)|null|
+|**2024-02-10**|**Nonlinear Modes as a Tool for Comparing the Mathematical Structure of Dynamic Models of Soft Robots**|Pietro Pustina et.al.|[2402.07038](http://arxiv.org/abs/2402.07038)|null|
+|**2024-02-10**|**Space-time shape optimization of rotating electric machines**|Alessio Cesarano et.al.|[2402.07017](http://arxiv.org/abs/2402.07017)|null|
 |**2024-02-09**|**The Effect of Haptic Guidance during Robotic-assisted Motor Training is Modulated by Personality Traits**|Alberto Garzás-Villar et.al.|[2402.06325](http://arxiv.org/abs/2402.06325)|null|
 |**2024-02-08**|**Determining the severity of Parkinson's disease in patients using a multi task neural network**|María Teresa García-Ordás et.al.|[2402.05491](http://arxiv.org/abs/2402.05491)|null|
 |**2024-02-08**|**Learning to Control Emulated Muscles in Real Robots: Towards Exploiting Bio-Inspired Actuator Morphology**|Pierre Schumacher et.al.|[2402.05371](http://arxiv.org/abs/2402.05371)|null|
