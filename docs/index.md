@@ -1895,6 +1895,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Design Space of Visual Feedforward And Corrective Feedback in XR-Based Motion Guidance Systems**|Xingyao Yu et.al.|[2402.09182](http://arxiv.org/abs/2402.09182)|null|
 |**2024-02-13**|**TurtleRabbit 2024 SSL Team Description Paper**|Linh Trinh et.al.|[2402.08205](http://arxiv.org/abs/2402.08205)|null|
 |**2024-02-12**|**Grasp Force Assistance via Throttle-based Wrist Angle Control on a Robotic Hand Orthosis for C6-C7 Spinal Cord Injury**|Joaquin Palacios et.al.|[2402.08020](http://arxiv.org/abs/2402.08020)|null|
 |**2024-02-12**|**Advecting Scaffolds: Controlling The Remodelling Of Actomyosin With Anillin**|Denni Currin-Ross et.al.|[2402.07430](http://arxiv.org/abs/2402.07430)|null|
