@@ -1916,9 +1916,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**Automatic Circular Take-off and Landing of Tethered Motorized Aircraft**|Sérgio Vinha et.al.|[2402.10603](http://arxiv.org/abs/2402.10603)|null|
+|**2024-02-16**|**Can Transformers Predict Vibrations?**|Fusataka Kuniyoshi et.al.|[2402.10511](http://arxiv.org/abs/2402.10511)|null|
 |**2024-02-15**|**R4: rapid reproducible robotics research open hardware control system**|Chris Waltham et.al.|[2402.09833](http://arxiv.org/abs/2402.09833)|null|
 |**2024-02-09**|**RLEEGNet: Integrating Brain-Computer Interfaces with Adaptive AI for Intuitive Responsiveness and High-Accuracy Motor Imagery Classification**|Sriram V. C. Nallani et.al.|[2402.09465](http://arxiv.org/abs/2402.09465)|null|
-|**2024-02-14**|**Design Space of Visual Feedforward And Corrective Feedback in XR-Based Motion Guidance Systems**|Xingyao Yu et.al.|[2402.09182](http://arxiv.org/abs/2402.09182)|null|
+|**2024-02-16**|**Design Space of Visual Feedforward And Corrective Feedback in XR-Based Motion Guidance Systems**|Xingyao Yu et.al.|[2402.09182](http://arxiv.org/abs/2402.09182)|null|
 |**2024-02-13**|**TurtleRabbit 2024 SSL Team Description Paper**|Linh Trinh et.al.|[2402.08205](http://arxiv.org/abs/2402.08205)|null|
 |**2024-02-12**|**Grasp Force Assistance via Throttle-based Wrist Angle Control on a Robotic Hand Orthosis for C6-C7 Spinal Cord Injury**|Joaquin Palacios et.al.|[2402.08020](http://arxiv.org/abs/2402.08020)|null|
 |**2024-02-12**|**Advecting Scaffolds: Controlling The Remodelling Of Actomyosin With Anillin**|Denni Currin-Ross et.al.|[2402.07430](http://arxiv.org/abs/2402.07430)|null|
