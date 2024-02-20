@@ -1916,6 +1916,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**Design and evaluation of a multi-finger skin-stretch tactile interface for hand rehabilitation robots**|Alexandre L. Ratschat et.al.|[2402.12060](http://arxiv.org/abs/2402.12060)|null|
+|**2024-02-19**|**Incipient Slip Detection by Vibration Injection into Soft Sensor**|Naoto Komeno et.al.|[2402.11879](http://arxiv.org/abs/2402.11879)|null|
+|**2024-02-19**|**Early feasibility of an embedded bi-directional brain-computer interface for ambulation**|Jeffrey Lim et.al.|[2402.11776](http://arxiv.org/abs/2402.11776)|null|
+|**2024-02-18**|**Dynamic planning in hierarchical active inference**|Matteo Priorelli et.al.|[2402.11658](http://arxiv.org/abs/2402.11658)|null|
+|**2024-02-18**|**Designing interactive data visualizations representing recovery progress for patients after stroke**|Alicia Ouskine et.al.|[2402.11590](http://arxiv.org/abs/2402.11590)|null|
+|**2024-02-18**|**Formation and manipulation of diatomic rotors at the symmetry-breaking surfaces of kagome superconductors**|Zihao Huang et.al.|[2402.11519](http://arxiv.org/abs/2402.11519)|null|
+|**2024-02-16**|**The weak relationship between ankle proprioception and gait speed after stroke a robotic assessment study**|Christopher A. Johnson et.al.|[2402.11110](http://arxiv.org/abs/2402.11110)|null|
 |**2024-02-16**|**Automatic Circular Take-off and Landing of Tethered Motorized Aircraft**|Sérgio Vinha et.al.|[2402.10603](http://arxiv.org/abs/2402.10603)|null|
 |**2024-02-16**|**Can Transformers Predict Vibrations?**|Fusataka Kuniyoshi et.al.|[2402.10511](http://arxiv.org/abs/2402.10511)|null|
 |**2024-02-15**|**R4: rapid reproducible robotics research open hardware control system**|Chris Waltham et.al.|[2402.09833](http://arxiv.org/abs/2402.09833)|null|
