@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Landmark-based Localization using Stereo Vision and Deep Learning in GPS-Denied Battlefield Environment**|Ganesh Sapkota et.al.|[2402.12551](http://arxiv.org/abs/2402.12551)|null|
 |**2024-02-07**|**Online and Certifiably Correct Visual Odometry and Mapping**|Devansh R Agrawal et.al.|[2402.05254](http://arxiv.org/abs/2402.05254)|null|
 |**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989](http://arxiv.org/abs/2402.03989)|**[link](https://github.com/unibwtas/yolopoint)**|
 |**2024-01-19**|**Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning**|André O. Françani et.al.|[2401.10857](http://arxiv.org/abs/2401.10857)|null|
@@ -1895,6 +1896,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**Gimbal Actuator Modeling for a Spin-Stabilized Spacecraft Equipped with a 1DoF Gimbaled-Thruster and two Reaction Wheels**|Hamed Kouhi et.al.|[2402.12922](http://arxiv.org/abs/2402.12922)|null|
 |**2024-02-19**|**Design and evaluation of a multi-finger skin-stretch tactile interface for hand rehabilitation robots**|Alexandre L. Ratschat et.al.|[2402.12060](http://arxiv.org/abs/2402.12060)|null|
 |**2024-02-19**|**Incipient Slip Detection by Vibration Injection into Soft Sensor**|Naoto Komeno et.al.|[2402.11879](http://arxiv.org/abs/2402.11879)|null|
 |**2024-02-19**|**Early feasibility of an embedded bi-directional brain-computer interface for ambulation**|Jeffrey Lim et.al.|[2402.11776](http://arxiv.org/abs/2402.11776)|null|
