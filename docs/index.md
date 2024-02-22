@@ -1896,6 +1896,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-21**|**Optimisation of design parameters to improve performance of a planar electromagnetic actuator**|K. S. Vikrant et.al.|[2402.13436](http://arxiv.org/abs/2402.13436)|null|
+|**2024-02-20**|**Vision System Prototype for Inspection and Monitoring with a Smart Camera**|Efren Hernández-Molina et.al.|[2402.13306](http://arxiv.org/abs/2402.13306)|null|
 |**2024-02-20**|**Gimbal Actuator Modeling for a Spin-Stabilized Spacecraft Equipped with a 1DoF Gimbaled-Thruster and two Reaction Wheels**|Hamed Kouhi et.al.|[2402.12922](http://arxiv.org/abs/2402.12922)|null|
 |**2024-02-19**|**Design and evaluation of a multi-finger skin-stretch tactile interface for hand rehabilitation robots**|Alexandre L. Ratschat et.al.|[2402.12060](http://arxiv.org/abs/2402.12060)|null|
 |**2024-02-19**|**Incipient Slip Detection by Vibration Injection into Soft Sensor**|Naoto Komeno et.al.|[2402.11879](http://arxiv.org/abs/2402.11879)|null|
