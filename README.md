@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Secure Navigation using Landmark-based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2402.14280](http://arxiv.org/abs/2402.14280)|null|
 |**2024-02-19**|**Landmark-based Localization using Stereo Vision and Deep Learning in GPS-Denied Battlefield Environment**|Ganesh Sapkota et.al.|[2402.12551](http://arxiv.org/abs/2402.12551)|null|
 |**2024-02-07**|**Online and Certifiably Correct Visual Odometry and Mapping**|Devansh R Agrawal et.al.|[2402.05254](http://arxiv.org/abs/2402.05254)|null|
 |**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989](http://arxiv.org/abs/2402.03989)|**[link](https://github.com/unibwtas/yolopoint)**|
@@ -1917,6 +1918,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Modeling 3D Infant Kinetics Using Adaptive Graph Convolutional Networks**|Daniel Holmberg et.al.|[2402.14400](http://arxiv.org/abs/2402.14400)|**[link](https://github.com/deinal/infant-aagcn)**|
 |**2024-02-21**|**Optimisation of design parameters to improve performance of a planar electromagnetic actuator**|K. S. Vikrant et.al.|[2402.13436](http://arxiv.org/abs/2402.13436)|null|
 |**2024-02-20**|**Vision System Prototype for Inspection and Monitoring with a Smart Camera**|Efren Hernández-Molina et.al.|[2402.13306](http://arxiv.org/abs/2402.13306)|null|
 |**2024-02-20**|**Gimbal Actuator Modeling for a Spin-Stabilized Spacecraft Equipped with a 1DoF Gimbaled-Thruster and two Reaction Wheels**|Hamed Kouhi et.al.|[2402.12922](http://arxiv.org/abs/2402.12922)|null|
