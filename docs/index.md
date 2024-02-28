@@ -1898,6 +1898,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Bypass mechanism of F $_1$ -ATPase for asymmetric enzyme kinetics**|Yohei Nakayama et.al.|[2402.17326](http://arxiv.org/abs/2402.17326)|null|
+|**2024-02-26**|**Recent progress in the physical principles of dynamic ground self-righting**|Chen Li et.al.|[2402.16747](http://arxiv.org/abs/2402.16747)|null|
 |**2024-02-22**|**Modeling 3D Infant Kinetics Using Adaptive Graph Convolutional Networks**|Daniel Holmberg et.al.|[2402.14400](http://arxiv.org/abs/2402.14400)|**[link](https://github.com/deinal/infant-aagcn)**|
 |**2024-02-21**|**Optimisation of design parameters to improve performance of a planar electromagnetic actuator**|K. S. Vikrant et.al.|[2402.13436](http://arxiv.org/abs/2402.13436)|null|
 |**2024-02-20**|**Vision System Prototype for Inspection and Monitoring with a Smart Camera**|Efren Hernández-Molina et.al.|[2402.13306](http://arxiv.org/abs/2402.13306)|null|
