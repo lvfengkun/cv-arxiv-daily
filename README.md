@@ -1919,6 +1919,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Continuous Sign Language Recognition Based on Motor attention mechanism and frame-level Self-distillation**|Qidan Zhu et.al.|[2402.19118](http://arxiv.org/abs/2402.19118)|null|
+|**2024-02-29**|**Spline-Based Rotor and Stator Optimization of a Permanent Magnet Synchronous Motor**|Michael Wiesheu et.al.|[2402.19065](http://arxiv.org/abs/2402.19065)|null|
 |**2024-02-28**|**Factors influencing the stability of the motor-clutch model on compliant substrates under external load**|Beibei Shen et.al.|[2402.18363](http://arxiv.org/abs/2402.18363)|null|
 |**2024-02-28**|**Affective State Detection using fNIRs and Machine Learning**|Ritam Ghosh et.al.|[2402.18241](http://arxiv.org/abs/2402.18241)|null|
 |**2024-02-28**|**A Compact Anomaly Detection Solution for Science Instruments**|Alfonso Lagares de Toledo et.al.|[2402.17961](http://arxiv.org/abs/2402.17961)|null|
