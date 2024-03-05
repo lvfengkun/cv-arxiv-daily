@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-02**|**Grid-based Fast and Structural Visual Odometry**|Zhang Zhihe et.al.|[2403.01110](http://arxiv.org/abs/2403.01110)|null|
 |**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|**[link](https://github.com/master-cai/voloc)**|
 |**2024-02-22**|**Secure Navigation using Landmark-based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2402.14280](http://arxiv.org/abs/2402.14280)|null|
 |**2024-02-19**|**Landmark-based Localization using Stereo Vision and Deep Learning in GPS-Denied Battlefield Environment**|Ganesh Sapkota et.al.|[2402.12551](http://arxiv.org/abs/2402.12551)|null|
@@ -1898,6 +1899,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-01**|**An internal sensory model allows for balance control based on non-actionable proprioceptive feedback**|Eric Maris et.al.|[2403.00951](http://arxiv.org/abs/2403.00951)|null|
+|**2024-03-01**|**Multiple Ways of Working with Users to Develop Physically Assistive Robots**|Amal Nanavati et.al.|[2403.00489](http://arxiv.org/abs/2403.00489)|null|
+|**2024-03-01**|**Robustifying a Policy in Multi-Agent RL with Diverse Cooperative Behavior and Adversarial Style Sampling for Assistive Tasks**|Tayuki Osa et.al.|[2403.00344](http://arxiv.org/abs/2403.00344)|null|
+|**2024-02-29**|**From Flies to Robots: Inverted Landing in Small Quadcopters with Dynamic Perching**|Bryan Habas et.al.|[2403.00128](http://arxiv.org/abs/2403.00128)|null|
 |**2024-02-29**|**Continuous Sign Language Recognition Based on Motor attention mechanism and frame-level Self-distillation**|Qidan Zhu et.al.|[2402.19118](http://arxiv.org/abs/2402.19118)|null|
 |**2024-02-29**|**Spline-Based Rotor and Stator Optimization of a Permanent Magnet Synchronous Motor**|Michael Wiesheu et.al.|[2402.19065](http://arxiv.org/abs/2402.19065)|null|
 |**2024-02-28**|**Factors influencing the stability of the motor-clutch model on compliant substrates under external load**|Beibei Shen et.al.|[2402.18363](http://arxiv.org/abs/2402.18363)|null|
