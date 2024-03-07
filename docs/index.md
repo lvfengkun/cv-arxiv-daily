@@ -1899,6 +1899,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**FingerNet: EEG Decoding of A Fine Motor Imagery with Finger-tapping Task Based on A Deep Neural Network**|Young-Min Go et.al.|[2403.03526](http://arxiv.org/abs/2403.03526)|null|
+|**2024-03-06**|**Energetic and Control Trade-offs in Spring-Wing Systems**|James Lynch et.al.|[2403.03398](http://arxiv.org/abs/2403.03398)|null|
 |**2024-03-04**|**An Efficient Model-Based Approach on Learning Agile Motor Skills without Reinforcement**|Haojie Shi et.al.|[2403.01962](http://arxiv.org/abs/2403.01962)|null|
 |**2024-03-05**|**Aerial Tensile Perching and Disentangling Mechanism for Long-Term Environmental Monitoring**|Tian Lan et.al.|[2403.01890](http://arxiv.org/abs/2403.01890)|null|
 |**2024-03-04**|**SAQIEL: Ultra-Light and Safe Manipulator with Passive 3D Wire Alignment Mechanism**|Temma Suzuki et.al.|[2403.01803](http://arxiv.org/abs/2403.01803)|null|
