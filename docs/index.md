@@ -1899,6 +1899,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**Spatiotemporal Predictive Pre-training for Robotic Motor Control**|Jiange Yang et.al.|[2403.05304](http://arxiv.org/abs/2403.05304)|null|
+|**2024-03-08**|**To Reach the Unreachable: Exploring the Potential of VR Hand Redirection for Upper Limb Rehabilitation**|Peixuan Xiong et.al.|[2403.05264](http://arxiv.org/abs/2403.05264)|null|
 |**2024-03-07**|**Stretchable Pneumatic Sleeve for Adaptable, Low-Displacement Anchoring in Exosuits**|Katalin Schaffer et.al.|[2403.04729](http://arxiv.org/abs/2403.04729)|null|
 |**2024-03-07**|**Spatiotemporal Pooling on Appropriate Topological Maps Represented as Two-Dimensional Images for EEG Classification**|Takuto Fukushima et.al.|[2403.04353](http://arxiv.org/abs/2403.04353)|null|
 |**2024-03-06**|**FingerNet: EEG Decoding of A Fine Motor Imagery with Finger-tapping Task Based on A Deep Neural Network**|Young-Min Go et.al.|[2403.03526](http://arxiv.org/abs/2403.03526)|null|
