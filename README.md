@@ -1920,6 +1920,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**Quadruped-Frog: Rapid Online Optimization of Continuous Quadruped Jumping**|Guillaume Bellegarda et.al.|[2403.06954](http://arxiv.org/abs/2403.06954)|null|
+|**2024-03-11**|**ε-Neural Thompson Sampling of Deep Brain Stimulation for Parkinson Disease Treatment**|Hao-Lun Hsu et.al.|[2403.06814](http://arxiv.org/abs/2403.06814)|null|
+|**2024-03-08**|**Geometric Neural Network based on Phase Space for BCI decoding**|Igor Carrara et.al.|[2403.05645](http://arxiv.org/abs/2403.05645)|null|
 |**2024-03-08**|**Spatiotemporal Predictive Pre-training for Robotic Motor Control**|Jiange Yang et.al.|[2403.05304](http://arxiv.org/abs/2403.05304)|null|
 |**2024-03-08**|**To Reach the Unreachable: Exploring the Potential of VR Hand Redirection for Upper Limb Rehabilitation**|Peixuan Xiong et.al.|[2403.05264](http://arxiv.org/abs/2403.05264)|null|
 |**2024-03-07**|**Stretchable Pneumatic Sleeve for Adaptable, Low-Displacement Anchoring in Exosuits**|Katalin Schaffer et.al.|[2403.04729](http://arxiv.org/abs/2403.04729)|null|
