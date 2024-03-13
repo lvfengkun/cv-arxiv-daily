@@ -1920,6 +1920,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Enabling self-identification in intelligent agent: insights from computational psychoanalysis**|Lingyu Li et.al.|[2403.07664](http://arxiv.org/abs/2403.07664)|null|
+|**2024-03-12**|**Constrained Optimal Fuel Consumption of HEV: A Constrained Reinforcement Learning Approach**|Shuchang Yan et.al.|[2403.07503](http://arxiv.org/abs/2403.07503)|null|
 |**2024-03-11**|**Quadruped-Frog: Rapid Online Optimization of Continuous Quadruped Jumping**|Guillaume Bellegarda et.al.|[2403.06954](http://arxiv.org/abs/2403.06954)|null|
 |**2024-03-11**|**ε-Neural Thompson Sampling of Deep Brain Stimulation for Parkinson Disease Treatment**|Hao-Lun Hsu et.al.|[2403.06814](http://arxiv.org/abs/2403.06814)|null|
 |**2024-03-08**|**Geometric Neural Network based on Phase Space for BCI decoding**|Igor Carrara et.al.|[2403.05645](http://arxiv.org/abs/2403.05645)|null|
