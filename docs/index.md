@@ -1899,6 +1899,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**On the Feasibility of EEG-based Motor Intention Detection for Real-Time Robot Assistive Control**|Ho Jin Choi et.al.|[2403.08149](http://arxiv.org/abs/2403.08149)|null|
+|**2024-03-12**|**Neural, Muscular, and Perceptual responses with shoulder exoskeleton use over Days**|Tiash Rana Mukherjee et.al.|[2403.08044](http://arxiv.org/abs/2403.08044)|null|
 |**2024-03-12**|**Enabling self-identification in intelligent agent: insights from computational psychoanalysis**|Lingyu Li et.al.|[2403.07664](http://arxiv.org/abs/2403.07664)|null|
 |**2024-03-12**|**Constrained Optimal Fuel Consumption of HEV: A Constrained Reinforcement Learning Approach**|Shuchang Yan et.al.|[2403.07503](http://arxiv.org/abs/2403.07503)|null|
 |**2024-03-11**|**Quadruped-Frog: Rapid Online Optimization of Continuous Quadruped Jumping**|Guillaume Bellegarda et.al.|[2403.06954](http://arxiv.org/abs/2403.06954)|null|
