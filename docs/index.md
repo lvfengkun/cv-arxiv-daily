@@ -1899,14 +1899,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**Uncertainty Quantification for cross-subject Motor Imagery classification**|Prithviraj Manivannan et.al.|[2403.09228](http://arxiv.org/abs/2403.09228)|**[link](https://github.com/p-manivannan/uq-motor-imagery)**|
+|**2024-03-13**|**A Framework for Strategic Discovery of Credible Neural Network Surrogate Models under Uncertainty**|Pratyush Kumar Singh et.al.|[2403.08901](http://arxiv.org/abs/2403.08901)|null|
 |**2024-03-13**|**On the Feasibility of EEG-based Motor Intention Detection for Real-Time Robot Assistive Control**|Ho Jin Choi et.al.|[2403.08149](http://arxiv.org/abs/2403.08149)|null|
 |**2024-03-12**|**Neural, Muscular, and Perceptual responses with shoulder exoskeleton use over Days**|Tiash Rana Mukherjee et.al.|[2403.08044](http://arxiv.org/abs/2403.08044)|null|
-|**2024-03-12**|**Enabling self-identification in intelligent agent: insights from computational psychoanalysis**|Lingyu Li et.al.|[2403.07664](http://arxiv.org/abs/2403.07664)|null|
+|**2024-03-12**|**Enabling self-identification in intelligent agent: insights from computational psychoanalysis**|Lingyu Li et.al.|[2403.07664](http://arxiv.org/abs/2403.07664)|**[link](https://github.com/yabyum/lacanagent)**|
 |**2024-03-12**|**Constrained Optimal Fuel Consumption of HEV: A Constrained Reinforcement Learning Approach**|Shuchang Yan et.al.|[2403.07503](http://arxiv.org/abs/2403.07503)|null|
 |**2024-03-11**|**Quadruped-Frog: Rapid Online Optimization of Continuous Quadruped Jumping**|Guillaume Bellegarda et.al.|[2403.06954](http://arxiv.org/abs/2403.06954)|null|
 |**2024-03-11**|**ε-Neural Thompson Sampling of Deep Brain Stimulation for Parkinson Disease Treatment**|Hao-Lun Hsu et.al.|[2403.06814](http://arxiv.org/abs/2403.06814)|null|
 |**2024-03-08**|**Geometric Neural Network based on Phase Space for BCI decoding**|Igor Carrara et.al.|[2403.05645](http://arxiv.org/abs/2403.05645)|null|
-|**2024-03-08**|**Spatiotemporal Predictive Pre-training for Robotic Motor Control**|Jiange Yang et.al.|[2403.05304](http://arxiv.org/abs/2403.05304)|null|
+|**2024-03-14**|**Spatiotemporal Predictive Pre-training for Robotic Motor Control**|Jiange Yang et.al.|[2403.05304](http://arxiv.org/abs/2403.05304)|null|
 |**2024-03-08**|**To Reach the Unreachable: Exploring the Potential of VR Hand Redirection for Upper Limb Rehabilitation**|Peixuan Xiong et.al.|[2403.05264](http://arxiv.org/abs/2403.05264)|null|
 |**2024-03-07**|**Stretchable Pneumatic Sleeve for Adaptable, Low-Displacement Anchoring in Exosuits**|Katalin Schaffer et.al.|[2403.04729](http://arxiv.org/abs/2403.04729)|null|
 |**2024-03-07**|**Spatiotemporal Pooling on Appropriate Topological Maps Represented as Two-Dimensional Images for EEG Classification**|Takuto Fukushima et.al.|[2403.04353](http://arxiv.org/abs/2403.04353)|null|
