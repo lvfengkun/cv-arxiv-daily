@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**Visual Inertial Odometry using Focal Plane Binary Features (BIT-VIO)**|Matthew Lisondra et.al.|[2403.09882](http://arxiv.org/abs/2403.09882)|null|
 |**2024-03-02**|**Grid-based Fast and Structural Visual Odometry**|Zhang Zhihe et.al.|[2403.01110](http://arxiv.org/abs/2403.01110)|null|
 |**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|**[link](https://github.com/master-cai/voloc)**|
 |**2024-02-22**|**Secure Navigation using Landmark-based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2402.14280](http://arxiv.org/abs/2402.14280)|null|
@@ -1899,6 +1900,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**Grasp Anything: Combining Teacher-Augmented Policy Gradient Learning with Instance Segmentation to Grasp Arbitrary Objects**|Malte Mosbach et.al.|[2403.10187](http://arxiv.org/abs/2403.10187)|null|
 |**2024-03-14**|**Uncertainty Quantification for cross-subject Motor Imagery classification**|Prithviraj Manivannan et.al.|[2403.09228](http://arxiv.org/abs/2403.09228)|**[link](https://github.com/p-manivannan/uq-motor-imagery)**|
 |**2024-03-13**|**A Framework for Strategic Discovery of Credible Neural Network Surrogate Models under Uncertainty**|Pratyush Kumar Singh et.al.|[2403.08901](http://arxiv.org/abs/2403.08901)|null|
 |**2024-03-13**|**On the Feasibility of EEG-based Motor Intention Detection for Real-Time Robot Assistive Control**|Ho Jin Choi et.al.|[2403.08149](http://arxiv.org/abs/2403.08149)|null|
