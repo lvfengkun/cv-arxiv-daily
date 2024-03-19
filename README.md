@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**|Zewen Xu et.al.|[2403.11639](http://arxiv.org/abs/2403.11639)|null|
+|**2024-03-16**|**Efficient Domain Adaptation for Endoscopic Visual Odometry**|Junyang Wu et.al.|[2403.10860](http://arxiv.org/abs/2403.10860)|null|
 |**2024-03-14**|**Visual Inertial Odometry using Focal Plane Binary Features (BIT-VIO)**|Matthew Lisondra et.al.|[2403.09882](http://arxiv.org/abs/2403.09882)|null|
 |**2024-03-02**|**Grid-based Fast and Structural Visual Odometry**|Zhang Zhihe et.al.|[2403.01110](http://arxiv.org/abs/2403.01110)|null|
 |**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|**[link](https://github.com/master-cai/voloc)**|
@@ -1921,6 +1923,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-16**|**Agonist-Antagonist Pouch Motors: Bidirectional Soft Actuators Enhanced by Thermally Responsive Peltier Elements**|Trevor Exley et.al.|[2403.10955](http://arxiv.org/abs/2403.10955)|null|
+|**2024-03-16**|**NARRATE: Versatile Language Architecture for Optimal Control in Robotics**|Seif Ismail et.al.|[2403.10762](http://arxiv.org/abs/2403.10762)|null|
+|**2024-03-15**|**Latent Object Characteristics Recognition with Visual to Haptic-Audio Cross-modal Transfer Learning**|Namiko Saito et.al.|[2403.10689](http://arxiv.org/abs/2403.10689)|null|
 |**2024-03-15**|**Grasp Anything: Combining Teacher-Augmented Policy Gradient Learning with Instance Segmentation to Grasp Arbitrary Objects**|Malte Mosbach et.al.|[2403.10187](http://arxiv.org/abs/2403.10187)|null|
 |**2024-03-14**|**Uncertainty Quantification for cross-subject Motor Imagery classification**|Prithviraj Manivannan et.al.|[2403.09228](http://arxiv.org/abs/2403.09228)|**[link](https://github.com/p-manivannan/uq-motor-imagery)**|
 |**2024-03-13**|**A Framework for Strategic Discovery of Credible Neural Network Surrogate Models under Uncertainty**|Pratyush Kumar Singh et.al.|[2403.08901](http://arxiv.org/abs/2403.08901)|null|
