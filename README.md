@@ -1925,6 +1925,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**Invisible Needle Detection in Ultrasound: Leveraging Mechanism-Induced Vibration**|Chenyang Li et.al.|[2403.14523](http://arxiv.org/abs/2403.14523)|null|
+|**2024-03-21**|**Meta-learning of data-driven controllers with automatic model reference tuning: theory and experimental case study**|Riccardo Busetto et.al.|[2403.14500](http://arxiv.org/abs/2403.14500)|null|
 |**2024-03-20**|**MotorEase: Automated Detection of Motor Impairment Accessibility Issues in Mobile App UIs**|Arun Krishnavajjala et.al.|[2403.13690](http://arxiv.org/abs/2403.13690)|null|
 |**2024-03-20**|**Fast-Poly: A Fast Polyhedral Framework For 3D Multi-Object Tracking**|Xiaoyu Li et.al.|[2403.13443](http://arxiv.org/abs/2403.13443)|null|
 |**2024-03-19**|**A Bayesian multilevel hidden Markov model with Poisson-lognormal emissions for intense longitudinal count data**|S. Mildiner Moraga et.al.|[2403.12561](http://arxiv.org/abs/2403.12561)|null|
