@@ -1925,6 +1925,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**SYNCS: Synthetic Data and Contrastive Self-Supervised Training for Central Sulcus Segmentation**|Vladyslav Zalevskyi et.al.|[2403.15121](http://arxiv.org/abs/2403.15121)|null|
+|**2024-03-21**|**GelLink: A Compact Multi-phalanx Finger with Vision-based Tactile Sensing and Proprioception**|Yuxiang Ma et.al.|[2403.14887](http://arxiv.org/abs/2403.14887)|null|
 |**2024-03-21**|**Invisible Needle Detection in Ultrasound: Leveraging Mechanism-Induced Vibration**|Chenyang Li et.al.|[2403.14523](http://arxiv.org/abs/2403.14523)|null|
 |**2024-03-21**|**Meta-learning of data-driven controllers with automatic model reference tuning: theory and experimental case study**|Riccardo Busetto et.al.|[2403.14500](http://arxiv.org/abs/2403.14500)|null|
 |**2024-03-20**|**MotorEase: Automated Detection of Motor Impairment Accessibility Issues in Mobile App UIs**|Arun Krishnavajjala et.al.|[2403.13690](http://arxiv.org/abs/2403.13690)|null|
