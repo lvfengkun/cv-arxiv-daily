@@ -1925,6 +1925,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**BatDeck: Advancing Nano-drone Navigation with Low-power Ultrasound-based Obstacle Avoidance**|Hanna Müller et.al.|[2403.16696](http://arxiv.org/abs/2403.16696)|null|
+|**2024-03-24**|**Single-Motor Robotic Gripper with Multi-Surface Fingers for Variable Grasping Configurations**|Toshihiro Nishimura et.al.|[2403.16320](http://arxiv.org/abs/2403.16320)|null|
+|**2024-03-24**|**Designing Upper-Body Gesture Interaction with and for People with Spinal Muscular Atrophy in VR**|Jingze Tian et.al.|[2403.16107](http://arxiv.org/abs/2403.16107)|null|
 |**2024-03-22**|**SYNCS: Synthetic Data and Contrastive Self-Supervised Training for Central Sulcus Segmentation**|Vladyslav Zalevskyi et.al.|[2403.15121](http://arxiv.org/abs/2403.15121)|null|
 |**2024-03-21**|**GelLink: A Compact Multi-phalanx Finger with Vision-based Tactile Sensing and Proprioception**|Yuxiang Ma et.al.|[2403.14887](http://arxiv.org/abs/2403.14887)|null|
 |**2024-03-21**|**Invisible Needle Detection in Ultrasound: Leveraging Mechanism-Induced Vibration**|Chenyang Li et.al.|[2403.14523](http://arxiv.org/abs/2403.14523)|null|
