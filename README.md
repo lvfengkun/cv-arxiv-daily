@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**A Comparative Analysis of Visual Odometry in Virtual and Real-World Railways Environments**|Gianluca D'Amico et.al.|[2403.17084](http://arxiv.org/abs/2403.17084)|null|
 |**2024-03-19**|**On Designing Consistent Covariance Recovery from a Deep Learning Visual Odometry Engine**|Jagatpreet Singh Nir et.al.|[2403.13170](http://arxiv.org/abs/2403.13170)|null|
 |**2024-03-18**|**The POLAR Traverse Dataset: A Dataset of Stereo Camera Images Simulating Traverses across Lunar Polar Terrain under Extreme Lighting Conditions**|Margaret Hansen et.al.|[2403.12194](http://arxiv.org/abs/2403.12194)|null|
 |**2024-03-18**|**An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**|Zewen Xu et.al.|[2403.11639](http://arxiv.org/abs/2403.11639)|null|
@@ -1925,6 +1926,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**Labeling subtypes in a Parkinson's Cohort using Multifeatures in MRI - Integrating Grey and White Matter Information**|Tanmayee Samantaray et.al.|[2403.17332](http://arxiv.org/abs/2403.17332)|null|
+|**2024-03-25**|**Synthetic active liquid crystals powered by acoustic waves**|Andrey Sokolov et.al.|[2403.17268](http://arxiv.org/abs/2403.17268)|null|
+|**2024-03-25**|**6D Movable Antenna Enhanced Wireless Network Via Discrete Position and Rotation Optimization**|Xiaodan Shao et.al.|[2403.17122](http://arxiv.org/abs/2403.17122)|null|
+|**2024-03-25**|**Berry Twist: a Twisting-Tube Soft Robotic Gripper for Blackberry Harvesting**|Johannes F. Elfferich et.al.|[2403.17099](http://arxiv.org/abs/2403.17099)|null|
+|**2024-03-25**|**Proprioception Is All You Need: Terrain Classification for Boreal Forests**|Damien LaRocque et.al.|[2403.16877](http://arxiv.org/abs/2403.16877)|**[link](https://github.com/norlab-ulaval/BorealTC)**|
 |**2024-03-25**|**BatDeck: Advancing Nano-drone Navigation with Low-power Ultrasound-based Obstacle Avoidance**|Hanna Müller et.al.|[2403.16696](http://arxiv.org/abs/2403.16696)|null|
 |**2024-03-24**|**Single-Motor Robotic Gripper with Multi-Surface Fingers for Variable Grasping Configurations**|Toshihiro Nishimura et.al.|[2403.16320](http://arxiv.org/abs/2403.16320)|null|
 |**2024-03-24**|**Designing Upper-Body Gesture Interaction with and for People with Spinal Muscular Atrophy in VR**|Jingze Tian et.al.|[2403.16107](http://arxiv.org/abs/2403.16107)|null|
