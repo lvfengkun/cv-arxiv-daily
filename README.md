@@ -1926,7 +1926,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-26**|**Labeling subtypes in a Parkinson's Cohort using Multifeatures in MRI - Integrating Grey and White Matter Information**|Tanmayee Samantaray et.al.|[2403.17332](http://arxiv.org/abs/2403.17332)|null|
+|**2024-03-26**|**Labeling subtypes in a Parkinson's Cohort using Multifeatures in MRI -- Integrating Grey and White Matter Information**|Tanmayee Samantaray et.al.|[2403.17332](http://arxiv.org/abs/2403.17332)|null|
 |**2024-03-25**|**Synthetic active liquid crystals powered by acoustic waves**|Andrey Sokolov et.al.|[2403.17268](http://arxiv.org/abs/2403.17268)|null|
 |**2024-03-25**|**6D Movable Antenna Enhanced Wireless Network Via Discrete Position and Rotation Optimization**|Xiaodan Shao et.al.|[2403.17122](http://arxiv.org/abs/2403.17122)|null|
 |**2024-03-25**|**Berry Twist: a Twisting-Tube Soft Robotic Gripper for Blackberry Harvesting**|Johannes F. Elfferich et.al.|[2403.17099](http://arxiv.org/abs/2403.17099)|null|
