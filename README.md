@@ -1926,6 +1926,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-29**|**Artificial Neural Networks-based Real-time Classification of ENG Signals for Implanted Nerve Interfaces**|ntonio Coviello et.al.|[2403.20234](http://arxiv.org/abs/2403.20234)|null|
+|**2024-03-29**|**Development of Compositionality and Generalization through Interactive Learning of Language and Action of Robots**|Prasanna Vijayaraghavan et.al.|[2403.19995](http://arxiv.org/abs/2403.19995)|null|
+|**2024-03-29**|**Fusion Dynamical Systems with Machine Learning in Imitation Learning: A Comprehensive Overview**|Yingbai Hu et.al.|[2403.19916](http://arxiv.org/abs/2403.19916)|null|
 |**2024-03-27**|**The Dark Side of Transmission X-Ray Microscopy**|Sami Wirtensohn et.al.|[2403.18884](http://arxiv.org/abs/2403.18884)|null|
 |**2024-03-26**|**Labeling subtypes in a Parkinson's Cohort using Multifeatures in MRI -- Integrating Grey and White Matter Information**|Tanmayee Samantaray et.al.|[2403.17332](http://arxiv.org/abs/2403.17332)|null|
 |**2024-03-25**|**Synthetic active liquid crystals powered by acoustic waves**|Andrey Sokolov et.al.|[2403.17268](http://arxiv.org/abs/2403.17268)|null|
