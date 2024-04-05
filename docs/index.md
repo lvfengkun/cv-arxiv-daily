@@ -1905,6 +1905,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**SENSOR: Imitate Third-Person Expert's Behaviors via Active Sensoring**|Kaichen Huang et.al.|[2404.03386](http://arxiv.org/abs/2404.03386)|null|
+|**2024-04-04**|**Design and Evaluation of a Compact 3D End-effector Assistive Robot for Adaptive Arm Support**|Sibo Yang et.al.|[2404.03149](http://arxiv.org/abs/2404.03149)|null|
+|**2024-04-03**|**Language, Environment, and Robotic Navigation**|Johnathan E. Avery et.al.|[2404.03049](http://arxiv.org/abs/2404.03049)|null|
 |**2024-04-02**|**AI WALKUP: A Computer-Vision Approach to Quantifying MDS-UPDRS in Parkinson's Disease**|Xiang Xiang et.al.|[2404.01654](http://arxiv.org/abs/2404.01654)|null|
 |**2024-04-01**|**A novel seamless magnetic-based actuating mechanism for end-effector-based robotic rehabilitation platforms**|Sima Ghafoori et.al.|[2404.01441](http://arxiv.org/abs/2404.01441)|null|
 |**2024-03-29**|**Variational design of sensory feedback for powerstroke-recovery systems**|Zhuojun Yu et.al.|[2404.00111](http://arxiv.org/abs/2404.00111)|null|
