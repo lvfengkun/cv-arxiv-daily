@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.07
+## Updated on 2024.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1910,9 +1910,9 @@ layout: default
 |**2024-04-03**|**Language, Environment, and Robotic Navigation**|Johnathan E. Avery et.al.|[2404.03049](http://arxiv.org/abs/2404.03049)|null|
 |**2024-04-02**|**AI WALKUP: A Computer-Vision Approach to Quantifying MDS-UPDRS in Parkinson's Disease**|Xiang Xiang et.al.|[2404.01654](http://arxiv.org/abs/2404.01654)|null|
 |**2024-04-01**|**A novel seamless magnetic-based actuating mechanism for end-effector-based robotic rehabilitation platforms**|Sima Ghafoori et.al.|[2404.01441](http://arxiv.org/abs/2404.01441)|null|
-|**2024-03-29**|**Variational design of sensory feedback for powerstroke-recovery systems**|Zhuojun Yu et.al.|[2404.00111](http://arxiv.org/abs/2404.00111)|null|
+|**2024-03-29**|**Variational design of sensory feedback for powerstroke-recovery systems**|Zhuojun Yu et.al.|[2404.00111](http://arxiv.org/abs/2404.00111)|**[link](https://github.com/zhuojunyu-appliedmath/powerstroke-recovery)**|
 |**2024-04-02**|**Artificial Neural Networks-based Real-time Classification of ENG Signals for Implanted Nerve Interfaces**|Antonio Coviello et.al.|[2403.20234](http://arxiv.org/abs/2403.20234)|null|
-|**2024-03-29**|**Development of Compositionality and Generalization through Interactive Learning of Language and Action of Robots**|Prasanna Vijayaraghavan et.al.|[2403.19995](http://arxiv.org/abs/2403.19995)|null|
+|**2024-03-29**|**Development of Compositionality and Generalization through Interactive Learning of Language and Action of Robots**|Prasanna Vijayaraghavan et.al.|[2403.19995](http://arxiv.org/abs/2403.19995)|**[link](https://github.com/oist-cnru/fep-based-model-of-embodied-language)**|
 |**2024-03-29**|**Fusion Dynamical Systems with Machine Learning in Imitation Learning: A Comprehensive Overview**|Yingbai Hu et.al.|[2403.19916](http://arxiv.org/abs/2403.19916)|null|
 |**2024-03-27**|**The Dark Side of Transmission X-Ray Microscopy**|Sami Wirtensohn et.al.|[2403.18884](http://arxiv.org/abs/2403.18884)|null|
 |**2024-03-26**|**Labeling subtypes in a Parkinson's Cohort using Multifeatures in MRI -- Integrating Grey and White Matter Information**|Tanmayee Samantaray et.al.|[2403.17332](http://arxiv.org/abs/2403.17332)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.07
+## Updated on 2024.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -475,7 +475,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240408>back to top</a>)</p>
 
 ## SFM
 
@@ -603,7 +603,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240408>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1114,7 +1114,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240408>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1282,7 +1282,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240408>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1452,7 +1452,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240408>back to top</a>)</p>
 
 ## NeRF
 
@@ -1920,7 +1920,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240408>back to top</a>)</p>
 
 ## MOT
 
@@ -1931,9 +1931,9 @@
 |**2024-04-03**|**Language, Environment, and Robotic Navigation**|Johnathan E. Avery et.al.|[2404.03049](http://arxiv.org/abs/2404.03049)|null|
 |**2024-04-02**|**AI WALKUP: A Computer-Vision Approach to Quantifying MDS-UPDRS in Parkinson's Disease**|Xiang Xiang et.al.|[2404.01654](http://arxiv.org/abs/2404.01654)|null|
 |**2024-04-01**|**A novel seamless magnetic-based actuating mechanism for end-effector-based robotic rehabilitation platforms**|Sima Ghafoori et.al.|[2404.01441](http://arxiv.org/abs/2404.01441)|null|
-|**2024-03-29**|**Variational design of sensory feedback for powerstroke-recovery systems**|Zhuojun Yu et.al.|[2404.00111](http://arxiv.org/abs/2404.00111)|null|
+|**2024-03-29**|**Variational design of sensory feedback for powerstroke-recovery systems**|Zhuojun Yu et.al.|[2404.00111](http://arxiv.org/abs/2404.00111)|**[link](https://github.com/zhuojunyu-appliedmath/powerstroke-recovery)**|
 |**2024-04-02**|**Artificial Neural Networks-based Real-time Classification of ENG Signals for Implanted Nerve Interfaces**|Antonio Coviello et.al.|[2403.20234](http://arxiv.org/abs/2403.20234)|null|
-|**2024-03-29**|**Development of Compositionality and Generalization through Interactive Learning of Language and Action of Robots**|Prasanna Vijayaraghavan et.al.|[2403.19995](http://arxiv.org/abs/2403.19995)|null|
+|**2024-03-29**|**Development of Compositionality and Generalization through Interactive Learning of Language and Action of Robots**|Prasanna Vijayaraghavan et.al.|[2403.19995](http://arxiv.org/abs/2403.19995)|**[link](https://github.com/oist-cnru/fep-based-model-of-embodied-language)**|
 |**2024-03-29**|**Fusion Dynamical Systems with Machine Learning in Imitation Learning: A Comprehensive Overview**|Yingbai Hu et.al.|[2403.19916](http://arxiv.org/abs/2403.19916)|null|
 |**2024-03-27**|**The Dark Side of Transmission X-Ray Microscopy**|Sami Wirtensohn et.al.|[2403.18884](http://arxiv.org/abs/2403.18884)|null|
 |**2024-03-26**|**Labeling subtypes in a Parkinson's Cohort using Multifeatures in MRI -- Integrating Grey and White Matter Information**|Tanmayee Samantaray et.al.|[2403.17332](http://arxiv.org/abs/2403.17332)|null|
@@ -2289,7 +2289,7 @@
 |**2023-08-21**|**Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robot Hand**|Jay Best et.al.|[2308.10409](http://arxiv.org/abs/2308.10409)|null|
 |**2023-08-18**|**Towards Human-Robot Collaboration with Parallel Robots by Kinetostatic Analysis, Impedance Control and Contact Detection**|Aran Mohammad et.al.|[2308.09633](http://arxiv.org/abs/2308.09633)|null|
 
-<p align=right>(<a href=#updated-on-20240407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240408>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
