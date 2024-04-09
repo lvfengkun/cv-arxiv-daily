@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-06**|**Salient Sparse Visual Odometry With Pose-Only Supervision**|Siyu Chen et.al.|[2404.04677](http://arxiv.org/abs/2404.04677)|null|
 |**2024-03-25**|**A Comparative Analysis of Visual Odometry in Virtual and Real-World Railways Environments**|Gianluca D'Amico et.al.|[2403.17084](http://arxiv.org/abs/2403.17084)|null|
 |**2024-03-19**|**On Designing Consistent Covariance Recovery from a Deep Learning Visual Odometry Engine**|Jagatpreet Singh Nir et.al.|[2403.13170](http://arxiv.org/abs/2403.13170)|null|
 |**2024-03-18**|**The POLAR Traverse Dataset: A Dataset of Stereo Camera Images Simulating Traverses across Lunar Polar Terrain under Extreme Lighting Conditions**|Margaret Hansen et.al.|[2403.12194](http://arxiv.org/abs/2403.12194)|null|
@@ -1926,6 +1927,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-08**|**Linguistic Changes in Spontaneous Speech for Detecting Parkinsons Disease Using Large Language Models**|Jonathan Crawford et.al.|[2404.05160](http://arxiv.org/abs/2404.05160)|null|
+|**2024-04-08**|**Rollbot: a Spherical Robot Driven by a Single Actuator**|Jingxian Wang et.al.|[2404.05120](http://arxiv.org/abs/2404.05120)|null|
+|**2024-04-07**|**StaccaToe: A Single-Leg Robot that Mimics the Human Leg and Toe**|Nisal Perera et.al.|[2404.05039](http://arxiv.org/abs/2404.05039)|null|
 |**2024-04-05**|**VoicePilot: Harnessing LLMs as Speech Interfaces for Physically Assistive Robots**|Akhil Padmanabha et.al.|[2404.04066](http://arxiv.org/abs/2404.04066)|null|
 |**2024-04-05**|**Framework to generate perfusion map from CT and CTA images in patients with acute ischemic stroke: A longitudinal and cross-sectional study**|Chayanin Tangwiriyasakul et.al.|[2404.04025](http://arxiv.org/abs/2404.04025)|null|
 |**2024-04-04**|**SENSOR: Imitate Third-Person Expert's Behaviors via Active Sensoring**|Kaichen Huang et.al.|[2404.03386](http://arxiv.org/abs/2404.03386)|null|
