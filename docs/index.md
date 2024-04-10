@@ -1906,6 +1906,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**Inertia emulation contribution of Frades 2 variable speed pump-turbine to power network stability**|Christophe Nicolet et.al.|[2404.06299](http://arxiv.org/abs/2404.06299)|null|
+|**2024-04-09**|**Resilient Movement Planning for Continuum Robots**|Oxana Shamilyan et.al.|[2404.06178](http://arxiv.org/abs/2404.06178)|null|
+|**2024-04-09**|**Body Design and Gait Generation of Chair-Type Asymmetrical Tripedal Low-rigidity Robot**|Shintaro Inoue et.al.|[2404.05932](http://arxiv.org/abs/2404.05932)|null|
 |**2024-04-08**|**Linguistic Changes in Spontaneous Speech for Detecting Parkinsons Disease Using Large Language Models**|Jonathan Crawford et.al.|[2404.05160](http://arxiv.org/abs/2404.05160)|null|
 |**2024-04-08**|**Rollbot: a Spherical Robot Driven by a Single Actuator**|Jingxian Wang et.al.|[2404.05120](http://arxiv.org/abs/2404.05120)|null|
 |**2024-04-07**|**StaccaToe: A Single-Leg Robot that Mimics the Human Leg and Toe**|Nisal Perera et.al.|[2404.05039](http://arxiv.org/abs/2404.05039)|null|
