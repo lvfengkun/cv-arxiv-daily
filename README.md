@@ -1927,6 +1927,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**ChildCIdbLong: Longitudinal Child-Computer Interaction Database and Quantitative Analysis for Child Development**|Juan Carlos Ruiz-Garcia et.al.|[2404.06919](http://arxiv.org/abs/2404.06919)|null|
+|**2024-04-10**|**The 'Sandwich' meta-framework for architecture agnostic deep privacy-preserving transfer learning for non-invasive brainwave decoding**|Xiaoxi Wei et.al.|[2404.06868](http://arxiv.org/abs/2404.06868)|null|
 |**2024-04-09**|**Inertia emulation contribution of Frades 2 variable speed pump-turbine to power network stability**|Christophe Nicolet et.al.|[2404.06299](http://arxiv.org/abs/2404.06299)|null|
 |**2024-04-09**|**Resilient Movement Planning for Continuum Robots**|Oxana Shamilyan et.al.|[2404.06178](http://arxiv.org/abs/2404.06178)|null|
 |**2024-04-09**|**Body Design and Gait Generation of Chair-Type Asymmetrical Tripedal Low-rigidity Robot**|Shintaro Inoue et.al.|[2404.05932](http://arxiv.org/abs/2404.05932)|**[link](https://github.com/shin0805/chair-typeasymmetricaltripedalrobot)**|
