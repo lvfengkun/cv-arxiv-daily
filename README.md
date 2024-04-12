@@ -1927,6 +1927,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Data-Driven System Identification of Quadrotors Subject to Motor Delays**|Jonas Eschmann et.al.|[2404.07837](http://arxiv.org/abs/2404.07837)|null|
+|**2024-04-11**|**Safe haptic teleoperations of admittance controlled robots with virtualization of the force feedback**|Lorenzo Pagliara et.al.|[2404.07672](http://arxiv.org/abs/2404.07672)|null|
 |**2024-04-10**|**ChildCIdbLong: Longitudinal Child-Computer Interaction Database and Quantitative Analysis for Child Development**|Juan Carlos Ruiz-Garcia et.al.|[2404.06919](http://arxiv.org/abs/2404.06919)|null|
 |**2024-04-10**|**The 'Sandwich' meta-framework for architecture agnostic deep privacy-preserving transfer learning for non-invasive brainwave decoding**|Xiaoxi Wei et.al.|[2404.06868](http://arxiv.org/abs/2404.06868)|null|
 |**2024-04-09**|**Inertia emulation contribution of Frades 2 variable speed pump-turbine to power network stability**|Christophe Nicolet et.al.|[2404.06299](http://arxiv.org/abs/2404.06299)|null|
