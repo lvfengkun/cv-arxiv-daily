@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.14
+## Updated on 2024.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1906,6 +1906,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-12**|**Active nematic liquid crytals under a quenched random field**|Yutaka Kinoshita et.al.|[2404.08524](http://arxiv.org/abs/2404.08524)|null|
 |**2024-04-11**|**Data-Driven System Identification of Quadrotors Subject to Motor Delays**|Jonas Eschmann et.al.|[2404.07837](http://arxiv.org/abs/2404.07837)|null|
 |**2024-04-11**|**Safe haptic teleoperations of admittance controlled robots with virtualization of the force feedback**|Lorenzo Pagliara et.al.|[2404.07672](http://arxiv.org/abs/2404.07672)|null|
 |**2024-04-10**|**ChildCIdbLong: Longitudinal Child-Computer Interaction Database and Quantitative Analysis for Child Development**|Juan Carlos Ruiz-Garcia et.al.|[2404.06919](http://arxiv.org/abs/2404.06919)|null|
