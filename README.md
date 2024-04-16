@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-14**|**Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**|Yanhao Zhang et.al.|[2404.09169](http://arxiv.org/abs/2404.09169)|null|
 |**2024-04-06**|**Salient Sparse Visual Odometry With Pose-Only Supervision**|Siyu Chen et.al.|[2404.04677](http://arxiv.org/abs/2404.04677)|null|
 |**2024-03-25**|**A Comparative Analysis of Visual Odometry in Virtual and Real-World Railways Environments**|Gianluca D'Amico et.al.|[2403.17084](http://arxiv.org/abs/2403.17084)|null|
 |**2024-03-19**|**On Designing Consistent Covariance Recovery from a Deep Learning Visual Odometry Engine**|Jagatpreet Singh Nir et.al.|[2403.13170](http://arxiv.org/abs/2403.13170)|null|
@@ -1927,7 +1928,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-12**|**Active nematic liquid crytals under a quenched random field**|Yutaka Kinoshita et.al.|[2404.08524](http://arxiv.org/abs/2404.08524)|null|
+|**2024-04-15**|**Characterization and Mitigation of Insufficiencies in Automated Driving Systems**|Yuting Fu et.al.|[2404.09557](http://arxiv.org/abs/2404.09557)|null|
+|**2024-04-15**|**Automatic Knowledge Graph Construction for Judicial Cases**|Jie Zhou et.al.|[2404.09416](http://arxiv.org/abs/2404.09416)|null|
+|**2024-04-15**|**Active nematic liquid crystals under a quenched random field**|Yutaka Kinoshita et.al.|[2404.08524](http://arxiv.org/abs/2404.08524)|null|
 |**2024-04-11**|**Data-Driven System Identification of Quadrotors Subject to Motor Delays**|Jonas Eschmann et.al.|[2404.07837](http://arxiv.org/abs/2404.07837)|null|
 |**2024-04-11**|**Safe haptic teleoperations of admittance controlled robots with virtualization of the force feedback**|Lorenzo Pagliara et.al.|[2404.07672](http://arxiv.org/abs/2404.07672)|null|
 |**2024-04-10**|**ChildCIdbLong: Longitudinal Child-Computer Interaction Database and Quantitative Analysis for Child Development**|Juan Carlos Ruiz-Garcia et.al.|[2404.06919](http://arxiv.org/abs/2404.06919)|null|
