@@ -1907,6 +1907,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**PD-Insighter: A Visual Analytics System to Monitor Daily Actions for Parkinson's Disease Treatment**|Jade Kandel et.al.|[2404.10661](http://arxiv.org/abs/2404.10661)|null|
+|**2024-04-16**|**BDAN: Mitigating Temporal Difference Across Electrodes in Cross-Subject Motor Imagery Classification via Generative Bridging Domain**|Zhige Chen et.al.|[2404.10494](http://arxiv.org/abs/2404.10494)|null|
 |**2024-04-15**|**Characterization and Mitigation of Insufficiencies in Automated Driving Systems**|Yuting Fu et.al.|[2404.09557](http://arxiv.org/abs/2404.09557)|null|
 |**2024-04-15**|**Automatic Knowledge Graph Construction for Judicial Cases**|Jie Zhou et.al.|[2404.09416](http://arxiv.org/abs/2404.09416)|null|
 |**2024-04-15**|**Active nematic liquid crystals under a quenched random field**|Yutaka Kinoshita et.al.|[2404.08524](http://arxiv.org/abs/2404.08524)|null|
