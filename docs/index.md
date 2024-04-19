@@ -14,7 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322](http://arxiv.org/abs/2404.11322)|null|
+|**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339](http://arxiv.org/abs/2404.12339)|null|
+|**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322](http://arxiv.org/abs/2404.11322)|**[link](https://github.com/rvp-group/vbr-devkit)**|
 |**2024-04-14**|**Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**|Yanhao Zhang et.al.|[2404.09169](http://arxiv.org/abs/2404.09169)|null|
 |**2024-04-06**|**Salient Sparse Visual Odometry With Pose-Only Supervision**|Siyu Chen et.al.|[2404.04677](http://arxiv.org/abs/2404.04677)|null|
 |**2024-03-25**|**A Comparative Analysis of Visual Odometry in Virtual and Real-World Railways Environments**|Gianluca D'Amico et.al.|[2403.17084](http://arxiv.org/abs/2403.17084)|null|
@@ -1908,6 +1909,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Tracing Pareto-optimal points for multi-objective shape optimization applied to electric machines**|Alessio Cesarano et.al.|[2404.12205](http://arxiv.org/abs/2404.12205)|null|
+|**2024-04-18**|**KnotResolver: Tracking self-intersecting filaments in microscopy using directed graphs**|Dhruv Khatri et.al.|[2404.12029](http://arxiv.org/abs/2404.12029)|null|
+|**2024-04-18**|**Neuropsychological Effects of Rock Steady Boxing in Patients with Parkinson's Disease: A Comprehensive Analysis**|Lorella Bonaccorsi et.al.|[2404.11951](http://arxiv.org/abs/2404.11951)|null|
 |**2024-04-17**|**A Minkowski space embedding to understand Markov models dynamics**|David Andrieux et.al.|[2404.11238](http://arxiv.org/abs/2404.11238)|null|
 |**2024-04-17**|**EEG_GLT-Net: Optimising EEG Graphs for Real-time Motor Imagery Signals Classification**|Htoo Wai Aung et.al.|[2404.11075](http://arxiv.org/abs/2404.11075)|null|
 |**2024-04-16**|**Cognitive-Motor Integration in Assessing Bimanual Motor Skills**|Erim Yanik et.al.|[2404.10889](http://arxiv.org/abs/2404.10889)|null|
