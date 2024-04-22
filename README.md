@@ -1930,6 +1930,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**Nyon Unchained: Forensic Analysis of Bosch's eBike Board Computers**|Marcel Stachak et.al.|[2404.12864](http://arxiv.org/abs/2404.12864)|null|
+|**2024-04-18**|**Using Capability Maps Tailored to Arm Range of Motion in VR Exergames for Rehabilitation**|Christian Lourido et.al.|[2404.12504](http://arxiv.org/abs/2404.12504)|null|
 |**2024-04-18**|**Tracing Pareto-optimal points for multi-objective shape optimization applied to electric machines**|Alessio Cesarano et.al.|[2404.12205](http://arxiv.org/abs/2404.12205)|null|
 |**2024-04-18**|**KnotResolver: Tracking self-intersecting filaments in microscopy using directed graphs**|Dhruv Khatri et.al.|[2404.12029](http://arxiv.org/abs/2404.12029)|null|
 |**2024-04-18**|**Neuropsychological Effects of Rock Steady Boxing in Patients with Parkinson's Disease: A Comprehensive Analysis**|Lorella Bonaccorsi et.al.|[2404.11951](http://arxiv.org/abs/2404.11951)|null|
