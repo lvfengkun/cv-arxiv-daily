@@ -1909,12 +1909,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Quantitative Analysis of Roles of Direct and Indirect Pathways for Action Selection in The Basal Ganglia**|Sang-Yoon Kim et.al.|[2404.13888](http://arxiv.org/abs/2404.13888)|null|
+|**2024-04-20**|**Exploring Bi-Manual Teleportation in Virtual Reality**|Siddhanth Raja Sindhupathiraja et.al.|[2404.13431](http://arxiv.org/abs/2404.13431)|null|
+|**2024-04-20**|**Human Motor Learning Dynamics in High-dimensional Tasks**|Ankur Kamboj et.al.|[2404.13258](http://arxiv.org/abs/2404.13258)|null|
 |**2024-04-19**|**Nyon Unchained: Forensic Analysis of Bosch's eBike Board Computers**|Marcel Stachak et.al.|[2404.12864](http://arxiv.org/abs/2404.12864)|null|
 |**2024-04-18**|**Using Capability Maps Tailored to Arm Range of Motion in VR Exergames for Rehabilitation**|Christian Lourido et.al.|[2404.12504](http://arxiv.org/abs/2404.12504)|null|
 |**2024-04-18**|**Tracing Pareto-optimal points for multi-objective shape optimization applied to electric machines**|Alessio Cesarano et.al.|[2404.12205](http://arxiv.org/abs/2404.12205)|null|
 |**2024-04-18**|**KnotResolver: Tracking self-intersecting filaments in microscopy using directed graphs**|Dhruv Khatri et.al.|[2404.12029](http://arxiv.org/abs/2404.12029)|null|
 |**2024-04-18**|**Neuropsychological Effects of Rock Steady Boxing in Patients with Parkinson's Disease: A Comprehensive Analysis**|Lorella Bonaccorsi et.al.|[2404.11951](http://arxiv.org/abs/2404.11951)|null|
-|**2024-04-17**|**A Minkowski space embedding to understand Markov models dynamics**|David Andrieux et.al.|[2404.11238](http://arxiv.org/abs/2404.11238)|null|
+|**2024-04-22**|**A Minkowski space embedding to understand Markov models dynamics**|David Andrieux et.al.|[2404.11238](http://arxiv.org/abs/2404.11238)|null|
 |**2024-04-17**|**EEG_GLT-Net: Optimising EEG Graphs for Real-time Motor Imagery Signals Classification**|Htoo Wai Aung et.al.|[2404.11075](http://arxiv.org/abs/2404.11075)|null|
 |**2024-04-16**|**Cognitive-Motor Integration in Assessing Bimanual Motor Skills**|Erim Yanik et.al.|[2404.10889](http://arxiv.org/abs/2404.10889)|null|
 |**2024-04-16**|**PD-Insighter: A Visual Analytics System to Monitor Daily Actions for Parkinson's Disease Treatment**|Jade Kandel et.al.|[2404.10661](http://arxiv.org/abs/2404.10661)|null|
