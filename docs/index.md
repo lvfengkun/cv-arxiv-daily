@@ -1910,9 +1910,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-24**|**Air-taxi trajectory optimization with aerodynamic and motor models**|Nicholas C. Orndorff et.al.|[2404.15570](http://arxiv.org/abs/2404.15570)|null|
+|**2024-04-19**|**A Weight-aware-based Multi-source Unsupervised Domain Adaptation Method for Human Motion Intention Recognition**|Xiao-Yin Liu et.al.|[2404.15366](http://arxiv.org/abs/2404.15366)|**[link](https://github.com/xiaoyinliu0714/WMDD)**|
 |**2024-04-23**|**EEGEncoder: Advancing BCI with Transformer-Based Motor Imagery Classification**|Wangdan Liao et.al.|[2404.14869](http://arxiv.org/abs/2404.14869)|null|
 |**2024-04-22**|**Quantitative Analysis of Roles of Direct and Indirect Pathways for Action Selection in The Basal Ganglia**|Sang-Yoon Kim et.al.|[2404.13888](http://arxiv.org/abs/2404.13888)|null|
-|**2024-04-20**|**Exploring Bi-Manual Teleportation in Virtual Reality**|Siddhanth Raja Sindhupathiraja et.al.|[2404.13431](http://arxiv.org/abs/2404.13431)|null|
+|**2024-04-20**|**Exploring Bi-Manual Teleportation in Virtual Reality**|Siddhanth Raja Sindhupathiraja et.al.|[2404.13431](http://arxiv.org/abs/2404.13431)|**[link](https://github.com/siddhanthraja/exploring-bi-manual-teleportation-in-virtual-reality)**|
 |**2024-04-20**|**Human Motor Learning Dynamics in High-dimensional Tasks**|Ankur Kamboj et.al.|[2404.13258](http://arxiv.org/abs/2404.13258)|null|
 |**2024-04-19**|**Nyon Unchained: Forensic Analysis of Bosch's eBike Board Computers**|Marcel Stachak et.al.|[2404.12864](http://arxiv.org/abs/2404.12864)|null|
 |**2024-04-18**|**Using Capability Maps Tailored to Arm Range of Motion in VR Exergames for Rehabilitation**|Christian Lourido et.al.|[2404.12504](http://arxiv.org/abs/2404.12504)|null|
