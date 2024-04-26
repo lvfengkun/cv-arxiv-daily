@@ -1910,6 +1910,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Second-order adiabatic expansions of heat and charge currents with nonequilibrium Green's functions**|Sebastián E. Deghi et.al.|[2404.16757](http://arxiv.org/abs/2404.16757)|null|
+|**2024-04-25**|**Reverse engineering the brain input: Network control theory to identify cognitive task-related control nodes**|Zhichao Liang et.al.|[2404.16357](http://arxiv.org/abs/2404.16357)|null|
+|**2024-04-24**|**OpTC -- A Toolchain for Deployment of Neural Networks on AURIX TC3xx Microcontrollers**|Christian Heidorn et.al.|[2404.15833](http://arxiv.org/abs/2404.15833)|null|
 |**2024-04-24**|**Air-taxi trajectory optimization with aerodynamic and motor models**|Nicholas C. Orndorff et.al.|[2404.15570](http://arxiv.org/abs/2404.15570)|null|
 |**2024-04-19**|**A Weight-aware-based Multi-source Unsupervised Domain Adaptation Method for Human Motion Intention Recognition**|Xiao-Yin Liu et.al.|[2404.15366](http://arxiv.org/abs/2404.15366)|**[link](https://github.com/xiaoyinliu0714/WMDD)**|
 |**2024-04-23**|**EEGEncoder: Advancing BCI with Transformer-Based Motor Imagery Classification**|Wangdan Liao et.al.|[2404.14869](http://arxiv.org/abs/2404.14869)|null|
