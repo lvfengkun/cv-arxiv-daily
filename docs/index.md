@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**Camera Motion Estimation from RGB-D-Inertial Scene Flow**|Samuel Cerezo et.al.|[2404.17251](http://arxiv.org/abs/2404.17251)|null|
 |**2024-04-23**|**Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization**|Lahav Lipson et.al.|[2404.15263](http://arxiv.org/abs/2404.15263)|**[link](https://github.com/princeton-vl/multislam_diffpose)**|
 |**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339](http://arxiv.org/abs/2404.12339)|null|
 |**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322](http://arxiv.org/abs/2404.11322)|**[link](https://github.com/rvp-group/vbr-devkit)**|
@@ -1910,6 +1911,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**An Optimised Brushless DC Motor Control Scheme for Robotics Applications**|Nilabha Das et.al.|[2404.17367](http://arxiv.org/abs/2404.17367)|null|
+|**2024-04-26**|**Energy Recovery System for Large Telescopes**|Aleksej Kiselev et.al.|[2404.17311](http://arxiv.org/abs/2404.17311)|null|
+|**2024-04-25**|**Motor Focus: Ego-Motion Prediction with All-Pixel Matching**|Hao Wang et.al.|[2404.17031](http://arxiv.org/abs/2404.17031)|null|
 |**2024-04-25**|**Second-order adiabatic expansions of heat and charge currents with nonequilibrium Green's functions**|Sebastián E. Deghi et.al.|[2404.16757](http://arxiv.org/abs/2404.16757)|null|
 |**2024-04-25**|**Reverse engineering the brain input: Network control theory to identify cognitive task-related control nodes**|Zhichao Liang et.al.|[2404.16357](http://arxiv.org/abs/2404.16357)|null|
 |**2024-04-24**|**OpTC -- A Toolchain for Deployment of Neural Networks on AURIX TC3xx Microcontrollers**|Christian Heidorn et.al.|[2404.15833](http://arxiv.org/abs/2404.15833)|null|
