@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-27**|**An Attention-Based Deep Learning Architecture for Real-Time Monocular Visual Odometry: Applications to GPS-free Drone Navigation**|Olivier Brochu Dufour et.al.|[2404.17745](http://arxiv.org/abs/2404.17745)|null|
 |**2024-04-26**|**Camera Motion Estimation from RGB-D-Inertial Scene Flow**|Samuel Cerezo et.al.|[2404.17251](http://arxiv.org/abs/2404.17251)|null|
 |**2024-04-23**|**Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization**|Lahav Lipson et.al.|[2404.15263](http://arxiv.org/abs/2404.15263)|**[link](https://github.com/princeton-vl/multislam_diffpose)**|
 |**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339](http://arxiv.org/abs/2404.12339)|null|
@@ -1911,6 +1912,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-28**|**Power-Efficiency Constraint for Biological rotary Motor Driven by Chemical Gradient**|Ruo-Xun Zhai et.al.|[2404.18195](http://arxiv.org/abs/2404.18195)|null|
+|**2024-04-28**|**Auto-Optimized Maximum Torque Per Ampere Control of IPMSM Using Dual Control for Exploration and Exploitation**|Yuefei Zuo et.al.|[2404.18176](http://arxiv.org/abs/2404.18176)|null|
 |**2024-04-26**|**An Optimised Brushless DC Motor Control Scheme for Robotics Applications**|Nilabha Das et.al.|[2404.17367](http://arxiv.org/abs/2404.17367)|null|
 |**2024-04-26**|**Energy Recovery System for Large Telescopes**|Aleksej Kiselev et.al.|[2404.17311](http://arxiv.org/abs/2404.17311)|null|
 |**2024-04-25**|**Motor Focus: Ego-Motion Prediction with All-Pixel Matching**|Hao Wang et.al.|[2404.17031](http://arxiv.org/abs/2404.17031)|null|
