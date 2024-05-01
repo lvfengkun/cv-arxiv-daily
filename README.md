@@ -1933,11 +1933,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**Temporal Logic Resilience for Dynamical Systems**|Adnane Saoud et.al.|[2404.19223](http://arxiv.org/abs/2404.19223)|null|
+|**2024-04-30**|**FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-motor Robot Manipulation Skills**|Yongqiang Zhao et.al.|[2404.19217](http://arxiv.org/abs/2404.19217)|null|
+|**2024-04-29**|**Replicating Human Anatomy with Vision Controlled Jetting -- A Pneumatic Musculoskeletal Hand and Forearm**|Thomas Buchner et.al.|[2404.19077](http://arxiv.org/abs/2404.19077)|null|
 |**2024-04-28**|**Power-Efficiency Constraint for Biological rotary Motor Driven by Chemical Gradient**|Ruo-Xun Zhai et.al.|[2404.18195](http://arxiv.org/abs/2404.18195)|null|
 |**2024-04-28**|**Auto-Optimized Maximum Torque Per Ampere Control of IPMSM Using Dual Control for Exploration and Exploitation**|Yuefei Zuo et.al.|[2404.18176](http://arxiv.org/abs/2404.18176)|null|
 |**2024-04-26**|**An Optimised Brushless DC Motor Control Scheme for Robotics Applications**|Nilabha Das et.al.|[2404.17367](http://arxiv.org/abs/2404.17367)|null|
 |**2024-04-26**|**Energy Recovery System for Large Telescopes**|Aleksej Kiselev et.al.|[2404.17311](http://arxiv.org/abs/2404.17311)|null|
-|**2024-04-25**|**Motor Focus: Ego-Motion Prediction with All-Pixel Matching**|Hao Wang et.al.|[2404.17031](http://arxiv.org/abs/2404.17031)|null|
+|**2024-04-25**|**Motor Focus: Ego-Motion Prediction with All-Pixel Matching**|Hao Wang et.al.|[2404.17031](http://arxiv.org/abs/2404.17031)|**[link](https://github.com/jiayouqin/h-splitter)**|
 |**2024-04-25**|**Second-order adiabatic expansions of heat and charge currents with nonequilibrium Green's functions**|Sebastián E. Deghi et.al.|[2404.16757](http://arxiv.org/abs/2404.16757)|null|
 |**2024-04-25**|**Reverse engineering the brain input: Network control theory to identify cognitive task-related control nodes**|Zhichao Liang et.al.|[2404.16357](http://arxiv.org/abs/2404.16357)|null|
 |**2024-04-24**|**OpTC -- A Toolchain for Deployment of Neural Networks on AURIX TC3xx Microcontrollers**|Christian Heidorn et.al.|[2404.15833](http://arxiv.org/abs/2404.15833)|null|
