@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.01
+## Updated on 2024.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1913,7 +1913,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-30**|**Temporal Logic Resilience for Dynamical Systems**|Adnane Saoud et.al.|[2404.19223](http://arxiv.org/abs/2404.19223)|null|
-|**2024-04-30**|**FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-motor Robot Manipulation Skills**|Yongqiang Zhao et.al.|[2404.19217](http://arxiv.org/abs/2404.19217)|null|
+|**2024-05-01**|**FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-motor Robot Manipulation Skills**|Yongqiang Zhao et.al.|[2404.19217](http://arxiv.org/abs/2404.19217)|null|
 |**2024-04-29**|**Replicating Human Anatomy with Vision Controlled Jetting -- A Pneumatic Musculoskeletal Hand and Forearm**|Thomas Buchner et.al.|[2404.19077](http://arxiv.org/abs/2404.19077)|null|
 |**2024-04-28**|**Power-Efficiency Constraint for Biological rotary Motor Driven by Chemical Gradient**|Ruo-Xun Zhai et.al.|[2404.18195](http://arxiv.org/abs/2404.18195)|null|
 |**2024-04-28**|**Auto-Optimized Maximum Torque Per Ampere Control of IPMSM Using Dual Control for Exploration and Exploitation**|Yuefei Zuo et.al.|[2404.18176](http://arxiv.org/abs/2404.18176)|null|
