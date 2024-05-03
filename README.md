@@ -1933,6 +1933,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Quantifying Spatial Domain Explanations in BCI using Earth Mover's Distance**|Param Rajpura et.al.|[2405.01277](http://arxiv.org/abs/2405.01277)|null|
+|**2024-05-02**|**Towards Optimising EEG Decoding using Post-hoc Explanations and Domain Knowledge**|Param Rajpura et.al.|[2405.01269](http://arxiv.org/abs/2405.01269)|null|
+|**2024-05-02**|**Continual Imitation Learning for Prosthetic Limbs**|Sharmita Dey et.al.|[2405.01114](http://arxiv.org/abs/2405.01114)|null|
+|**2024-05-01**|**A Differentiable Dynamic Modeling Approach to Integrated Motion Planning and Actuator Physical Design for Mobile Manipulators**|Zehui Lu et.al.|[2405.00882](http://arxiv.org/abs/2405.00882)|null|
+|**2024-05-01**|**Modelling the nanopore sequencing process with Helicase HMMs**|Xuechun Xu et.al.|[2405.00833](http://arxiv.org/abs/2405.00833)|null|
 |**2024-04-30**|**Temporal Logic Resilience for Dynamical Systems**|Adnane Saoud et.al.|[2404.19223](http://arxiv.org/abs/2404.19223)|null|
 |**2024-05-01**|**FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-motor Robot Manipulation Skills**|Yongqiang Zhao et.al.|[2404.19217](http://arxiv.org/abs/2404.19217)|null|
 |**2024-04-29**|**Replicating Human Anatomy with Vision Controlled Jetting -- A Pneumatic Musculoskeletal Hand and Forearm**|Thomas Buchner et.al.|[2404.19077](http://arxiv.org/abs/2404.19077)|null|
