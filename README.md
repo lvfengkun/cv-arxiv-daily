@@ -1935,6 +1935,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-08**|**A Dual-Motor Actuator for Ceiling Robots with High Force and High Speed Capabilities**|Ian Lalonde et.al.|[2405.05162](http://arxiv.org/abs/2405.05162)|null|
+|**2024-05-08**|**Unsupervised Skin Feature Tracking with Deep Neural Networks**|Jose Chang et.al.|[2405.04943](http://arxiv.org/abs/2405.04943)|null|
+|**2024-05-07**|**Underground Freight Transportation for Package Delivery in Urban Environments**|Sarah Powell et.al.|[2405.04618](http://arxiv.org/abs/2405.04618)|null|
 |**2024-05-06**|**Model- and Data-Based Control of Self-Balancing Robots: Practical Educational Approach with LabVIEW and Arduino**|Abdelrahman Abdelgawad et.al.|[2405.03561](http://arxiv.org/abs/2405.03561)|null|
 |**2024-05-06**|**On-site scale factor linearity calibration of MEMS triaxial gyroscopes**|Yaqi Li et.al.|[2405.03393](http://arxiv.org/abs/2405.03393)|null|
 |**2024-04-30**|**Noise Models in the LISA Mission**|Michele Pagone et.al.|[2405.02339](http://arxiv.org/abs/2405.02339)|null|
