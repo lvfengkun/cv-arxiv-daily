@@ -1914,6 +1914,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Cross-Modality Translation with Generative Adversarial Networks to Unveil Alzheimer's Disease Biomarkers**|Reihaneh Hassanzadeh et.al.|[2405.05462](http://arxiv.org/abs/2405.05462)|null|
 |**2024-05-08**|**A Dual-Motor Actuator for Ceiling Robots with High Force and High Speed Capabilities**|Ian Lalonde et.al.|[2405.05162](http://arxiv.org/abs/2405.05162)|null|
 |**2024-05-08**|**Unsupervised Skin Feature Tracking with Deep Neural Networks**|Jose Chang et.al.|[2405.04943](http://arxiv.org/abs/2405.04943)|null|
 |**2024-05-07**|**Underground Freight Transportation for Package Delivery in Urban Environments**|Sarah Powell et.al.|[2405.04618](http://arxiv.org/abs/2405.04618)|null|
