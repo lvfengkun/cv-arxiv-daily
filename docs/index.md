@@ -1915,6 +1915,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**Why Decussate? Topological Constraints on 3D Wiring**|Troy Shinbrot et.al.|[2405.07837](http://arxiv.org/abs/2405.07837)|null|
+|**2024-05-13**|**Quick and Accurate Affordance Learning**|Fedor Scholz et.al.|[2405.07816](http://arxiv.org/abs/2405.07816)|null|
+|**2024-05-13**|**Cybathlon -- Legged Mobile Assistance for Quadriplegics**|Carmen Scheidemann et.al.|[2405.07445](http://arxiv.org/abs/2405.07445)|null|
+|**2024-05-12**|**AnyRotate: Gravity-Invariant In-Hand Object Rotation with Sim-to-Real Touch**|Max Yang et.al.|[2405.07391](http://arxiv.org/abs/2405.07391)|null|
+|**2024-05-12**|**Tremor Reduction for Accessible Ray Based Interaction in VR Applications**|Dr Corrie Green et.al.|[2405.07335](http://arxiv.org/abs/2405.07335)|null|
+|**2024-05-12**|**Environmental enrichment: a biological model of forward transfer in continual learning**|Rajat Saxena et.al.|[2405.07295](http://arxiv.org/abs/2405.07295)|null|
+|**2024-05-12**|**Sparse Sampling is All You Need for Fast Wrong-way Cycling Detection in CCTV Videos**|Jing Xu et.al.|[2405.07293](http://arxiv.org/abs/2405.07293)|null|
 |**2024-05-10**|**Recovery of transversely-isotropic elastic material parameters in induction motor rotors**|Hanz Martin Cheng et.al.|[2405.06388](http://arxiv.org/abs/2405.06388)|null|
 |**2024-05-08**|**Cross-Modality Translation with Generative Adversarial Networks to Unveil Alzheimer's Disease Biomarkers**|Reihaneh Hassanzadeh et.al.|[2405.05462](http://arxiv.org/abs/2405.05462)|null|
 |**2024-05-08**|**A Dual-Motor Actuator for Ceiling Robots with High Force and High Speed Capabilities**|Ian Lalonde et.al.|[2405.05162](http://arxiv.org/abs/2405.05162)|null|
