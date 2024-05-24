@@ -1937,6 +1937,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**Evolution and learning in differentiable robots**|Luke Strgar et.al.|[2405.14712](http://arxiv.org/abs/2405.14712)|null|
+|**2024-05-23**|**Task-Based Design and Policy Co-Optimization for Tendon-driven Underactuated Kinematic Chains**|Sharfin Islam et.al.|[2405.14566](http://arxiv.org/abs/2405.14566)|null|
+|**2024-05-23**|**A Single Motor Nano Aerial Vehicle with Novel Peer-to-Peer Communication and Sensing Mechanism**|Jingxian Wang et.al.|[2405.14144](http://arxiv.org/abs/2405.14144)|null|
+|**2024-05-22**|**Bond Graphs for multi-physics informed Neural Networks for multi-variate time series**|Alexis-Raja Brachet et.al.|[2405.13586](http://arxiv.org/abs/2405.13586)|null|
+|**2024-05-22**|**Generating forces in confinement via polymerization**|Dino Osmanovic et.al.|[2405.13270](http://arxiv.org/abs/2405.13270)|null|
+|**2024-05-21**|**A Survey of Artificial Intelligence in Gait-Based Neurodegenerative Disease Diagnosis**|Haocong Rao et.al.|[2405.13082](http://arxiv.org/abs/2405.13082)|null|
 |**2024-05-20**|**Alterations of electrocortical activity during hand movements induced by motor cortex glioma**|Yihan Wu et.al.|[2405.12144](http://arxiv.org/abs/2405.12144)|null|
 |**2024-05-20**|**Dual-sided Peltier Elements for Rapid Thermal Feedback in Wearables**|Seongjun Kang et.al.|[2405.11807](http://arxiv.org/abs/2405.11807)|null|
 |**2024-05-19**|**RobMOT: Robust 3D Multi-Object Tracking by Observational Noise and State Estimation Drift Mitigation on LiDAR PointCloud**|Mohamed Nagy et.al.|[2405.11536](http://arxiv.org/abs/2405.11536)|null|
