@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**ETA-INIT: Enhancing the Translation Accuracy for Stereo Visual-Inertial SLAM Initialization**|Han Song et.al.|[2405.15082](http://arxiv.org/abs/2405.15082)|null|
 |**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120](http://arxiv.org/abs/2405.12120)|null|
 |**2024-05-10**|**MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization**|Pengcheng Zhu et.al.|[2405.06241](http://arxiv.org/abs/2405.06241)|null|
 |**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290](http://arxiv.org/abs/2405.04290)|null|
@@ -1916,6 +1917,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Model-free reinforcement learning with noisy actions for automated experimental control in optics**|Lea Richtmann et.al.|[2405.15421](http://arxiv.org/abs/2405.15421)|null|
+|**2024-05-24**|**A Wearable Resistance Devices Motor Learning Effects in Exercise**|Eugenio Frias-Miranda et.al.|[2405.15113](http://arxiv.org/abs/2405.15113)|null|
 |**2024-05-23**|**Evolution and learning in differentiable robots**|Luke Strgar et.al.|[2405.14712](http://arxiv.org/abs/2405.14712)|null|
 |**2024-05-23**|**Task-Based Design and Policy Co-Optimization for Tendon-driven Underactuated Kinematic Chains**|Sharfin Islam et.al.|[2405.14566](http://arxiv.org/abs/2405.14566)|null|
 |**2024-05-23**|**A Single Motor Nano Aerial Vehicle with Novel Peer-to-Peer Communication and Sensing Mechanism**|Jingxian Wang et.al.|[2405.14144](http://arxiv.org/abs/2405.14144)|null|
