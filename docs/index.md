@@ -1917,9 +1917,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-24**|**Model-free reinforcement learning with noisy actions for automated experimental control in optics**|Lea Richtmann et.al.|[2405.15421](http://arxiv.org/abs/2405.15421)|null|
+|**2024-05-27**|**Uncovering multiscale structure in the variability of larval zebrafish navigation**|Gautam Sridhar et.al.|[2405.17143](http://arxiv.org/abs/2405.17143)|null|
+|**2024-05-26**|**A two-speed actuator for robotics with fast seamless gear shifting**|Alexandre Girard et.al.|[2405.16652](http://arxiv.org/abs/2405.16652)|null|
+|**2024-05-26**|**Robotic Path Planning Implementation using Search Algorithms**|Vikram Shahapur et.al.|[2405.16445](http://arxiv.org/abs/2405.16445)|null|
+|**2024-05-25**|**EEG-DBNet: A Dual-Branch Network for Motor-Imagery Brain-Computer Interfaces**|Xicheng Lou et.al.|[2405.16090](http://arxiv.org/abs/2405.16090)|null|
+|**2024-05-24**|**Model-free reinforcement learning with noisy actions for automated experimental control in optics**|Lea Richtmann et.al.|[2405.15421](http://arxiv.org/abs/2405.15421)|**[link](https://github.com/ViktoriaSchmiesing/RL_Fiber_Coupling)**|
 |**2024-05-24**|**A Wearable Resistance Devices Motor Learning Effects in Exercise**|Eugenio Frias-Miranda et.al.|[2405.15113](http://arxiv.org/abs/2405.15113)|null|
-|**2024-05-23**|**Evolution and learning in differentiable robots**|Luke Strgar et.al.|[2405.14712](http://arxiv.org/abs/2405.14712)|null|
+|**2024-05-26**|**Evolution and learning in differentiable robots**|Luke Strgar et.al.|[2405.14712](http://arxiv.org/abs/2405.14712)|**[link](https://github.com/lstrgar/eldir)**|
 |**2024-05-23**|**Task-Based Design and Policy Co-Optimization for Tendon-driven Underactuated Kinematic Chains**|Sharfin Islam et.al.|[2405.14566](http://arxiv.org/abs/2405.14566)|null|
 |**2024-05-23**|**A Single Motor Nano Aerial Vehicle with Novel Peer-to-Peer Communication and Sensing Mechanism**|Jingxian Wang et.al.|[2405.14144](http://arxiv.org/abs/2405.14144)|null|
 |**2024-05-22**|**Bond Graphs for multi-physics informed Neural Networks for multi-variate time series**|Alexis-Raja Brachet et.al.|[2405.13586](http://arxiv.org/abs/2405.13586)|null|
