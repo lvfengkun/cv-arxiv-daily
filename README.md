@@ -1938,6 +1938,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Fine Tuning of the Rotational Rate of Light-Driven, Second Generation Molecular Motors by Fluorine Substitutions**|Ivan Tambovtsev et.al.|[2405.18345](http://arxiv.org/abs/2405.18345)|null|
 |**2024-05-27**|**Uncovering multiscale structure in the variability of larval zebrafish navigation**|Gautam Sridhar et.al.|[2405.17143](http://arxiv.org/abs/2405.17143)|null|
 |**2024-05-26**|**A two-speed actuator for robotics with fast seamless gear shifting**|Alexandre Girard et.al.|[2405.16652](http://arxiv.org/abs/2405.16652)|null|
 |**2024-05-26**|**Robotic Path Planning Implementation using Search Algorithms**|Vikram Shahapur et.al.|[2405.16445](http://arxiv.org/abs/2405.16445)|null|
