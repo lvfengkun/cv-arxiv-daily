@@ -1938,6 +1938,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**Motor Imagery Task Alters Dynamics of Human Body Posture**|Fatemeh Delavari et.al.|[2405.19228](http://arxiv.org/abs/2405.19228)|null|
+|**2024-05-29**|**4Doodle: Two-handed Gestures for Immersive Sketching of Architectural Models**|Fernando Fonseca et.al.|[2405.18887](http://arxiv.org/abs/2405.18887)|null|
+|**2024-05-29**|**Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robotic Hand**|Jay Best et.al.|[2405.18730](http://arxiv.org/abs/2405.18730)|null|
+|**2024-05-29**|**Non-Driving-Related Tasks Influencing Drivers' Takeover Time: A Meta-Analysis**|Yan Zhang et.al.|[2405.18667](http://arxiv.org/abs/2405.18667)|null|
 |**2024-05-28**|**Fine Tuning of the Rotational Rate of Light-Driven, Second Generation Molecular Motors by Fluorine Substitutions**|Ivan Tambovtsev et.al.|[2405.18345](http://arxiv.org/abs/2405.18345)|null|
 |**2024-05-27**|**Uncovering multiscale structure in the variability of larval zebrafish navigation**|Gautam Sridhar et.al.|[2405.17143](http://arxiv.org/abs/2405.17143)|null|
 |**2024-05-26**|**A two-speed actuator for robotics with fast seamless gear shifting**|Alexandre Girard et.al.|[2405.16652](http://arxiv.org/abs/2405.16652)|null|
