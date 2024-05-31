@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.30
+## Updated on 2024.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1917,7 +1917,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-29**|**Motor Imagery Task Alters Dynamics of Human Body Posture**|Fatemeh Delavari et.al.|[2405.19228](http://arxiv.org/abs/2405.19228)|null|
+|**2024-05-30**|**Motor Imagery Task Alters Dynamics of Human Body Posture**|Fatemeh Delavari et.al.|[2405.19228](http://arxiv.org/abs/2405.19228)|null|
 |**2024-05-29**|**4Doodle: Two-handed Gestures for Immersive Sketching of Architectural Models**|Fernando Fonseca et.al.|[2405.18887](http://arxiv.org/abs/2405.18887)|null|
 |**2024-05-29**|**Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robotic Hand**|Jay Best et.al.|[2405.18730](http://arxiv.org/abs/2405.18730)|null|
 |**2024-05-29**|**Non-Driving-Related Tasks Influencing Drivers' Takeover Time: A Meta-Analysis**|Yan Zhang et.al.|[2405.18667](http://arxiv.org/abs/2405.18667)|null|
@@ -1925,7 +1925,7 @@ layout: default
 |**2024-05-27**|**Uncovering multiscale structure in the variability of larval zebrafish navigation**|Gautam Sridhar et.al.|[2405.17143](http://arxiv.org/abs/2405.17143)|null|
 |**2024-05-26**|**A two-speed actuator for robotics with fast seamless gear shifting**|Alexandre Girard et.al.|[2405.16652](http://arxiv.org/abs/2405.16652)|null|
 |**2024-05-26**|**Robotic Path Planning Implementation using Search Algorithms**|Vikram Shahapur et.al.|[2405.16445](http://arxiv.org/abs/2405.16445)|null|
-|**2024-05-25**|**EEG-DBNet: A Dual-Branch Network for Motor-Imagery Brain-Computer Interfaces**|Xicheng Lou et.al.|[2405.16090](http://arxiv.org/abs/2405.16090)|null|
+|**2024-05-30**|**EEG-DBNet: A Dual-Branch Network for Temporal-Spectral Decoding in Motor-Imagery Brain-Computer Interfaces**|Xicheng Lou et.al.|[2405.16090](http://arxiv.org/abs/2405.16090)|null|
 |**2024-05-24**|**Model-free reinforcement learning with noisy actions for automated experimental control in optics**|Lea Richtmann et.al.|[2405.15421](http://arxiv.org/abs/2405.15421)|**[link](https://github.com/ViktoriaSchmiesing/RL_Fiber_Coupling)**|
 |**2024-05-24**|**A Wearable Resistance Devices Motor Learning Effects in Exercise**|Eugenio Frias-Miranda et.al.|[2405.15113](http://arxiv.org/abs/2405.15113)|null|
 |**2024-05-26**|**Evolution and learning in differentiable robots**|Luke Strgar et.al.|[2405.14712](http://arxiv.org/abs/2405.14712)|**[link](https://github.com/lstrgar/eldir)**|
