@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.03
+## Updated on 2024.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1920,7 +1920,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-29**|**A Full-duplex Speech Dialogue Scheme Based On Large Language Models**|Peng Wang et.al.|[2405.19487](http://arxiv.org/abs/2405.19487)|null|
 |**2024-05-29**|**Nanometer scale difference in myofilament lattice structure of muscle alter muscle function in a spatially explicit model**|Travis Tune et.al.|[2405.19443](http://arxiv.org/abs/2405.19443)|null|
-|**2024-05-30**|**Motor Imagery Task Alters Dynamics of Human Body Posture**|Fatemeh Delavari et.al.|[2405.19228](http://arxiv.org/abs/2405.19228)|null|
+|**2024-05-31**|**Motor Imagery Task Alters Dynamics of Human Body Posture**|Fatemeh Delavari et.al.|[2405.19228](http://arxiv.org/abs/2405.19228)|null|
 |**2024-05-29**|**4Doodle: Two-handed Gestures for Immersive Sketching of Architectural Models**|Fernando Fonseca et.al.|[2405.18887](http://arxiv.org/abs/2405.18887)|null|
 |**2024-05-29**|**Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robotic Hand**|Jay Best et.al.|[2405.18730](http://arxiv.org/abs/2405.18730)|null|
 |**2024-05-29**|**Non-Driving-Related Tasks Influencing Drivers' Takeover Time: A Meta-Analysis**|Yan Zhang et.al.|[2405.18667](http://arxiv.org/abs/2405.18667)|null|
