@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-03**|**The Empirical Impact of Forgetting and Transfer in Continual Visual Odometry**|Paolo Cudrano et.al.|[2406.01797](http://arxiv.org/abs/2406.01797)|null|
+|**2024-06-03**|**Self-Supervised Geometry-Guided Initialization for Robust Monocular Visual Odometry**|Takayuki Kanai et.al.|[2406.00929](http://arxiv.org/abs/2406.00929)|null|
 |**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang et.al.|[2405.19614](http://arxiv.org/abs/2405.19614)|null|
 |**2024-05-23**|**ETA-INIT: Enhancing the Translation Accuracy for Stereo Visual-Inertial SLAM Initialization**|Han Song et.al.|[2405.15082](http://arxiv.org/abs/2405.15082)|null|
 |**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120](http://arxiv.org/abs/2405.12120)|null|
@@ -1939,6 +1941,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**UA-Track: Uncertainty-Aware End-to-End 3D Multi-Object Tracking**|Lijun Zhou et.al.|[2406.02147](http://arxiv.org/abs/2406.02147)|null|
+|**2024-06-03**|**Conditional Gumbel-Softmax for constrained feature selection with application to node selection in wireless sensor networks**|Thomas Strypsteen et.al.|[2406.01162](http://arxiv.org/abs/2406.01162)|null|
+|**2024-06-01**|**Research on an Autonomous UAV Search and Rescue System Based on the Improved**|Haobin Chen et.al.|[2406.00504](http://arxiv.org/abs/2406.00504)|null|
+|**2024-06-01**|**MI 2 MI: Training Dyad with Collaborative Brain-Computer Interface and Cooperative Motor Imagery Tasks for Better BCI Performance**|Shiwei Cheng et.al.|[2406.00470](http://arxiv.org/abs/2406.00470)|null|
 |**2024-05-29**|**A Full-duplex Speech Dialogue Scheme Based On Large Language Models**|Peng Wang et.al.|[2405.19487](http://arxiv.org/abs/2405.19487)|null|
 |**2024-05-29**|**Nanometer scale difference in myofilament lattice structure of muscle alter muscle function in a spatially explicit model**|Travis Tune et.al.|[2405.19443](http://arxiv.org/abs/2405.19443)|null|
 |**2024-05-31**|**Motor Imagery Task Alters Dynamics of Human Body Posture**|Fatemeh Delavari et.al.|[2405.19228](http://arxiv.org/abs/2405.19228)|null|
