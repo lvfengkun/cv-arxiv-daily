@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.06
+## Updated on 2024.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1920,7 +1920,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-05**|**GET: A Generative EEG Transformer for continuous context-based neural**|Omair Ali et.al.|[2406.03115](http://arxiv.org/abs/2406.03115)|null|
+|**2024-06-06**|**GET: A Generative EEG Transformer for Continuous Context-Based Neural Signals**|Omair Ali et.al.|[2406.03115](http://arxiv.org/abs/2406.03115)|null|
 |**2024-06-05**|**Oscillations enhance time-series prediction in reservoir computing with feedback**|Yuji Kawai et.al.|[2406.02867](http://arxiv.org/abs/2406.02867)|null|
 |**2024-06-04**|**UA-Track: Uncertainty-Aware End-to-End 3D Multi-Object Tracking**|Lijun Zhou et.al.|[2406.02147](http://arxiv.org/abs/2406.02147)|null|
 |**2024-06-03**|**Conditional Gumbel-Softmax for constrained feature selection with application to node selection in wireless sensor networks**|Thomas Strypsteen et.al.|[2406.01162](http://arxiv.org/abs/2406.01162)|null|
