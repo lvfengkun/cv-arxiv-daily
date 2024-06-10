@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.09
+## Updated on 2024.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1926,7 +1926,7 @@ layout: default
 |**2024-06-05**|**Oscillations enhance time-series prediction in reservoir computing with feedback**|Yuji Kawai et.al.|[2406.02867](http://arxiv.org/abs/2406.02867)|null|
 |**2024-06-04**|**UA-Track: Uncertainty-Aware End-to-End 3D Multi-Object Tracking**|Lijun Zhou et.al.|[2406.02147](http://arxiv.org/abs/2406.02147)|null|
 |**2024-06-03**|**Conditional Gumbel-Softmax for constrained feature selection with application to node selection in wireless sensor networks**|Thomas Strypsteen et.al.|[2406.01162](http://arxiv.org/abs/2406.01162)|null|
-|**2024-06-01**|**Research on an Autonomous UAV Search and Rescue System Based on the Improved**|Haobin Chen et.al.|[2406.00504](http://arxiv.org/abs/2406.00504)|null|
+|**2024-06-07**|**Research on an Autonomous UAV Search and Rescue System Based on the Improved**|Haobin Chen et.al.|[2406.00504](http://arxiv.org/abs/2406.00504)|null|
 |**2024-06-01**|**MI 2 MI: Training Dyad with Collaborative Brain-Computer Interface and Cooperative Motor Imagery Tasks for Better BCI Performance**|Shiwei Cheng et.al.|[2406.00470](http://arxiv.org/abs/2406.00470)|null|
 |**2024-05-29**|**A Full-duplex Speech Dialogue Scheme Based On Large Language Models**|Peng Wang et.al.|[2405.19487](http://arxiv.org/abs/2405.19487)|null|
 |**2024-05-29**|**Nanometer scale difference in myofilament lattice structure of muscle alter muscle function in a spatially explicit model**|Travis Tune et.al.|[2405.19443](http://arxiv.org/abs/2405.19443)|null|
