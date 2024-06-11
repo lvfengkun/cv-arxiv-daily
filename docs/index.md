@@ -1920,11 +1920,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**Foundation Inference Models for Markov Jump Processes**|David Berghaus et.al.|[2406.06419](http://arxiv.org/abs/2406.06419)|null|
+|**2024-06-10**|**Leveraging Hyperscanning EEG and VR Omnidirectional Treadmill to Explore Inter-Brain Synchrony in Collaborative Spatial Navigation**|Chun-Hsiang Chuang et.al.|[2406.06327](http://arxiv.org/abs/2406.06327)|null|
+|**2024-06-10**|**Learning-based cognitive architecture for enhancing coordination in human groups**|Antonio Grotta et.al.|[2406.06297](http://arxiv.org/abs/2406.06297)|null|
+|**2024-06-10**|**Adapting Pretrained ViTs with Convolution Injector for Visuo-Motor Control**|Dongyoon Hwang et.al.|[2406.06072](http://arxiv.org/abs/2406.06072)|null|
 |**2024-06-07**|**Structured physics-guided neural networks for electromagnetic commutation applied to industrial linear motors**|Max Bolderman et.al.|[2406.05040](http://arxiv.org/abs/2406.05040)|null|
 |**2024-06-07**|**A short review on graphonometric evaluation tools in children**|Belen Esther Aleman et.al.|[2406.04818](http://arxiv.org/abs/2406.04818)|null|
 |**2024-06-06**|**Energy-storing analysis and fishtail stiffness optimization for a wire-driven elastic robotic fish**|Xiaocun Liao et.al.|[2406.03875](http://arxiv.org/abs/2406.03875)|null|
 |**2024-06-06**|**Enhanced Model-Free Dynamic State Estimation for a Soft Robot Finger Using an Embedded Optical Waveguide Sensor**|Henrik Krauss et.al.|[2406.03708](http://arxiv.org/abs/2406.03708)|null|
-|**2024-06-06**|**GET: A Generative EEG Transformer for Continuous Context-Based Neural Signals**|Omair Ali et.al.|[2406.03115](http://arxiv.org/abs/2406.03115)|null|
+|**2024-06-10**|**GET: A Generative EEG Transformer for Continuous Context-Based Neural Signals**|Omair Ali et.al.|[2406.03115](http://arxiv.org/abs/2406.03115)|null|
 |**2024-06-05**|**Oscillations enhance time-series prediction in reservoir computing with feedback**|Yuji Kawai et.al.|[2406.02867](http://arxiv.org/abs/2406.02867)|null|
 |**2024-06-04**|**UA-Track: Uncertainty-Aware End-to-End 3D Multi-Object Tracking**|Lijun Zhou et.al.|[2406.02147](http://arxiv.org/abs/2406.02147)|null|
 |**2024-06-03**|**Conditional Gumbel-Softmax for constrained feature selection with application to node selection in wireless sensor networks**|Thomas Strypsteen et.al.|[2406.01162](http://arxiv.org/abs/2406.01162)|null|
