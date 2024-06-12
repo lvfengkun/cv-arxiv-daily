@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1923,7 +1923,7 @@ layout: default
 |**2024-06-10**|**Foundation Inference Models for Markov Jump Processes**|David Berghaus et.al.|[2406.06419](http://arxiv.org/abs/2406.06419)|null|
 |**2024-06-10**|**Leveraging Hyperscanning EEG and VR Omnidirectional Treadmill to Explore Inter-Brain Synchrony in Collaborative Spatial Navigation**|Chun-Hsiang Chuang et.al.|[2406.06327](http://arxiv.org/abs/2406.06327)|null|
 |**2024-06-10**|**Learning-based cognitive architecture for enhancing coordination in human groups**|Antonio Grotta et.al.|[2406.06297](http://arxiv.org/abs/2406.06297)|null|
-|**2024-06-10**|**Adapting Pretrained ViTs with Convolution Injector for Visuo-Motor Control**|Dongyoon Hwang et.al.|[2406.06072](http://arxiv.org/abs/2406.06072)|null|
+|**2024-06-10**|**Adapting Pretrained ViTs with Convolution Injector for Visuo-Motor Control**|Dongyoon Hwang et.al.|[2406.06072](http://arxiv.org/abs/2406.06072)|**[link](https://github.com/dojeon-ai/CoIn)**|
 |**2024-06-07**|**Structured physics-guided neural networks for electromagnetic commutation applied to industrial linear motors**|Max Bolderman et.al.|[2406.05040](http://arxiv.org/abs/2406.05040)|null|
 |**2024-06-07**|**A short review on graphonometric evaluation tools in children**|Belen Esther Aleman et.al.|[2406.04818](http://arxiv.org/abs/2406.04818)|null|
 |**2024-06-06**|**Energy-storing analysis and fishtail stiffness optimization for a wire-driven elastic robotic fish**|Xiaocun Liao et.al.|[2406.03875](http://arxiv.org/abs/2406.03875)|null|
