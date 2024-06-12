@@ -1941,6 +1941,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Experimental Modeling of Chiral Active Robots and a Minimal Model of Non-Gaussian Displacements**|Yuxuan Zhou et.al.|[2406.07313](http://arxiv.org/abs/2406.07313)|null|
+|**2024-06-10**|**Vibrotactile versus Visual Stimulation in Learning the Piano**|Matteo A. Coscia et.al.|[2406.06720](http://arxiv.org/abs/2406.06720)|null|
+|**2024-06-10**|**Coprocessor Actor Critic: A Model-Based Reinforcement Learning Approach For Adaptive Brain Stimulation**|Michelle Pan et.al.|[2406.06714](http://arxiv.org/abs/2406.06714)|null|
 |**2024-06-10**|**Foundation Inference Models for Markov Jump Processes**|David Berghaus et.al.|[2406.06419](http://arxiv.org/abs/2406.06419)|null|
 |**2024-06-10**|**Leveraging Hyperscanning EEG and VR Omnidirectional Treadmill to Explore Inter-Brain Synchrony in Collaborative Spatial Navigation**|Chun-Hsiang Chuang et.al.|[2406.06327](http://arxiv.org/abs/2406.06327)|null|
 |**2024-06-10**|**Learning-based cognitive architecture for enhancing coordination in human groups**|Antonio Grotta et.al.|[2406.06297](http://arxiv.org/abs/2406.06297)|null|
