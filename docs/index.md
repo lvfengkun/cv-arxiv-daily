@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785](http://arxiv.org/abs/2406.07785)|null|
 |**2024-06-03**|**The Empirical Impact of Forgetting and Transfer in Continual Visual Odometry**|Paolo Cudrano et.al.|[2406.01797](http://arxiv.org/abs/2406.01797)|null|
 |**2024-06-03**|**Self-Supervised Geometry-Guided Initialization for Robust Monocular Visual Odometry**|Takayuki Kanai et.al.|[2406.00929](http://arxiv.org/abs/2406.00929)|null|
 |**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang et.al.|[2405.19614](http://arxiv.org/abs/2405.19614)|null|
@@ -1920,6 +1921,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Fault detection in propulsion motors in the presence of concept drift**|Martin Tveten et.al.|[2406.08030](http://arxiv.org/abs/2406.08030)|null|
+|**2024-06-12**|**GAPses: Versatile smart glasses for comfortable and fully-dry acquisition and parallel ultra-low-power processing of EEG and EOG**|Sebastian Frey et.al.|[2406.07903](http://arxiv.org/abs/2406.07903)|null|
+|**2024-06-12**|**Research on Comprehensive Optimization Design of CNC Machine Tool Feed System Considering Subsystem Coupling Effects**|Xuesong Wang et.al.|[2406.07834](http://arxiv.org/abs/2406.07834)|null|
+|**2024-06-12**|**Wideband tunable cavity development for axion dark matter searches using a piezoelectric motor in combination with gears**|A. K. Yi et.al.|[2406.07782](http://arxiv.org/abs/2406.07782)|null|
+|**2024-06-11**|**Design and Control of a Compact Series Elastic Actuator Module for Robots in MRI Scanners**|Binghan He et.al.|[2406.07670](http://arxiv.org/abs/2406.07670)|null|
 |**2024-06-11**|**Experimental Modeling of Chiral Active Robots and a Minimal Model of Non-Gaussian Displacements**|Yuxuan Zhou et.al.|[2406.07313](http://arxiv.org/abs/2406.07313)|null|
 |**2024-06-10**|**Vibrotactile versus Visual Stimulation in Learning the Piano**|Matteo A. Coscia et.al.|[2406.06720](http://arxiv.org/abs/2406.06720)|null|
 |**2024-06-10**|**Coprocessor Actor Critic: A Model-Based Reinforcement Learning Approach For Adaptive Brain Stimulation**|Michelle Pan et.al.|[2406.06714](http://arxiv.org/abs/2406.06714)|null|
