@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.16
+## Updated on 2024.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1922,8 +1922,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-13**|**Teleoperation of a robotic manipulator in peri-personal space: a virtual wand approach**|Alexis Poignant et.al.|[2406.09309](http://arxiv.org/abs/2406.09309)|null|
-|**2024-06-13**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014](http://arxiv.org/abs/2406.09014)|null|
-|**2024-06-13**|**Effective affinity for generic currents in nonequilibrium processes**|Adarsh Raghu et.al.|[2406.08926](http://arxiv.org/abs/2406.08926)|null|
+|**2024-06-14**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014](http://arxiv.org/abs/2406.09014)|null|
+|**2024-06-14**|**Effective affinity for generic currents in nonequilibrium processes**|Adarsh Raghu et.al.|[2406.08926](http://arxiv.org/abs/2406.08926)|null|
 |**2024-06-13**|**Deep Reinforcement Learning-based Quadcopter Controller: A Practical Approach and Experiments**|Truong-Dong Do et.al.|[2406.08815](http://arxiv.org/abs/2406.08815)|null|
 |**2024-06-13**|**Data-driven Thermal Modeling for Electrically Excited Synchronous Motors -- A Supervised Machine Learning Approach**|Farzaneh Tatari et.al.|[2406.08708](http://arxiv.org/abs/2406.08708)|null|
 |**2024-06-12**|**Fault detection in propulsion motors in the presence of concept drift**|Martin Tveten et.al.|[2406.08030](http://arxiv.org/abs/2406.08030)|null|
