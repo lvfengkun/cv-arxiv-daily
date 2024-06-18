@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-16**|**Self-supervised Pretraining and Finetuning for Monocular Depth and Visual Odometry**|Boris Chidlovskii et.al.|[2406.11019](http://arxiv.org/abs/2406.11019)|null|
 |**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785](http://arxiv.org/abs/2406.07785)|**[link](https://github.com/swami1995/v2v)**|
 |**2024-06-03**|**The Empirical Impact of Forgetting and Transfer in Continual Visual Odometry**|Paolo Cudrano et.al.|[2406.01797](http://arxiv.org/abs/2406.01797)|null|
 |**2024-06-03**|**Self-Supervised Geometry-Guided Initialization for Robust Monocular Visual Odometry**|Takayuki Kanai et.al.|[2406.00929](http://arxiv.org/abs/2406.00929)|null|
@@ -1921,6 +1922,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**A Brief Survey on Leveraging Large Scale Vision Models for Enhanced Robot Grasping**|Abhi Kamboj et.al.|[2406.11786](http://arxiv.org/abs/2406.11786)|null|
+|**2024-06-17**|**Control of Unknown Quadrotors from a Single Throw**|Till M. Blaha et.al.|[2406.11723](http://arxiv.org/abs/2406.11723)|null|
+|**2024-06-17**|**ESI-GAL: EEG Source Imaging-based Kinemaics Parameter Estimation for Grasp and Lift Task**|Anant Jain et.al.|[2406.11500](http://arxiv.org/abs/2406.11500)|null|
+|**2024-06-14**|**Enhancing Voice Wake-Up for Dysarthria: Mandarin Dysarthria Speech Corpus Release and Customized System Design**|Ming Gao et.al.|[2406.10304](http://arxiv.org/abs/2406.10304)|null|
 |**2024-06-13**|**Teleoperation of a robotic manipulator in peri-personal space: a virtual wand approach**|Alexis Poignant et.al.|[2406.09309](http://arxiv.org/abs/2406.09309)|null|
 |**2024-06-14**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014](http://arxiv.org/abs/2406.09014)|null|
 |**2024-06-14**|**Effective affinity for generic currents in nonequilibrium processes**|Adarsh Raghu et.al.|[2406.08926](http://arxiv.org/abs/2406.08926)|null|
