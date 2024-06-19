@@ -1922,6 +1922,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Socially Interactive Agents for Robotic Neurorehabilitation Training: Conceptualization and Proof-of-concept Study**|Rhythm Arora et.al.|[2406.12035](http://arxiv.org/abs/2406.12035)|null|
 |**2024-06-17**|**A Brief Survey on Leveraging Large Scale Vision Models for Enhanced Robot Grasping**|Abhi Kamboj et.al.|[2406.11786](http://arxiv.org/abs/2406.11786)|null|
 |**2024-06-17**|**Control of Unknown Quadrotors from a Single Throw**|Till M. Blaha et.al.|[2406.11723](http://arxiv.org/abs/2406.11723)|null|
 |**2024-06-18**|**ESI-GAL: EEG Source Imaging-based Kinematics Parameter Estimation for Grasp and Lift Task**|Anant Jain et.al.|[2406.11500](http://arxiv.org/abs/2406.11500)|null|
@@ -1929,7 +1930,7 @@ layout: default
 |**2024-06-13**|**Teleoperation of a robotic manipulator in peri-personal space: a virtual wand approach**|Alexis Poignant et.al.|[2406.09309](http://arxiv.org/abs/2406.09309)|null|
 |**2024-06-14**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014](http://arxiv.org/abs/2406.09014)|null|
 |**2024-06-14**|**Effective affinity for generic currents in nonequilibrium processes**|Adarsh Raghu et.al.|[2406.08926](http://arxiv.org/abs/2406.08926)|null|
-|**2024-06-13**|**Deep Reinforcement Learning-based Quadcopter Controller: A Practical Approach and Experiments**|Truong-Dong Do et.al.|[2406.08815](http://arxiv.org/abs/2406.08815)|null|
+|**2024-06-18**|**Deep Reinforcement Learning-based Quadcopter Controller: A Practical Approach and Experiments**|Truong-Dong Do et.al.|[2406.08815](http://arxiv.org/abs/2406.08815)|null|
 |**2024-06-13**|**Data-driven Thermal Modeling for Electrically Excited Synchronous Motors -- A Supervised Machine Learning Approach**|Farzaneh Tatari et.al.|[2406.08708](http://arxiv.org/abs/2406.08708)|null|
 |**2024-06-12**|**Fault detection in propulsion motors in the presence of concept drift**|Martin Tveten et.al.|[2406.08030](http://arxiv.org/abs/2406.08030)|null|
 |**2024-06-13**|**GAPses: Versatile smart glasses for comfortable and fully-dry acquisition and parallel ultra-low-power processing of EEG and EOG**|Sebastian Frey et.al.|[2406.07903](http://arxiv.org/abs/2406.07903)|null|
