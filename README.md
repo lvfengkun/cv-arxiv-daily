@@ -28,7 +28,7 @@
 |**2024-06-03**|**The Empirical Impact of Forgetting and Transfer in Continual Visual Odometry**|Paolo Cudrano et.al.|[2406.01797](http://arxiv.org/abs/2406.01797)|null|
 |**2024-06-03**|**Self-Supervised Geometry-Guided Initialization for Robust Monocular Visual Odometry**|Takayuki Kanai et.al.|[2406.00929](http://arxiv.org/abs/2406.00929)|null|
 |**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang et.al.|[2405.19614](http://arxiv.org/abs/2405.19614)|null|
-|**2024-06-09**|**ETA-INIT: Enhancing the Translation Accuracy for Stereo Visual-Inertial SLAM Initialization**|Han Song et.al.|[2405.15082](http://arxiv.org/abs/2405.15082)|null|
+|**2024-06-20**|**Advancements in Translation Accuracy for Stereo Visual-Inertial Initialization**|Han Song et.al.|[2405.15082](http://arxiv.org/abs/2405.15082)|null|
 |**2024-06-08**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120](http://arxiv.org/abs/2405.12120)|null|
 |**2024-05-10**|**MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization**|Pengcheng Zhu et.al.|[2405.06241](http://arxiv.org/abs/2405.06241)|null|
 |**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290](http://arxiv.org/abs/2405.04290)|null|
@@ -1943,6 +1943,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**A first-principles geometric model for dynamics of motor-driven centrosomal asters**|Yuan-Nan Young et.al.|[2406.14350](http://arxiv.org/abs/2406.14350)|null|
+|**2024-06-20**|**Single Channel-based Motor Imagery Classification using Fisher's Ratio and Pearson Correlation**|Sonal Santosh Baberwal et.al.|[2406.14179](http://arxiv.org/abs/2406.14179)|null|
+|**2024-06-19**|**Advanced Maximum Adhesion Tracking Strategies in Railway Traction Drives**|Ahmed Fathy Abouzeid et.al.|[2406.13650](http://arxiv.org/abs/2406.13650)|null|
+|**2024-06-19**|**An interpretable generative multimodal neuroimaging-genomics framework for decoding Alzheimer's disease**|Giorgio Dolci et.al.|[2406.13292](http://arxiv.org/abs/2406.13292)|null|
 |**2024-06-17**|**Socially Interactive Agents for Robotic Neurorehabilitation Training: Conceptualization and Proof-of-concept Study**|Rhythm Arora et.al.|[2406.12035](http://arxiv.org/abs/2406.12035)|null|
 |**2024-06-17**|**A Brief Survey on Leveraging Large Scale Vision Models for Enhanced Robot Grasping**|Abhi Kamboj et.al.|[2406.11786](http://arxiv.org/abs/2406.11786)|null|
 |**2024-06-19**|**Control of Unknown Quadrotors from a Single Throw**|Till M. Blaha et.al.|[2406.11723](http://arxiv.org/abs/2406.11723)|null|
