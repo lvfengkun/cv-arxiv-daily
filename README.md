@@ -1943,6 +1943,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Introducing the modularity graph: an application to brain functional networks**|Tiziana Cattai et.al.|[2406.15155](http://arxiv.org/abs/2406.15155)|null|
+|**2024-06-21**|**Community Detection from Multiple Observations: from Product Graph Model to Brain Applications**|Tiziana Cattai et.al.|[2406.15142](http://arxiv.org/abs/2406.15142)|null|
+|**2024-06-21**|**Evolution of Rewards for Food and Motor Action by Simulating Birth and Death**|Yuji Kanagawa et.al.|[2406.15016](http://arxiv.org/abs/2406.15016)|null|
 |**2024-06-20**|**A first-principles geometric model for dynamics of motor-driven centrosomal asters**|Yuan-Nan Young et.al.|[2406.14350](http://arxiv.org/abs/2406.14350)|null|
 |**2024-06-20**|**Single Channel-based Motor Imagery Classification using Fisher's Ratio and Pearson Correlation**|Sonal Santosh Baberwal et.al.|[2406.14179](http://arxiv.org/abs/2406.14179)|null|
 |**2024-06-19**|**Advanced Maximum Adhesion Tracking Strategies in Railway Traction Drives**|Ahmed Fathy Abouzeid et.al.|[2406.13650](http://arxiv.org/abs/2406.13650)|null|
