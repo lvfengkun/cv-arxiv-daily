@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-23**|**Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy**|Chen Wang et.al.|[2406.16087](http://arxiv.org/abs/2406.16087)|null|
 |**2024-06-16**|**Self-supervised Pretraining and Finetuning for Monocular Depth and Visual Odometry**|Boris Chidlovskii et.al.|[2406.11019](http://arxiv.org/abs/2406.11019)|null|
 |**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785](http://arxiv.org/abs/2406.07785)|**[link](https://github.com/swami1995/v2v)**|
 |**2024-06-03**|**The Empirical Impact of Forgetting and Transfer in Continual Visual Odometry**|Paolo Cudrano et.al.|[2406.01797](http://arxiv.org/abs/2406.01797)|null|
@@ -1943,6 +1944,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**Stationary and Sparse Denoising Approach for Corticomuscular Causality Estimation**|Farwa Abbas et.al.|[2406.16692](http://arxiv.org/abs/2406.16692)|null|
+|**2024-06-24**|**METRIK: Measurement-Efficient Randomized Controlled Trials using Transformers with Input Masking**|Sayeri Lala et.al.|[2406.16351](http://arxiv.org/abs/2406.16351)|null|
+|**2024-06-23**|**Towards Natural Language-Driven Assembly Using Foundation Models**|Omkar Joglekar et.al.|[2406.16093](http://arxiv.org/abs/2406.16093)|null|
+|**2024-06-22**|**AI-based Drone Assisted Human Rescue in Disaster Environments: Challenges and Opportunities**|Narek Papyan et.al.|[2406.15875](http://arxiv.org/abs/2406.15875)|null|
 |**2024-06-21**|**Introducing the modularity graph: an application to brain functional networks**|Tiziana Cattai et.al.|[2406.15155](http://arxiv.org/abs/2406.15155)|null|
 |**2024-06-21**|**Community Detection from Multiple Observations: from Product Graph Model to Brain Applications**|Tiziana Cattai et.al.|[2406.15142](http://arxiv.org/abs/2406.15142)|null|
 |**2024-06-21**|**Evolution of Rewards for Food and Motor Action by Simulating Birth and Death**|Yuji Kanagawa et.al.|[2406.15016](http://arxiv.org/abs/2406.15016)|null|
