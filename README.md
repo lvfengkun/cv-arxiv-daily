@@ -1944,6 +1944,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Optimal DC-link Voltage from Weight and Loss Perspective for eVTOLs**|Abhijit Kulkarni et.al.|[2406.17516](http://arxiv.org/abs/2406.17516)|null|
+|**2024-06-25**|**Comparing fingers and gestures for bci control using an optimized classical machine learning decoder**|D. Keller et.al.|[2406.17391](http://arxiv.org/abs/2406.17391)|null|
+|**2024-06-25**|**Automatic infant 2D pose estimation from videos: comparing seven deep neural network methods**|Filipe Gama et.al.|[2406.17382](http://arxiv.org/abs/2406.17382)|null|
 |**2024-06-24**|**Stationary and Sparse Denoising Approach for Corticomuscular Causality Estimation**|Farwa Abbas et.al.|[2406.16692](http://arxiv.org/abs/2406.16692)|null|
 |**2024-06-24**|**METRIK: Measurement-Efficient Randomized Controlled Trials using Transformers with Input Masking**|Sayeri Lala et.al.|[2406.16351](http://arxiv.org/abs/2406.16351)|null|
 |**2024-06-23**|**Towards Natural Language-Driven Assembly Using Foundation Models**|Omkar Joglekar et.al.|[2406.16093](http://arxiv.org/abs/2406.16093)|null|
