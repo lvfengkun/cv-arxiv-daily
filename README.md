@@ -1944,6 +1944,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**From Counting Stations to City-Wide Estimates: Data-Driven Bicycle Volume Extrapolation**|Silke K. Kaiser et.al.|[2406.18454](http://arxiv.org/abs/2406.18454)|null|
+|**2024-06-26**|**Sensorless model-based tension control for a cable-driven exosuit**|Elena Bardi et.al.|[2406.18412](http://arxiv.org/abs/2406.18412)|null|
 |**2024-06-25**|**Optimal DC-link Voltage from Weight and Loss Perspective for eVTOLs**|Abhijit Kulkarni et.al.|[2406.17516](http://arxiv.org/abs/2406.17516)|null|
 |**2024-06-25**|**Comparing fingers and gestures for bci control using an optimized classical machine learning decoder**|D. Keller et.al.|[2406.17391](http://arxiv.org/abs/2406.17391)|null|
 |**2024-06-25**|**Automatic infant 2D pose estimation from videos: comparing seven deep neural network methods**|Filipe Gama et.al.|[2406.17382](http://arxiv.org/abs/2406.17382)|null|
