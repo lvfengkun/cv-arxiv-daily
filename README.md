@@ -1944,6 +1944,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**UltraGelBot: Autonomous Gel Dispenser for Robotic Ultrasound**|Deepak Raina et.al.|[2406.19678](http://arxiv.org/abs/2406.19678)|null|
+|**2024-06-28**|**HarmonICA: Neural non-stationarity correction and source separation for motor neuron interfaces**|Alexander Kenneth Clarke et.al.|[2406.19581](http://arxiv.org/abs/2406.19581)|null|
 |**2024-06-26**|**From Counting Stations to City-Wide Estimates: Data-Driven Bicycle Volume Extrapolation**|Silke K. Kaiser et.al.|[2406.18454](http://arxiv.org/abs/2406.18454)|null|
 |**2024-06-26**|**Sensorless model-based tension control for a cable-driven exosuit**|Elena Bardi et.al.|[2406.18412](http://arxiv.org/abs/2406.18412)|null|
 |**2024-06-25**|**Optimal DC-link Voltage from Weight and Loss Perspective for eVTOLs**|Abhijit Kulkarni et.al.|[2406.17516](http://arxiv.org/abs/2406.17516)|null|
