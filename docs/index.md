@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292](http://arxiv.org/abs/2407.01292)|null|
 |**2024-06-23**|**Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy**|Chen Wang et.al.|[2406.16087](http://arxiv.org/abs/2406.16087)|null|
 |**2024-06-16**|**Self-supervised Pretraining and Finetuning for Monocular Depth and Visual Odometry**|Boris Chidlovskii et.al.|[2406.11019](http://arxiv.org/abs/2406.11019)|null|
 |**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785](http://arxiv.org/abs/2406.07785)|**[link](https://github.com/swami1995/v2v)**|
@@ -1923,6 +1924,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics**|Tyler Ga Wei Lum et.al.|[2407.02274](http://arxiv.org/abs/2407.02274)|null|
+|**2024-07-01**|**Error-rate reduction in network-based biocomputation**|Pradheebha Surendiran et.al.|[2407.01754](http://arxiv.org/abs/2407.01754)|null|
+|**2024-07-01**|**Superlubric Brownian Motor**|Keren Stein et.al.|[2407.01324](http://arxiv.org/abs/2407.01324)|null|
+|**2024-06-30**|**Active Healing of Microtubule-Motor Networks**|Fan Yang et.al.|[2407.00842](http://arxiv.org/abs/2407.00842)|null|
+|**2024-06-30**|**Neurodevelopmental disorders modeling using isogeometric analysis, dynamic domain expansion and local refinement**|Kuanren Qian et.al.|[2407.00810](http://arxiv.org/abs/2407.00810)|null|
+|**2024-06-29**|**PUZZLES: A Benchmark for Neural Algorithmic Reasoning**|Benjamin Estermann et.al.|[2407.00401](http://arxiv.org/abs/2407.00401)|**[link](https://github.com/eth-disco/rlp)**|
 |**2024-06-28**|**UltraGelBot: Autonomous Gel Dispenser for Robotic Ultrasound**|Deepak Raina et.al.|[2406.19678](http://arxiv.org/abs/2406.19678)|null|
 |**2024-06-28**|**HarmonICA: Neural non-stationarity correction and source separation for motor neuron interfaces**|Alexander Kenneth Clarke et.al.|[2406.19581](http://arxiv.org/abs/2406.19581)|null|
 |**2024-06-26**|**From Counting Stations to City-Wide Estimates: Data-Driven Bicycle Volume Extrapolation**|Silke K. Kaiser et.al.|[2406.18454](http://arxiv.org/abs/2406.18454)|null|
