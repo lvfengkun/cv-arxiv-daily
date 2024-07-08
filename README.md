@@ -1945,6 +1945,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**Gamification of Motor Imagery Brain-Computer Interface Training Protocols: a systematic review**|Fred Atilla et.al.|[2407.04610](http://arxiv.org/abs/2407.04610)|null|
+|**2024-07-05**|**Nonreciprocal interactions drive capillary waves in active liquid crystals**|Paarth Gulati et.al.|[2407.04196](http://arxiv.org/abs/2407.04196)|null|
+|**2024-07-04**|**Collapse of active nematic order through a two-stage dynamic transition**|Aleksandra Ardaševa et.al.|[2407.03723](http://arxiv.org/abs/2407.03723)|null|
+|**2024-07-03**|**BVI-RLV: A Fully Registered Dataset and Benchmarks for Low-Light Video Enhancement**|Ruirui Lin et.al.|[2407.03535](http://arxiv.org/abs/2407.03535)|null|
 |**2024-07-03**|**EDPNet: An Efficient Dual Prototype Network for Motor Imagery EEG Decoding**|Can Han et.al.|[2407.03177](http://arxiv.org/abs/2407.03177)|null|
 |**2024-07-04**|**DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics**|Tyler Ga Wei Lum et.al.|[2407.02274](http://arxiv.org/abs/2407.02274)|null|
 |**2024-07-01**|**Error-rate reduction in network-based biocomputation**|Pradheebha Surendiran et.al.|[2407.01754](http://arxiv.org/abs/2407.01754)|null|
