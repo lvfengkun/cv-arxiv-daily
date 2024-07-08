@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.07
+## Updated on 2024.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1925,7 +1925,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-03**|**EDPNet: An Efficient Dual Prototype Network for Motor Imagery EEG Decoding**|Can Han et.al.|[2407.03177](http://arxiv.org/abs/2407.03177)|null|
-|**2024-07-02**|**DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics**|Tyler Ga Wei Lum et.al.|[2407.02274](http://arxiv.org/abs/2407.02274)|null|
+|**2024-07-04**|**DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics**|Tyler Ga Wei Lum et.al.|[2407.02274](http://arxiv.org/abs/2407.02274)|null|
 |**2024-07-01**|**Error-rate reduction in network-based biocomputation**|Pradheebha Surendiran et.al.|[2407.01754](http://arxiv.org/abs/2407.01754)|null|
 |**2024-07-01**|**Superlubric Brownian Motor**|Keren Stein et.al.|[2407.01324](http://arxiv.org/abs/2407.01324)|null|
 |**2024-06-30**|**Active Healing of Microtubule-Motor Networks**|Fan Yang et.al.|[2407.00842](http://arxiv.org/abs/2407.00842)|null|
