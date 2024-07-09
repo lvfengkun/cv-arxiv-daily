@@ -1945,6 +1945,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-01**|**SCDM: Unified Representation Learning for EEG-to-fNIRS Cross-Modal Generation in MI-BCIs**|Yisheng Li et.al.|[2407.04736](http://arxiv.org/abs/2407.04736)|null|
 |**2024-07-05**|**Gamification of Motor Imagery Brain-Computer Interface Training Protocols: a systematic review**|Fred Atilla et.al.|[2407.04610](http://arxiv.org/abs/2407.04610)|null|
 |**2024-07-05**|**Nonreciprocal interactions drive capillary waves in active liquid crystals**|Paarth Gulati et.al.|[2407.04196](http://arxiv.org/abs/2407.04196)|null|
 |**2024-07-04**|**Collapse of active nematic order through a two-stage dynamic transition**|Aleksandra Ardaševa et.al.|[2407.03723](http://arxiv.org/abs/2407.03723)|null|
