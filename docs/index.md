@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.10
+## Updated on 2024.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1925,7 +1925,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-08**|**Neural population dynamics in songbird RA and HVC during learned motor-vocal behavior**|Pablo Tostado-Marcos et.al.|[2407.06244](http://arxiv.org/abs/2407.06244)|null|
-|**2024-07-04**|**Digital twin with automatic disturbance detection for real-time optimization of a semi-autogenous grinding (SAG) mill**|Daniel Navia et.al.|[2407.06216](http://arxiv.org/abs/2407.06216)|null|
+|**2024-07-10**|**Digital twin with automatic disturbance detection for real-time optimization of a semi-autogenous grinding (SAG) mill**|Paulina Quintanilla et.al.|[2407.06216](http://arxiv.org/abs/2407.06216)|null|
 |**2024-07-01**|**SCDM: Unified Representation Learning for EEG-to-fNIRS Cross-Modal Generation in MI-BCIs**|Yisheng Li et.al.|[2407.04736](http://arxiv.org/abs/2407.04736)|null|
 |**2024-07-05**|**Gamification of Motor Imagery Brain-Computer Interface Training Protocols: a systematic review**|Fred Atilla et.al.|[2407.04610](http://arxiv.org/abs/2407.04610)|null|
 |**2024-07-05**|**Nonreciprocal interactions drive capillary waves in active liquid crystals**|Paarth Gulati et.al.|[2407.04196](http://arxiv.org/abs/2407.04196)|null|
