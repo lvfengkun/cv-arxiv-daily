@@ -1945,6 +1945,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Hierarchical Bayesian estimation of motor-evoked potential recruitment curves yields accurate and robust estimates**|Vishweshwar Tyagi et.al.|[2407.08709](http://arxiv.org/abs/2407.08709)|null|
+|**2024-07-11**|**Surpassing Cosine Similarity for Multidimensional Comparisons: Dimension Insensitive Euclidean Metric (DIEM)**|Federico Tessari et.al.|[2407.08623](http://arxiv.org/abs/2407.08623)|null|
+|**2024-07-11**|**Structuring, Sequencing, Staging, Selecting: the 4S method for the longitudinal analysis of multidimensional measurement scales in chronic diseases**|Tiphaine Saulnier et.al.|[2407.08278](http://arxiv.org/abs/2407.08278)|null|
+|**2024-07-10**|**Estimation and Control of Motor Core Temperature with Online Learning of Thermal Model Parameters: Application to Musculoskeletal Humanoids**|Kento Kawaharazuka et.al.|[2407.08055](http://arxiv.org/abs/2407.08055)|null|
 |**2024-07-09**|**E. coli do not count single molecules**|Henry H. Mattingly et.al.|[2407.07264](http://arxiv.org/abs/2407.07264)|null|
 |**2024-07-08**|**Neural population dynamics in songbird RA and HVC during learned motor-vocal behavior**|Pablo Tostado-Marcos et.al.|[2407.06244](http://arxiv.org/abs/2407.06244)|null|
 |**2024-07-10**|**Digital twin with automatic disturbance detection for real-time optimization of a semi-autogenous grinding (SAG) mill**|Paulina Quintanilla et.al.|[2407.06216](http://arxiv.org/abs/2407.06216)|null|
