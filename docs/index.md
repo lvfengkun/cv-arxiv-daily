@@ -1924,6 +1924,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**Analyzing Speech Motor Movement using Surface Electromyography in Minimally Verbal Adults with Autism Spectrum Disorder**|Wazeer Zulfikar et.al.|[2407.08877](http://arxiv.org/abs/2407.08877)|null|
 |**2024-07-11**|**Hierarchical Bayesian estimation of motor-evoked potential recruitment curves yields accurate and robust estimates**|Vishweshwar Tyagi et.al.|[2407.08709](http://arxiv.org/abs/2407.08709)|null|
 |**2024-07-11**|**Surpassing Cosine Similarity for Multidimensional Comparisons: Dimension Insensitive Euclidean Metric (DIEM)**|Federico Tessari et.al.|[2407.08623](http://arxiv.org/abs/2407.08623)|null|
 |**2024-07-11**|**Structuring, Sequencing, Staging, Selecting: the 4S method for the longitudinal analysis of multidimensional measurement scales in chronic diseases**|Tiphaine Saulnier et.al.|[2407.08278](http://arxiv.org/abs/2407.08278)|null|
