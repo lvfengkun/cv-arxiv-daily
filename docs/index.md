@@ -1924,6 +1924,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-13**|**Mining individual daily commuting patterns of dockless bike-sharing users: a two-layer framework integrating spatiotemporal flow clustering and rule-based decision trees**|Caigang Zhuang et.al.|[2407.09820](http://arxiv.org/abs/2407.09820)|null|
+|**2024-07-13**|**Human Leg Training Machine Based on The Multi-linkage System**|Yunfei Liu et.al.|[2407.09780](http://arxiv.org/abs/2407.09780)|null|
 |**2024-07-11**|**Analyzing Speech Motor Movement using Surface Electromyography in Minimally Verbal Adults with Autism Spectrum Disorder**|Wazeer Zulfikar et.al.|[2407.08877](http://arxiv.org/abs/2407.08877)|null|
 |**2024-07-11**|**Hierarchical Bayesian estimation of motor-evoked potential recruitment curves yields accurate and robust estimates**|Vishweshwar Tyagi et.al.|[2407.08709](http://arxiv.org/abs/2407.08709)|null|
 |**2024-07-11**|**Surpassing Cosine Similarity for Multidimensional Comparisons: Dimension Insensitive Euclidean Metric (DIEM)**|Federico Tessari et.al.|[2407.08623](http://arxiv.org/abs/2407.08623)|null|
