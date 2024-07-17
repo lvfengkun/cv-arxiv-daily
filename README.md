@@ -1945,6 +1945,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Feature interpretability in BCIs: exploring the role of network lateralization**|Juliana Gonzalez-Astudillo et.al.|[2407.11617](http://arxiv.org/abs/2407.11617)|null|
+|**2024-07-16**|**DynSyn: Dynamical Synergistic Representation for Efficient Learning and Control in Overactuated Embodied Systems**|Kaibo He et.al.|[2407.11472](http://arxiv.org/abs/2407.11472)|null|
+|**2024-07-16**|**Grasping Diverse Objects with Simulated Humanoids**|Zhengyi Luo et.al.|[2407.11385](http://arxiv.org/abs/2407.11385)|null|
 |**2024-07-13**|**Mining individual daily commuting patterns of dockless bike-sharing users: a two-layer framework integrating spatiotemporal flow clustering and rule-based decision trees**|Caigang Zhuang et.al.|[2407.09820](http://arxiv.org/abs/2407.09820)|null|
 |**2024-07-13**|**Human Leg Training Machine Based on The Multi-linkage System**|Yunfei Liu et.al.|[2407.09780](http://arxiv.org/abs/2407.09780)|null|
 |**2024-07-11**|**Analyzing Speech Motor Movement using Surface Electromyography in Minimally Verbal Adults with Autism Spectrum Disorder**|Wazeer Zulfikar et.al.|[2407.08877](http://arxiv.org/abs/2407.08877)|null|
