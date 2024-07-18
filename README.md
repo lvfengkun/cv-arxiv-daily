@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**Is That Rain? Understanding Effects on Visual Odometry Performance for Autonomous UAVs and Efficient DNN-based Rain Classification at the Edge**|Andrea Albanese et.al.|[2407.12663](http://arxiv.org/abs/2407.12663)|null|
 |**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292](http://arxiv.org/abs/2407.01292)|**[link](https://github.com/zju-fast-lab/active-relative-localization)**|
 |**2024-07-07**|**Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy**|Chen Wang et.al.|[2406.16087](http://arxiv.org/abs/2406.16087)|null|
 |**2024-06-16**|**Self-supervised Pretraining and Finetuning for Monocular Depth and Visual Odometry**|Boris Chidlovskii et.al.|[2406.11019](http://arxiv.org/abs/2406.11019)|null|
@@ -1945,6 +1946,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**Optimal Control for Clutched-Elastic Robots: A Contact-Implicit Approach**|Dennis Ossadnik et.al.|[2407.12655](http://arxiv.org/abs/2407.12655)|null|
 |**2024-07-16**|**Feature interpretability in BCIs: exploring the role of network lateralization**|Juliana Gonzalez-Astudillo et.al.|[2407.11617](http://arxiv.org/abs/2407.11617)|null|
 |**2024-07-16**|**DynSyn: Dynamical Synergistic Representation for Efficient Learning and Control in Overactuated Embodied Systems**|Kaibo He et.al.|[2407.11472](http://arxiv.org/abs/2407.11472)|null|
 |**2024-07-16**|**Grasping Diverse Objects with Simulated Humanoids**|Zhengyi Luo et.al.|[2407.11385](http://arxiv.org/abs/2407.11385)|null|
