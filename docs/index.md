@@ -14,7 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-18**|**Attenuation-Aware Weighted Optical Flow with Medium Transmission Map for Learning-based Visual Odometry in Underwater terrain**|Bach Nguyen Gia et.al.|[2407.13159](http://arxiv.org/abs/2407.13159)|null|
+|**2024-07-18**|**Attenuation-Aware Weighted Optical Flow with Medium Transmission Map for Learning-based Visual Odometry in Underwater terrain**|Bach Nguyen Gia et.al.|[2407.13159](http://arxiv.org/abs/2407.13159)|**[link](https://github.com/bachzz/wflow-tartanvo)**|
 |**2024-07-17**|**Is That Rain? Understanding Effects on Visual Odometry Performance for Autonomous UAVs and Efficient DNN-based Rain Classification at the Edge**|Andrea Albanese et.al.|[2407.12663](http://arxiv.org/abs/2407.12663)|null|
 |**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292](http://arxiv.org/abs/2407.01292)|**[link](https://github.com/zju-fast-lab/active-relative-localization)**|
 |**2024-07-07**|**Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy**|Chen Wang et.al.|[2406.16087](http://arxiv.org/abs/2406.16087)|null|
@@ -1926,6 +1926,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**Boosting Online 3D Multi-Object Tracking through Camera-Radar Cross Check**|Sheng-Yao Kuan et.al.|[2407.13937](http://arxiv.org/abs/2407.13937)|null|
 |**2024-07-18**|**Biomechanical modeling of the human tongue**|Maxime Calka et.al.|[2407.13259](http://arxiv.org/abs/2407.13259)|null|
 |**2024-07-17**|**Optimal Control for Clutched-Elastic Robots: A Contact-Implicit Approach**|Dennis Ossadnik et.al.|[2407.12655](http://arxiv.org/abs/2407.12655)|null|
 |**2024-07-16**|**Feature interpretability in BCIs: exploring the role of network lateralization**|Juliana Gonzalez-Astudillo et.al.|[2407.11617](http://arxiv.org/abs/2407.11617)|null|
@@ -1934,7 +1935,7 @@ layout: default
 |**2024-07-13**|**Mining individual daily commuting patterns of dockless bike-sharing users: a two-layer framework integrating spatiotemporal flow clustering and rule-based decision trees**|Caigang Zhuang et.al.|[2407.09820](http://arxiv.org/abs/2407.09820)|null|
 |**2024-07-13**|**Human Leg Training Machine Based on The Multi-linkage System**|Yunfei Liu et.al.|[2407.09780](http://arxiv.org/abs/2407.09780)|null|
 |**2024-07-11**|**Analyzing Speech Motor Movement using Surface Electromyography in Minimally Verbal Adults with Autism Spectrum Disorder**|Wazeer Zulfikar et.al.|[2407.08877](http://arxiv.org/abs/2407.08877)|null|
-|**2024-07-11**|**Hierarchical Bayesian estimation of motor-evoked potential recruitment curves yields accurate and robust estimates**|Vishweshwar Tyagi et.al.|[2407.08709](http://arxiv.org/abs/2407.08709)|null|
+|**2024-07-11**|**Hierarchical Bayesian estimation of motor-evoked potential recruitment curves yields accurate and robust estimates**|Vishweshwar Tyagi et.al.|[2407.08709](http://arxiv.org/abs/2407.08709)|**[link](https://github.com/hbmep/hbmep-paper)**|
 |**2024-07-11**|**Surpassing Cosine Similarity for Multidimensional Comparisons: Dimension Insensitive Euclidean Metric (DIEM)**|Federico Tessari et.al.|[2407.08623](http://arxiv.org/abs/2407.08623)|null|
 |**2024-07-11**|**Structuring, Sequencing, Staging, Selecting: the 4S method for the longitudinal analysis of multidimensional measurement scales in chronic diseases**|Tiphaine Saulnier et.al.|[2407.08278](http://arxiv.org/abs/2407.08278)|null|
 |**2024-07-10**|**Estimation and Control of Motor Core Temperature with Online Learning of Thermal Model Parameters: Application to Musculoskeletal Humanoids**|Kento Kawaharazuka et.al.|[2407.08055](http://arxiv.org/abs/2407.08055)|null|
