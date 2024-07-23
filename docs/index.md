@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**Reinforcement Learning Meets Visual Odometry**|Nico Messikommer et.al.|[2407.15626](http://arxiv.org/abs/2407.15626)|null|
+|**2024-07-21**|**Semi-Supervised Pipe Video Temporal Defect Interval Localization**|Zhu Huang et.al.|[2407.15170](http://arxiv.org/abs/2407.15170)|null|
 |**2024-07-18**|**Attenuation-Aware Weighted Optical Flow with Medium Transmission Map for Learning-based Visual Odometry in Underwater terrain**|Bach Nguyen Gia et.al.|[2407.13159](http://arxiv.org/abs/2407.13159)|**[link](https://github.com/bachzz/wflow-tartanvo)**|
 |**2024-07-17**|**Is That Rain? Understanding Effects on Visual Odometry Performance for Autonomous UAVs and Efficient DNN-based Rain Classification at the Edge**|Andrea Albanese et.al.|[2407.12663](http://arxiv.org/abs/2407.12663)|null|
 |**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292](http://arxiv.org/abs/2407.01292)|**[link](https://github.com/zju-fast-lab/active-relative-localization)**|
@@ -1926,6 +1928,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**Optical Micromanipulation of Soft Materials: Applications in Devices and Technologies**|Sanatan Halder et.al.|[2407.15513](http://arxiv.org/abs/2407.15513)|null|
+|**2024-07-21**|**Deep multimodal saliency parcellation of cerebellar pathways: linking microstructure and individual function through explainable multitask learning**|Ari Tchetchenian et.al.|[2407.15132](http://arxiv.org/abs/2407.15132)|null|
+|**2024-07-19**|**A Biomechanics-Inspired Approach to Soccer Kicking for Humanoid Robots**|Daniel Marew et.al.|[2407.14612](http://arxiv.org/abs/2407.14612)|null|
 |**2024-07-18**|**Boosting Online 3D Multi-Object Tracking through Camera-Radar Cross Check**|Sheng-Yao Kuan et.al.|[2407.13937](http://arxiv.org/abs/2407.13937)|null|
 |**2024-07-18**|**Biomechanical modeling of the human tongue**|Maxime Calka et.al.|[2407.13259](http://arxiv.org/abs/2407.13259)|null|
 |**2024-07-17**|**Optimal Control for Clutched-Elastic Robots: A Contact-Implicit Approach**|Dennis Ossadnik et.al.|[2407.12655](http://arxiv.org/abs/2407.12655)|null|
