@@ -1949,6 +1949,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-23**|**Re-expression of manual expertise through semi-automatic control of a teleoperated system**|Erwann Landais et.al.|[2407.16278](http://arxiv.org/abs/2407.16278)|null|
+|**2024-07-23**|**How Does a Single EEG Channel Tell Us About Brain States in Brain-Computer Interfaces ?**|Zaineb Ajra et.al.|[2407.16249](http://arxiv.org/abs/2407.16249)|null|
+|**2024-07-23**|**Strategy and Skill Learning for Physics-based Table Tennis Animation**|Jiashun Wang et.al.|[2407.16210](http://arxiv.org/abs/2407.16210)|null|
+|**2024-07-22**|**Robotically adjustable kinematics in a wrist-driven orthosis eases grasping across tasks**|Erin Y. Chang et.al.|[2407.16095](http://arxiv.org/abs/2407.16095)|null|
+|**2024-07-22**|**Early Recognition of Parkinson's Disease Through Acoustic Analysis and Machine Learning**|Niloofar Fadavi et.al.|[2407.16091](http://arxiv.org/abs/2407.16091)|null|
+|**2024-07-21**|**Parallel chip-firing games on directed graphs**|David Ji et.al.|[2407.15889](http://arxiv.org/abs/2407.15889)|null|
 |**2024-07-22**|**Optical Micromanipulation of Soft Materials: Applications in Devices and Technologies**|Sanatan Halder et.al.|[2407.15513](http://arxiv.org/abs/2407.15513)|null|
 |**2024-07-21**|**Deep multimodal saliency parcellation of cerebellar pathways: linking microstructure and individual function through explainable multitask learning**|Ari Tchetchenian et.al.|[2407.15132](http://arxiv.org/abs/2407.15132)|null|
 |**2024-07-19**|**A Biomechanics-Inspired Approach to Soccer Kicking for Humanoid Robots**|Daniel Marew et.al.|[2407.14612](http://arxiv.org/abs/2407.14612)|null|
