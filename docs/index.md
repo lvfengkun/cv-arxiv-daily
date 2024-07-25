@@ -1928,6 +1928,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**Exploring Commercial Vehicle Detouring Patterns through the Application of Probe Trajectory Data**|Mark Franz PhD et.al.|[2407.17319](http://arxiv.org/abs/2407.17319)|null|
+|**2024-07-24**|**SCIsegV2: A Universal Tool for Segmentation of Intramedullary Lesions in Spinal Cord Injury**|Enamundram Naga Karthik et.al.|[2407.17265](http://arxiv.org/abs/2407.17265)|null|
+|**2024-07-24**|**Statistical Batch-Based Bearing Fault Detection**|Victoria Jorrya et.al.|[2407.17236](http://arxiv.org/abs/2407.17236)|null|
 |**2024-07-23**|**Re-expression of manual expertise through semi-automatic control of a teleoperated system**|Erwann Landais et.al.|[2407.16278](http://arxiv.org/abs/2407.16278)|null|
 |**2024-07-23**|**How Does a Single EEG Channel Tell Us About Brain States in Brain-Computer Interfaces ?**|Zaineb Ajra et.al.|[2407.16249](http://arxiv.org/abs/2407.16249)|null|
 |**2024-07-23**|**Strategy and Skill Learning for Physics-based Table Tennis Animation**|Jiashun Wang et.al.|[2407.16210](http://arxiv.org/abs/2407.16210)|null|
