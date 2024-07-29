@@ -1950,6 +1950,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**Tuning the kinetics of intracellular transport**|Ardra Suchitran et.al.|[2407.18784](http://arxiv.org/abs/2407.18784)|null|
+|**2024-07-26**|**Integrating Posture Control in Speech Motor Models: A Parallel-Structured Simulation Approach**|Yadong Liu et.al.|[2407.18516](http://arxiv.org/abs/2407.18516)|null|
 |**2024-07-25**|**Modelling Multimodal Integration in Human Concept Processing with Vision-and-Language Models**|Anna Bavaresco et.al.|[2407.17914](http://arxiv.org/abs/2407.17914)|null|
 |**2024-07-25**|**Use-dependent Biases as Optimal Action under Information Bottleneck**|Hokin X. Deng et.al.|[2407.17793](http://arxiv.org/abs/2407.17793)|null|
 |**2024-07-25**|**Preliminary Results of Neuromorphic Controller Design and a Parkinson's Disease Dataset Building for Closed-Loop Deep Brain Stimulation**|Ananna Biswas et.al.|[2407.17756](http://arxiv.org/abs/2407.17756)|null|
