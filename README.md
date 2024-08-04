@@ -1950,6 +1950,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**Speed Limit Reduction Enhances Urban Worker Safety: Evidence from a Decade of Traffic Incidents in Santiago, Chile**|Eduardo Graells-Garrido et.al.|[2408.00687](http://arxiv.org/abs/2408.00687)|null|
+|**2024-08-01**|**Force and kinetics of fast and slow muscle myosin determined with a synthetic sarcomere-like nanomachine**|Valentina Buonfiglio et.al.|[2408.00373](http://arxiv.org/abs/2408.00373)|null|
+|**2024-07-31**|**Areas of Improvement for Autonomous Vehicles: A Machine Learning Analysis of Disengagement Reports**|Tyler Ward et.al.|[2408.00051](http://arxiv.org/abs/2408.00051)|null|
 |**2024-08-01**|**DIABLO: A 6-DoF Wheeled Bipedal Robot Composed Entirely of Direct-Drive Joints**|Dingchuan Liu et.al.|[2407.21500](http://arxiv.org/abs/2407.21500)|null|
 |**2024-07-26**|**Tuning the kinetics of intracellular transport**|Ardra Suchitran et.al.|[2407.18784](http://arxiv.org/abs/2407.18784)|null|
 |**2024-07-26**|**Integrating Posture Control in Speech Motor Models: A Parallel-Structured Simulation Approach**|Yadong Liu et.al.|[2407.18516](http://arxiv.org/abs/2407.18516)|null|
