@@ -1950,6 +1950,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**Extreme-value analysis in nano-biological systems: Applications and Implications**|Kumiko Hayashi et.al.|[2408.01007](http://arxiv.org/abs/2408.01007)|null|
 |**2024-08-01**|**Speed Limit Reduction Enhances Urban Worker Safety: Evidence from a Decade of Traffic Incidents in Santiago, Chile**|Eduardo Graells-Garrido et.al.|[2408.00687](http://arxiv.org/abs/2408.00687)|null|
 |**2024-08-01**|**Force and kinetics of fast and slow muscle myosin determined with a synthetic sarcomere-like nanomachine**|Valentina Buonfiglio et.al.|[2408.00373](http://arxiv.org/abs/2408.00373)|null|
 |**2024-07-31**|**Areas of Improvement for Autonomous Vehicles: A Machine Learning Analysis of Disengagement Reports**|Tyler Ward et.al.|[2408.00051](http://arxiv.org/abs/2408.00051)|null|
