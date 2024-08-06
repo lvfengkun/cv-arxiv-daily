@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-03**|**Deep Patch Visual SLAM**|Lahav Lipson et.al.|[2408.01654](http://arxiv.org/abs/2408.01654)|null|
 |**2024-07-25**|**CodedVO: Coded Visual Odometry**|Sachin Shah et.al.|[2407.18240](http://arxiv.org/abs/2407.18240)|null|
 |**2024-07-22**|**Reinforcement Learning Meets Visual Odometry**|Nico Messikommer et.al.|[2407.15626](http://arxiv.org/abs/2407.15626)|**[link](https://github.com/uzh-rpg/rl_vo)**|
 |**2024-07-21**|**Semi-Supervised Pipe Video Temporal Defect Interval Localization**|Zhu Huang et.al.|[2407.15170](http://arxiv.org/abs/2407.15170)|null|
@@ -1950,6 +1951,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Unsupervised multi-scale diagnostics**|Karl Lapo et.al.|[2408.02396](http://arxiv.org/abs/2408.02396)|null|
+|**2024-08-04**|**Improvement and Empirical Testing of a Novel Autonomous Microplastics-Collecting Semisubmersible**|Ziddane Isahaku et.al.|[2408.02162](http://arxiv.org/abs/2408.02162)|null|
+|**2024-08-03**|**Novel rotor fault diagnostic method based on rlmd and ht techniques**|Asma Guedidi et.al.|[2408.01807](http://arxiv.org/abs/2408.01807)|null|
+|**2024-08-02**|**Efficient Data-driven Joint-level Calibration of Cable-driven Surgical Robots**|Haonan Peng et.al.|[2408.01604](http://arxiv.org/abs/2408.01604)|null|
 |**2024-08-02**|**Extreme-value analysis in nano-biological systems: Applications and Implications**|Kumiko Hayashi et.al.|[2408.01007](http://arxiv.org/abs/2408.01007)|null|
 |**2024-08-01**|**Speed Limit Reduction Enhances Urban Worker Safety: Evidence from a Decade of Traffic Incidents in Santiago, Chile**|Eduardo Graells-Garrido et.al.|[2408.00687](http://arxiv.org/abs/2408.00687)|null|
 |**2024-08-01**|**Force and kinetics of fast and slow muscle myosin determined with a synthetic sarcomere-like nanomachine**|Valentina Buonfiglio et.al.|[2408.00373](http://arxiv.org/abs/2408.00373)|null|
