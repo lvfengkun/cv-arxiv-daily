@@ -1951,6 +1951,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Simulating Articulatory Trajectories with Phonological Feature Interpolation**|Angelo Ortiz Tandazo et.al.|[2408.04363](http://arxiv.org/abs/2408.04363)|null|
+|**2024-08-07**|**Recent and Upcoming Upgrades for MIRC-X and MYSTIC on the CHARA Array**|Noura Ibrahim et.al.|[2408.04038](http://arxiv.org/abs/2408.04038)|null|
 |**2024-08-07**|**Resolving the kinetics of an ensemble of muscle myosin motors via a temperature-dependent fitting procedure**|Valentina Buonfiglio et.al.|[2408.03676](http://arxiv.org/abs/2408.03676)|null|
 |**2024-08-06**|**Two-color Ytterbium MOT in a compact dual-chamber setup**|Xin Wang et.al.|[2408.03310](http://arxiv.org/abs/2408.03310)|null|
 |**2024-08-05**|**Unsupervised multi-scale diagnostics**|Karl Lapo et.al.|[2408.02396](http://arxiv.org/abs/2408.02396)|null|
