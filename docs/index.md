@@ -1930,6 +1930,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-11**|**Censored and extreme losses: functional convergence and applications to tail goodness-of-fit**|Martin Bladt et.al.|[2408.05862](http://arxiv.org/abs/2408.05862)|null|
+|**2024-08-09**|**Omobot: a low-cost mobile robot for autonomous search and fall detection**|Shihab Uddin Ahamad et.al.|[2408.05315](http://arxiv.org/abs/2408.05315)|null|
 |**2024-08-08**|**Simulating Articulatory Trajectories with Phonological Feature Interpolation**|Angelo Ortiz Tandazo et.al.|[2408.04363](http://arxiv.org/abs/2408.04363)|null|
 |**2024-08-07**|**Recent and Upcoming Upgrades for MIRC-X and MYSTIC on the CHARA Array**|Noura Ibrahim et.al.|[2408.04038](http://arxiv.org/abs/2408.04038)|null|
 |**2024-08-07**|**Resolving the kinetics of an ensemble of muscle myosin motors via a temperature-dependent fitting procedure**|Valentina Buonfiglio et.al.|[2408.03676](http://arxiv.org/abs/2408.03676)|null|
