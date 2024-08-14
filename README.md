@@ -1951,6 +1951,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Density-dependent flow generation in active cytoskeletal fluids**|Tomoka Kashiwabara et.al.|[2408.06879](http://arxiv.org/abs/2408.06879)|null|
+|**2024-08-13**|**Nonthermal driving forces in cells revealed by nonequilibrium fluctuations**|Yuika Ueda et.al.|[2408.06683](http://arxiv.org/abs/2408.06683)|null|
+|**2024-08-13**|**Compact robotic gripper with tandem actuation for selective fruit harvesting**|Alejandro Velasquez et.al.|[2408.06674](http://arxiv.org/abs/2408.06674)|null|
+|**2024-08-13**|**Design of a Double-joint Robotic Fish Using a Composite Linkage**|Ruijia Zhang et.al.|[2408.06666](http://arxiv.org/abs/2408.06666)|null|
+|**2024-08-12**|**From Diagnostic CT to DTI Tractography labels: Using Deep Learning for Corticospinal Tract Injury Assessment and Outcome Prediction in Intracerebral Haemorrhage**|Olivia N Murray et.al.|[2408.06403](http://arxiv.org/abs/2408.06403)|null|
 |**2024-08-11**|**Censored and extreme losses: functional convergence and applications to tail goodness-of-fit**|Martin Bladt et.al.|[2408.05862](http://arxiv.org/abs/2408.05862)|null|
 |**2024-08-09**|**Omobot: a low-cost mobile robot for autonomous search and fall detection**|Shihab Uddin Ahamad et.al.|[2408.05315](http://arxiv.org/abs/2408.05315)|null|
 |**2024-08-08**|**Simulating Articulatory Trajectories with Phonological Feature Interpolation**|Angelo Ortiz Tandazo et.al.|[2408.04363](http://arxiv.org/abs/2408.04363)|null|
