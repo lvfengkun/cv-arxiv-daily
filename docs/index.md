@@ -1930,6 +1930,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**System Identification For Constrained Robots**|Bohao Zhang et.al.|[2408.08830](http://arxiv.org/abs/2408.08830)|null|
+|**2024-08-16**|**Study on Human-Variability-Respecting Optimal Control Affecting Human Interaction Experience**|Sean Kille et.al.|[2408.08620](http://arxiv.org/abs/2408.08620)|null|
+|**2024-08-16**|**Study of MRI-compatible Notched Plastic Ultrasonic Stator with FEM Simulation and Holography Validation**|Zhanyue Zhao et.al.|[2408.08528](http://arxiv.org/abs/2408.08528)|null|
 |**2024-08-14**|**MyoGestic: EMG Interfacing Framework for Decoding Multiple Spared Degrees of Freedom of the Hand in Individuals with Neural Lesions**|Raul C. Sîmpetru et.al.|[2408.07817](http://arxiv.org/abs/2408.07817)|**[link](https://github.com/NsquaredLab/MyoGestic)**|
 |**2024-08-14**|**The mechanical properties of nerves, the size of the action potential, and consequences for the brain**|T. Heimburg et.al.|[2408.07615](http://arxiv.org/abs/2408.07615)|null|
 |**2024-08-13**|**Micro-integrated crossed-beam optical dipole trap system with long-term alignment stability for mobile atomic quantum technologies**|Marc Christ et.al.|[2408.07187](http://arxiv.org/abs/2408.07187)|null|
