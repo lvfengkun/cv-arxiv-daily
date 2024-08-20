@@ -1951,6 +1951,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Human Mimetic Forearm Design with Radioulnar Joint using Miniature Bone-Muscle Modules and Its Applications**|Kento Kawaharazuka et.al.|[2408.09934](http://arxiv.org/abs/2408.09934)|null|
+|**2024-08-19**|**Dynamic Shaping of Multi-Touch Stimuli by Programmable Acoustic Metamaterial**|Thomas Daunizeau et.al.|[2408.09829](http://arxiv.org/abs/2408.09829)|null|
+|**2024-08-19**|**Deep Learning-based Machine Condition Diagnosis using Short-time Fourier Transformation Variants**|Eduardo Jr Piedad et.al.|[2408.09649](http://arxiv.org/abs/2408.09649)|null|
+|**2024-08-19**|**Exploring Wavelet Transformations for Deep Learning-based Machine Condition Diagnosis**|Eduardo Jr Piedad et.al.|[2408.09644](http://arxiv.org/abs/2408.09644)|null|
 |**2024-08-16**|**System Identification For Constrained Robots**|Bohao Zhang et.al.|[2408.08830](http://arxiv.org/abs/2408.08830)|null|
 |**2024-08-16**|**Study on Human-Variability-Respecting Optimal Control Affecting Human Interaction Experience**|Sean Kille et.al.|[2408.08620](http://arxiv.org/abs/2408.08620)|null|
 |**2024-08-16**|**Study of MRI-compatible Notched Plastic Ultrasonic Stator with FEM Simulation and Holography Validation**|Zhanyue Zhao et.al.|[2408.08528](http://arxiv.org/abs/2408.08528)|null|
