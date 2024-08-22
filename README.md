@@ -1951,6 +1951,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Motor-driven microtubule diffusion in a photobleached dynamical coordinate system**|Soichi Hirokawa et.al.|[2408.11216](http://arxiv.org/abs/2408.11216)|null|
 |**2024-08-19**|**Human Mimetic Forearm Design with Radioulnar Joint using Miniature Bone-Muscle Modules and Its Applications**|Kento Kawaharazuka et.al.|[2408.09934](http://arxiv.org/abs/2408.09934)|null|
 |**2024-08-19**|**Dynamic Shaping of Multi-Touch Stimuli by Programmable Acoustic Metamaterial**|Thomas Daunizeau et.al.|[2408.09829](http://arxiv.org/abs/2408.09829)|null|
 |**2024-08-19**|**Deep Learning-based Machine Condition Diagnosis using Short-time Fourier Transformation Variants**|Eduardo Jr Piedad et.al.|[2408.09649](http://arxiv.org/abs/2408.09649)|null|
