@@ -1951,6 +1951,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**Thermodynamic inference of correlations in nonequilibrium collective dynamics**|Michalis Chatzittofi et.al.|[2408.13026](http://arxiv.org/abs/2408.13026)|null|
+|**2024-08-23**|**Informational Embodiment: Computational role of information structure in codes and robots**|Alexandre Pitti et.al.|[2408.12950](http://arxiv.org/abs/2408.12950)|null|
+|**2024-08-23**|**Bundling instability of lophotrichous bacteria**|Jeungeun Park et.al.|[2408.12907](http://arxiv.org/abs/2408.12907)|null|
+|**2024-08-22**|**Information and motor constraints shape melodic diversity across cultures**|John M McBride et.al.|[2408.12635](http://arxiv.org/abs/2408.12635)|null|
 |**2024-08-20**|**Motor-driven microtubule diffusion in a photobleached dynamical coordinate system**|Soichi Hirokawa et.al.|[2408.11216](http://arxiv.org/abs/2408.11216)|null|
 |**2024-08-19**|**Human Mimetic Forearm Design with Radioulnar Joint using Miniature Bone-Muscle Modules and Its Applications**|Kento Kawaharazuka et.al.|[2408.09934](http://arxiv.org/abs/2408.09934)|null|
 |**2024-08-19**|**Dynamic Shaping of Multi-Touch Stimuli by Programmable Acoustic Metamaterial**|Thomas Daunizeau et.al.|[2408.09829](http://arxiv.org/abs/2408.09829)|null|
