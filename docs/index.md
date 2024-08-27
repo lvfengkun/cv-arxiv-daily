@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035](http://arxiv.org/abs/2408.14035)|**[link](https://github.com/hku-mars/fast-livo2)**|
 |**2024-08-03**|**Deep Patch Visual SLAM**|Lahav Lipson et.al.|[2408.01654](http://arxiv.org/abs/2408.01654)|**[link](https://github.com/princeton-vl/dpvo)**|
 |**2024-07-25**|**CodedVO: Coded Visual Odometry**|Sachin Shah et.al.|[2407.18240](http://arxiv.org/abs/2407.18240)|null|
 |**2024-07-22**|**Reinforcement Learning Meets Visual Odometry**|Nico Messikommer et.al.|[2407.15626](http://arxiv.org/abs/2407.15626)|**[link](https://github.com/uzh-rpg/rl_vo)**|
@@ -1930,6 +1931,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Vibration Sensor Dataset for Estimating Fan Coil Motor Health**|Heitor Lifsitch et.al.|[2408.14448](http://arxiv.org/abs/2408.14448)|null|
+|**2024-08-26**|**CHIGLU: A Modular Hardware for Stepper Motorized Quadruped Robot $\unicode{x2014}$ Design, Analysis, Fabrication, and Validation**|Abid Shahriar et.al.|[2408.14125](http://arxiv.org/abs/2408.14125)|null|
+|**2024-08-24**|**Plug-and-Play Drag Sail Module for LEO Satellites: Implementation and Early Testing of AirDragMod (ADM)**|Anshuman Shukla et.al.|[2408.13562](http://arxiv.org/abs/2408.13562)|null|
+|**2024-08-23**|**Symbolic dynamics of joint brain states during dyadic coordination**|Italo Ivo Lima Dias Pinto et.al.|[2408.13360](http://arxiv.org/abs/2408.13360)|null|
 |**2024-08-23**|**Thermodynamic inference of correlations in nonequilibrium collective dynamics**|Michalis Chatzittofi et.al.|[2408.13026](http://arxiv.org/abs/2408.13026)|null|
 |**2024-08-23**|**Informational Embodiment: Computational role of information structure in codes and robots**|Alexandre Pitti et.al.|[2408.12950](http://arxiv.org/abs/2408.12950)|null|
 |**2024-08-23**|**Bundling instability of lophotrichous bacteria**|Jeungeun Park et.al.|[2408.12907](http://arxiv.org/abs/2408.12907)|null|
