@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**ES-PTAM: Event-based Stereo Parallel Tracking and Mapping**|Suman Ghosh et.al.|[2408.15605](http://arxiv.org/abs/2408.15605)|null|
 |**2024-08-28**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035](http://arxiv.org/abs/2408.14035)|**[link](https://github.com/hku-mars/fast-livo2)**|
 |**2024-08-03**|**Deep Patch Visual SLAM**|Lahav Lipson et.al.|[2408.01654](http://arxiv.org/abs/2408.01654)|**[link](https://github.com/princeton-vl/dpvo)**|
 |**2024-07-25**|**CodedVO: Coded Visual Odometry**|Sachin Shah et.al.|[2407.18240](http://arxiv.org/abs/2407.18240)|null|
@@ -1931,6 +1932,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**Towards Optimized Parallel Robots for Human-Robot Collaboration by Combined Structural and Dimensional Synthesis**|Aran Mohammad et.al.|[2408.15831](http://arxiv.org/abs/2408.15831)|null|
+|**2024-08-28**|**Structural Optimization of Lightweight Bipedal Robot via SERL**|Yi Cheng et.al.|[2408.15632](http://arxiv.org/abs/2408.15632)|null|
 |**2024-08-26**|**Vibration Sensor Dataset for Estimating Fan Coil Motor Health**|Heitor Lifsitch et.al.|[2408.14448](http://arxiv.org/abs/2408.14448)|null|
 |**2024-08-26**|**CHIGLU: A Modular Hardware for Stepper Motorized Quadruped Robot $\unicode{x2014}$ Design, Analysis, Fabrication, and Validation**|Abid Shahriar et.al.|[2408.14125](http://arxiv.org/abs/2408.14125)|null|
 |**2024-08-24**|**Plug-and-Play Drag Sail Module for LEO Satellites: Implementation and Early Testing of AirDragMod (ADM)**|Anshuman Shukla et.al.|[2408.13562](http://arxiv.org/abs/2408.13562)|null|
