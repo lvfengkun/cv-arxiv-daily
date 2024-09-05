@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-02**|**Robust Vehicle Localization and Tracking in Rain using Street Maps**|Yu Xiang Tan et.al.|[2409.01038](http://arxiv.org/abs/2409.01038)|null|
 |**2024-08-30**|**Efficient Camera Exposure Control for Visual Odometry via Deep Reinforcement Learning**|Shuyang Zhang et.al.|[2408.17005](http://arxiv.org/abs/2408.17005)|**[link](https://github.com/shuyanguni/drl_exposure_ctrl)**|
 |**2024-08-29**|**Creating a Segmented Pointcloud of Grapevines by Combining Multiple Viewpoints Through Visual Odometry**|Michael Adlerstein et.al.|[2408.16472](http://arxiv.org/abs/2408.16472)|null|
 |**2024-08-28**|**Single-Photon 3D Imaging with Equi-Depth Photon Histograms**|Kaustubh Sadekar et.al.|[2408.16150](http://arxiv.org/abs/2408.16150)|null|
@@ -1956,6 +1957,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Design and Performance of the Upgraded Mid-InfraRed Spectrometer and Imager (MIRSI) on the NASA Infrared Telescope Facility**|Joseph L. Hora et.al.|[2409.02752](http://arxiv.org/abs/2409.02752)|null|
+|**2024-09-04**|**Symmetries and synchronization from whole-neural activity in {\it C. elegans} connectome: Integration of functional and structural networks**|Bryant Avila et.al.|[2409.02682](http://arxiv.org/abs/2409.02682)|null|
+|**2024-09-04**|**UNC-104 transport properties are robust and independent of changes in its cargo binding**|Amir Shee et.al.|[2409.02655](http://arxiv.org/abs/2409.02655)|null|
+|**2024-09-04**|**Upstream Allocation of Bidirectional Load Demand by Power Packetization**|Shiu Mochiyama et.al.|[2409.02352](http://arxiv.org/abs/2409.02352)|null|
+|**2024-09-03**|**Anatomical Connections of Primate Mediodorsal and Motor Thalamic Nuclei with the Cortex**|Bianca Sieveritz et.al.|[2409.02065](http://arxiv.org/abs/2409.02065)|null|
+|**2024-09-03**|**Deep learning for objective estimation of Parkinsonian tremor severity**|Felipe Duque-Quiceno et.al.|[2409.02011](http://arxiv.org/abs/2409.02011)|null|
+|**2024-09-03**|**Decoding finger velocity from cortical spike trains with recurrent spiking neural networks**|Tengjun Liu et.al.|[2409.01762](http://arxiv.org/abs/2409.01762)|null|
+|**2024-09-03**|**The MICADO first light imager for the ELT: design and performance of the Focal Plane Mechanism prototype**|Kateryna Kravchenko et.al.|[2409.01714](http://arxiv.org/abs/2409.01714)|null|
+|**2024-09-02**|**Geometric Scaling Laws for Axial Flux Permanent Magnet Motors in In-Wheel Powertrain Topologies**|Olaf Borsboom et.al.|[2409.01205](http://arxiv.org/abs/2409.01205)|null|
+|**2024-09-02**|**Flying a Quadrotor with Unknown Actuators and Sensor Configuration**|Till M. Blaha et.al.|[2409.01080](http://arxiv.org/abs/2409.01080)|null|
 |**2024-08-30**|**Nonparametric Density Estimation for Data Scattered on Irregular Spatial Domains: A Likelihood-Based Approach Using Bivariate Penalized Spline Smoothing**|Kunal Das et.al.|[2408.16963](http://arxiv.org/abs/2408.16963)|null|
 |**2024-08-29**|**Safe Bayesian Optimization for High-Dimensional Control Systems via Additive Gaussian Processes**|Hongxuan Wang et.al.|[2408.16307](http://arxiv.org/abs/2408.16307)|null|
 |**2024-08-28**|**Towards Optimized Parallel Robots for Human-Robot Collaboration by Combined Structural and Dimensional Synthesis**|Aran Mohammad et.al.|[2408.15831](http://arxiv.org/abs/2408.15831)|null|
