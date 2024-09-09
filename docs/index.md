@@ -1936,6 +1936,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Hybrid Spiking Neural Networks for Low-Power Intra-Cortical Brain-Machine Interfaces**|Alexandru Vasilache et.al.|[2409.04428](http://arxiv.org/abs/2409.04428)|null|
+|**2024-09-06**|**MixNet: Joining Force of Classical and Modern Approaches Toward the Comprehensive Pipeline in Motor Imagery EEG Classification**|Phairot Autthasan et.al.|[2409.04104](http://arxiv.org/abs/2409.04104)|**[link](https://github.com/max-phairot-a/mixnet)**|
+|**2024-09-06**|**Design and Characterization of MRI-compatible Plastic Ultrasonic Motor**|Zhanyue Zhao et.al.|[2409.04006](http://arxiv.org/abs/2409.04006)|null|
 |**2024-09-04**|**Inverse decision-making using neural amortized Bayesian actors**|Dominik Straub et.al.|[2409.03710](http://arxiv.org/abs/2409.03710)|null|
 |**2024-09-05**|**1 Modular Parallel Manipulator for Long-Term Soft Robotic Data Collection**|Kiyn Chin et.al.|[2409.03614](http://arxiv.org/abs/2409.03614)|null|
 |**2024-09-05**|**Some mathematical models for flagellar activation mechanisms**|François Alouges et.al.|[2409.03506](http://arxiv.org/abs/2409.03506)|null|
