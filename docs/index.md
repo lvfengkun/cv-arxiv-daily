@@ -1936,6 +1936,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-08**|**A Remote Control Painting System for Exterior Walls of High-Rise Buildings through Robotic System**|Diganta Das et.al.|[2409.05153](http://arxiv.org/abs/2409.05153)|null|
+|**2024-09-07**|**Novel brain biomarkers of obesity based on statistical measurements of white matter tracts**|José Gerardo Suárez-García et.al.|[2409.04680](http://arxiv.org/abs/2409.04680)|null|
 |**2024-09-06**|**Hybrid Spiking Neural Networks for Low-Power Intra-Cortical Brain-Machine Interfaces**|Alexandru Vasilache et.al.|[2409.04428](http://arxiv.org/abs/2409.04428)|null|
 |**2024-09-06**|**MixNet: Joining Force of Classical and Modern Approaches Toward the Comprehensive Pipeline in Motor Imagery EEG Classification**|Phairot Autthasan et.al.|[2409.04104](http://arxiv.org/abs/2409.04104)|**[link](https://github.com/max-phairot-a/mixnet)**|
 |**2024-09-06**|**Design and Characterization of MRI-compatible Plastic Ultrasonic Motor**|Zhanyue Zhao et.al.|[2409.04006](http://arxiv.org/abs/2409.04006)|null|
