@@ -1957,6 +1957,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Variability in Grasp Type Distinction for Myoelectric Prosthesis Control Using a Non-Invasive Brain-Machine Interface**|Corentin Piozin et.al.|[2409.07207](http://arxiv.org/abs/2409.07207)|null|
+|**2024-09-10**|**Geometric Effects in Large Scale Intracellular Flows**|Olenka Jain et.al.|[2409.06763](http://arxiv.org/abs/2409.06763)|null|
 |**2024-09-10**|**Restoration of Reduced Self-Efficacy Caused by Chronic Pain through Manipulated Sensory Discrepancy**|Matti Itkonen et.al.|[2409.06262](http://arxiv.org/abs/2409.06262)|null|
 |**2024-09-09**|**Hevelius Report: Visualizing Web-Based Mobility Test Data For Clinical Decision and Learning Support**|Hongjin Lin et.al.|[2409.06088](http://arxiv.org/abs/2409.06088)|null|
 |**2024-09-08**|**A Remote Control Painting System for Exterior Walls of High-Rise Buildings through Robotic System**|Diganta Das et.al.|[2409.05153](http://arxiv.org/abs/2409.05153)|null|
