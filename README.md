@@ -1957,6 +1957,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**Investigation of Electrical Conductivity Changes during Brain Functional Activity in 3T MRI**|Kyu-Jin Jung et.al.|[2409.07806](http://arxiv.org/abs/2409.07806)|null|
+|**2024-09-12**|**Characterization and Design of A Hollow Cylindrical Ultrasonic Motor**|Zhanyue Zhao et.al.|[2409.07690](http://arxiv.org/abs/2409.07690)|null|
 |**2024-09-11**|**Variability in Grasp Type Distinction for Myoelectric Prosthesis Control Using a Non-Invasive Brain-Machine Interface**|Corentin Piozin et.al.|[2409.07207](http://arxiv.org/abs/2409.07207)|null|
 |**2024-09-10**|**Geometric Effects in Large Scale Intracellular Flows**|Olenka Jain et.al.|[2409.06763](http://arxiv.org/abs/2409.06763)|null|
 |**2024-09-10**|**Restoration of Reduced Self-Efficacy Caused by Chronic Pain through Manipulated Sensory Discrepancy**|Matti Itkonen et.al.|[2409.06262](http://arxiv.org/abs/2409.06262)|null|
