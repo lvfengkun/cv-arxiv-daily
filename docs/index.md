@@ -1936,6 +1936,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Extending the Benefits of Parallel Elasticity across Multiple Actuation Tasks: A Geometric and Optimization-Based Approach**|Kang Yang et.al.|[2409.08889](http://arxiv.org/abs/2409.08889)|null|
+|**2024-09-13**|**Flight Testing of Latch Valve with Lightweight LV-Servo Direct Drive Mechanism**|Hao-Che Huang et.al.|[2409.08825](http://arxiv.org/abs/2409.08825)|null|
+|**2024-09-12**|**Customized Mid-Air Gestures for Accessibility: A $B Recognizer for Multi-Dimensional Biosignal Gestures**|Momona Yamagami et.al.|[2409.08402](http://arxiv.org/abs/2409.08402)|null|
+|**2024-09-12**|**Detection of Electric Motor Damage Through Analysis of Sound Signals Using Bayesian Neural Networks**|Waldemar Bauer et.al.|[2409.08309](http://arxiv.org/abs/2409.08309)|null|
+|**2024-09-10**|**Explainable Metrics for the Assessment of Neurodegenerative Diseases through Handwriting Analysis**|Thomas Thebaud et.al.|[2409.08303](http://arxiv.org/abs/2409.08303)|null|
 |**2024-09-12**|**Investigation of Electrical Conductivity Changes during Brain Functional Activity in 3T MRI**|Kyu-Jin Jung et.al.|[2409.07806](http://arxiv.org/abs/2409.07806)|null|
 |**2024-09-12**|**Characterization and Design of A Hollow Cylindrical Ultrasonic Motor**|Zhanyue Zhao et.al.|[2409.07690](http://arxiv.org/abs/2409.07690)|null|
 |**2024-09-11**|**Variability in Grasp Type Distinction for Myoelectric Prosthesis Control Using a Non-Invasive Brain-Machine Interface**|Corentin Piozin et.al.|[2409.07207](http://arxiv.org/abs/2409.07207)|null|
