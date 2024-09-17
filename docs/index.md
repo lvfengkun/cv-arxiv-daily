@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-14**|**MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry**|Yuheng Qiu et.al.|[2409.09479](http://arxiv.org/abs/2409.09479)|null|
+|**2024-09-14**|**GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians**|Dasong Gao et.al.|[2409.09295](http://arxiv.org/abs/2409.09295)|null|
+|**2024-09-14**|**Panoramic Direct LiDAR-assisted Visual Odometry**|Zikang Yuan et.al.|[2409.09287](http://arxiv.org/abs/2409.09287)|null|
 |**2024-09-02**|**Robust Vehicle Localization and Tracking in Rain using Street Maps**|Yu Xiang Tan et.al.|[2409.01038](http://arxiv.org/abs/2409.01038)|**[link](https://gitlab.com/marvl/map-fusion)**|
 |**2024-08-30**|**Efficient Camera Exposure Control for Visual Odometry via Deep Reinforcement Learning**|Shuyang Zhang et.al.|[2408.17005](http://arxiv.org/abs/2408.17005)|**[link](https://github.com/shuyanguni/drl_exposure_ctrl)**|
 |**2024-08-29**|**Creating a Segmented Pointcloud of Grapevines by Combining Multiple Viewpoints Through Visual Odometry**|Michael Adlerstein et.al.|[2408.16472](http://arxiv.org/abs/2408.16472)|null|
@@ -1936,8 +1939,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Focus diverse phase retrieval test results on broadband continuous wavefront sensing in space telescope applications**|Hyukmo Kang et.al.|[2409.10500](http://arxiv.org/abs/2409.10500)|null|
+|**2024-09-16**|**Nonlinear Causality in Brain Networks: With Application to Motor Imagery vs Execution**|Sipan Aslan et.al.|[2409.10374](http://arxiv.org/abs/2409.10374)|null|
+|**2024-09-16**|**Thermodynamic Geometric Control of Active Matter**|Yating Wang et.al.|[2409.09994](http://arxiv.org/abs/2409.09994)|null|
+|**2024-09-16**|**A Preliminary Add-on Differential Drive System for MRI-Compatible Prostate Robotic System**|Zhanyue Zhao et.al.|[2409.09971](http://arxiv.org/abs/2409.09971)|null|
+|**2024-09-16**|**Fault Analysis And Predictive Maintenance Of Induction Motor Using Machine Learning**|Kavana Venkatesh et.al.|[2409.09944](http://arxiv.org/abs/2409.09944)|null|
+|**2024-09-15**|**Spatial-Temporal Mamba Network for EEG-based Motor Imagery Classification**|Xiaoxiao Yang et.al.|[2409.09627](http://arxiv.org/abs/2409.09627)|null|
+|**2024-09-14**|**Adaptable, shape-conforming robotic endoscope**|Jiayang Du et.al.|[2409.09557](http://arxiv.org/abs/2409.09557)|null|
+|**2024-09-13**|**Train-On-Request: An On-Device Continual Learning Workflow for Adaptive Real-World Brain Machine Interfaces**|Lan Mei et.al.|[2409.09161](http://arxiv.org/abs/2409.09161)|null|
 |**2024-09-13**|**Extending the Benefits of Parallel Elasticity across Multiple Actuation Tasks: A Geometric and Optimization-Based Approach**|Kang Yang et.al.|[2409.08889](http://arxiv.org/abs/2409.08889)|null|
-|**2024-09-13**|**Flight Testing of Latch Valve with Lightweight LV-Servo Direct Drive Mechanism**|Hao-Che Huang et.al.|[2409.08825](http://arxiv.org/abs/2409.08825)|null|
+|**2024-09-16**|**Flight Testing of Latch Valve with Lightweight LV-Servo Direct Drive Mechanism**|Hao-Che Huang et.al.|[2409.08825](http://arxiv.org/abs/2409.08825)|null|
 |**2024-09-12**|**Customized Mid-Air Gestures for Accessibility: A $B Recognizer for Multi-Dimensional Biosignal Gestures**|Momona Yamagami et.al.|[2409.08402](http://arxiv.org/abs/2409.08402)|null|
 |**2024-09-12**|**Detection of Electric Motor Damage Through Analysis of Sound Signals Using Bayesian Neural Networks**|Waldemar Bauer et.al.|[2409.08309](http://arxiv.org/abs/2409.08309)|null|
 |**2024-09-10**|**Explainable Metrics for the Assessment of Neurodegenerative Diseases through Handwriting Analysis**|Thomas Thebaud et.al.|[2409.08303](http://arxiv.org/abs/2409.08303)|null|
