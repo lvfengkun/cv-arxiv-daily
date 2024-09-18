@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.17
+## Updated on 2024.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1948,7 +1948,7 @@ layout: default
 |**2024-09-14**|**Adaptable, shape-conforming robotic endoscope**|Jiayang Du et.al.|[2409.09557](http://arxiv.org/abs/2409.09557)|null|
 |**2024-09-13**|**Train-On-Request: An On-Device Continual Learning Workflow for Adaptive Real-World Brain Machine Interfaces**|Lan Mei et.al.|[2409.09161](http://arxiv.org/abs/2409.09161)|null|
 |**2024-09-13**|**Extending the Benefits of Parallel Elasticity across Multiple Actuation Tasks: A Geometric and Optimization-Based Approach**|Kang Yang et.al.|[2409.08889](http://arxiv.org/abs/2409.08889)|null|
-|**2024-09-16**|**Flight Testing of Latch Valve with Lightweight LV-Servo Direct Drive Mechanism**|Hao-Che Huang et.al.|[2409.08825](http://arxiv.org/abs/2409.08825)|null|
+|**2024-09-17**|**Flight Testing of Latch Valve with Lightweight LV-Servo Direct Drive Mechanism**|Hao-Che Huang et.al.|[2409.08825](http://arxiv.org/abs/2409.08825)|null|
 |**2024-09-12**|**Customized Mid-Air Gestures for Accessibility: A $B Recognizer for Multi-Dimensional Biosignal Gestures**|Momona Yamagami et.al.|[2409.08402](http://arxiv.org/abs/2409.08402)|null|
 |**2024-09-12**|**Detection of Electric Motor Damage Through Analysis of Sound Signals Using Bayesian Neural Networks**|Waldemar Bauer et.al.|[2409.08309](http://arxiv.org/abs/2409.08309)|null|
 |**2024-09-10**|**Explainable Metrics for the Assessment of Neurodegenerative Diseases through Handwriting Analysis**|Thomas Thebaud et.al.|[2409.08303](http://arxiv.org/abs/2409.08303)|null|
