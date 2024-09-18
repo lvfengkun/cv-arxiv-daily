@@ -1960,6 +1960,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Volumetric behaviour of (carbon dioxide + hydrocarbon) mixtures at high pressures**|Johnny Zambrano et.al.|[2409.10973](http://arxiv.org/abs/2409.10973)|null|
+|**2024-09-16**|**Depth from Coupled Optical Differentiation**|Junjie Luo et.al.|[2409.10725](http://arxiv.org/abs/2409.10725)|null|
+|**2024-09-16**|**Finite Element Modeling of Surface Traveling Wave Friction Driven for Rotary Ultrasonic Motor**|Zhanyue Zhao et.al.|[2409.10707](http://arxiv.org/abs/2409.10707)|null|
 |**2024-09-16**|**Focus diverse phase retrieval test results on broadband continuous wavefront sensing in space telescope applications**|Hyukmo Kang et.al.|[2409.10500](http://arxiv.org/abs/2409.10500)|null|
 |**2024-09-16**|**Nonlinear Causality in Brain Networks: With Application to Motor Imagery vs Execution**|Sipan Aslan et.al.|[2409.10374](http://arxiv.org/abs/2409.10374)|null|
 |**2024-09-16**|**Thermodynamic Geometric Control of Active Matter**|Yating Wang et.al.|[2409.09994](http://arxiv.org/abs/2409.09994)|null|
