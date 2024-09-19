@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation**|Yanlin Jin et.al.|[2409.11692](http://arxiv.org/abs/2409.11692)|null|
 |**2024-09-14**|**MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry**|Yuheng Qiu et.al.|[2409.09479](http://arxiv.org/abs/2409.09479)|null|
 |**2024-09-14**|**GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians**|Dasong Gao et.al.|[2409.09295](http://arxiv.org/abs/2409.09295)|null|
 |**2024-09-14**|**Panoramic Direct LiDAR-assisted Visual Odometry**|Zikang Yuan et.al.|[2409.09287](http://arxiv.org/abs/2409.09287)|null|
@@ -1939,6 +1940,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control**|Zichen Jeff Cui et.al.|[2409.12192](http://arxiv.org/abs/2409.12192)|null|
+|**2024-09-18**|**Human-Robot Cooperative Piano Playing with Learning-Based Real-Time Music Accompaniment**|Huijiang Wang et.al.|[2409.11952](http://arxiv.org/abs/2409.11952)|null|
+|**2024-09-18**|**System-Level Efficient Performance of EMLA-Driven Heavy-Duty Manipulators via Bilevel Optimization Framework with a Leader--Follower Scenario**|Mohammad Bahari et.al.|[2409.11849](http://arxiv.org/abs/2409.11849)|null|
+|**2024-09-18**|**Robust Sensor-Limited Control with Safe Input-Output Constraints for Hydraulic In-Wheel Motor Drive Mobility Systems**|Mehdi Heydari Shahna et.al.|[2409.11823](http://arxiv.org/abs/2409.11823)|null|
+|**2024-09-18**|**RockTrack: A 3D Robust Multi-Camera-Ken Multi-Object Tracking Framework**|Xiaoyu Li et.al.|[2409.11749](http://arxiv.org/abs/2409.11749)|null|
+|**2024-09-18**|**Multi-robot connection towards collective obstacle field traversal**|Haodi Hu et.al.|[2409.11709](http://arxiv.org/abs/2409.11709)|null|
+|**2024-09-18**|**Modeling and Simulation of a Fully Autonomous Electric Vehicle (AEV)**|Qasim Ajao et.al.|[2409.11641](http://arxiv.org/abs/2409.11641)|null|
+|**2024-09-17**|**Unidirectional Human-Robot-Human Physical Interaction for Gait Training**|Lorenzo Amato et.al.|[2409.11510](http://arxiv.org/abs/2409.11510)|null|
 |**2024-09-17**|**Volumetric behaviour of (carbon dioxide + hydrocarbon) mixtures at high pressures**|Johnny Zambrano et.al.|[2409.10973](http://arxiv.org/abs/2409.10973)|null|
 |**2024-09-16**|**Depth from Coupled Optical Differentiation**|Junjie Luo et.al.|[2409.10725](http://arxiv.org/abs/2409.10725)|null|
 |**2024-09-16**|**Finite Element Modeling of Surface Traveling Wave Friction Driven for Rotary Ultrasonic Motor**|Zhanyue Zhao et.al.|[2409.10707](http://arxiv.org/abs/2409.10707)|null|
