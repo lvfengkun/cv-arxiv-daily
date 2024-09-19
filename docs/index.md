@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1943,7 +1943,7 @@ layout: default
 |**2024-09-16**|**Depth from Coupled Optical Differentiation**|Junjie Luo et.al.|[2409.10725](http://arxiv.org/abs/2409.10725)|null|
 |**2024-09-16**|**Finite Element Modeling of Surface Traveling Wave Friction Driven for Rotary Ultrasonic Motor**|Zhanyue Zhao et.al.|[2409.10707](http://arxiv.org/abs/2409.10707)|null|
 |**2024-09-16**|**Focus diverse phase retrieval test results on broadband continuous wavefront sensing in space telescope applications**|Hyukmo Kang et.al.|[2409.10500](http://arxiv.org/abs/2409.10500)|null|
-|**2024-09-16**|**Nonlinear Causality in Brain Networks: With Application to Motor Imagery vs Execution**|Sipan Aslan et.al.|[2409.10374](http://arxiv.org/abs/2409.10374)|null|
+|**2024-09-18**|**Nonlinear Causality in Brain Networks: With Application to Motor Imagery vs Execution**|Sipan Aslan et.al.|[2409.10374](http://arxiv.org/abs/2409.10374)|null|
 |**2024-09-16**|**Thermodynamic Geometric Control of Active Matter**|Yating Wang et.al.|[2409.09994](http://arxiv.org/abs/2409.09994)|null|
 |**2024-09-16**|**A Preliminary Add-on Differential Drive System for MRI-Compatible Prostate Robotic System**|Zhanyue Zhao et.al.|[2409.09971](http://arxiv.org/abs/2409.09971)|null|
 |**2024-09-16**|**Fault Analysis And Predictive Maintenance Of Induction Motor Using Machine Learning**|Kavana Venkatesh et.al.|[2409.09944](http://arxiv.org/abs/2409.09944)|null|
