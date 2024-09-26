@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-20**|**Learning Visual Information Utility with PIXER**|Yash Turkar et.al.|[2409.13151](http://arxiv.org/abs/2409.13151)|null|
 |**2024-09-18**|**ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation**|Yanlin Jin et.al.|[2409.11692](http://arxiv.org/abs/2409.11692)|null|
 |**2024-09-14**|**MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry**|Yuheng Qiu et.al.|[2409.09479](http://arxiv.org/abs/2409.09479)|null|
 |**2024-09-14**|**GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians**|Dasong Gao et.al.|[2409.09295](http://arxiv.org/abs/2409.09295)|null|
@@ -1940,6 +1941,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**System-Level Performance Metrics Sensitivity of an Electrified Heavy-Duty Mobile Manipulator**|Mohammad Bahari et.al.|[2409.16186](http://arxiv.org/abs/2409.16186)|null|
+|**2024-09-23**|**Examining the physical and psychological effects of combining multimodal feedback with continuous control in prosthetic hands**|Digby Chappell et.al.|[2409.15578](http://arxiv.org/abs/2409.15578)|null|
+|**2024-09-23**|**Using Machine Teaching to Boost Novices' Robot Teaching Skill**|Yuqing Zhu et.al.|[2409.15563](http://arxiv.org/abs/2409.15563)|null|
+|**2024-09-23**|**Loopy Movements: Emergence of Rotation in a Multicellular Robot**|Trevor Smith et.al.|[2409.15187](http://arxiv.org/abs/2409.15187)|null|
+|**2024-09-23**|**Observe Then Act: Asynchronous Active Vision-Action Model for Robotic Manipulation**|Guokang Wang et.al.|[2409.14891](http://arxiv.org/abs/2409.14891)|null|
+|**2024-09-22**|**Modeling Pedestrian Crossing Behavior: A Reinforcement Learning Approach with Sensory Motor Constraints**|Yueyang Wang et.al.|[2409.14522](http://arxiv.org/abs/2409.14522)|null|
+|**2024-09-21**|**KALIE: Fine-Tuning Vision-Language Models for Open-World Manipulation without Robot Data**|Grace Tang et.al.|[2409.14066](http://arxiv.org/abs/2409.14066)|null|
+|**2024-09-20**|**Self-organized attractoring in locomoting animals and robots: an emerging field**|Bulcsú Sándor et.al.|[2409.13581](http://arxiv.org/abs/2409.13581)|null|
+|**2024-09-20**|**Trajectory Surface Hopping with Tight Binding Density Functional Theory applied to Molecular Motors**|Gonzalo Díaz Mirón et.al.|[2409.13429](http://arxiv.org/abs/2409.13429)|null|
+|**2024-09-19**|**A Learning-based Quadcopter Controller with Extreme Adaptation**|Dingqi Zhang et.al.|[2409.12949](http://arxiv.org/abs/2409.12949)|null|
 |**2024-09-18**|**DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control**|Zichen Jeff Cui et.al.|[2409.12192](http://arxiv.org/abs/2409.12192)|null|
 |**2024-09-18**|**Human-Robot Cooperative Piano Playing with Learning-Based Real-Time Music Accompaniment**|Huijiang Wang et.al.|[2409.11952](http://arxiv.org/abs/2409.11952)|null|
 |**2024-09-18**|**System-Level Efficient Performance of EMLA-Driven Heavy-Duty Manipulators via Bilevel Optimization Framework with a Leader--Follower Scenario**|Mohammad Bahari et.al.|[2409.11849](http://arxiv.org/abs/2409.11849)|null|
