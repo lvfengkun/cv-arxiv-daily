@@ -1962,6 +1962,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**Sense of Agency in Closed-loop Muscle Stimulation**|Lukas Gehrke et.al.|[2409.16896](http://arxiv.org/abs/2409.16896)|null|
+|**2024-09-25**|**Translating Mental Imaginations into Characters with Codebooks and Dynamics-Enhanced Decoding**|Jingyuan Li et.al.|[2409.16816](http://arxiv.org/abs/2409.16816)|null|
+|**2024-09-25**|**Entropy of state transitions in macroscopic active matter**|Francesco Romanò et.al.|[2409.16734](http://arxiv.org/abs/2409.16734)|null|
 |**2024-09-24**|**System-Level Performance Metrics Sensitivity of an Electrified Heavy-Duty Mobile Manipulator**|Mohammad Bahari et.al.|[2409.16186](http://arxiv.org/abs/2409.16186)|null|
 |**2024-09-23**|**Examining the physical and psychological effects of combining multimodal feedback with continuous control in prosthetic hands**|Digby Chappell et.al.|[2409.15578](http://arxiv.org/abs/2409.15578)|null|
 |**2024-09-23**|**Using Machine Teaching to Boost Novices' Robot Teaching Skill**|Yuqing Zhu et.al.|[2409.15563](http://arxiv.org/abs/2409.15563)|null|
