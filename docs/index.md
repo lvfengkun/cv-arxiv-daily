@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1941,6 +1941,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**Dynamical and spectral decompositions of the generalized friction tensor for optimal control**|Jordan R. Sawchuk et.al.|[2409.18065](http://arxiv.org/abs/2409.18065)|null|
+|**2024-09-26**|**CAMOT: Camera Angle-aware Multi-Object Tracking**|Felix Limanta et.al.|[2409.17533](http://arxiv.org/abs/2409.17533)|null|
+|**2024-09-25**|**Tesla's Autopilot: Ethics and Tragedy**|Aravinda Jatavallabha et.al.|[2409.17380](http://arxiv.org/abs/2409.17380)|null|
+|**2024-09-25**|**Bridging Superconductors with UN Development Goals: Perspectives and Applications**|Edimar A. S. Duran et.al.|[2409.17307](http://arxiv.org/abs/2409.17307)|null|
+|**2024-09-25**|**An Integrated Deep Learning Framework for Effective Brain Tumor Localization, Segmentation, and Classification from Magnetic Resonance Images**|Pandiyaraju V et.al.|[2409.17273](http://arxiv.org/abs/2409.17273)|null|
 |**2024-09-25**|**Sense of Agency in Closed-loop Muscle Stimulation**|Lukas Gehrke et.al.|[2409.16896](http://arxiv.org/abs/2409.16896)|null|
 |**2024-09-25**|**Translating Mental Imaginations into Characters with Codebooks and Dynamics-Enhanced Decoding**|Jingyuan Li et.al.|[2409.16816](http://arxiv.org/abs/2409.16816)|null|
 |**2024-09-25**|**Entropy of state transitions in macroscopic active matter**|Francesco Romanò et.al.|[2409.16734](http://arxiv.org/abs/2409.16734)|null|
