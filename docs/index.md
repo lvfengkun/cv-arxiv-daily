@@ -1941,6 +1941,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Climate Adaptation with Reinforcement Learning: Experiments with Flooding and Transportation in Copenhagen**|Miguel Costa et.al.|[2409.18574](http://arxiv.org/abs/2409.18574)|null|
 |**2024-09-26**|**Dynamical and spectral decompositions of the generalized friction tensor for optimal control**|Jordan R. Sawchuk et.al.|[2409.18065](http://arxiv.org/abs/2409.18065)|null|
 |**2024-09-26**|**CAMOT: Camera Angle-aware Multi-Object Tracking**|Felix Limanta et.al.|[2409.17533](http://arxiv.org/abs/2409.17533)|null|
 |**2024-09-25**|**Tesla's Autopilot: Ethics and Tragedy**|Aravinda Jatavallabha et.al.|[2409.17380](http://arxiv.org/abs/2409.17380)|null|
