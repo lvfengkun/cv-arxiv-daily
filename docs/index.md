@@ -1941,6 +1941,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Feature Extractor or Decision Maker: Rethinking the Role of Visual Encoders in Visuomotor Policies**|Ruiyu Wang et.al.|[2409.20248](http://arxiv.org/abs/2409.20248)|null|
+|**2024-09-30**|**Lightweight Neural Architecture Search for Cerebral Palsy Detection**|Felix Tempel et.al.|[2409.20060](http://arxiv.org/abs/2409.20060)|null|
+|**2024-09-28**|**Feature-Prescribed Iterative Learning Control of Waggle Dance Movement for Social Motor Coordination in Joint Actions**|Bowen Guo et.al.|[2409.19213](http://arxiv.org/abs/2409.19213)|null|
+|**2024-09-27**|**An Interactive Hands-Free Controller for a Riding Ballbot to Enable Simple Shared Control Tasks**|Chenzhang Xiao et.al.|[2409.19170](http://arxiv.org/abs/2409.19170)|null|
+|**2024-09-27**|**SensoPatch: A Reconfigurable Haptic Feedback with High-Density Tactile Sensing Glove**|Yanisa Angkanapiwat et.al.|[2409.19155](http://arxiv.org/abs/2409.19155)|null|
 |**2024-09-27**|**Climate Adaptation with Reinforcement Learning: Experiments with Flooding and Transportation in Copenhagen**|Miguel Costa et.al.|[2409.18574](http://arxiv.org/abs/2409.18574)|null|
 |**2024-09-26**|**Dynamical and spectral decompositions of the generalized friction tensor for optimal control**|Jordan R. Sawchuk et.al.|[2409.18065](http://arxiv.org/abs/2409.18065)|null|
 |**2024-09-26**|**CAMOT: Camera Angle-aware Multi-Object Tracking**|Felix Limanta et.al.|[2409.17533](http://arxiv.org/abs/2409.17533)|null|
