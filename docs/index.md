@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1942,7 +1942,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-30**|**Feature Extractor or Decision Maker: Rethinking the Role of Visual Encoders in Visuomotor Policies**|Ruiyu Wang et.al.|[2409.20248](http://arxiv.org/abs/2409.20248)|null|
-|**2024-09-30**|**Lightweight Neural Architecture Search for Cerebral Palsy Detection**|Felix Tempel et.al.|[2409.20060](http://arxiv.org/abs/2409.20060)|null|
+|**2024-09-30**|**Lightweight Neural Architecture Search for Cerebral Palsy Detection**|Felix Tempel et.al.|[2409.20060](http://arxiv.org/abs/2409.20060)|**[link](https://github.com/DeepInMotion/AutoCP)**|
 |**2024-09-28**|**Feature-Prescribed Iterative Learning Control of Waggle Dance Movement for Social Motor Coordination in Joint Actions**|Bowen Guo et.al.|[2409.19213](http://arxiv.org/abs/2409.19213)|null|
 |**2024-09-27**|**An Interactive Hands-Free Controller for a Riding Ballbot to Enable Simple Shared Control Tasks**|Chenzhang Xiao et.al.|[2409.19170](http://arxiv.org/abs/2409.19170)|null|
 |**2024-09-27**|**SensoPatch: A Reconfigurable Haptic Feedback with High-Density Tactile Sensing Glove**|Yanisa Angkanapiwat et.al.|[2409.19155](http://arxiv.org/abs/2409.19155)|null|
