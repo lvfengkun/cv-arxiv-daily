@@ -1941,6 +1941,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**Computational Teaching for Driving via Multi-Task Imitation Learning**|Deepak Gopinath et.al.|[2410.01608](http://arxiv.org/abs/2410.01608)|null|
+|**2024-10-02**|**A Blockwise Mixed Membership Model for Multivariate Longitudinal Data: Discovering Clinical Heterogeneity and Identifying Parkinson's Disease Subtypes**|Kai Kang et.al.|[2410.01235](http://arxiv.org/abs/2410.01235)|null|
+|**2024-10-01**|**Uncertainty Modelling and Robust Observer Synthesis using the Koopman Operator**|Steven Dahdah et.al.|[2410.01057](http://arxiv.org/abs/2410.01057)|**[link](https://github.com/decargroup/robust_observer_koopman)**|
+|**2024-10-01**|**Divide et Impera: Learning impedance families for peg-in-hole assembly**|Johannes Lachner et.al.|[2410.01054](http://arxiv.org/abs/2410.01054)|null|
+|**2024-10-01**|**GAMMA-PD: Graph-based Analysis of Multi-Modal Motor Impairment Assessments in Parkinson's Disease**|Favour Nerrise et.al.|[2410.00944](http://arxiv.org/abs/2410.00944)|null|
+|**2024-10-01**|**Response of Worm-like Chains to Traveling-Wave Active Forces**|Fabio Cecconi et.al.|[2410.00864](http://arxiv.org/abs/2410.00864)|null|
+|**2024-10-01**|**TAVRNN: Temporal Attention-enhanced Variational Graph RNN Captures Neural Dynamics and Behavior**|Moein Khajehnejad et.al.|[2410.00665](http://arxiv.org/abs/2410.00665)|null|
+|**2024-10-01**|**Design and construction of a wireless robot that simulates head movements in cone beam computed tomography imaging**|R. Baghbani et.al.|[2410.00492](http://arxiv.org/abs/2410.00492)|null|
 |**2024-09-30**|**Feature Extractor or Decision Maker: Rethinking the Role of Visual Encoders in Visuomotor Policies**|Ruiyu Wang et.al.|[2409.20248](http://arxiv.org/abs/2409.20248)|null|
 |**2024-09-30**|**Lightweight Neural Architecture Search for Cerebral Palsy Detection**|Felix Tempel et.al.|[2409.20060](http://arxiv.org/abs/2409.20060)|**[link](https://github.com/DeepInMotion/AutoCP)**|
 |**2024-09-28**|**Feature-Prescribed Iterative Learning Control of Waggle Dance Movement for Social Motor Coordination in Joint Actions**|Bowen Guo et.al.|[2409.19213](http://arxiv.org/abs/2409.19213)|null|
