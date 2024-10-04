@@ -1941,6 +1941,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Source Data Selection for Brain-Computer Interfaces based on Simple Features**|Frida Heskebeck et.al.|[2410.02360](http://arxiv.org/abs/2410.02360)|null|
 |**2024-10-02**|**Computational Teaching for Driving via Multi-Task Imitation Learning**|Deepak Gopinath et.al.|[2410.01608](http://arxiv.org/abs/2410.01608)|null|
 |**2024-10-02**|**A Blockwise Mixed Membership Model for Multivariate Longitudinal Data: Discovering Clinical Heterogeneity and Identifying Parkinson's Disease Subtypes**|Kai Kang et.al.|[2410.01235](http://arxiv.org/abs/2410.01235)|null|
 |**2024-10-01**|**Uncertainty Modelling and Robust Observer Synthesis using the Koopman Operator**|Steven Dahdah et.al.|[2410.01057](http://arxiv.org/abs/2410.01057)|**[link](https://github.com/decargroup/robust_observer_koopman)**|
