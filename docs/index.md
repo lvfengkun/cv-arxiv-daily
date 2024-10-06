@@ -1944,7 +1944,7 @@ layout: default
 |**2024-10-03**|**Source Data Selection for Brain-Computer Interfaces based on Simple Features**|Frida Heskebeck et.al.|[2410.02360](http://arxiv.org/abs/2410.02360)|null|
 |**2024-10-02**|**Computational Teaching for Driving via Multi-Task Imitation Learning**|Deepak Gopinath et.al.|[2410.01608](http://arxiv.org/abs/2410.01608)|null|
 |**2024-10-02**|**A Blockwise Mixed Membership Model for Multivariate Longitudinal Data: Discovering Clinical Heterogeneity and Identifying Parkinson's Disease Subtypes**|Kai Kang et.al.|[2410.01235](http://arxiv.org/abs/2410.01235)|null|
-|**2024-10-01**|**Uncertainty Modelling and Robust Observer Synthesis using the Koopman Operator**|Steven Dahdah et.al.|[2410.01057](http://arxiv.org/abs/2410.01057)|**[link](https://github.com/decargroup/pykoop)**|
+|**2024-10-01**|**Uncertainty Modelling and Robust Observer Synthesis using the Koopman Operator**|Steven Dahdah et.al.|[2410.01057](http://arxiv.org/abs/2410.01057)|**[link](https://github.com/decargroup/robust_observer_koopman)**|
 |**2024-10-01**|**Divide et Impera: Learning impedance families for peg-in-hole assembly**|Johannes Lachner et.al.|[2410.01054](http://arxiv.org/abs/2410.01054)|null|
 |**2024-10-01**|**GAMMA-PD: Graph-based Analysis of Multi-Modal Motor Impairment Assessments in Parkinson's Disease**|Favour Nerrise et.al.|[2410.00944](http://arxiv.org/abs/2410.00944)|null|
 |**2024-10-01**|**Response of Worm-like Chains to Traveling-Wave Active Forces**|Fabio Cecconi et.al.|[2410.00864](http://arxiv.org/abs/2410.00864)|null|
