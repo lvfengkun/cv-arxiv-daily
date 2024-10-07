@@ -1962,6 +1962,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Development of a Digital Front-End for Electrooculography Circuits to Facilitate Digital Communication in Individuals with Communicative and Motor Disabilities**|Andre Heid Rocha da Costa et.al.|[2410.03013](http://arxiv.org/abs/2410.03013)|null|
+|**2024-10-03**|**Multi-Motor Cargo Navigation in Complex Cytoskeletal Networks**|Mason Grieb et.al.|[2410.03004](http://arxiv.org/abs/2410.03004)|null|
+|**2024-10-03**|**Analyzing Fitts' Law using Offline and Online Optimal Control with Motor Noise**|Riley Bridges et.al.|[2410.02966](http://arxiv.org/abs/2410.02966)|null|
+|**2024-10-03**|**Human Balancing on a Log: A Switched Multi-Layer Controller**|Jiayi Zhao et.al.|[2410.02957](http://arxiv.org/abs/2410.02957)|null|
 |**2024-10-03**|**Source Data Selection for Brain-Computer Interfaces based on Simple Features**|Frida Heskebeck et.al.|[2410.02360](http://arxiv.org/abs/2410.02360)|null|
 |**2024-10-02**|**Computational Teaching for Driving via Multi-Task Imitation Learning**|Deepak Gopinath et.al.|[2410.01608](http://arxiv.org/abs/2410.01608)|null|
 |**2024-10-02**|**A Blockwise Mixed Membership Model for Multivariate Longitudinal Data: Discovering Clinical Heterogeneity and Identifying Parkinson's Disease Subtypes**|Kai Kang et.al.|[2410.01235](http://arxiv.org/abs/2410.01235)|null|
