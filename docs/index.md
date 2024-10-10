@@ -1941,6 +1941,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**EEG-estimated functional connectivity, and not behavior, differentiates Parkinson's patients from health controls during the Simon conflict task**|Xiaoxiao Sun et.al.|[2410.06534](http://arxiv.org/abs/2410.06534)|null|
+|**2024-10-08**|**A rotor-based multileaf collimator for beam shaping**|N. Majernik et.al.|[2410.06413](http://arxiv.org/abs/2410.06413)|null|
+|**2024-10-08**|**BUMBLE: Unifying Reasoning and Acting with Vision-Language Models for Building-wide Mobile Manipulation**|Rutav Shah et.al.|[2410.06237](http://arxiv.org/abs/2410.06237)|null|
+|**2024-10-08**|**Don't Cut Corners: Exact Conditions for Modularity in Biologically Inspired Representations**|Will Dorrell et.al.|[2410.06232](http://arxiv.org/abs/2410.06232)|null|
+|**2024-10-08**|**Bayesian model of individual learning to control a motor imagery BCI**|Côme Annicchiarico et.al.|[2410.05926](http://arxiv.org/abs/2410.05926)|null|
+|**2024-10-08**|**Single Actuator Undulation Soft-bodied Robots Using A Precompressed Variable Thickness Flexible Beam**|Tung D. Ta et.al.|[2410.05813](http://arxiv.org/abs/2410.05813)|null|
+|**2024-10-07**|**Meta-Dynamical State Space Models for Integrative Neural Data Analysis**|Ayesha Vermani et.al.|[2410.05454](http://arxiv.org/abs/2410.05454)|null|
 |**2024-10-07**|**Reinforcement Learning Control for Autonomous Hydraulic Material Handling Machines with Underactuated Tools**|Filippo A. Spinelli et.al.|[2410.05093](http://arxiv.org/abs/2410.05093)|null|
 |**2024-10-07**|**Comparison of marker-less 2D image-based methods for infant pose estimation**|Lennart Jahn et.al.|[2410.04980](http://arxiv.org/abs/2410.04980)|null|
 |**2024-10-07**|**Guidance of the Center of Pressure Using Haptic Presentation**|Yohei Kawasaki et.al.|[2410.04732](http://arxiv.org/abs/2410.04732)|null|
