@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
 |**2024-09-20**|**Learning Visual Information Utility with PIXER**|Yash Turkar et.al.|[2409.13151](http://arxiv.org/abs/2409.13151)|null|
 |**2024-09-18**|**ORB-SfMLearner: ORB-Guided Self-supervised Visual Odometry with Selective Online Adaptation**|Yanlin Jin et.al.|[2409.11692](http://arxiv.org/abs/2409.11692)|null|
 |**2024-09-14**|**MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry**|Yuheng Qiu et.al.|[2409.09479](http://arxiv.org/abs/2409.09479)|null|
@@ -1941,6 +1942,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**Increasing the spatial bandwidth product in Light Field Microscopy with remote scanning**|Aymerick Bazin et.al.|[2410.07975](http://arxiv.org/abs/2410.07975)|null|
+|**2024-10-10**|**Design Method of a Kangaroo Robot with High Power Legs and an Articulated Soft Tail**|Shunnosuke Yoshimura et.al.|[2410.07742](http://arxiv.org/abs/2410.07742)|null|
 |**2024-10-09**|**EEG-estimated functional connectivity, and not behavior, differentiates Parkinson's patients from health controls during the Simon conflict task**|Xiaoxiao Sun et.al.|[2410.06534](http://arxiv.org/abs/2410.06534)|null|
 |**2024-10-08**|**A rotor-based multileaf collimator for beam shaping**|N. Majernik et.al.|[2410.06413](http://arxiv.org/abs/2410.06413)|null|
 |**2024-10-08**|**BUMBLE: Unifying Reasoning and Acting with Vision-Language Models for Building-wide Mobile Manipulation**|Rutav Shah et.al.|[2410.06237](http://arxiv.org/abs/2410.06237)|null|
