@@ -1942,6 +1942,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**Human Stone Toolmaking Action Grammar (HSTAG): A Challenging Benchmark for Fine-grained Motor Behavior Recognition**|Cheng Liu et.al.|[2410.08410](http://arxiv.org/abs/2410.08410)|null|
 |**2024-10-10**|**Increasing the spatial bandwidth product in Light Field Microscopy with remote scanning**|Aymerick Bazin et.al.|[2410.07975](http://arxiv.org/abs/2410.07975)|null|
 |**2024-10-10**|**Design Method of a Kangaroo Robot with High Power Legs and an Articulated Soft Tail**|Shunnosuke Yoshimura et.al.|[2410.07742](http://arxiv.org/abs/2410.07742)|null|
 |**2024-10-09**|**EEG-estimated functional connectivity, and not behavior, differentiates Parkinson's patients from health controls during the Simon conflict task**|Xiaoxiao Sun et.al.|[2410.06534](http://arxiv.org/abs/2410.06534)|null|
