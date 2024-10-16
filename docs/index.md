@@ -1943,6 +1943,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**Octopus-Swimming-Like Robot with Soft Asymmetric Arms**|Bobing Zhang et.al.|[2410.11764](http://arxiv.org/abs/2410.11764)|null|
+|**2024-10-15**|**Technical Report of 1:10 Scale Autonomous Vehicle Robot**|Amirhossein Kheiri Holighi et.al.|[2410.11746](http://arxiv.org/abs/2410.11746)|null|
+|**2024-10-15**|**Robust control of Z-source inverter operated BLDC motor using Sliding Mode Control for Electric Vehicle applications**|Gourab Das et.al.|[2410.11726](http://arxiv.org/abs/2410.11726)|null|
+|**2024-10-14**|**Multi-Objective Multidisciplinary Optimization of Wave Energy Converter Array Layout and Controls**|Kapil Khanal et.al.|[2410.11089](http://arxiv.org/abs/2410.11089)|null|
+|**2024-10-14**|**Intramuscular High-Density Micro-Electrode Arrays Enable High-Precision Decoding and Mapping of Spinal Motor Neurons to Reveal Hand Control**|Agnese Grison et.al.|[2410.11016](http://arxiv.org/abs/2410.11016)|null|
+|**2024-10-14**|**Flagellar damage and recovery in soil bacteria exposed to shear in long microchannels**|Juan Pablo Carrillo-Mora et.al.|[2410.10932](http://arxiv.org/abs/2410.10932)|null|
 |**2024-10-14**|**Separation of Neural Drives to Muscles from Transferred Polyfunctional Nerves using Implanted Micro-electrode Arrays**|Laura Ferrante et.al.|[2410.10694](http://arxiv.org/abs/2410.10694)|null|
 |**2024-10-14**|**Hybrid Transformer for Early Alzheimer's Detection: Integration of Handwriting-Based 2D Images and 1D Signal Features**|Changqing Gong et.al.|[2410.10547](http://arxiv.org/abs/2410.10547)|null|
 |**2024-10-13**|**HypomimiaCoach: An AU-based Digital Therapy System for Hypomimia Detection & Rehabilitation with Parkinson's Disease**|Yingjing Xu et.al.|[2410.09772](http://arxiv.org/abs/2410.09772)|null|
