@@ -1943,6 +1943,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**Circulating Currents in Windings: Fundamental Property**|Taha El Hajji et.al.|[2410.12748](http://arxiv.org/abs/2410.12748)|null|
+|**2024-10-16**|**Physics-Informed Learning for the Friction Modeling of High-Ratio Harmonic Drives**|Ines Sorrentino et.al.|[2410.12685](http://arxiv.org/abs/2410.12685)|null|
+|**2024-10-15**|**Learned Neural Physics Simulation for Articulated 3D Human Pose Reconstruction**|Mykhaylo Andriluka et.al.|[2410.12023](http://arxiv.org/abs/2410.12023)|null|
 |**2024-10-15**|**Octopus-Swimming-Like Robot with Soft Asymmetric Arms**|Bobing Zhang et.al.|[2410.11764](http://arxiv.org/abs/2410.11764)|null|
 |**2024-10-15**|**Technical Report of 1:10 Scale Autonomous Vehicle Robot**|Amirhossein Kheiri Holighi et.al.|[2410.11746](http://arxiv.org/abs/2410.11746)|null|
 |**2024-10-15**|**Robust control of Z-source inverter operated BLDC motor using Sliding Mode Control for Electric Vehicle applications**|Gourab Das et.al.|[2410.11726](http://arxiv.org/abs/2410.11726)|null|
