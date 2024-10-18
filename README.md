@@ -1964,6 +1964,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**Interacting humans and robots can improve sensory prediction by adapting their viscoelasticity**|Xiaoxiao Cheng et.al.|[2410.13755](http://arxiv.org/abs/2410.13755)|null|
 |**2024-10-16**|**Circulating Currents in Windings: Fundamental Property**|Taha El Hajji et.al.|[2410.12748](http://arxiv.org/abs/2410.12748)|null|
 |**2024-10-16**|**Physics-Informed Learning for the Friction Modeling of High-Ratio Harmonic Drives**|Ines Sorrentino et.al.|[2410.12685](http://arxiv.org/abs/2410.12685)|null|
 |**2024-10-15**|**Learned Neural Physics Simulation for Articulated 3D Human Pose Reconstruction**|Mykhaylo Andriluka et.al.|[2410.12023](http://arxiv.org/abs/2410.12023)|null|
