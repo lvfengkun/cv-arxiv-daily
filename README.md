@@ -1964,6 +1964,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Muscle coactivation primes the nervous system for fast and task-dependent feedback control**|Philipp Maurus et.al.|[2410.16101](http://arxiv.org/abs/2410.16101)|null|
+|**2024-10-21**|**Design of a Flexible Robot Arm for Safe Aerial Physical Interaction**|Julien Mellet et.al.|[2410.15797](http://arxiv.org/abs/2410.15797)|null|
+|**2024-10-21**|**A Dual Process VLA: Efficient Robotic Manipulation Leveraging VLM**|ByungOk Han et.al.|[2410.15549](http://arxiv.org/abs/2410.15549)|null|
+|**2024-10-18**|**Unlocking the Full Potential of High-Density Surface EMG: Novel Non-Invasive High-Yield Motor Unit Decomposition**|Agnese Grison et.al.|[2410.14800](http://arxiv.org/abs/2410.14800)|null|
 |**2024-10-17**|**Interacting humans and robots can improve sensory prediction by adapting their viscoelasticity**|Xiaoxiao Cheng et.al.|[2410.13755](http://arxiv.org/abs/2410.13755)|null|
 |**2024-10-16**|**Circulating Currents in Windings: Fundamental Property**|Taha El Hajji et.al.|[2410.12748](http://arxiv.org/abs/2410.12748)|null|
 |**2024-10-16**|**Physics-Informed Learning for the Friction Modeling of High-Ratio Harmonic Drives**|Ines Sorrentino et.al.|[2410.12685](http://arxiv.org/abs/2410.12685)|null|
