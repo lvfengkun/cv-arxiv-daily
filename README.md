@@ -1964,6 +1964,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Online Optimization of Central Pattern Generators for Quadruped Locomotion**|Zewei Zhang et.al.|[2410.16417](http://arxiv.org/abs/2410.16417)|null|
 |**2024-10-21**|**Muscle coactivation primes the nervous system for fast and task-dependent feedback control**|Philipp Maurus et.al.|[2410.16101](http://arxiv.org/abs/2410.16101)|null|
 |**2024-10-21**|**Design of a Flexible Robot Arm for Safe Aerial Physical Interaction**|Julien Mellet et.al.|[2410.15797](http://arxiv.org/abs/2410.15797)|null|
 |**2024-10-21**|**A Dual Process VLA: Efficient Robotic Manipulation Leveraging VLM**|ByungOk Han et.al.|[2410.15549](http://arxiv.org/abs/2410.15549)|null|
