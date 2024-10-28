@@ -1943,6 +1943,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**Beyond the Cascade: Juggling Vanilla Siteswap Patterns**|Mario Gomez Andreu et.al.|[2410.19591](http://arxiv.org/abs/2410.19591)|null|
+|**2024-10-25**|**A Field Calibration Approach for Triaxial MEMS Gyroscopes Based on Gravity and Rotation Consistency**|Yaqi Li et.al.|[2410.19571](http://arxiv.org/abs/2410.19571)|null|
+|**2024-10-25**|**A potpourri of results on molecular communication with active transport**|Phanindra Dewan et.al.|[2410.19411](http://arxiv.org/abs/2410.19411)|null|
+|**2024-10-25**|**Learning ID-free Item Representation with Token Crossing for Multimodal Recommendation**|Kangning Zhang et.al.|[2410.19276](http://arxiv.org/abs/2410.19276)|null|
+|**2024-10-24**|**SoftSnap: Rapid Prototyping of Untethered Soft Robots Using Snap-Together Modules**|Luyang Zhao et.al.|[2410.19169](http://arxiv.org/abs/2410.19169)|null|
 |**2024-10-24**|**Electric Motor -- SimuFísica: an application for teaching electromagnetism**|Marco P. M. de Souza et.al.|[2410.18721](http://arxiv.org/abs/2410.18721)|null|
 |**2024-10-24**|**Embodied Manipulation with Past and Future Morphologies through an Open Parametric Hand Design**|Kieran Gilday et.al.|[2410.18633](http://arxiv.org/abs/2410.18633)|null|
 |**2024-10-23**|**Robust and Explainable Depression Identification from Speech Using Vowel-Based Ensemble Learning Approaches**|Kexin Feng et.al.|[2410.18298](http://arxiv.org/abs/2410.18298)|null|
