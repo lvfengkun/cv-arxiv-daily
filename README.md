@@ -1964,6 +1964,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots**|Tairan He et.al.|[2410.21229](http://arxiv.org/abs/2410.21229)|null|
+|**2024-10-28**|**Peripheral brain interfacing: Reading high-frequency brain signals from the output of the nervous system**|Jaime Ibáñez et.al.|[2410.20872](http://arxiv.org/abs/2410.20872)|null|
+|**2024-10-27**|**Towards an LLM-Based Speech Interface for Robot-Assisted Feeding**|Jessie Yuan et.al.|[2410.20624](http://arxiv.org/abs/2410.20624)|null|
+|**2024-10-25**|**A Review of Deep Learning Approaches for Non-Invasive Cognitive Impairment Detection**|Muath Alsuhaibani et.al.|[2410.19898](http://arxiv.org/abs/2410.19898)|null|
 |**2024-10-25**|**Beyond the Cascade: Juggling Vanilla Siteswap Patterns**|Mario Gomez Andreu et.al.|[2410.19591](http://arxiv.org/abs/2410.19591)|null|
 |**2024-10-25**|**A Field Calibration Approach for Triaxial MEMS Gyroscopes Based on Gravity and Rotation Consistency**|Yaqi Li et.al.|[2410.19571](http://arxiv.org/abs/2410.19571)|null|
 |**2024-10-25**|**A potpourri of results on molecular communication with active transport**|Phanindra Dewan et.al.|[2410.19411](http://arxiv.org/abs/2410.19411)|null|
