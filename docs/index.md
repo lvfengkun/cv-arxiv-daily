@@ -1945,6 +1945,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-31**|**Tensegrity Robot Proprioceptive State Estimation with Geometric Constraints**|Wenzhe Tong et.al.|[2410.24226](http://arxiv.org/abs/2410.24226)|null|
+|**2024-10-31**|**A Multiphysics Analysis and Investigation of Soft Magnetics Effect on IPMSM: Case Study Dynamometer**|Ali Amini et.al.|[2410.24172](http://arxiv.org/abs/2410.24172)|null|
+|**2024-10-31**|**Two-Phase Switched Reluctance Motors: Optimal Magnet Placement and Drive System for Torque Density and Efficiency Enhancement**|Gholamreza Davarpanah et.al.|[2410.24121](http://arxiv.org/abs/2410.24121)|null|
+|**2024-10-31**|**Topology Optimization in Three-Phase C-Core SRMs**|Gholamreza Davarpanah et.al.|[2410.23954](http://arxiv.org/abs/2410.23954)|null|
+|**2024-10-31**|**Graph Neural Networks Uncover Geometric Neural Representations in Reinforcement-Based Motor Learning**|Federico Nardi et.al.|[2410.23812](http://arxiv.org/abs/2410.23812)|null|
+|**2024-10-31**|**Physics of collective transport and traffic phenomena in biology: progress in 20 years**|Debashish Chowdhury et.al.|[2410.23735](http://arxiv.org/abs/2410.23735)|null|
+|**2024-10-30**|**Bayesian Approaches for Revealing Complex Neural Network Dynamics in Parkinson's Disease**|Hina Shaheen et.al.|[2410.23429](http://arxiv.org/abs/2410.23429)|null|
 |**2024-10-29**|**Leveraging Recurrent Neural Networks for Predicting Motor Movements from Primate Motor Cortex Neural Recordings**|Yuanxi Wang et.al.|[2410.22283](http://arxiv.org/abs/2410.22283)|null|
 |**2024-10-29**|**A Tutorial on Clinical Speech AI Development: From Data Collection to Model Validation**|Si-Ioi Ng et.al.|[2410.21640](http://arxiv.org/abs/2410.21640)|null|
 |**2024-10-28**|**Learning State Conditioned Linear Mappings for Low-Dimensional Control of Robotic Manipulators**|Michael Przystupa et.al.|[2410.21441](http://arxiv.org/abs/2410.21441)|null|
