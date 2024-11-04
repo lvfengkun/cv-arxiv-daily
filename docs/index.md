@@ -1952,7 +1952,7 @@ layout: default
 |**2024-10-31**|**Graph Neural Networks Uncover Geometric Neural Representations in Reinforcement-Based Motor Learning**|Federico Nardi et.al.|[2410.23812](http://arxiv.org/abs/2410.23812)|null|
 |**2024-10-31**|**Physics of collective transport and traffic phenomena in biology: progress in 20 years**|Debashish Chowdhury et.al.|[2410.23735](http://arxiv.org/abs/2410.23735)|null|
 |**2024-10-30**|**Bayesian Approaches for Revealing Complex Neural Network Dynamics in Parkinson's Disease**|Hina Shaheen et.al.|[2410.23429](http://arxiv.org/abs/2410.23429)|null|
-|**2024-10-29**|**Leveraging Recurrent Neural Networks for Predicting Motor Movements from Primate Motor Cortex Neural Recordings**|Yuanxi Wang et.al.|[2410.22283](http://arxiv.org/abs/2410.22283)|null|
+|**2024-11-01**|**Leveraging Recurrent Neural Networks for Predicting Motor Movements from Primate Motor Cortex Neural Recordings**|Yuanxi Wang et.al.|[2410.22283](http://arxiv.org/abs/2410.22283)|null|
 |**2024-10-29**|**A Tutorial on Clinical Speech AI Development: From Data Collection to Model Validation**|Si-Ioi Ng et.al.|[2410.21640](http://arxiv.org/abs/2410.21640)|null|
 |**2024-10-28**|**Learning State Conditioned Linear Mappings for Low-Dimensional Control of Robotic Manipulators**|Michael Przystupa et.al.|[2410.21441](http://arxiv.org/abs/2410.21441)|null|
 |**2024-10-27**|**Self-Supervised Learning and Opportunistic Inference for Continuous Monitoring of Freezing of Gait in Parkinson's Disease**|Shovito Barua Soumma et.al.|[2410.21326](http://arxiv.org/abs/2410.21326)|null|
