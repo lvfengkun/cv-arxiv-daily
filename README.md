@@ -1966,6 +1966,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Microscale velocity-dependent unbinding generates a macroscale performance-efficiency tradeoff in actomyosin systems**|Jake McGrath et.al.|[2411.02340](http://arxiv.org/abs/2411.02340)|null|
+|**2024-11-04**|**Vehicles, Pedestrians, and E-bikes: a Three-party Game at Right-turn-on-red Crossroads Revealing the Dual and Irrational Role of E-bikes that Risks Traffic Safety**|Gangcheng Zhang et.al.|[2411.02183](http://arxiv.org/abs/2411.02183)|null|
+|**2024-11-04**|**Alignment-Based Adversarial Training (ABAT) for Improving the Robustness and Accuracy of EEG-Based BCIs**|Xiaoqing Chen et.al.|[2411.02094](http://arxiv.org/abs/2411.02094)|**[link](https://github.com/xqchen914/abat)**|
+|**2024-11-04**|**Brainbots as smart autonomous active particles with programmable motion**|M. Noirhomme et.al.|[2411.01943](http://arxiv.org/abs/2411.01943)|null|
+|**2024-11-03**|**An Aerial Transport System in Marine GNSS-Denied Environment**|Jianjun Sun et.al.|[2411.01603](http://arxiv.org/abs/2411.01603)|null|
+|**2024-11-02**|**Use Digital Twins to Support Fault Diagnosis From System-level Condition-monitoring Data**|Killian Mc Court et.al.|[2411.01360](http://arxiv.org/abs/2411.01360)|null|
+|**2024-11-02**|**A versatile framework for attitude tuning of beamlines at advanced light sources**|Xiao-Xue Bi et.al.|[2411.01278](http://arxiv.org/abs/2411.01278)|null|
+|**2024-11-02**|**Beyond the EPICS: comprehensive Python IOC development with QueueIOC**|Peng-Cheng Li et.al.|[2411.01258](http://arxiv.org/abs/2411.01258)|null|
+|**2024-11-01**|**An Untethered Bioinspired Robotic Tensegrity Dolphin with Multi-Flexibility Design for Aquatic Locomotion**|Luyang Zhao et.al.|[2411.00347](http://arxiv.org/abs/2411.00347)|null|
+|**2024-10-31**|**A New Switched Reluctance Motor with Embedded Permanent Magnets for Transportation Electrification**|Gholamreza Davarpanah et.al.|[2411.00224](http://arxiv.org/abs/2411.00224)|null|
 |**2024-10-31**|**Tensegrity Robot Proprioceptive State Estimation with Geometric Constraints**|Wenzhe Tong et.al.|[2410.24226](http://arxiv.org/abs/2410.24226)|null|
 |**2024-10-31**|**A Multiphysics Analysis and Investigation of Soft Magnetics Effect on IPMSM: Case Study Dynamometer**|Ali Amini et.al.|[2410.24172](http://arxiv.org/abs/2410.24172)|null|
 |**2024-10-31**|**Two-Phase Switched Reluctance Motors: Optimal Magnet Placement and Drive System for Torque Density and Efficiency Enhancement**|Gholamreza Davarpanah et.al.|[2410.24121](http://arxiv.org/abs/2410.24121)|null|
