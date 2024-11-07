@@ -1966,6 +1966,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Design and control of a robotic payload stabilization mechanism for rocket flights**|Utkarsh Anand et.al.|[2411.04046](http://arxiv.org/abs/2411.04046)|null|
 |**2024-11-05**|**Nature's All-in-One: Multitasking Robots Inspired by Dung Beetles**|Binggwong Leung et.al.|[2411.02891](http://arxiv.org/abs/2411.02891)|null|
 |**2024-11-04**|**Microscale velocity-dependent unbinding generates a macroscale performance-efficiency tradeoff in actomyosin systems**|Jake McGrath et.al.|[2411.02340](http://arxiv.org/abs/2411.02340)|null|
 |**2024-11-04**|**Vehicles, Pedestrians, and E-bikes: a Three-party Game at Right-turn-on-red Crossroads Revealing the Dual and Irrational Role of E-bikes that Risks Traffic Safety**|Gangcheng Zhang et.al.|[2411.02183](http://arxiv.org/abs/2411.02183)|null|
