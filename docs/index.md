@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.06
+## Updated on 2024.11.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1953,7 +1953,7 @@ layout: default
 |**2024-11-03**|**An Aerial Transport System in Marine GNSS-Denied Environment**|Jianjun Sun et.al.|[2411.01603](http://arxiv.org/abs/2411.01603)|null|
 |**2024-11-02**|**Use Digital Twins to Support Fault Diagnosis From System-level Condition-monitoring Data**|Killian Mc Court et.al.|[2411.01360](http://arxiv.org/abs/2411.01360)|null|
 |**2024-11-05**|**A versatile framework for attitude tuning of beamlines at advanced light sources**|Peng-Cheng Li et.al.|[2411.01278](http://arxiv.org/abs/2411.01278)|null|
-|**2024-11-02**|**Beyond the EPICS: comprehensive Python IOC development with QueueIOC**|Peng-Cheng Li et.al.|[2411.01258](http://arxiv.org/abs/2411.01258)|null|
+|**2024-11-05**|**Beyond the EPICS: comprehensive Python IOC development with QueueIOC**|Peng-Cheng Li et.al.|[2411.01258](http://arxiv.org/abs/2411.01258)|null|
 |**2024-11-01**|**An Untethered Bioinspired Robotic Tensegrity Dolphin with Multi-Flexibility Design for Aquatic Locomotion**|Luyang Zhao et.al.|[2411.00347](http://arxiv.org/abs/2411.00347)|null|
 |**2024-10-31**|**A New Switched Reluctance Motor with Embedded Permanent Magnets for Transportation Electrification**|Gholamreza Davarpanah et.al.|[2411.00224](http://arxiv.org/abs/2411.00224)|null|
 |**2024-10-31**|**Tensegrity Robot Proprioceptive State Estimation with Geometric Constraints**|Wenzhe Tong et.al.|[2410.24226](http://arxiv.org/abs/2410.24226)|null|
