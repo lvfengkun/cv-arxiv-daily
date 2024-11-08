@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796](http://arxiv.org/abs/2411.04796)|null|
 |**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231](http://arxiv.org/abs/2410.23231)|**[link](https://github.com/uestc-nnlab/lgu-slam)**|
 |**2024-10-29**|**LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues**|Hanqing Jiang et.al.|[2410.22213](http://arxiv.org/abs/2410.22213)|null|
 |**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374](http://arxiv.org/abs/2410.09374)|**[link](https://github.com/nail-hnu/esvo2)**|
@@ -1945,6 +1946,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-07**|**Sliding Mode Roll Control of Active Suspension Electric Vehicles**|Mruganka Kashyap et.al.|[2411.04510](http://arxiv.org/abs/2411.04510)|null|
+|**2024-11-06**|**MonoRollBot: 3-DOF Spherical Robot with Underactuated Single Compliant Actuator Design**|Zhiwei Liu et.al.|[2411.04264](http://arxiv.org/abs/2411.04264)|null|
 |**2024-11-06**|**Design and control of a robotic payload stabilization mechanism for rocket flights**|Utkarsh Anand et.al.|[2411.04046](http://arxiv.org/abs/2411.04046)|null|
 |**2024-11-05**|**Nature's All-in-One: Multitasking Robots Inspired by Dung Beetles**|Binggwong Leung et.al.|[2411.02891](http://arxiv.org/abs/2411.02891)|null|
 |**2024-11-04**|**Microscale velocity-dependent unbinding generates a macroscale performance-efficiency tradeoff in actomyosin systems**|Jake McGrath et.al.|[2411.02340](http://arxiv.org/abs/2411.02340)|null|
@@ -1952,7 +1955,7 @@ layout: default
 |**2024-11-04**|**Alignment-Based Adversarial Training (ABAT) for Improving the Robustness and Accuracy of EEG-Based BCIs**|Xiaoqing Chen et.al.|[2411.02094](http://arxiv.org/abs/2411.02094)|**[link](https://github.com/xqchen914/abat)**|
 |**2024-11-04**|**Brainbots as smart autonomous active particles with programmable motion**|M. Noirhomme et.al.|[2411.01943](http://arxiv.org/abs/2411.01943)|null|
 |**2024-11-03**|**An Aerial Transport System in Marine GNSS-Denied Environment**|Jianjun Sun et.al.|[2411.01603](http://arxiv.org/abs/2411.01603)|null|
-|**2024-11-02**|**Use Digital Twins to Support Fault Diagnosis From System-level Condition-monitoring Data**|Killian Mc Court et.al.|[2411.01360](http://arxiv.org/abs/2411.01360)|null|
+|**2024-11-02**|**Use Digital Twins to Support Fault Diagnosis From System-level Condition-monitoring Data**|Killian Mc Court et.al.|[2411.01360](http://arxiv.org/abs/2411.01360)|**[link](https://github.com/sonic160/dtr_digital_model_simulink)**|
 |**2024-11-05**|**A versatile framework for attitude tuning of beamlines at advanced light sources**|Peng-Cheng Li et.al.|[2411.01278](http://arxiv.org/abs/2411.01278)|null|
 |**2024-11-05**|**Beyond the EPICS: comprehensive Python IOC development with QueueIOC**|Peng-Cheng Li et.al.|[2411.01258](http://arxiv.org/abs/2411.01258)|null|
 |**2024-11-01**|**An Untethered Bioinspired Robotic Tensegrity Dolphin with Multi-Flexibility Design for Aquatic Locomotion**|Luyang Zhao et.al.|[2411.00347](http://arxiv.org/abs/2411.00347)|null|
