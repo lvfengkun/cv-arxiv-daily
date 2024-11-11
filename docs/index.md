@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.10
+## Updated on 2024.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1948,7 +1948,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-07**|**Sliding Mode Roll Control of Active Suspension Electric Vehicles**|Mruganka Kashyap et.al.|[2411.04510](http://arxiv.org/abs/2411.04510)|null|
 |**2024-11-06**|**MonoRollBot: 3-DOF Spherical Robot with Underactuated Single Compliant Actuator Design**|Zhiwei Liu et.al.|[2411.04264](http://arxiv.org/abs/2411.04264)|null|
-|**2024-11-06**|**Design and control of a robotic payload stabilization mechanism for rocket flights**|Utkarsh Anand et.al.|[2411.04046](http://arxiv.org/abs/2411.04046)|null|
+|**2024-11-06**|**Design and control of a robotic payload stabilization mechanism for rocket flights**|Utkarsh Anand et.al.|[2411.04046](http://arxiv.org/abs/2411.04046)|**[link](https://github.com/utkarshanand140/stewie-robot)**|
 |**2024-11-05**|**Nature's All-in-One: Multitasking Robots Inspired by Dung Beetles**|Binggwong Leung et.al.|[2411.02891](http://arxiv.org/abs/2411.02891)|null|
 |**2024-11-04**|**Microscale velocity-dependent unbinding generates a macroscale performance-efficiency tradeoff in actomyosin systems**|Jake McGrath et.al.|[2411.02340](http://arxiv.org/abs/2411.02340)|null|
 |**2024-11-04**|**Vehicles, Pedestrians, and E-bikes: a Three-party Game at Right-turn-on-red Crossroads Revealing the Dual and Irrational Role of E-bikes that Risks Traffic Safety**|Gangcheng Zhang et.al.|[2411.02183](http://arxiv.org/abs/2411.02183)|null|
