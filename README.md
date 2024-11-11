@@ -1967,6 +1967,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Graph-Dictionary Signal Model for Sparse Representations of Multivariate Data**|William Cappelletti et.al.|[2411.05729](http://arxiv.org/abs/2411.05729)|null|
+|**2024-11-07**|**Wearable Haptic Device to Render 360-degree Torque Feedback on the Wrist**|Seungchae Kim et.al.|[2411.05153](http://arxiv.org/abs/2411.05153)|null|
+|**2024-11-07**|**Friction tunable electrostatic clutch with low driving voltage for kinesthetic haptic feedback**|Jongseok Nam et.al.|[2411.05123](http://arxiv.org/abs/2411.05123)|null|
+|**2024-11-07**|**Bridging Player Intentions: Exploring the Potential of Synchronized Haptic Controllers in Multiplayer Game**|Kenta Hashiura et.al.|[2411.05115](http://arxiv.org/abs/2411.05115)|null|
+|**2024-11-07**|**STEM: Soft Tactile Electromagnetic Actuator for Virtual Environment Interactions**|Heeju Mun et.al.|[2411.05114](http://arxiv.org/abs/2411.05114)|null|
 |**2024-11-07**|**Sliding Mode Roll Control of Active Suspension Electric Vehicles**|Mruganka Kashyap et.al.|[2411.04510](http://arxiv.org/abs/2411.04510)|null|
 |**2024-11-06**|**MonoRollBot: 3-DOF Spherical Robot with Underactuated Single Compliant Actuator Design**|Zhiwei Liu et.al.|[2411.04264](http://arxiv.org/abs/2411.04264)|null|
 |**2024-11-06**|**Design and control of a robotic payload stabilization mechanism for rocket flights**|Utkarsh Anand et.al.|[2411.04046](http://arxiv.org/abs/2411.04046)|**[link](https://github.com/utkarshanand140/stewie-robot)**|
