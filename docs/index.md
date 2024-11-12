@@ -1946,6 +1946,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**HSTrack: Bootstrap End-to-End Multi-Camera 3D Multi-object Tracking with Hybrid Supervision**|Shubo Lin et.al.|[2411.06780](http://arxiv.org/abs/2411.06780)|null|
+|**2024-11-10**|**An exact active sensing strategy for a class of bio-inspired systems**|Debojyoti Biswas et.al.|[2411.06612](http://arxiv.org/abs/2411.06612)|null|
+|**2024-11-09**|**A New 8/14 Two-Phase Switched Reluctance Motor with Improved Performance**|Gholamreza Davarpanah et.al.|[2411.06161](http://arxiv.org/abs/2411.06161)|null|
+|**2024-11-09**|**Energy-efficient Hybrid Model Predictive Trajectory Planning for Autonomous Electric Vehicles**|Fan Ding et.al.|[2411.06111](http://arxiv.org/abs/2411.06111)|null|
+|**2024-11-08**|**Modelling, design and control of middle-size tilt-rotor quadrotor**|Theodore Nye-Matthew et.al.|[2411.05994](http://arxiv.org/abs/2411.05994)|null|
+|**2024-11-08**|**A Kalman Filter model for synchronization in musical ensembles**|Hugo T. Carvalho et.al.|[2411.05971](http://arxiv.org/abs/2411.05971)|null|
 |**2024-11-08**|**Graph-Dictionary Signal Model for Sparse Representations of Multivariate Data**|William Cappelletti et.al.|[2411.05729](http://arxiv.org/abs/2411.05729)|null|
 |**2024-11-07**|**Wearable Haptic Device to Render 360-degree Torque Feedback on the Wrist**|Seungchae Kim et.al.|[2411.05153](http://arxiv.org/abs/2411.05153)|null|
 |**2024-11-07**|**Friction tunable electrostatic clutch with low driving voltage for kinesthetic haptic feedback**|Jongseok Nam et.al.|[2411.05123](http://arxiv.org/abs/2411.05123)|null|
