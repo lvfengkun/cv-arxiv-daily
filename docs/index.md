@@ -1946,6 +1946,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**Iterative Learning Control with Mismatch Compensation for Residual Vibration Suppression in Delta Robots**|Mingkun Wu et.al.|[2411.07862](http://arxiv.org/abs/2411.07862)|null|
 |**2024-11-11**|**HSTrack: Bootstrap End-to-End Multi-Camera 3D Multi-object Tracking with Hybrid Supervision**|Shubo Lin et.al.|[2411.06780](http://arxiv.org/abs/2411.06780)|null|
 |**2024-11-10**|**An exact active sensing strategy for a class of bio-inspired systems**|Debojyoti Biswas et.al.|[2411.06612](http://arxiv.org/abs/2411.06612)|null|
 |**2024-11-09**|**A New 8/14 Two-Phase Switched Reluctance Motor with Improved Performance**|Gholamreza Davarpanah et.al.|[2411.06161](http://arxiv.org/abs/2411.06161)|null|
