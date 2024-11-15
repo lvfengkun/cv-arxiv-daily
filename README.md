@@ -1968,6 +1968,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**Tailoring interactions between active nematic defects with reinforcement learning**|Carlos Floyd et.al.|[2411.09588](http://arxiv.org/abs/2411.09588)|null|
+|**2024-11-14**|**Imagined Speech and Visual Imagery as Intuitive Paradigms for Brain-Computer Interfaces**|Seo-Hyun Lee et.al.|[2411.09400](http://arxiv.org/abs/2411.09400)|null|
+|**2024-11-14**|**Towards Scalable Handwriting Communication via EEG Decoding and Latent Embedding Integration**|Jun-Young Kim et.al.|[2411.09170](http://arxiv.org/abs/2411.09170)|null|
+|**2024-11-13**|**ClevrSkills: Compositional Language and Visual Reasoning in Robotics**|Sanjay Haresh et.al.|[2411.09052](http://arxiv.org/abs/2411.09052)|null|
+|**2024-11-13**|**Somatosensory and motor contributions to emotion representation**|Marianne C. Reddan et.al.|[2411.08973](http://arxiv.org/abs/2411.08973)|null|
 |**2024-11-13**|**Flow reconstruction in time-varying geometries using graph neural networks**|Bogdan A. Danciu et.al.|[2411.08764](http://arxiv.org/abs/2411.08764)|null|
 |**2024-11-13**|**Intelligent Algorithms For Signature Diagnostics Of Three-Phase Motors**|Stepan Svirin et.al.|[2411.08582](http://arxiv.org/abs/2411.08582)|null|
 |**2024-11-13**|**MambaXCTrack: Mamba-based Tracker with SSM Cross-correlation and Motion Prompt for Ultrasound Needle Tracking**|Yuelin Zhang et.al.|[2411.08395](http://arxiv.org/abs/2411.08395)|null|
