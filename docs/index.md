@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195](http://arxiv.org/abs/2411.10195)|null|
 |**2024-11-12**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw et.al.|[2411.08231](http://arxiv.org/abs/2411.08231)|null|
 |**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796](http://arxiv.org/abs/2411.04796)|null|
 |**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231](http://arxiv.org/abs/2410.23231)|**[link](https://github.com/uestc-nnlab/lgu-slam)**|
@@ -1947,6 +1948,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Mitigating Parameter Degeneracy using Joint Conditional Diffusion Model for WECC Composite Load Model in Power Systems**|Feiqin Zhu et.al.|[2411.10431](http://arxiv.org/abs/2411.10431)|null|
+|**2024-11-15**|**ALPHA- $α$ and Bi-ACT Are All You Need: Importance of Position and Force Information/Control for Imitation Learning of Unimanual and Bimanual Robotic Manipulation with Low-Cost System**|Masato Kobayashi et.al.|[2411.09942](http://arxiv.org/abs/2411.09942)|null|
+|**2024-11-15**|**Whole-Body Impedance Coordinative Control of Wheel-Legged Robot on Uncertain Terrain**|Lei Shi et.al.|[2411.09935](http://arxiv.org/abs/2411.09935)|null|
 |**2024-11-14**|**Tailoring interactions between active nematic defects with reinforcement learning**|Carlos Floyd et.al.|[2411.09588](http://arxiv.org/abs/2411.09588)|null|
 |**2024-11-14**|**Imagined Speech and Visual Imagery as Intuitive Paradigms for Brain-Computer Interfaces**|Seo-Hyun Lee et.al.|[2411.09400](http://arxiv.org/abs/2411.09400)|null|
 |**2024-11-14**|**Towards Scalable Handwriting Communication via EEG Decoding and Latent Embedding Integration**|Jun-Young Kim et.al.|[2411.09170](http://arxiv.org/abs/2411.09170)|null|
