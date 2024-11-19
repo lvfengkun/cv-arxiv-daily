@@ -1969,6 +1969,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**Uncertainty Evaluation of the Caesium Fountain Primary Frequency Standard NIM6**|Fasong Zheng et.al.|[2411.11349](http://arxiv.org/abs/2411.11349)|null|
+|**2024-11-18**|**Towards Personalized Brain-Computer Interface Application Based on Endogenous EEG Paradigms**|Heon-Gyu Kwak et.al.|[2411.11302](http://arxiv.org/abs/2411.11302)|null|
+|**2024-11-17**|**Modulating Reservoir Dynamics via Reinforcement Learning for Efficient Robot Skill Synthesis**|Zahra Koulaeizadeh et.al.|[2411.10991](http://arxiv.org/abs/2411.10991)|null|
 |**2024-11-15**|**Mitigating Parameter Degeneracy using Joint Conditional Diffusion Model for WECC Composite Load Model in Power Systems**|Feiqin Zhu et.al.|[2411.10431](http://arxiv.org/abs/2411.10431)|null|
 |**2024-11-15**|**ALPHA- $α$ and Bi-ACT Are All You Need: Importance of Position and Force Information/Control for Imitation Learning of Unimanual and Bimanual Robotic Manipulation with Low-Cost System**|Masato Kobayashi et.al.|[2411.09942](http://arxiv.org/abs/2411.09942)|null|
 |**2024-11-15**|**Whole-Body Impedance Coordinative Control of Wheel-Legged Robot on Uncertain Terrain**|Lei Shi et.al.|[2411.09935](http://arxiv.org/abs/2411.09935)|null|
