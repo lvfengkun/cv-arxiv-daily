@@ -1948,6 +1948,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**Identifying patterns of proprioception and target matching acuity in healthy humans**|Jacob Carducci et.al.|[2411.12664](http://arxiv.org/abs/2411.12664)|null|
+|**2024-11-19**|**SNN-Based Online Learning of Concepts and Action Laws in an Open World**|Christel Grimaud et.al.|[2411.12308](http://arxiv.org/abs/2411.12308)|null|
+|**2024-11-19**|**Tool Compensation and User Strategy during Human-Robot Teleoperation are Impacted by System Dynamics and Kinesthetic Feedback**|Jacob D. Carducci et.al.|[2411.12194](http://arxiv.org/abs/2411.12194)|null|
 |**2024-11-18**|**Uncertainty Evaluation of the Caesium Fountain Primary Frequency Standard NIM6**|Fasong Zheng et.al.|[2411.11349](http://arxiv.org/abs/2411.11349)|null|
 |**2024-11-18**|**Towards Personalized Brain-Computer Interface Application Based on Endogenous EEG Paradigms**|Heon-Gyu Kwak et.al.|[2411.11302](http://arxiv.org/abs/2411.11302)|null|
 |**2024-11-17**|**Modulating Reservoir Dynamics via Reinforcement Learning for Efficient Robot Skill Synthesis**|Zahra Koulaeizadeh et.al.|[2411.10991](http://arxiv.org/abs/2411.10991)|null|
