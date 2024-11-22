@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358](http://arxiv.org/abs/2411.14358)|null|
 |**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438](http://arxiv.org/abs/2411.13438)|null|
 |**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195](http://arxiv.org/abs/2411.10195)|null|
 |**2024-11-12**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw et.al.|[2411.08231](http://arxiv.org/abs/2411.08231)|null|
@@ -1970,6 +1971,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Neuromorphic Attitude Estimation and Control**|Stein Stroobants et.al.|[2411.13945](http://arxiv.org/abs/2411.13945)|**[link](https://github.com/tudelft/neuromorphic_att_est_and_control)**|
+|**2024-11-21**|**Joint-repositionable Inner-wireless Planar Snake Robot**|Ayato Kanada et.al.|[2411.13916](http://arxiv.org/abs/2411.13916)|null|
+|**2024-11-21**|**Throughput Maximization for Movable Antenna Systems with Movement Delay Consideration**|Honghao Wang et.al.|[2411.13785](http://arxiv.org/abs/2411.13785)|null|
+|**2024-11-20**|**DKMGP: A Gaussian Process Approach to Multi-Task and Multi-Step Vehicle Dynamics Modeling in Autonomous Racing**|Jingyun Ning et.al.|[2411.13755](http://arxiv.org/abs/2411.13755)|null|
 |**2024-11-20**|**Fine-tuning Myoelectric Control through Reinforcement Learning in a Game Environment**|Kilian Freitag et.al.|[2411.13327](http://arxiv.org/abs/2411.13327)|null|
 |**2024-11-20**|**HapKnob -- A Motorized Shape-changing Haptic Knob Interface**|Zhili Gong et.al.|[2411.12993](http://arxiv.org/abs/2411.12993)|null|
 |**2024-11-19**|**Identifying patterns of proprioception and target matching acuity in healthy humans**|Jacob Carducci et.al.|[2411.12664](http://arxiv.org/abs/2411.12664)|null|
