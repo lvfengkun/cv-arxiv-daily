@@ -1950,6 +1950,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**EV-PINN: A Physics-Informed Neural Network for Predicting Electric Vehicle Dynamics**|Hansol Lim et.al.|[2411.14691](http://arxiv.org/abs/2411.14691)|null|
+|**2024-11-21**|**Modelling Loss of Complexity in Intermittent Time Series and its Application**|Jie Li et.al.|[2411.14635](http://arxiv.org/abs/2411.14635)|null|
 |**2024-11-21**|**Neuromorphic Attitude Estimation and Control**|Stein Stroobants et.al.|[2411.13945](http://arxiv.org/abs/2411.13945)|**[link](https://github.com/tudelft/neuromorphic_att_est_and_control)**|
 |**2024-11-21**|**Joint-repositionable Inner-wireless Planar Snake Robot**|Ayato Kanada et.al.|[2411.13916](http://arxiv.org/abs/2411.13916)|null|
 |**2024-11-21**|**Throughput Maximization for Movable Antenna Systems with Movement Delay Consideration**|Honghao Wang et.al.|[2411.13785](http://arxiv.org/abs/2411.13785)|null|
