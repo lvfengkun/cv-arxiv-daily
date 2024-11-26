@@ -17,7 +17,7 @@ layout: default
 |**2024-11-21**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358](http://arxiv.org/abs/2411.14358)|null|
 |**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438](http://arxiv.org/abs/2411.13438)|null|
 |**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195](http://arxiv.org/abs/2411.10195)|null|
-|**2024-11-12**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw et.al.|[2411.08231](http://arxiv.org/abs/2411.08231)|null|
+|**2024-11-24**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw et.al.|[2411.08231](http://arxiv.org/abs/2411.08231)|null|
 |**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796](http://arxiv.org/abs/2411.04796)|null|
 |**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231](http://arxiv.org/abs/2410.23231)|**[link](https://github.com/uestc-nnlab/lgu-slam)**|
 |**2024-10-29**|**LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues**|Hanqing Jiang et.al.|[2410.22213](http://arxiv.org/abs/2410.22213)|null|
@@ -1950,6 +1950,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**SiGe BiCMOS Circuit Design using only PMOS and HBTs Approach for the Ocean Worlds Exploration**|Md Omar Faruk et.al.|[2411.16093](http://arxiv.org/abs/2411.16093)|null|
+|**2024-11-25**|**The brain versus AI: World-model-based versatile circuit computation underlying diverse functions in the neocortex and cerebellum**|Shogo Ohmae et.al.|[2411.16075](http://arxiv.org/abs/2411.16075)|null|
+|**2024-11-25**|**Experimental demonstration of a space-time modulated airborne acoustic circulator**|Tinggui Chen et.al.|[2411.16057](http://arxiv.org/abs/2411.16057)|null|
+|**2024-11-23**|**Development of a Low-Cost Prosthetic Hand Using Electromyography and Machine Learning**|Mosab Diab et.al.|[2411.15533](http://arxiv.org/abs/2411.15533)|null|
+|**2024-11-23**|**ChatBCI: A P300 Speller BCI Leveraging Large Language Models for Improved Sentence Composition in Realistic Scenarios**|Jiazhen Hong et.al.|[2411.15395](http://arxiv.org/abs/2411.15395)|null|
 |**2024-11-22**|**EV-PINN: A Physics-Informed Neural Network for Predicting Electric Vehicle Dynamics**|Hansol Lim et.al.|[2411.14691](http://arxiv.org/abs/2411.14691)|null|
 |**2024-11-21**|**Modelling Loss of Complexity in Intermittent Time Series and its Application**|Jie Li et.al.|[2411.14635](http://arxiv.org/abs/2411.14635)|null|
 |**2024-11-21**|**Neuromorphic Attitude Estimation and Control**|Stein Stroobants et.al.|[2411.13945](http://arxiv.org/abs/2411.13945)|**[link](https://github.com/tudelft/neuromorphic_att_est_and_control)**|
