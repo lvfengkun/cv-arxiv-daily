@@ -1950,6 +1950,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Evolving Markov Chains: Unsupervised Mode Discovery and Recognition from Data Streams**|Kutalmış Coşkun et.al.|[2411.17528](http://arxiv.org/abs/2411.17528)|null|
+|**2024-11-26**|**Object-centric proto-symbolic behavioural reasoning from pixels**|Ruben van Bergen et.al.|[2411.17438](http://arxiv.org/abs/2411.17438)|**[link](https://github.com/neuro-ai-robotics/OBR)**|
+|**2024-11-26**|**E-Trojans: Ransomware, Tracking, DoS, and Data Leaks on Battery-powered Embedded Systems**|Marco Casagrande et.al.|[2411.17184](http://arxiv.org/abs/2411.17184)|null|
 |**2024-11-25**|**SiGe BiCMOS Circuit Design using only PMOS and HBTs Approach for the Ocean Worlds Exploration**|Md Omar Faruk et.al.|[2411.16093](http://arxiv.org/abs/2411.16093)|null|
 |**2024-11-25**|**The brain versus AI: World-model-based versatile circuit computation underlying diverse functions in the neocortex and cerebellum**|Shogo Ohmae et.al.|[2411.16075](http://arxiv.org/abs/2411.16075)|null|
 |**2024-11-25**|**Experimental demonstration of a space-time modulated airborne acoustic circulator**|Tinggui Chen et.al.|[2411.16057](http://arxiv.org/abs/2411.16057)|null|
