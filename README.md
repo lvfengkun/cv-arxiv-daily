@@ -1971,6 +1971,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**EEG-Based Analysis of Brain Responses in Multi-Modal Human-Robot Interaction: Modulating Engagement**|Suzanne Oliver et.al.|[2411.18587](http://arxiv.org/abs/2411.18587)|null|
+|**2024-11-27**|**NeuroAI for AI Safety**|Patrick Mineault et.al.|[2411.18526](http://arxiv.org/abs/2411.18526)|null|
+|**2024-11-27**|**The more, the better? Evaluating the role of EEG preprocessing for deep learning applications**|Federico Del Pup et.al.|[2411.18392](http://arxiv.org/abs/2411.18392)|null|
+|**2024-11-27**|**Optimizing energy consumption for legged robot by adapting equilibrium position and stiffness of a parallel torsion spring**|Danil Belov et.al.|[2411.18295](http://arxiv.org/abs/2411.18295)|null|
 |**2024-11-26**|**Evolving Markov Chains: Unsupervised Mode Discovery and Recognition from Data Streams**|Kutalmış Coşkun et.al.|[2411.17528](http://arxiv.org/abs/2411.17528)|null|
 |**2024-11-26**|**Object-centric proto-symbolic behavioural reasoning from pixels**|Ruben van Bergen et.al.|[2411.17438](http://arxiv.org/abs/2411.17438)|**[link](https://github.com/neuro-ai-robotics/OBR)**|
 |**2024-11-26**|**E-Trojans: Ransomware, Tracking, DoS, and Data Leaks on Battery-powered Embedded Systems**|Marco Casagrande et.al.|[2411.17184](http://arxiv.org/abs/2411.17184)|null|
