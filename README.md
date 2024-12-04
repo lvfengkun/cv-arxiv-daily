@@ -1971,6 +1971,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Active learning of neural population dynamics using two-photon holographic optogenetics**|Andrew Wagenmaker et.al.|[2412.02529](http://arxiv.org/abs/2412.02529)|null|
+|**2024-12-03**|**Evolution of Collective AI Beyond Individual Optimization**|Ryosuke Takata et.al.|[2412.02085](http://arxiv.org/abs/2412.02085)|null|
+|**2024-12-02**|**Optimisation and Loss Analyses of Pulsed Field Magnetisation in a Superconducting Motor with Cryocooled Iron Cores**|Qi Wang et.al.|[2412.01679](http://arxiv.org/abs/2412.01679)|null|
+|**2024-12-02**|**Uncertainty-Aware Artificial Intelligence for Gear Fault Diagnosis in Motor Drives**|Subham Sahoo et.al.|[2412.01272](http://arxiv.org/abs/2412.01272)|null|
+|**2024-12-02**|**Federated Motor Imagery Classification for Privacy-Preserving Brain-Computer Interfaces**|Tianwang Jia et.al.|[2412.01079](http://arxiv.org/abs/2412.01079)|null|
+|**2024-11-29**|**Dynamic Neural Curiosity Enhances Learning Flexibility for Autonomous Goal Discovery**|Quentin Houbre et.al.|[2412.00152](http://arxiv.org/abs/2412.00152)|null|
+|**2024-11-28**|**Road User Classification from High-Frequency GNSS Data Using Distributed Edge Intelligence**|Lennart Köpper et.al.|[2412.00132](http://arxiv.org/abs/2412.00132)|null|
 |**2024-11-28**|**A Unified Platform for At-Home Post-Stroke Rehabilitation Enabled by Wearable Technologies and Artificial Intelligence**|Chenyu Tang et.al.|[2411.19000](http://arxiv.org/abs/2411.19000)|null|
 |**2024-11-28**|**Decoding Imagined Movement in People with Multiple Sclerosis for Brain-Computer Interface Translation**|John S. Russo et.al.|[2411.18916](http://arxiv.org/abs/2411.18916)|null|
 |**2024-11-28**|**CrossTracker: Robust Multi-modal 3D Multi-Object Tracking via Cross Correction**|Lipeng Gu et.al.|[2411.18850](http://arxiv.org/abs/2411.18850)|null|
