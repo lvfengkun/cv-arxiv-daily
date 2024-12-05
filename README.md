@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146](http://arxiv.org/abs/2412.03146)|null|
+|**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa et.al.|[2412.02950](http://arxiv.org/abs/2412.02950)|null|
 |**2024-11-21**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358](http://arxiv.org/abs/2411.14358)|null|
 |**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438](http://arxiv.org/abs/2411.13438)|null|
 |**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195](http://arxiv.org/abs/2411.10195)|null|
@@ -1971,6 +1973,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Navigation World Models**|Amir Bar et.al.|[2412.03572](http://arxiv.org/abs/2412.03572)|null|
+|**2024-12-04**|**Channel Reflection: Knowledge-Driven Data Augmentation for EEG-Based Brain-Computer Interfaces**|Ziwei Wang et.al.|[2412.03224](http://arxiv.org/abs/2412.03224)|null|
+|**2024-12-03**|**Data-Driven LQR with Finite-Time Experiments via Extremum-Seeking Policy Iteration**|Guido Carnevale et.al.|[2412.02758](http://arxiv.org/abs/2412.02758)|null|
 |**2024-12-03**|**Active learning of neural population dynamics using two-photon holographic optogenetics**|Andrew Wagenmaker et.al.|[2412.02529](http://arxiv.org/abs/2412.02529)|null|
 |**2024-12-03**|**Evolution of Collective AI Beyond Individual Optimization**|Ryosuke Takata et.al.|[2412.02085](http://arxiv.org/abs/2412.02085)|null|
 |**2024-12-02**|**Optimisation and Loss Analyses of Pulsed Field Magnetisation in a Superconducting Motor with Cryocooled Iron Cores**|Qi Wang et.al.|[2412.01679](http://arxiv.org/abs/2412.01679)|null|
