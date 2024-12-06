@@ -1973,9 +1973,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-05**|**Model-Agnostic Meta-Learning for Fault Diagnosis of Induction Motors in Data-Scarce Environments with Varying Operating Conditions and Electric Drive Noise**|Ali Pourghoraba et.al.|[2412.04255](http://arxiv.org/abs/2412.04255)|null|
+|**2024-12-05**|**Predictive Strategies for the Control of Complex Motor Skills: Recent Insights into Individual and Joint Actions**|Marta Russo et.al.|[2412.04191](http://arxiv.org/abs/2412.04191)|null|
+|**2024-12-05**|**Design, Characterization, and Validation of a Variable Stiffness Prosthetic Elbow**|Giuseppe Milazzo et.al.|[2412.03985](http://arxiv.org/abs/2412.03985)|null|
+|**2024-12-05**|**Versatile Optical Ground Station for Satellite-based Quantum Key Distribution in Abu Dhabi**|Sana Amairi-Pyka et.al.|[2412.03872](http://arxiv.org/abs/2412.03872)|null|
+|**2024-12-04**|**Effect of Simulated Space Conditions on functional Connectivity**|Parshuram N Aarotale et.al.|[2412.03628](http://arxiv.org/abs/2412.03628)|null|
+|**2024-12-04**|**A Teleoperation System with Impedance Control and Disturbance Observer for Robot-Assisted Rehabilitation**|Teng Li et.al.|[2412.03619](http://arxiv.org/abs/2412.03619)|null|
 |**2024-12-04**|**Navigation World Models**|Amir Bar et.al.|[2412.03572](http://arxiv.org/abs/2412.03572)|null|
 |**2024-12-04**|**Channel Reflection: Knowledge-Driven Data Augmentation for EEG-Based Brain-Computer Interfaces**|Ziwei Wang et.al.|[2412.03224](http://arxiv.org/abs/2412.03224)|null|
-|**2024-12-03**|**Data-Driven LQR with Finite-Time Experiments via Extremum-Seeking Policy Iteration**|Guido Carnevale et.al.|[2412.02758](http://arxiv.org/abs/2412.02758)|null|
+|**2024-12-05**|**Data-Driven LQR with Finite-Time Experiments via Extremum-Seeking Policy Iteration**|Guido Carnevale et.al.|[2412.02758](http://arxiv.org/abs/2412.02758)|null|
 |**2024-12-03**|**Active learning of neural population dynamics using two-photon holographic optogenetics**|Andrew Wagenmaker et.al.|[2412.02529](http://arxiv.org/abs/2412.02529)|null|
 |**2024-12-03**|**Evolution of Collective AI Beyond Individual Optimization**|Ryosuke Takata et.al.|[2412.02085](http://arxiv.org/abs/2412.02085)|null|
 |**2024-12-02**|**Optimisation and Loss Analyses of Pulsed Field Magnetisation in a Superconducting Motor with Cryocooled Iron Cores**|Qi Wang et.al.|[2412.01679](http://arxiv.org/abs/2412.01679)|null|
