@@ -1973,6 +1973,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**'Being there together for health': A Systematic Review on the Feasibility, Effectiveness and Design Considerations of Immersive Collaborative Virtual Environments in Health Applications**|Tohid Zarei et.al.|[2412.04760](http://arxiv.org/abs/2412.04760)|null|
 |**2024-12-05**|**Model-Agnostic Meta-Learning for Fault Diagnosis of Induction Motors in Data-Scarce Environments with Varying Operating Conditions and Electric Drive Noise**|Ali Pourghoraba et.al.|[2412.04255](http://arxiv.org/abs/2412.04255)|null|
 |**2024-12-05**|**Predictive Strategies for the Control of Complex Motor Skills: Recent Insights into Individual and Joint Actions**|Marta Russo et.al.|[2412.04191](http://arxiv.org/abs/2412.04191)|null|
 |**2024-12-05**|**Design, Characterization, and Validation of a Variable Stiffness Prosthetic Elbow**|Giuseppe Milazzo et.al.|[2412.03985](http://arxiv.org/abs/2412.03985)|null|
