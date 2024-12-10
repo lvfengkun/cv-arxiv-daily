@@ -1973,6 +1973,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Augmented reality for upper limb rehabilitation: real-time kinematic feedback with HoloLens 2**|Beatrice Luciani et.al.|[2412.06596](http://arxiv.org/abs/2412.06596)|null|
+|**2024-12-08**|**Beating of eukaryotic flagella via Hopf bifurcation of a system of stalled molecular motors**|Irene Anello et.al.|[2412.06067](http://arxiv.org/abs/2412.06067)|null|
+|**2024-12-08**|**Thermal Image-based Fault Diagnosis in Induction Machines via Self-Organized Operational Neural Networks**|Sertac Kilickaya et.al.|[2412.05901](http://arxiv.org/abs/2412.05901)|null|
+|**2024-12-07**|**Computational models of learning and synaptic plasticity**|Danil Tyulmankov et.al.|[2412.05501](http://arxiv.org/abs/2412.05501)|null|
+|**2024-12-06**|**CigTime: Corrective Instruction Generation Through Inverse Motion Editing**|Qihang Fang et.al.|[2412.05460](http://arxiv.org/abs/2412.05460)|null|
 |**2024-12-06**|**'Being there together for health': A Systematic Review on the Feasibility, Effectiveness and Design Considerations of Immersive Collaborative Virtual Environments in Health Applications**|Tohid Zarei et.al.|[2412.04760](http://arxiv.org/abs/2412.04760)|null|
 |**2024-12-05**|**Model-Agnostic Meta-Learning for Fault Diagnosis of Induction Motors in Data-Scarce Environments with Varying Operating Conditions and Electric Drive Noise**|Ali Pourghoraba et.al.|[2412.04255](http://arxiv.org/abs/2412.04255)|null|
 |**2024-12-05**|**Predictive Strategies for the Control of Complex Motor Skills: Recent Insights into Individual and Joint Actions**|Marta Russo et.al.|[2412.04191](http://arxiv.org/abs/2412.04191)|null|
