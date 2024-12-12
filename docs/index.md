@@ -1952,6 +1952,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Intelligent Electric Power Steering: Artificial Intelligence Integration Enhances Vehicle Safety and Performance**|Vikas Vyas et.al.|[2412.08133](http://arxiv.org/abs/2412.08133)|null|
 |**2024-12-10**|**Towards Predictive Communication with Brain-Computer Interfaces integrating Large Language Models**|Andrea Caria et.al.|[2412.07355](http://arxiv.org/abs/2412.07355)|null|
 |**2024-12-10**|**Learning k-Inductive Control Barrier Certificates for Unknown Nonlinear Dynamics Beyond Polynomials**|Ben Wooding et.al.|[2412.07232](http://arxiv.org/abs/2412.07232)|null|
 |**2024-12-10**|**T-TIME: Test-Time Information Maximization Ensemble for Plug-and-Play BCIs**|Siyang Li et.al.|[2412.07228](http://arxiv.org/abs/2412.07228)|null|
