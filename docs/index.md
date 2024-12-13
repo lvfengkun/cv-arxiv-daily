@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.12
+## Updated on 2024.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1955,7 +1955,7 @@ layout: default
 |**2024-12-11**|**Intelligent Electric Power Steering: Artificial Intelligence Integration Enhances Vehicle Safety and Performance**|Vikas Vyas et.al.|[2412.08133](http://arxiv.org/abs/2412.08133)|null|
 |**2024-12-10**|**Towards Predictive Communication with Brain-Computer Interfaces integrating Large Language Models**|Andrea Caria et.al.|[2412.07355](http://arxiv.org/abs/2412.07355)|null|
 |**2024-12-10**|**Learning k-Inductive Control Barrier Certificates for Unknown Nonlinear Dynamics Beyond Polynomials**|Ben Wooding et.al.|[2412.07232](http://arxiv.org/abs/2412.07232)|null|
-|**2024-12-10**|**T-TIME: Test-Time Information Maximization Ensemble for Plug-and-Play BCIs**|Siyang Li et.al.|[2412.07228](http://arxiv.org/abs/2412.07228)|null|
+|**2024-12-10**|**T-TIME: Test-Time Information Maximization Ensemble for Plug-and-Play BCIs**|Siyang Li et.al.|[2412.07228](http://arxiv.org/abs/2412.07228)|**[link](https://github.com/sylyoung/DeepTransferEEG)**|
 |**2024-12-10**|**Robust Feature Engineering Techniques for Designing Efficient Motor Imagery-Based BCI-Systems**|Syed Saim Gardezi et.al.|[2412.07175](http://arxiv.org/abs/2412.07175)|null|
 |**2024-12-09**|**Augmented reality for upper limb rehabilitation: real-time kinematic feedback with HoloLens 2**|Beatrice Luciani et.al.|[2412.06596](http://arxiv.org/abs/2412.06596)|null|
 |**2024-12-08**|**Beating of eukaryotic flagella via Hopf bifurcation of a system of stalled molecular motors**|Irene Anello et.al.|[2412.06067](http://arxiv.org/abs/2412.06067)|null|
