@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**RoMeO: Robust Metric Visual Odometry**|Junda Cheng et.al.|[2412.11530](http://arxiv.org/abs/2412.11530)|null|
 |**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209](http://arxiv.org/abs/2412.09209)|**[link](https://github.com/CIRS-Girona/ecarla-scenes)**|
 |**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146](http://arxiv.org/abs/2412.03146)|**[link](https://github.com/junhaowang615/mcvo)**|
 |**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa et.al.|[2412.02950](http://arxiv.org/abs/2412.02950)|null|
@@ -1953,7 +1954,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-13**|**Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation**|Bofang Jia et.al.|[2412.09265](http://arxiv.org/abs/2412.09265)|null|
+|**2024-12-16**|**Robust Contact-rich Manipulation through Implicit Motor Adaptation**|Teng Xue et.al.|[2412.11829](http://arxiv.org/abs/2412.11829)|null|
+|**2024-12-16**|**A Rb-Cs dual-species magneto-optical trap**|Shi-Yao Shao et.al.|[2412.11411](http://arxiv.org/abs/2412.11411)|null|
+|**2024-12-14**|**IoT-Enabled Smart Car Parking System through Integrated Sensors and Mobile Applications**|Abdullah Al Mamun et.al.|[2412.10774](http://arxiv.org/abs/2412.10774)|null|
+|**2024-12-16**|**Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation**|Bofang Jia et.al.|[2412.09265](http://arxiv.org/abs/2412.09265)|null|
 |**2024-12-12**|**Learning and Current Prediction of PMSM Drive via Differential Neural Networks**|Wenjie Mei et.al.|[2412.09028](http://arxiv.org/abs/2412.09028)|null|
 |**2024-12-12**|**Front-end Replication Dynamic Window (FRDW) for Online Motor Imagery Classification**|X. Chen et.al.|[2412.09015](http://arxiv.org/abs/2412.09015)|**[link](https://github.com/xinru2001/frdw)**|
 |**2024-12-12**|**Motor Imagery Classification for Asynchronous EEG-Based Brain-Computer Interfaces**|Huanyu Wu et.al.|[2412.09006](http://arxiv.org/abs/2412.09006)|**[link](https://github.com/why135724/SWPC)**|
