@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1955,7 +1955,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-13**|**Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation**|Bofang Jia et.al.|[2412.09265](http://arxiv.org/abs/2412.09265)|null|
 |**2024-12-12**|**Learning and Current Prediction of PMSM Drive via Differential Neural Networks**|Wenjie Mei et.al.|[2412.09028](http://arxiv.org/abs/2412.09028)|null|
-|**2024-12-12**|**Front-end Replication Dynamic Window (FRDW) for Online Motor Imagery Classification**|X. Chen et.al.|[2412.09015](http://arxiv.org/abs/2412.09015)|null|
+|**2024-12-12**|**Front-end Replication Dynamic Window (FRDW) for Online Motor Imagery Classification**|X. Chen et.al.|[2412.09015](http://arxiv.org/abs/2412.09015)|**[link](https://github.com/xinru2001/frdw)**|
 |**2024-12-12**|**Motor Imagery Classification for Asynchronous EEG-Based Brain-Computer Interfaces**|Huanyu Wu et.al.|[2412.09006](http://arxiv.org/abs/2412.09006)|**[link](https://github.com/why135724/SWPC)**|
 |**2024-12-12**|**Motor Imagery Teleoperation of a Mobile Robot Using a Low-Cost Brain-Computer Interface for Multi-Day Validation**|Yujin An et.al.|[2412.08971](http://arxiv.org/abs/2412.08971)|null|
 |**2024-12-11**|**Intelligent Electric Power Steering: Artificial Intelligence Integration Enhances Vehicle Safety and Performance**|Vikas Vyas et.al.|[2412.08133](http://arxiv.org/abs/2412.08133)|null|
