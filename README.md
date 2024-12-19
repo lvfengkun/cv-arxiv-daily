@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639](http://arxiv.org/abs/2412.13639)|**[link](https://github.com/robotics-upo/gaussian-rio)**|
 |**2024-12-16**|**RoMeO: Robust Metric Visual Odometry**|Junda Cheng et.al.|[2412.11530](http://arxiv.org/abs/2412.11530)|null|
 |**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209](http://arxiv.org/abs/2412.09209)|**[link](https://github.com/CIRS-Girona/ecarla-scenes)**|
 |**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146](http://arxiv.org/abs/2412.03146)|**[link](https://github.com/junhaowang615/mcvo)**|
@@ -1975,6 +1976,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**UA-MPC: Uncertainty-Aware Model Predictive Control for Motorized LiDAR Odometry**|Jianping Li et.al.|[2412.13873](http://arxiv.org/abs/2412.13873)|null|
+|**2024-12-18**|**Planning Human-Robot Co-manipulation with Human Motor Control Objectives and Multi-component Reaching Strategies**|Kevin Haninger et.al.|[2412.13474](http://arxiv.org/abs/2412.13474)|null|
 |**2024-12-16**|**Efficacy of Temporal Interference Electrical Stimulation for Spinal Cord Injury Rehabilitation: A Case Series**|Ruidong Cheng et.al.|[2412.12229](http://arxiv.org/abs/2412.12229)|null|
 |**2024-12-16**|**Robust Contact-rich Manipulation through Implicit Motor Adaptation**|Teng Xue et.al.|[2412.11829](http://arxiv.org/abs/2412.11829)|null|
 |**2024-12-16**|**A Rb-Cs dual-species magneto-optical trap**|Shi-Yao Shao et.al.|[2412.11411](http://arxiv.org/abs/2412.11411)|null|
