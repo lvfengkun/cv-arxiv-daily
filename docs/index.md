@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1960,7 +1960,7 @@ layout: default
 |**2024-12-19**|**TuneS: Patient-specific model-based optimization of contact configuration in deep brain stimulation**|Anna Franziska Frigge et.al.|[2412.14638](http://arxiv.org/abs/2412.14638)|null|
 |**2024-12-19**|**Time-Varying Functional Cox Model**|Hongyu Du et.al.|[2412.14478](http://arxiv.org/abs/2412.14478)|null|
 |**2024-12-19**|**Comparing noisy neural population dynamics using optimal transport distances**|Amin Nejatbakhsh et.al.|[2412.14421](http://arxiv.org/abs/2412.14421)|null|
-|**2024-12-18**|**UA-MPC: Uncertainty-Aware Model Predictive Control for Motorized LiDAR Odometry**|Jianping Li et.al.|[2412.13873](http://arxiv.org/abs/2412.13873)|null|
+|**2024-12-18**|**UA-MPC: Uncertainty-Aware Model Predictive Control for Motorized LiDAR Odometry**|Jianping Li et.al.|[2412.13873](http://arxiv.org/abs/2412.13873)|**[link](https://github.com/kafeiyin00/ua-mpc)**|
 |**2024-12-18**|**Planning Human-Robot Co-manipulation with Human Motor Control Objectives and Multi-component Reaching Strategies**|Kevin Haninger et.al.|[2412.13474](http://arxiv.org/abs/2412.13474)|null|
 |**2024-12-16**|**Efficacy of Temporal Interference Electrical Stimulation for Spinal Cord Injury Rehabilitation: A Case Series**|Ruidong Cheng et.al.|[2412.12229](http://arxiv.org/abs/2412.12229)|null|
 |**2024-12-16**|**Robust Contact-rich Manipulation through Implicit Motor Adaptation**|Teng Xue et.al.|[2412.11829](http://arxiv.org/abs/2412.11829)|null|
