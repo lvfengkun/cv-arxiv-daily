@@ -1976,6 +1976,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**MarkovType: A Markov Decision Process Strategy for Non-Invasive Brain-Computer Interfaces Typing Systems**|Elifnur Sunger et.al.|[2412.15862](http://arxiv.org/abs/2412.15862)|**[link](https://github.com/neu-spiral/markovtype)**|
 |**2024-12-19**|**Co-optimization of Vehicle Dynamics and Powertrain Management for Connected and Automated Electric Vehicles**|Zongtan Li et.al.|[2412.14984](http://arxiv.org/abs/2412.14984)|null|
 |**2024-12-19**|**A General Control Method for Human-Robot Integration**|Maddalena Feder et.al.|[2412.14762](http://arxiv.org/abs/2412.14762)|null|
 |**2024-12-19**|**TuneS: Patient-specific model-based optimization of contact configuration in deep brain stimulation**|Anna Franziska Frigge et.al.|[2412.14638](http://arxiv.org/abs/2412.14638)|null|
