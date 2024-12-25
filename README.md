@@ -1977,6 +1977,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**SPARC4 control system**|Denis Bernardes et.al.|[2412.18410](http://arxiv.org/abs/2412.18410)|null|
+|**2024-12-24**|**Low count of optically pumped magnetometers furnishes a reliable real-time access to sensorimotor rhythm**|Nikita Fedosov et.al.|[2412.18353](http://arxiv.org/abs/2412.18353)|null|
+|**2024-12-24**|**An Improved Fault Diagnosis Strategy for Induction Motors Using Weighted Probability Ensemble Deep Learning**|Usman Ali et.al.|[2412.18249](http://arxiv.org/abs/2412.18249)|null|
+|**2024-12-24**|**Towards Fault Diagnosis in Induction Motor using Fractional Fourier Transform**|Usman Ali et.al.|[2412.18227](http://arxiv.org/abs/2412.18227)|null|
+|**2024-12-23**|**Exact closed-form recurrence probabilities for biased random walks at any step number**|Debendro Mookerjee et.al.|[2412.17994](http://arxiv.org/abs/2412.17994)|null|
+|**2024-12-23**|**Reinforcement Learning for Motor Control: A Comprehensive Review**|Danial Kazemikia et.al.|[2412.17936](http://arxiv.org/abs/2412.17936)|null|
 |**2024-12-22**|**Three mechanistically different variability and noise sources in the trial-to-trial fluctuations of responses to brain stimulation**|Ke Ma et.al.|[2412.16997](http://arxiv.org/abs/2412.16997)|null|
 |**2024-12-21**|**A Novel Approach to Tomato Harvesting Using a Hybrid Gripper with Semantic Segmentation and Keypoint Detection**|Shahid Ansari et.al.|[2412.16755](http://arxiv.org/abs/2412.16755)|null|
 |**2024-12-21**|**ActPC-Chem: Discrete Active Predictive Coding for Goal-Guided Algorithmic Chemistry as a Potential Cognitive Kernel for Hyperon & PRIMUS-Based AGI**|Ben Goertzel et.al.|[2412.16547](http://arxiv.org/abs/2412.16547)|null|
