@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-28**|**MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing**|Shuo Wang et.al.|[2412.20082](http://arxiv.org/abs/2412.20082)|null|
 |**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|null|
 |**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639](http://arxiv.org/abs/2412.13639)|**[link](https://github.com/robotics-upo/gaussian-rio)**|
 |**2024-12-19**|**RoMeO: Robust Metric Visual Odometry**|Junda Cheng et.al.|[2412.11530](http://arxiv.org/abs/2412.11530)|null|
@@ -1956,6 +1957,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-30**|**Sparse chaos in cortical circuits**|Rainer Engelken et.al.|[2412.21188](http://arxiv.org/abs/2412.21188)|null|
+|**2024-12-30**|**Two-component spatiotemporal template for activation-inhibition of speech in ECoG**|Eric Easthope et.al.|[2412.21178](http://arxiv.org/abs/2412.21178)|null|
+|**2024-12-30**|**Considering experimental frame rates and robust segmentation analysis of piecewise-linear microparticle trajectories**|Keisha J. Cook et.al.|[2412.21025](http://arxiv.org/abs/2412.21025)|null|
+|**2024-12-30**|**Advancing Parkinson's Disease Progression Prediction: Comparing Long Short-Term Memory Networks and Kolmogorov-Arnold Networks**|Abhinav Roy et.al.|[2412.20744](http://arxiv.org/abs/2412.20744)|null|
+|**2024-12-29**|**Kinetically arrested clusters in active filament arrays**|Sonu Karayat et.al.|[2412.20536](http://arxiv.org/abs/2412.20536)|null|
 |**2024-12-26**|**Transformation of the trapped flux in a SC disc under electromagnetic exposure**|V. V. Chabanenko et.al.|[2412.19298](http://arxiv.org/abs/2412.19298)|null|
 |**2024-12-24**|**SPARC4 control system**|Denis Bernardes et.al.|[2412.18410](http://arxiv.org/abs/2412.18410)|**[link](https://github.com/fco-R/S4ICS)**|
 |**2024-12-24**|**Low count of optically pumped magnetometers furnishes a reliable real-time access to sensorimotor rhythm**|Nikita Fedosov et.al.|[2412.18353](http://arxiv.org/abs/2412.18353)|null|
