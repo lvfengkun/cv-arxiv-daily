@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.30
+## Updated on 2024.12.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1957,7 +1957,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-26**|**Transformation of the trapped flux in a SC disc under electromagnetic exposure**|V. V. Chabanenko et.al.|[2412.19298](http://arxiv.org/abs/2412.19298)|null|
-|**2024-12-24**|**SPARC4 control system**|Denis Bernardes et.al.|[2412.18410](http://arxiv.org/abs/2412.18410)|null|
+|**2024-12-24**|**SPARC4 control system**|Denis Bernardes et.al.|[2412.18410](http://arxiv.org/abs/2412.18410)|**[link](https://github.com/fco-R/S4ICS)**|
 |**2024-12-24**|**Low count of optically pumped magnetometers furnishes a reliable real-time access to sensorimotor rhythm**|Nikita Fedosov et.al.|[2412.18353](http://arxiv.org/abs/2412.18353)|null|
 |**2024-12-24**|**An Improved Fault Diagnosis Strategy for Induction Motors Using Weighted Probability Ensemble Deep Learning**|Usman Ali et.al.|[2412.18249](http://arxiv.org/abs/2412.18249)|null|
 |**2024-12-24**|**Towards Fault Diagnosis in Induction Motor using Fractional Fourier Transform**|Usman Ali et.al.|[2412.18227](http://arxiv.org/abs/2412.18227)|null|
