@@ -1957,6 +1957,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**A Passive Mechanical Add-on for Treadmill Exercise (P-MATE) in Stroke Rehabilitation**|Irene L. Y. Beck et.al.|[2501.03054](http://arxiv.org/abs/2501.03054)|null|
+|**2025-01-05**|**EOG Communication Interface for Quadriplegics: Prototype & Signal Processing**|Aniket Raj et.al.|[2501.02465](http://arxiv.org/abs/2501.02465)|null|
+|**2025-01-02**|**Machine Learning-Based Differential Diagnosis of Parkinson's Disease Using Kinematic Feature Extraction and Selection**|Masahiro Matsumoto et.al.|[2501.02014](http://arxiv.org/abs/2501.02014)|null|
 |**2025-01-03**|**Subject Specific Deep Learning Model for Motor Imagery Direction Decoding**|Praveen K. Parashiva et.al.|[2501.01725](http://arxiv.org/abs/2501.01725)|null|
 |**2025-01-03**|**Acceleration of enzymatic reactions due to nearby inactive binding sites**|Hila Katznelson et.al.|[2501.01662](http://arxiv.org/abs/2501.01662)|null|
 |**2024-12-30**|**Human-AI Teaming Using Large Language Models: Boosting Brain-Computer Interfacing (BCI) and Brain Research**|Maryna Kapitonova et.al.|[2501.01451](http://arxiv.org/abs/2501.01451)|null|
