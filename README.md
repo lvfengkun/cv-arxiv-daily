@@ -1978,13 +1978,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**A Multimodal Lightweight Approach to Fault Diagnosis of Induction Motors in High-Dimensional Dataset**|Usman Ali et.al.|[2501.03746](http://arxiv.org/abs/2501.03746)|null|
+|**2025-01-07**|**Confinement and Activity-Driven Dynamics of Semiflexible Polymers in Motility Assays**|Sandip Roy et.al.|[2501.03686](http://arxiv.org/abs/2501.03686)|null|
+|**2025-01-07**|**Towards a Generalizable Speech Marker for Parkinson's Disease Diagnosis**|Maksim Siniukov et.al.|[2501.03581](http://arxiv.org/abs/2501.03581)|null|
+|**2025-01-07**|**Intelligent Mode-Locked Single-Cavity Dual-Comb Laser Utilizing Time-Stretch Dispersive Fourier Transform Spectroscopy with Supplemental File**|Pan Guo et.al.|[2501.03550](http://arxiv.org/abs/2501.03550)|null|
+|**2025-01-06**|**Brain Controlled Wheelchair with Smart Feature**|Noyon Kumar Sarkar et.al.|[2501.03371](http://arxiv.org/abs/2501.03371)|null|
 |**2025-01-06**|**A Passive Mechanical Add-on for Treadmill Exercise (P-MATE) in Stroke Rehabilitation**|Irene L. Y. Beck et.al.|[2501.03054](http://arxiv.org/abs/2501.03054)|null|
 |**2025-01-05**|**EOG Communication Interface for Quadriplegics: Prototype & Signal Processing**|Aniket Raj et.al.|[2501.02465](http://arxiv.org/abs/2501.02465)|null|
 |**2025-01-02**|**Machine Learning-Based Differential Diagnosis of Parkinson's Disease Using Kinematic Feature Extraction and Selection**|Masahiro Matsumoto et.al.|[2501.02014](http://arxiv.org/abs/2501.02014)|null|
 |**2025-01-03**|**Subject Specific Deep Learning Model for Motor Imagery Direction Decoding**|Praveen K. Parashiva et.al.|[2501.01725](http://arxiv.org/abs/2501.01725)|null|
 |**2025-01-03**|**Acceleration of enzymatic reactions due to nearby inactive binding sites**|Hila Katznelson et.al.|[2501.01662](http://arxiv.org/abs/2501.01662)|null|
 |**2024-12-30**|**Human-AI Teaming Using Large Language Models: Boosting Brain-Computer Interfacing (BCI) and Brain Research**|Maryna Kapitonova et.al.|[2501.01451](http://arxiv.org/abs/2501.01451)|null|
-|**2025-01-02**|**Inequality of opportunity under current China's license plate policy**|Nina Xiaochun Sun et.al.|[2501.01298](http://arxiv.org/abs/2501.01298)|null|
+|**2025-01-07**|**Inequality of opportunity under current China's license plate policy**|Nina Xiaochun Sun et.al.|[2501.01298](http://arxiv.org/abs/2501.01298)|null|
 |**2025-01-02**|**Co-Design of a Robot Controller Board and Indoor Positioning System for IoT-Enabled Applications**|Ali Safa et.al.|[2501.01115](http://arxiv.org/abs/2501.01115)|null|
 |**2024-12-28**|**DDD-GenDT: Dynamic Data-driven Generative Digital Twin Framework**|Yu-Zheng Lin et.al.|[2501.00051](http://arxiv.org/abs/2501.00051)|null|
 |**2024-12-30**|**Sparse chaos in cortical circuits**|Rainer Engelken et.al.|[2412.21188](http://arxiv.org/abs/2412.21188)|null|
