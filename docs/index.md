@@ -1957,6 +1957,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**Test Case Generation for Simulink Models: An Experience from the E-Bike Domain**|Michael Marzella et.al.|[2501.05792](http://arxiv.org/abs/2501.05792)|null|
+|**2025-01-10**|**Formally Verified Neural Lyapunov Function for Incremental Input-to-State Stability of Unknown Systems**|Ahan Basu et.al.|[2501.05778](http://arxiv.org/abs/2501.05778)|null|
+|**2025-01-09**|**Towards Probabilistic Inference of Human Motor Intentions by Assistive Mobile Robots Controlled via a Brain-Computer Interface**|Xiaoshan Zhou et.al.|[2501.05610](http://arxiv.org/abs/2501.05610)|null|
+|**2025-01-09**|**LGL-BCI: A Motor-Imagery-Based Brain-Computer Interface with Geometric Learning**|Jianchao Lu et.al.|[2501.05589](http://arxiv.org/abs/2501.05589)|null|
+|**2025-01-09**|**MECASA: Motor Execution Classification using Additive Self-Attention for Hybrid EEG-fNIRS Data**|Gourav Siddhad et.al.|[2501.05525](http://arxiv.org/abs/2501.05525)|null|
 |**2025-01-09**|**Harnessing the Power of Vibration Motors to Develop Miniature Untethered Robotic Fishes**|Chongjie Jiang et.al.|[2501.05107](http://arxiv.org/abs/2501.05107)|null|
 |**2025-01-08**|**A multi-purpose reciprocating probe drive system for studying the effect of gas-puffs on edge plasma dynamics in the ADITYA-U tokamak**|Kaushlender Singh et.al.|[2501.04462](http://arxiv.org/abs/2501.04462)|null|
 |**2025-01-08**|**Implementation Of Wildlife Observation System**|Neethu K N et.al.|[2501.04398](http://arxiv.org/abs/2501.04398)|null|
