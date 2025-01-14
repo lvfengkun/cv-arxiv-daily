@@ -1957,6 +1957,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**Kinesin-driven de-mixing of cytoskeleton composites drives emergent mechanical properties**|Janet Sheung et.al.|[2501.07546](http://arxiv.org/abs/2501.07546)|null|
+|**2025-01-13**|**GazeGrasp: DNN-Driven Robotic Grasping with Wearable Eye-Gaze Interface**|Issatay Tokmurziyev et.al.|[2501.07255](http://arxiv.org/abs/2501.07255)|null|
+|**2025-01-13**|**Touched by ChatGPT: Using an LLM to Drive Affective Tactile Interaction**|Qiaoqiao Ren et.al.|[2501.07224](http://arxiv.org/abs/2501.07224)|null|
+|**2025-01-11**|**The tardigrade as an emerging model organism for systems neuroscience**|Ana M. Lyons et.al.|[2501.06606](http://arxiv.org/abs/2501.06606)|null|
 |**2025-01-10**|**Test Case Generation for Simulink Models: An Experience from the E-Bike Domain**|Michael Marzella et.al.|[2501.05792](http://arxiv.org/abs/2501.05792)|null|
 |**2025-01-10**|**Formally Verified Neural Lyapunov Function for Incremental Input-to-State Stability of Unknown Systems**|Ahan Basu et.al.|[2501.05778](http://arxiv.org/abs/2501.05778)|null|
 |**2025-01-09**|**Towards Probabilistic Inference of Human Motor Intentions by Assistive Mobile Robots Controlled via a Brain-Computer Interface**|Xiaoshan Zhou et.al.|[2501.05610](http://arxiv.org/abs/2501.05610)|null|
