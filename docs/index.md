@@ -1957,8 +1957,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Observation of zero coefficient of friction above a critical pressure**|Weipeng Chen et.al.|[2501.08153](http://arxiv.org/abs/2501.08153)|null|
+|**2025-01-14**|**Improvements to SHINS, the SHARK-NIR Instrument Software, during the AIT phase**|Davide Ricci et.al.|[2501.08010](http://arxiv.org/abs/2501.08010)|null|
+|**2025-01-13**|**Active and passive crosslinking of cytoskeleton scaffolds tune the effects of cell inclusions on composite structure**|Katarina Matic et.al.|[2501.07656](http://arxiv.org/abs/2501.07656)|null|
 |**2025-01-13**|**Kinesin-driven de-mixing of cytoskeleton composites drives emergent mechanical properties**|Janet Sheung et.al.|[2501.07546](http://arxiv.org/abs/2501.07546)|null|
-|**2025-01-13**|**GazeGrasp: DNN-Driven Robotic Grasping with Wearable Eye-Gaze Interface**|Issatay Tokmurziyev et.al.|[2501.07255](http://arxiv.org/abs/2501.07255)|null|
+|**2025-01-14**|**GazeGrasp: DNN-Driven Robotic Grasping with Wearable Eye-Gaze Interface**|Issatay Tokmurziyev et.al.|[2501.07255](http://arxiv.org/abs/2501.07255)|null|
 |**2025-01-13**|**Touched by ChatGPT: Using an LLM to Drive Affective Tactile Interaction**|Qiaoqiao Ren et.al.|[2501.07224](http://arxiv.org/abs/2501.07224)|null|
 |**2025-01-11**|**The tardigrade as an emerging model organism for systems neuroscience**|Ana M. Lyons et.al.|[2501.06606](http://arxiv.org/abs/2501.06606)|null|
 |**2025-01-10**|**Test Case Generation for Simulink Models: An Experience from the E-Bike Domain**|Michael Marzella et.al.|[2501.05792](http://arxiv.org/abs/2501.05792)|null|
