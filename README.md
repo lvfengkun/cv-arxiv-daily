@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**|Dongzhihan Wang et.al.|[2501.08659](http://arxiv.org/abs/2501.08659)|null|
 |**2024-12-28**|**MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing**|Shuo Wang et.al.|[2412.20082](http://arxiv.org/abs/2412.20082)|null|
 |**2025-01-03**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|null|
 |**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639](http://arxiv.org/abs/2412.13639)|**[link](https://github.com/robotics-upo/gaussian-rio)**|
@@ -1978,6 +1979,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**Computerized Assessment of Motor Imitation for Distinguishing Autism in Video (CAMI-2DNet)**|Kaleab A. Kinfu et.al.|[2501.08609](http://arxiv.org/abs/2501.08609)|null|
+|**2025-01-14**|**Electrostatic Clutches Enable High-Force Mechanical Multiplexing: Demonstrating Single-Motor Full-Actuation of a 4-DoF Hand**|Timothy E. Amish et.al.|[2501.08469](http://arxiv.org/abs/2501.08469)|null|
+|**2025-01-14**|**Nonlinear Modeling of a PEM Fuel Cell System; a Practical Study with Experimental Validation**|Seyed Mehdi Rakhtala et.al.|[2501.08420](http://arxiv.org/abs/2501.08420)|null|
 |**2025-01-14**|**Observation of zero coefficient of friction above a critical pressure**|Weipeng Chen et.al.|[2501.08153](http://arxiv.org/abs/2501.08153)|null|
 |**2025-01-14**|**Improvements to SHINS, the SHARK-NIR Instrument Software, during the AIT phase**|Davide Ricci et.al.|[2501.08010](http://arxiv.org/abs/2501.08010)|null|
 |**2025-01-13**|**Active and passive crosslinking of cytoskeleton scaffolds tune the effects of cell inclusions on composite structure**|Katarina Matic et.al.|[2501.07656](http://arxiv.org/abs/2501.07656)|null|
