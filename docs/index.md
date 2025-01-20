@@ -1958,6 +1958,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**Motorized Chromosome Models of Mitosis**|Zhiyu Cao et.al.|[2501.09873](http://arxiv.org/abs/2501.09873)|null|
 |**2025-01-15**|**Computerized Assessment of Motor Imitation for Distinguishing Autism in Video (CAMI-2DNet)**|Kaleab A. Kinfu et.al.|[2501.08609](http://arxiv.org/abs/2501.08609)|null|
 |**2025-01-14**|**Electrostatic Clutches Enable High-Force Mechanical Multiplexing: Demonstrating Single-Motor Full-Actuation of a 4-DoF Hand**|Timothy E. Amish et.al.|[2501.08469](http://arxiv.org/abs/2501.08469)|null|
 |**2025-01-14**|**Nonlinear Modeling of a PEM Fuel Cell System; a Practical Study with Experimental Validation**|Seyed Mehdi Rakhtala et.al.|[2501.08420](http://arxiv.org/abs/2501.08420)|null|
