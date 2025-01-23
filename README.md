@@ -1980,6 +1980,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Longitudinal Missing Data Imputation for Predicting Disability Stage of Patients with Multiple Sclerosis**|Mahin Vazifehdan et.al.|[2501.12927](http://arxiv.org/abs/2501.12927)|null|
 |**2025-01-21**|**Comparative Analysis of Control Strategies for Position Regulation in DC Servo Motors**|Raihan Khan Akash et.al.|[2501.11820](http://arxiv.org/abs/2501.11820)|null|
 |**2025-01-20**|**Active chemo-mechanical solitons**|Lev Truskinovsky et.al.|[2501.11368](http://arxiv.org/abs/2501.11368)|null|
 |**2025-01-19**|**Axisymmetric Pushing of a Spherical Cargo using an Active Spherical Janus Motor**|Subramaniam Chembai Ganesh et.al.|[2501.10955](http://arxiv.org/abs/2501.10955)|null|
