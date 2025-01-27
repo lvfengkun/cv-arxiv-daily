@@ -1981,6 +1981,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Alignment and optical verification of DESHIMA 2.0 at ASTE**|A. Moerman et.al.|[2501.14478](http://arxiv.org/abs/2501.14478)|null|
+|**2025-01-24**|**Distinguishing Parkinson's Patients Using Voice-Based Feature Extraction and Classification**|Burak Çelik et.al.|[2501.14390](http://arxiv.org/abs/2501.14390)|null|
 |**2025-01-22**|**Longitudinal Missing Data Imputation for Predicting Disability Stage of Patients with Multiple Sclerosis**|Mahin Vazifehdan et.al.|[2501.12927](http://arxiv.org/abs/2501.12927)|null|
 |**2025-01-21**|**Comparative Analysis of Control Strategies for Position Regulation in DC Servo Motors**|Raihan Khan Akash et.al.|[2501.11820](http://arxiv.org/abs/2501.11820)|null|
 |**2025-01-20**|**Active chemo-mechanical solitons**|Lev Truskinovsky et.al.|[2501.11368](http://arxiv.org/abs/2501.11368)|null|
