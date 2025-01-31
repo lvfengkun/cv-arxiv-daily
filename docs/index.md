@@ -1960,6 +1960,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Characterization of Permanent Magnet Synchronous Machines based on semi-analytic model reduction for drive cycle analysis**|Leon Blumrich et.al.|[2501.18200](http://arxiv.org/abs/2501.18200)|null|
 |**2025-01-29**|**SafePR: Unified Approach for Safe Parallel Robots by Contact Detection and Reaction with Redundancy Resolution**|Aran Mohammad et.al.|[2501.17773](http://arxiv.org/abs/2501.17773)|null|
 |**2025-01-28**|**Safety-Critical Control for Aerial Physical Interaction in Uncertain Environment**|Jeonghyun Byun et.al.|[2501.16719](http://arxiv.org/abs/2501.16719)|null|
 |**2025-01-27**|**CREATOR Case: PMSM and IM Electric Machine Data for Validation and Benchmarking of Simulation and Modeling Approaches**|Annette Mütze et.al.|[2501.15921](http://arxiv.org/abs/2501.15921)|null|
