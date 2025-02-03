@@ -1960,6 +1960,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**In-operando test of tunable Heusler alloys for thermomagnetic harvesting of low-grade waste heat**|F. Cugini et.al.|[2501.19156](http://arxiv.org/abs/2501.19156)|null|
+|**2025-01-30**|**Designing Kresling Origami for Personalised Wrist Orthosis**|Chenying Liu et.al.|[2501.18796](http://arxiv.org/abs/2501.18796)|null|
+|**2025-01-30**|**Vibr-eau: Emulating Fluid Behavior in Vessel Handling through Vibrotactile Actuators**|Frank Wencheng Liu et.al.|[2501.18755](http://arxiv.org/abs/2501.18755)|null|
 |**2025-01-30**|**Characterization of Permanent Magnet Synchronous Machines based on semi-analytic model reduction for drive cycle analysis**|Leon Blumrich et.al.|[2501.18200](http://arxiv.org/abs/2501.18200)|null|
 |**2025-01-29**|**SafePR: Unified Approach for Safe Parallel Robots by Contact Detection and Reaction with Redundancy Resolution**|Aran Mohammad et.al.|[2501.17773](http://arxiv.org/abs/2501.17773)|null|
 |**2025-01-28**|**Safety-Critical Control for Aerial Physical Interaction in Uncertain Environment**|Jeonghyun Byun et.al.|[2501.16719](http://arxiv.org/abs/2501.16719)|null|
