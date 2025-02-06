@@ -1981,9 +1981,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Ultrasensitivity without conformational spread: A mechanical origin for non-equilibrium cooperativity in the bacterial flagellar motor**|Henry H. Mattingly et.al.|[2502.03290](http://arxiv.org/abs/2502.03290)|null|
+|**2025-02-05**|**When Pre-trained Visual Representations Fall Short: Limitations in Visuo-Motor Robot Learning**|Nikolaos Tsagkas et.al.|[2502.03270](http://arxiv.org/abs/2502.03270)|null|
 |**2025-02-04**|**From Human Hands to Robotic Limbs: A Study in Motor Skill Embodiment for Telemanipulation**|Haoyi Shi et.al.|[2502.02036](http://arxiv.org/abs/2502.02036)|null|
 |**2025-02-03**|**Embrace Collisions: Humanoid Shadowing for Deployable Contact-Agnostics Motions**|Ziwen Zhuang et.al.|[2502.01465](http://arxiv.org/abs/2502.01465)|null|
-|**2025-02-02**|**ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation**|Haochen Shi et.al.|[2502.00893](http://arxiv.org/abs/2502.00893)|null|
+|**2025-02-05**|**ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation**|Haochen Shi et.al.|[2502.00893](http://arxiv.org/abs/2502.00893)|null|
 |**2025-02-01**|**Enhancing Field-Oriented Control of Electric Drives with Tiny Neural Network Optimized for Micro-controllers**|Martin Joel Mouk Elele et.al.|[2502.00532](http://arxiv.org/abs/2502.00532)|null|
 |**2025-02-01**|**IoT-enabled Drowsiness Driver Safety Alert System with Real-Time Monitoring Using Integrated Sensors Technology**|Bakhtiar Muiz et.al.|[2502.00347](http://arxiv.org/abs/2502.00347)|null|
 |**2025-01-31**|**In-operando test of tunable Heusler alloys for thermomagnetic harvesting of low-grade waste heat**|F. Cugini et.al.|[2501.19156](http://arxiv.org/abs/2501.19156)|null|
