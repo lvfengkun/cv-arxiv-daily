@@ -1960,6 +1960,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**Hands vs. Controllers: Comparing User Interactions in Virtual Reality Shopping Environments**|Francesco Vona et.al.|[2502.05100](http://arxiv.org/abs/2502.05100)|null|
+|**2025-02-06**|**Localization of Vibrotactile Stimuli on the Face**|Shivani Guptasarma et.al.|[2502.04569](http://arxiv.org/abs/2502.04569)|null|
+|**2025-02-06**|**On Techniques for Barely Coupled Multiphysics**|Rainald Löhner et.al.|[2502.04480](http://arxiv.org/abs/2502.04480)|null|
+|**2025-02-06**|**NeuralMOVES: A lightweight and microscopic vehicle emission estimation model based on reverse engineering and surrogate learning**|Edgar Ramirez-Sanchez et.al.|[2502.04417](http://arxiv.org/abs/2502.04417)|null|
 |**2025-02-06**|**Revisiting convolutive blind source separation for identifying spiking motor neuron activity: From theory to practice**|Thomas Klotz et.al.|[2502.04065](http://arxiv.org/abs/2502.04065)|null|
 |**2025-02-06**|**Echo-Teddy: Preliminary Design and Development of Large Language Model-based Social Robot for Autistic Students**|Unggi Lee et.al.|[2502.04029](http://arxiv.org/abs/2502.04029)|null|
 |**2025-02-06**|**Memory-induced current reversal of Brownian motors**|Mateusz Wiśniewski et.al.|[2502.03932](http://arxiv.org/abs/2502.03932)|null|
