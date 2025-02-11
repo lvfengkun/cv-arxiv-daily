@@ -1981,6 +1981,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Joint parameter and state estimation for regularized time-discrete multibody dynamics**|Hannes Marklund et.al.|[2502.06599](http://arxiv.org/abs/2502.06599)|null|
+|**2025-02-10**|**Gaussian Process-driven Hidden Markov Models for Early Diagnosis of Infant Gait Anomalies**|Luis Torres-Torres F. et.al.|[2502.06334](http://arxiv.org/abs/2502.06334)|null|
+|**2025-02-10**|**KMT2B-related disorders: expansion of the phenotypic spectrum and long-term efficacy of deep brain stimulation**|L Cif et.al.|[2502.06320](http://arxiv.org/abs/2502.06320)|null|
+|**2025-02-09**|**Redefining Robot Generalization Through Interactive Intelligence**|Sharmita Dey et.al.|[2502.05963](http://arxiv.org/abs/2502.05963)|null|
+|**2025-02-09**|**DreamFLEX: Learning Fault-Aware Quadrupedal Locomotion Controller for Anomaly Situation in Rough Terrains**|Seunghyun Lee et.al.|[2502.05817](http://arxiv.org/abs/2502.05817)|null|
+|**2025-02-07**|**Switch-based Independent Antagonist Actuation with a Single Motor for a Soft Exosuit**|Atharva Vadeyar et.al.|[2502.05290](http://arxiv.org/abs/2502.05290)|null|
 |**2025-02-07**|**Hands vs. Controllers: Comparing User Interactions in Virtual Reality Shopping Environments**|Francesco Vona et.al.|[2502.05100](http://arxiv.org/abs/2502.05100)|null|
 |**2025-02-06**|**Localization of Vibrotactile Stimuli on the Face**|Shivani Guptasarma et.al.|[2502.04569](http://arxiv.org/abs/2502.04569)|null|
 |**2025-02-06**|**On Techniques for Barely Coupled Multiphysics**|Rainald Löhner et.al.|[2502.04480](http://arxiv.org/abs/2502.04480)|null|
