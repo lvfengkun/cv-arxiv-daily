@@ -1981,6 +1981,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**DeepVL: Dynamics and Inertial Measurements-based Deep Velocity Learning for Underwater Odometry**|Mohit Singh et.al.|[2502.07726](http://arxiv.org/abs/2502.07726)|null|
+|**2025-02-11**|**Numerical Study on Human Brain Cortical Electrostimulation Assessment During Uniform Magnetic Field Exposure at Intermediate Frequencies**|Jose Gomez-Tames et.al.|[2502.07565](http://arxiv.org/abs/2502.07565)|null|
+|**2025-02-11**|**From Thought to Action: How a Hierarchy of Neural Dynamics Supports Language Production**|Mingfang et.al.|[2502.07429](http://arxiv.org/abs/2502.07429)|null|
+|**2025-02-11**|**Colloidal Model for Investigating Optimal Efficiency in Weakly Coupled Ratchet Motors**|José Martín-Roca et.al.|[2502.07362](http://arxiv.org/abs/2502.07362)|null|
+|**2025-02-11**|**Leader-follower formation enabled by pressure sensing in free-swimming undulatory robotic fish**|Kundan Panta et.al.|[2502.07282](http://arxiv.org/abs/2502.07282)|null|
 |**2025-02-10**|**Joint parameter and state estimation for regularized time-discrete multibody dynamics**|Hannes Marklund et.al.|[2502.06599](http://arxiv.org/abs/2502.06599)|null|
 |**2025-02-10**|**Gaussian Process-driven Hidden Markov Models for Early Diagnosis of Infant Gait Anomalies**|Luis Torres-Torres F. et.al.|[2502.06334](http://arxiv.org/abs/2502.06334)|null|
 |**2025-02-10**|**KMT2B-related disorders: expansion of the phenotypic spectrum and long-term efficacy of deep brain stimulation**|L Cif et.al.|[2502.06320](http://arxiv.org/abs/2502.06320)|null|
