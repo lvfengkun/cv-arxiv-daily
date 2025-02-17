@@ -23,9 +23,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-12**|**LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features**|Shujie Zhou et.al.|[2502.08676](http://arxiv.org/abs/2502.08676)|null|
+|**2025-02-13**|**Vision-based Geo-Localization of Future Mars Rotorcraft in Challenging Illumination Conditions**|Dario Pisanti et.al.|[2502.09795](http://arxiv.org/abs/2502.09795)|null|
+|**2025-02-12**|**LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features**|Shujie Zhou et.al.|[2502.08676](http://arxiv.org/abs/2502.08676)|**[link](https://github.com/IF-A-CAT/LIR-LIVO)**|
 |**2025-01-23**|**FAST-LIVO2 on Resource-Constrained Platforms: LiDAR-Inertial-Visual Odometry with Efficient Memory and Computation**|Bingyang Zhou et.al.|[2501.13876](http://arxiv.org/abs/2501.13876)|null|
-|**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893](http://arxiv.org/abs/2501.11893)|**[link](https://github.com/acfr-rpg/dynosam)**|
+|**2025-02-14**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893](http://arxiv.org/abs/2501.11893)|**[link](https://github.com/acfr-rpg/dynosam)**|
 |**2025-01-16**|**BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**|Dongzhihan Wang et.al.|[2501.08659](http://arxiv.org/abs/2501.08659)|null|
 |**2024-12-28**|**MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing**|Shuo Wang et.al.|[2412.20082](http://arxiv.org/abs/2412.20082)|null|
 |**2025-01-18**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|null|
@@ -1982,6 +1983,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Lifespan tree of brain anatomy: diagnostic values for motor and cognitive neurodegenerative diseases**|Pierrick Coupé et.al.|[2502.09682](http://arxiv.org/abs/2502.09682)|null|
+|**2025-02-13**|**IMM-MOT: A Novel 3D Multi-object Tracking Framework with Interacting Multiple Model Filter**|Xiaohong Liu et.al.|[2502.09672](http://arxiv.org/abs/2502.09672)|null|
 |**2025-02-12**|**Enhanced LSTM by Attention Mechanism for Early Detection of Parkinson's Disease through Voice Signals**|Arman Mohammadigilani et.al.|[2502.08672](http://arxiv.org/abs/2502.08672)|null|
 |**2025-02-11**|**DeepVL: Dynamics and Inertial Measurements-based Deep Velocity Learning for Underwater Odometry**|Mohit Singh et.al.|[2502.07726](http://arxiv.org/abs/2502.07726)|null|
 |**2025-02-11**|**Numerical Study on Human Brain Cortical Electrostimulation Assessment During Uniform Magnetic Field Exposure at Intermediate Frequencies**|Jose Gomez-Tames et.al.|[2502.07565](http://arxiv.org/abs/2502.07565)|null|
