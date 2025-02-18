@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955](http://arxiv.org/abs/2502.11955)|null|
 |**2025-02-13**|**Vision-based Geo-Localization of Future Mars Rotorcraft in Challenging Illumination Conditions**|Dario Pisanti et.al.|[2502.09795](http://arxiv.org/abs/2502.09795)|null|
 |**2025-02-12**|**LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features**|Shujie Zhou et.al.|[2502.08676](http://arxiv.org/abs/2502.08676)|**[link](https://github.com/IF-A-CAT/LIR-LIVO)**|
 |**2025-01-23**|**FAST-LIVO2 on Resource-Constrained Platforms: LiDAR-Inertial-Visual Odometry with Efficient Memory and Computation**|Bingyang Zhou et.al.|[2501.13876](http://arxiv.org/abs/2501.13876)|null|
@@ -1962,6 +1963,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**The Dynamic Model of the UR10 Robot and its ROS2 Integration**|Vincenzo Petrone et.al.|[2502.11940](http://arxiv.org/abs/2502.11940)|null|
+|**2025-02-17**|**Active gel theory for cell migration with two myosin isoforms**|Nils O. Winkler et.al.|[2502.11833](http://arxiv.org/abs/2502.11833)|null|
 |**2025-02-13**|**Lifespan tree of brain anatomy: diagnostic values for motor and cognitive neurodegenerative diseases**|Pierrick Coupé et.al.|[2502.09682](http://arxiv.org/abs/2502.09682)|null|
 |**2025-02-13**|**IMM-MOT: A Novel 3D Multi-object Tracking Framework with Interacting Multiple Model Filter**|Xiaohong Liu et.al.|[2502.09672](http://arxiv.org/abs/2502.09672)|null|
 |**2025-02-12**|**Enhanced LSTM by Attention Mechanism for Early Detection of Parkinson's Disease through Voice Signals**|Arman Mohammadigilani et.al.|[2502.08672](http://arxiv.org/abs/2502.08672)|null|
