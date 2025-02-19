@@ -1963,6 +1963,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**D3-ARM: High-Dynamic, Dexterous and Fully Decoupled Cable-driven Robotic Arm**|Hong Luo et.al.|[2502.12963](http://arxiv.org/abs/2502.12963)|null|
+|**2025-02-18**|**Mind the Gap: Aligning the Brain with Language Models Requires a Nonlinear and Multimodal Approach**|Danny Dongyeop Han et.al.|[2502.12771](http://arxiv.org/abs/2502.12771)|null|
+|**2025-02-18**|**Soft Arm-Motor Thrust Characterization for a Pneumatically Actuated Soft Morphing Quadrotor**|Vidya Sumathy et.al.|[2502.12716](http://arxiv.org/abs/2502.12716)|null|
+|**2025-02-18**|**Radar Network for Gait Monitoring: Technology and Validation**|Ignacio E. López-Delgado et.al.|[2502.12696](http://arxiv.org/abs/2502.12696)|null|
+|**2025-02-18**|**LiMo-Calib: On-Site Fast LiDAR-Motor Calibration for Quadruped Robot-Based Panoramic 3D Sensing System**|Jianping Li et.al.|[2502.12655](http://arxiv.org/abs/2502.12655)|null|
+|**2025-02-18**|**An Algorithm Board in Neural Decoding**|Jingyi Feng et.al.|[2502.12536](http://arxiv.org/abs/2502.12536)|null|
+|**2025-02-18**|**Explainable AI-Driven Neural Activity Analysis in Parkinsonian Rats under Electrical Stimulation**|Jibum Kim et.al.|[2502.12471](http://arxiv.org/abs/2502.12471)|null|
+|**2025-02-17**|**Improving Grip Stability Using Passive Compliant Microspine Arrays for Soft Robots in Unstructured Terrain**|Lauren Ervin et.al.|[2502.12347](http://arxiv.org/abs/2502.12347)|null|
 |**2025-02-17**|**The Dynamic Model of the UR10 Robot and its ROS2 Integration**|Vincenzo Petrone et.al.|[2502.11940](http://arxiv.org/abs/2502.11940)|null|
 |**2025-02-17**|**Active gel theory for cell migration with two myosin isoforms**|Nils O. Winkler et.al.|[2502.11833](http://arxiv.org/abs/2502.11833)|null|
 |**2025-02-13**|**Lifespan tree of brain anatomy: diagnostic values for motor and cognitive neurodegenerative diseases**|Pierrick Coupé et.al.|[2502.09682](http://arxiv.org/abs/2502.09682)|null|
