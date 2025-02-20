@@ -23,7 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-17**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955](http://arxiv.org/abs/2502.11955)|null|
+|**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708](http://arxiv.org/abs/2502.13708)|null|
+|**2025-02-19**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955](http://arxiv.org/abs/2502.11955)|null|
 |**2025-02-13**|**Vision-based Geo-Localization of Future Mars Rotorcraft in Challenging Illumination Conditions**|Dario Pisanti et.al.|[2502.09795](http://arxiv.org/abs/2502.09795)|null|
 |**2025-02-12**|**LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features**|Shujie Zhou et.al.|[2502.08676](http://arxiv.org/abs/2502.08676)|**[link](https://github.com/IF-A-CAT/LIR-LIVO)**|
 |**2025-01-23**|**FAST-LIVO2 on Resource-Constrained Platforms: LiDAR-Inertial-Visual Odometry with Efficient Memory and Computation**|Bingyang Zhou et.al.|[2501.13876](http://arxiv.org/abs/2501.13876)|null|
@@ -1984,6 +1985,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**Quorum sensing and absorbing phase transitions in colloidal active matter**|Thibault Lefranc et.al.|[2502.13919](http://arxiv.org/abs/2502.13919)|null|
+|**2025-02-19**|**Freezing of Gait as a Complication of Pallidal Deep Brain Stimulation in DYT- KMT2B Patients with Evidence of Striatonigral Degeneration**|Laura Cif et.al.|[2502.13888](http://arxiv.org/abs/2502.13888)|null|
+|**2025-02-19**|**Long-term follow-up of DYT1 dystonia patients treated by deep brain stimulation: an open-label study**|Laura Cif et.al.|[2502.13661](http://arxiv.org/abs/2502.13661)|null|
+|**2025-02-19**|**Dynamic directed functional connectivity as a neural biomarker for objective motor skill assessment**|Anil Kamat et.al.|[2502.13362](http://arxiv.org/abs/2502.13362)|null|
 |**2025-02-18**|**D3-ARM: High-Dynamic, Dexterous and Fully Decoupled Cable-driven Robotic Arm**|Hong Luo et.al.|[2502.12963](http://arxiv.org/abs/2502.12963)|null|
 |**2025-02-18**|**Mind the Gap: Aligning the Brain with Language Models Requires a Nonlinear and Multimodal Approach**|Danny Dongyeop Han et.al.|[2502.12771](http://arxiv.org/abs/2502.12771)|null|
 |**2025-02-18**|**Soft Arm-Motor Thrust Characterization for a Pneumatically Actuated Soft Morphing Quadrotor**|Vidya Sumathy et.al.|[2502.12716](http://arxiv.org/abs/2502.12716)|null|
