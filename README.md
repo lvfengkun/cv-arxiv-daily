@@ -1985,6 +1985,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**Graph-Based Deep Learning on Stereo EEG for Predicting Seizure Freedom in Epilepsy Patients**|Artur Agaronyan et.al.|[2502.15198](http://arxiv.org/abs/2502.15198)|null|
 |**2025-02-20**|**Beyond Performance Scores: Directed Functional Connectivity as a Brain-Based Biomarker for Motor Skill Learning and Retention**|Anil Kamat et.al.|[2502.14731](http://arxiv.org/abs/2502.14731)|null|
 |**2025-02-20**|**Poststroke rehabilitative mechanisms in individualized fatigue level-controlled treadmill training -- a Rat Model Study**|Yuchen Xu et.al.|[2502.14534](http://arxiv.org/abs/2502.14534)|null|
 |**2025-02-19**|**ModSkill: Physical Character Skill Modularization**|Yiming Huang et.al.|[2502.14140](http://arxiv.org/abs/2502.14140)|null|
