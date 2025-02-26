@@ -1985,6 +1985,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Modeling Neural Activity with Conditionally Linear Dynamical Systems**|Victor Geadah et.al.|[2502.18347](http://arxiv.org/abs/2502.18347)|null|
+|**2025-02-25**|**Easy-Poly: A Easy Polyhedral Framework For 3D Multi-Object Tracking**|Peng Zhang et.al.|[2502.17822](http://arxiv.org/abs/2502.17822)|null|
+|**2025-02-25**|**Design of a Breakaway Utensil Attachment for Enhanced Safety in Robot-Assisted Feeding**|Hau Wen Chang et.al.|[2502.17774](http://arxiv.org/abs/2502.17774)|null|
+|**2025-02-23**|**Multimodal Bearing Fault Classification Under Variable Conditions: A 1D CNN with Transfer Learning**|Tasfiq E. Alam et.al.|[2502.17524](http://arxiv.org/abs/2502.17524)|null|
 |**2025-02-24**|**Rotatable Antenna Enabled Wireless Communication System with Visual Recognition: A Prototype Implementation**|Liang Dai et.al.|[2502.17097](http://arxiv.org/abs/2502.17097)|null|
 |**2025-02-24**|**Watch Out E-scooter Coming Through: Multimodal Sensing of Mixed Traffic Use and Conflicts Through Riders Ego-centric Views**|Hiruni Nuwanthika Kegalle et.al.|[2502.16755](http://arxiv.org/abs/2502.16755)|null|
 |**2025-02-23**|**Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation**|Yunhai Feng et.al.|[2502.16707](http://arxiv.org/abs/2502.16707)|null|
