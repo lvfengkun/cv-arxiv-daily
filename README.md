@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground**|Yufei Wei et.al.|[2502.20078](http://arxiv.org/abs/2502.20078)|null|
 |**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932](http://arxiv.org/abs/2502.18932)|null|
 |**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708](http://arxiv.org/abs/2502.13708)|null|
 |**2025-02-19**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955](http://arxiv.org/abs/2502.11955)|**[link](https://github.com/luigifreda/pyslam)**|
@@ -1986,6 +1987,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Data-Driven Model Identification of Unbalanced Induction Motor Dynamics and Forces using SINDYc**|Emma Vancayseele et.al.|[2502.20013](http://arxiv.org/abs/2502.20013)|null|
+|**2025-02-27**|**Shared Autonomy for Proximal Teaching**|Megha Srivastava et.al.|[2502.19899](http://arxiv.org/abs/2502.19899)|null|
+|**2025-02-27**|**Accessibility for Whom? Perceptions of Sidewalk Barriers Across Disability Groups and Implications for Designing Personalized Maps**|Chu Li et.al.|[2502.19888](http://arxiv.org/abs/2502.19888)|null|
+|**2025-02-27**|**Research on Event-Related Desynchronization of Motor Imagery and Movement Based on Localized EEG Cortical Sources**|Yuqing Wang et.al.|[2502.19869](http://arxiv.org/abs/2502.19869)|null|
+|**2025-02-27**|**ServoLNN: Lagrangian Neural Networks Driven by Servomechanisms**|Brandon Johns et.al.|[2502.19802](http://arxiv.org/abs/2502.19802)|null|
 |**2025-02-25**|**Spatial Analysis of Neuromuscular Junctions Activation in Three-Dimensional Histology-based Muscle Reconstructions**|Alessandro Ascani Orsini et.al.|[2502.18646](http://arxiv.org/abs/2502.18646)|null|
 |**2025-02-25**|**Error-related Potential driven Reinforcement Learning for adaptive Brain-Computer Interfaces**|Aline Xavier Fidêncio et.al.|[2502.18594](http://arxiv.org/abs/2502.18594)|null|
 |**2025-02-25**|**Modeling Neural Activity with Conditionally Linear Dynamical Systems**|Victor Geadah et.al.|[2502.18347](http://arxiv.org/abs/2502.18347)|**[link](https://github.com/neurostatslab/clds)**|
