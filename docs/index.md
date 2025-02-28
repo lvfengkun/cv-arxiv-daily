@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1967,12 +1967,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-25**|**Spatial Analysis of Neuromuscular Junctions Activation in Three-Dimensional Histology-based Muscle Reconstructions**|Alessandro Ascani Orsini et.al.|[2502.18646](http://arxiv.org/abs/2502.18646)|null|
 |**2025-02-25**|**Error-related Potential driven Reinforcement Learning for adaptive Brain-Computer Interfaces**|Aline Xavier Fidêncio et.al.|[2502.18594](http://arxiv.org/abs/2502.18594)|null|
-|**2025-02-25**|**Modeling Neural Activity with Conditionally Linear Dynamical Systems**|Victor Geadah et.al.|[2502.18347](http://arxiv.org/abs/2502.18347)|null|
+|**2025-02-25**|**Modeling Neural Activity with Conditionally Linear Dynamical Systems**|Victor Geadah et.al.|[2502.18347](http://arxiv.org/abs/2502.18347)|**[link](https://github.com/neurostatslab/clds)**|
 |**2025-02-26**|**Easy-Poly: A Easy Polyhedral Framework For 3D Multi-Object Tracking**|Peng Zhang et.al.|[2502.17822](http://arxiv.org/abs/2502.17822)|null|
 |**2025-02-25**|**Design of a Breakaway Utensil Attachment for Enhanced Safety in Robot-Assisted Feeding**|Hau Wen Chang et.al.|[2502.17774](http://arxiv.org/abs/2502.17774)|null|
 |**2025-02-23**|**Multimodal Bearing Fault Classification Under Variable Conditions: A 1D CNN with Transfer Learning**|Tasfiq E. Alam et.al.|[2502.17524](http://arxiv.org/abs/2502.17524)|null|
 |**2025-02-24**|**Rotatable Antenna Enabled Wireless Communication System with Visual Recognition: A Prototype Implementation**|Liang Dai et.al.|[2502.17097](http://arxiv.org/abs/2502.17097)|null|
-|**2025-02-24**|**Watch Out E-scooter Coming Through: Multimodal Sensing of Mixed Traffic Use and Conflicts Through Riders Ego-centric Views**|Hiruni Nuwanthika Kegalle et.al.|[2502.16755](http://arxiv.org/abs/2502.16755)|null|
+|**2025-02-24**|**Watch Out E-scooter Coming Through: Multimodal Sensing of Mixed Traffic Use and Conflicts Through Riders Ego-centric Views**|Hiruni Nuwanthika Kegalle et.al.|[2502.16755](http://arxiv.org/abs/2502.16755)|**[link](https://github.com/hiruninuwanthika/electric-scooter-riders-multi-modal-data-analysis)**|
 |**2025-02-23**|**Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation**|Yunhai Feng et.al.|[2502.16707](http://arxiv.org/abs/2502.16707)|null|
 |**2025-02-21**|**Graph-Based Deep Learning on Stereo EEG for Predicting Seizure Freedom in Epilepsy Patients**|Artur Agaronyan et.al.|[2502.15198](http://arxiv.org/abs/2502.15198)|null|
 |**2025-02-20**|**Beyond Performance Scores: Directed Functional Connectivity as a Brain-Based Biomarker for Motor Skill Learning and Retention**|Anil Kamat et.al.|[2502.14731](http://arxiv.org/abs/2502.14731)|null|
