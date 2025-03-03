@@ -1991,8 +1991,8 @@
 |**2025-02-27**|**Shared Autonomy for Proximal Teaching**|Megha Srivastava et.al.|[2502.19899](http://arxiv.org/abs/2502.19899)|null|
 |**2025-02-27**|**Accessibility for Whom? Perceptions of Sidewalk Barriers Across Disability Groups and Implications for Designing Personalized Maps**|Chu Li et.al.|[2502.19888](http://arxiv.org/abs/2502.19888)|null|
 |**2025-02-27**|**Research on Event-Related Desynchronization of Motor Imagery and Movement Based on Localized EEG Cortical Sources**|Yuqing Wang et.al.|[2502.19869](http://arxiv.org/abs/2502.19869)|null|
-|**2025-02-27**|**ServoLNN: Lagrangian Neural Networks Driven by Servomechanisms**|Brandon Johns et.al.|[2502.19802](http://arxiv.org/abs/2502.19802)|null|
-|**2025-02-25**|**Spatial Analysis of Neuromuscular Junctions Activation in Three-Dimensional Histology-based Muscle Reconstructions**|Alessandro Ascani Orsini et.al.|[2502.18646](http://arxiv.org/abs/2502.18646)|null|
+|**2025-02-27**|**ServoLNN: Lagrangian Neural Networks Driven by Servomechanisms**|Brandon Johns et.al.|[2502.19802](http://arxiv.org/abs/2502.19802)|**[link](https://github.com/brandon-johns/servolnn)**|
+|**2025-02-25**|**Spatial Analysis of Neuromuscular Junctions Activation in Three-Dimensional Histology-based Muscle Reconstructions**|Alessandro Ascani Orsini et.al.|[2502.18646](http://arxiv.org/abs/2502.18646)|**[link](https://github.com/aleasca/histology-nmj-and-muscle-activity-toolbox)**|
 |**2025-02-25**|**Error-related Potential driven Reinforcement Learning for adaptive Brain-Computer Interfaces**|Aline Xavier Fidêncio et.al.|[2502.18594](http://arxiv.org/abs/2502.18594)|null|
 |**2025-02-25**|**Modeling Neural Activity with Conditionally Linear Dynamical Systems**|Victor Geadah et.al.|[2502.18347](http://arxiv.org/abs/2502.18347)|**[link](https://github.com/neurostatslab/clds)**|
 |**2025-02-26**|**Easy-Poly: A Easy Polyhedral Framework For 3D Multi-Object Tracking**|Peng Zhang et.al.|[2502.17822](http://arxiv.org/abs/2502.17822)|null|
