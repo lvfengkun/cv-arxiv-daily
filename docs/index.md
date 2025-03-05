@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-03**|**MUSt3R: Multi-view Network for Stereo 3D Reconstruction**|Yohann Cabon et.al.|[2503.01661](http://arxiv.org/abs/2503.01661)|null|
+|**2025-03-04**|**DnD Filter: Differentiable State Estimation for Dynamic Systems using Diffusion Models**|Ziyu Wan et.al.|[2503.01274](http://arxiv.org/abs/2503.01274)|null|
 |**2025-02-27**|**BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground**|Yufei Wei et.al.|[2502.20078](http://arxiv.org/abs/2502.20078)|null|
 |**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932](http://arxiv.org/abs/2502.18932)|null|
 |**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708](http://arxiv.org/abs/2502.13708)|null|
@@ -1966,6 +1968,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-02**|**Volume-Wise Task fMRI Decoding with Deep Learning:Enhancing Temporal Resolution and Cognitive Function Analysis**|Yueyang Wu et.al.|[2503.01925](http://arxiv.org/abs/2503.01925)|null|
+|**2025-03-03**|**Perceptual Motor Learning with Active Inference Framework for Robust Lateral Control**|Elahe Delavari et.al.|[2503.01676](http://arxiv.org/abs/2503.01676)|null|
+|**2025-03-03**|**Few-shot Sim2Real Based on High Fidelity Rendering with Force Feedback Teleoperation**|Yanwen Zou et.al.|[2503.01301](http://arxiv.org/abs/2503.01301)|null|
+|**2025-03-03**|**Impact of Static Friction on Sim2Real in Robotic Reinforcement Learning**|Xiaoyi Hu et.al.|[2503.01255](http://arxiv.org/abs/2503.01255)|null|
+|**2025-03-03**|**A Single Scale Doesn't Fit All: Adaptive Motion Scaling for Efficient and Precise Teleoperation**|Jeonghyeon Yoon et.al.|[2503.01216](http://arxiv.org/abs/2503.01216)|null|
+|**2025-03-02**|**T3: Multi-modal Tailless Triple-Flapping-Wing Robot for Efficient Aerial and Terrestrial Locomotion**|Xiangyu Xu et.al.|[2503.00805](http://arxiv.org/abs/2503.00805)|null|
+|**2025-03-01**|**DashCop: Automated E-ticket Generation for Two-Wheeler Traffic Violations Using Dashcam Videos**|Deepti Rawat et.al.|[2503.00428](http://arxiv.org/abs/2503.00428)|null|
+|**2025-03-04**|**Exploring the Potential of QEEGNet for Cross-Task and Cross-Dataset Electroencephalography Encoding with Quantum Machine Learning**|Chi-Sheng Chen et.al.|[2503.00080](http://arxiv.org/abs/2503.00080)|null|
 |**2025-02-27**|**Data-Driven Model Identification of Unbalanced Induction Motor Dynamics and Forces using SINDYc**|Emma Vancayseele et.al.|[2502.20013](http://arxiv.org/abs/2502.20013)|null|
 |**2025-02-27**|**Shared Autonomy for Proximal Teaching**|Megha Srivastava et.al.|[2502.19899](http://arxiv.org/abs/2502.19899)|null|
 |**2025-02-27**|**Accessibility for Whom? Perceptions of Sidewalk Barriers Across Disability Groups and Implications for Designing Personalized Maps**|Chu Li et.al.|[2502.19888](http://arxiv.org/abs/2502.19888)|null|
