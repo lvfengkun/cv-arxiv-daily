@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112](http://arxiv.org/abs/2503.05112)|null|
+|**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944](http://arxiv.org/abs/2503.04944)|null|
 |**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235](http://arxiv.org/abs/2503.04235)|null|
 |**2025-03-05**|**Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments**|Jie Deng et.al.|[2503.03373](http://arxiv.org/abs/2503.03373)|null|
 |**2025-03-03**|**MUSt3R: Multi-view Network for Stereo 3D Reconstruction**|Yohann Cabon et.al.|[2503.01661](http://arxiv.org/abs/2503.01661)|null|
@@ -1991,6 +1993,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Kinodynamic Model Predictive Control for Energy Efficient Locomotion of Legged Robots with Parallel Elasticity**|Yulun Zhuang et.al.|[2503.05666](http://arxiv.org/abs/2503.05666)|null|
+|**2025-03-07**|**Continual Human-in-the-Loop Optimization**|Yi-Chi Liao et.al.|[2503.05405](http://arxiv.org/abs/2503.05405)|null|
+|**2025-03-07**|**An electrical molecular motor driven by angular momentum transfer**|Julian Skolaut et.al.|[2503.05351](http://arxiv.org/abs/2503.05351)|null|
+|**2025-03-07**|**Perceiving, Reasoning, Adapting: A Dual-Layer Framework for VLM-Guided Precision Robotic Manipulation**|Qingxuan Jia et.al.|[2503.05064](http://arxiv.org/abs/2503.05064)|null|
 |**2025-03-06**|**ExoNav II: Design of a Robotic Tool with Follow-the-Leader Motion Capability for Lateral and Ventral Spinal Cord Stimulation (SCS)**|Behnam Moradkhani et.al.|[2503.04603](http://arxiv.org/abs/2503.04603)|null|
 |**2025-03-06**|**On the Analysis of Stability, Sensitivity and Transparency in Variable Admittance Control for pHRI Enhanced by Virtual Fixtures**|Davide Tebaldi et.al.|[2503.04414](http://arxiv.org/abs/2503.04414)|null|
 |**2025-03-05**|**A Generative System for Robot-to-Human Handovers: from Intent Inference to Spatial Configuration Imagery**|Hanxin Zhang et.al.|[2503.03579](http://arxiv.org/abs/2503.03579)|null|
