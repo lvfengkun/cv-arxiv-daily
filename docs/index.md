@@ -1972,6 +1972,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Feedback controlled microengine powered by motor protein**|Suraj Deshmukh et.al.|[2503.07112](http://arxiv.org/abs/2503.07112)|null|
+|**2025-03-10**|**A LSTM-Transformer Model for pulsation control of pVADs**|Chaoran E et.al.|[2503.07110](http://arxiv.org/abs/2503.07110)|null|
+|**2025-03-09**|**PANDA: Parkinson's Assistance and Notification Driving Aid**|Tianyang Wen et.al.|[2503.06659](http://arxiv.org/abs/2503.06659)|null|
+|**2025-03-09**|**Speech Audio Generation from dynamic MRI via a Knowledge Enhanced Conditional Variational Autoencoder**|Yaxuan Li et.al.|[2503.06588](http://arxiv.org/abs/2503.06588)|null|
+|**2025-03-08**|**Object-Centric World Model for Language-Guided Manipulation**|Youngjoon Jeong et.al.|[2503.06170](http://arxiv.org/abs/2503.06170)|null|
 |**2025-03-07**|**Kinodynamic Model Predictive Control for Energy Efficient Locomotion of Legged Robots with Parallel Elasticity**|Yulun Zhuang et.al.|[2503.05666](http://arxiv.org/abs/2503.05666)|null|
 |**2025-03-07**|**Continual Human-in-the-Loop Optimization**|Yi-Chi Liao et.al.|[2503.05405](http://arxiv.org/abs/2503.05405)|null|
 |**2025-03-07**|**An electrical molecular motor driven by angular momentum transfer**|Julian Skolaut et.al.|[2503.05351](http://arxiv.org/abs/2503.05351)|null|
