@@ -1993,6 +1993,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**Efficient dynamic modal load reconstruction using physics-informed Gaussian processes based on frequency-sparse Fourier basis functions**|Gledson Rodrigo Tondo et.al.|[2503.09418](http://arxiv.org/abs/2503.09418)|null|
+|**2025-03-12**|**Large-scale Regional Traffic Signal Control Based on Single-Agent Reinforcement Learning**|Qiang Li et.al.|[2503.09252](http://arxiv.org/abs/2503.09252)|null|
+|**2025-03-12**|**The effect of intelligent monitoring of physical exercise on executive function in children with ADHD**|Liwen Lin et.al.|[2503.09079](http://arxiv.org/abs/2503.09079)|null|
+|**2025-03-11**|**High-Precision Overlay Registration via Spatial-Terminal Iterative Learning in Roll-to-Roll Manufacturing**|Zifeng Wang et.al.|[2503.08835](http://arxiv.org/abs/2503.08835)|null|
+|**2025-03-11**|**Thermodynamic inference in molecular motors: a Martingale approach**|Adrián Nadal-Rosa et.al.|[2503.08818](http://arxiv.org/abs/2503.08818)|null|
 |**2025-03-10**|**Feedback controlled microengine powered by motor protein**|Suraj Deshmukh et.al.|[2503.07112](http://arxiv.org/abs/2503.07112)|null|
 |**2025-03-10**|**A LSTM-Transformer Model for pulsation control of pVADs**|Chaoran E et.al.|[2503.07110](http://arxiv.org/abs/2503.07110)|null|
 |**2025-03-09**|**PANDA: Parkinson's Assistance and Notification Driving Aid**|Tianyang Wen et.al.|[2503.06659](http://arxiv.org/abs/2503.06659)|null|
