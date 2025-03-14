@@ -1972,6 +1972,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models**|Mert Albaba et.al.|[2503.10626](http://arxiv.org/abs/2503.10626)|null|
+|**2025-03-13**|**AhaRobot: A Low-Cost Open-Source Bimanual Mobile Manipulator for Embodied AI**|Haiqin Cui et.al.|[2503.10070](http://arxiv.org/abs/2503.10070)|null|
+|**2025-03-13**|**HandProxy: Expanding the Affordances of Speech Interfaces in Immersive Environments with a Virtual Proxy Hand**|Chen Liang et.al.|[2503.10029](http://arxiv.org/abs/2503.10029)|null|
 |**2025-03-12**|**Efficient dynamic modal load reconstruction using physics-informed Gaussian processes based on frequency-sparse Fourier basis functions**|Gledson Rodrigo Tondo et.al.|[2503.09418](http://arxiv.org/abs/2503.09418)|null|
 |**2025-03-12**|**Large-scale Regional Traffic Signal Control Based on Single-Agent Reinforcement Learning**|Qiang Li et.al.|[2503.09252](http://arxiv.org/abs/2503.09252)|null|
 |**2025-03-12**|**The effect of intelligent monitoring of physical exercise on executive function in children with ADHD**|Liwen Lin et.al.|[2503.09079](http://arxiv.org/abs/2503.09079)|null|
