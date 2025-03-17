@@ -1993,6 +1993,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**Six-DoF Stewart Platform Motion Simulator Control using Switchable Model Predictive Control**|Jiangwei Zhao et.al.|[2503.11300](http://arxiv.org/abs/2503.11300)|null|
+|**2025-03-14**|**Decoding Imagined Handwriting from EEG**|Srinivas Ravishankar et.al.|[2503.11202](http://arxiv.org/abs/2503.11202)|null|
+|**2025-03-13**|**Motor Rotation Speed Estimation based on Magnetic Inductive Sensing**|Rahul Hoskeri et.al.|[2503.10885](http://arxiv.org/abs/2503.10885)|null|
 |**2025-03-13**|**NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models**|Mert Albaba et.al.|[2503.10626](http://arxiv.org/abs/2503.10626)|null|
 |**2025-03-13**|**AhaRobot: A Low-Cost Open-Source Bimanual Mobile Manipulator for Embodied AI**|Haiqin Cui et.al.|[2503.10070](http://arxiv.org/abs/2503.10070)|null|
 |**2025-03-13**|**HandProxy: Expanding the Affordances of Speech Interfaces in Immersive Environments with a Virtual Proxy Hand**|Chen Liang et.al.|[2503.10029](http://arxiv.org/abs/2503.10029)|null|
