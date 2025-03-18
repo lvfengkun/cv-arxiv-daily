@@ -1993,6 +1993,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**OptiPMB: Enhancing 3D Multi-Object Tracking with Optimized Poisson Multi-Bernoulli Filtering**|Guanhua Ding et.al.|[2503.12968](http://arxiv.org/abs/2503.12968)|null|
+|**2025-03-17**|**Empath-D: VR-based Empathetic App Design for Accessibility**|Wonjung Kim et.al.|[2503.12933](http://arxiv.org/abs/2503.12933)|null|
+|**2025-03-16**|**Central and Central-Parietal EEG Signatures of Parkinson's Disease**|Artem Lensky et.al.|[2503.12392](http://arxiv.org/abs/2503.12392)|null|
+|**2025-03-14**|**Curves Ahead: Enhancing the Steering Law for Complex Curved Trajectories**|Jennie J. Y. Chen et.al.|[2503.11914](http://arxiv.org/abs/2503.11914)|null|
 |**2025-03-14**|**Six-DoF Stewart Platform Motion Simulator Control using Switchable Model Predictive Control**|Jiangwei Zhao et.al.|[2503.11300](http://arxiv.org/abs/2503.11300)|null|
 |**2025-03-14**|**Decoding Imagined Handwriting from EEG**|Srinivas Ravishankar et.al.|[2503.11202](http://arxiv.org/abs/2503.11202)|null|
 |**2025-03-13**|**Motor Rotation Speed Estimation based on Magnetic Inductive Sensing**|Rahul Hoskeri et.al.|[2503.10885](http://arxiv.org/abs/2503.10885)|null|
