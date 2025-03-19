@@ -1993,6 +1993,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**A Chain-Driven, Sandwich-Legged Quadruped Robot: Design and Experimental Analysis**|Aman Singh et.al.|[2503.14255](http://arxiv.org/abs/2503.14255)|null|
+|**2025-03-18**|**Magicarpet: A Parent-child Interactive Game Platform to Enhance Connectivity between Autistic Children and Their Parents**|Yuqi Hu et.al.|[2503.14127](http://arxiv.org/abs/2503.14127)|null|
+|**2025-03-15**|**Multi-output Classification for Compound Fault Diagnosis in Motor under Partially Labeled Target Domain**|Wonjun Yi et.al.|[2503.13534](http://arxiv.org/abs/2503.13534)|null|
 |**2025-03-17**|**OptiPMB: Enhancing 3D Multi-Object Tracking with Optimized Poisson Multi-Bernoulli Filtering**|Guanhua Ding et.al.|[2503.12968](http://arxiv.org/abs/2503.12968)|null|
 |**2025-03-17**|**Empath-D: VR-based Empathetic App Design for Accessibility**|Wonjung Kim et.al.|[2503.12933](http://arxiv.org/abs/2503.12933)|null|
 |**2025-03-16**|**Central and Central-Parietal EEG Signatures of Parkinson's Disease**|Artem Lensky et.al.|[2503.12392](http://arxiv.org/abs/2503.12392)|null|
