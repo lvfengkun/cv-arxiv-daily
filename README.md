@@ -1993,6 +1993,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Friction-Scaled Vibrotactile Feedback for Real-Time Slip Detection in Manipulation using Robotic Sixth Finger**|Naqash Afzal et.al.|[2503.15447](http://arxiv.org/abs/2503.15447)|null|
+|**2025-03-19**|**A Personalized Data-Driven Generative Model of Human Motion**|Angelo Di Porzio et.al.|[2503.15225](http://arxiv.org/abs/2503.15225)|null|
+|**2025-03-19**|**Continuous-time random walk model for the diffusive motion of helicases**|V. Rodriguez-Franco et.al.|[2503.15064](http://arxiv.org/abs/2503.15064)|null|
+|**2025-03-19**|**Project Jenkins: Turning Monkey Neural Data into Robotic Arm Movement, and Back**|Andrii Zahorodnii et.al.|[2503.14847](http://arxiv.org/abs/2503.14847)|null|
+|**2025-03-18**|**GR00T N1: An Open Foundation Model for Generalist Humanoid Robots**|NVIDIA et.al.|[2503.14734](http://arxiv.org/abs/2503.14734)|null|
+|**2025-03-18**|**Reinforcement learning-based motion imitation for physiologically plausible musculoskeletal motor control**|Merkourios Simos et.al.|[2503.14637](http://arxiv.org/abs/2503.14637)|null|
+|**2025-03-18**|**Inductive Position Sensors based on Coupling of Coils on Printed Circuit Boards for Demanding Automotive Applications**|Stefan Kuntz et.al.|[2503.14627](http://arxiv.org/abs/2503.14627)|null|
 |**2025-03-18**|**A Chain-Driven, Sandwich-Legged Quadruped Robot: Design and Experimental Analysis**|Aman Singh et.al.|[2503.14255](http://arxiv.org/abs/2503.14255)|null|
 |**2025-03-18**|**Magicarpet: A Parent-child Interactive Game Platform to Enhance Connectivity between Autistic Children and Their Parents**|Yuqi Hu et.al.|[2503.14127](http://arxiv.org/abs/2503.14127)|null|
 |**2025-03-15**|**Multi-output Classification for Compound Fault Diagnosis in Motor under Partially Labeled Target Domain**|Wonjun Yi et.al.|[2503.13534](http://arxiv.org/abs/2503.13534)|null|
