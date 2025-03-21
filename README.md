@@ -1993,6 +1993,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Nonlinear action prediction models reveal multi-timescale locomotor control**|Wei-Chen Wang et.al.|[2503.16340](http://arxiv.org/abs/2503.16340)|null|
+|**2025-03-20**|**Development of a Magnetorheological Hand Exoskeleton Featuring High Force-to-power Ratio for Enhancing Grip Endurance**|Wenbo Li et.al.|[2503.15915](http://arxiv.org/abs/2503.15915)|null|
 |**2025-03-19**|**Friction-Scaled Vibrotactile Feedback for Real-Time Slip Detection in Manipulation using Robotic Sixth Finger**|Naqash Afzal et.al.|[2503.15447](http://arxiv.org/abs/2503.15447)|null|
 |**2025-03-19**|**A Personalized Data-Driven Generative Model of Human Motion**|Angelo Di Porzio et.al.|[2503.15225](http://arxiv.org/abs/2503.15225)|null|
 |**2025-03-19**|**Continuous-time random walk model for the diffusive motion of helicases**|V. Rodriguez-Franco et.al.|[2503.15064](http://arxiv.org/abs/2503.15064)|null|
