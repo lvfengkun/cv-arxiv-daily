@@ -1972,6 +1972,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Time irreversibility, entropy production and effective temperature are independently regulated in the actin cortex of living cells**|N Narinder et.al.|[2503.17016](http://arxiv.org/abs/2503.17016)|null|
 |**2025-03-20**|**Nonlinear action prediction models reveal multi-timescale locomotor control**|Wei-Chen Wang et.al.|[2503.16340](http://arxiv.org/abs/2503.16340)|null|
 |**2025-03-20**|**Development of a Magnetorheological Hand Exoskeleton Featuring High Force-to-power Ratio for Enhancing Grip Endurance**|Wenbo Li et.al.|[2503.15915](http://arxiv.org/abs/2503.15915)|null|
 |**2025-03-19**|**Friction-Scaled Vibrotactile Feedback for Real-Time Slip Detection in Manipulation using Robotic Sixth Finger**|Naqash Afzal et.al.|[2503.15447](http://arxiv.org/abs/2503.15447)|null|
@@ -1979,7 +1980,7 @@ layout: default
 |**2025-03-19**|**Continuous-time random walk model for the diffusive motion of helicases**|V. Rodriguez-Franco et.al.|[2503.15064](http://arxiv.org/abs/2503.15064)|null|
 |**2025-03-19**|**Project Jenkins: Turning Monkey Neural Data into Robotic Arm Movement, and Back**|Andrii Zahorodnii et.al.|[2503.14847](http://arxiv.org/abs/2503.14847)|null|
 |**2025-03-18**|**GR00T N1: An Open Foundation Model for Generalist Humanoid Robots**|NVIDIA et.al.|[2503.14734](http://arxiv.org/abs/2503.14734)|null|
-|**2025-03-18**|**Reinforcement learning-based motion imitation for physiologically plausible musculoskeletal motor control**|Merkourios Simos et.al.|[2503.14637](http://arxiv.org/abs/2503.14637)|null|
+|**2025-03-18**|**Reinforcement learning-based motion imitation for physiologically plausible musculoskeletal motor control**|Merkourios Simos et.al.|[2503.14637](http://arxiv.org/abs/2503.14637)|**[link](https://github.com/amathislab/kinesis)**|
 |**2025-03-18**|**Inductive Position Sensors based on Coupling of Coils on Printed Circuit Boards for Demanding Automotive Applications**|Stefan Kuntz et.al.|[2503.14627](http://arxiv.org/abs/2503.14627)|null|
 |**2025-03-18**|**A Chain-Driven, Sandwich-Legged Quadruped Robot: Design and Experimental Analysis**|Aman Singh et.al.|[2503.14255](http://arxiv.org/abs/2503.14255)|null|
 |**2025-03-18**|**Magicarpet: A Parent-child Interactive Game Platform to Enhance Connectivity between Autistic Children and Their Parents**|Yuqi Hu et.al.|[2503.14127](http://arxiv.org/abs/2503.14127)|null|
