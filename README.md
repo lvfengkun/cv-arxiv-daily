@@ -1993,6 +1993,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-23**|**Critical role of the motor density and distribution on polar active polymers**|Surabhi Jaiswal et.al.|[2503.18099](http://arxiv.org/abs/2503.18099)|null|
+|**2025-03-23**|**Assist-as-needed Hip Exoskeleton Control for Gait Asymmetry Correction via Human-in-the-loop Optimization**|Yuepeng Qian et.al.|[2503.18051](http://arxiv.org/abs/2503.18051)|null|
+|**2025-03-21**|**PRIMAL: Physically Reactive and Interactive Motor Model for Avatar Learning**|Yan Zhang et.al.|[2503.17544](http://arxiv.org/abs/2503.17544)|null|
 |**2025-03-21**|**Time irreversibility, entropy production and effective temperature are independently regulated in the actin cortex of living cells**|N Narinder et.al.|[2503.17016](http://arxiv.org/abs/2503.17016)|null|
 |**2025-03-22**|**Deep learning framework for action prediction reveals multi-timescale locomotor control**|Wei-Chen Wang et.al.|[2503.16340](http://arxiv.org/abs/2503.16340)|null|
 |**2025-03-20**|**Development of a Magnetorheological Hand Exoskeleton Featuring High Force-to-power Ratio for Enhancing Grip Endurance**|Wenbo Li et.al.|[2503.15915](http://arxiv.org/abs/2503.15915)|null|
