@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1976,7 +1976,7 @@ layout: default
 |**2025-03-23**|**Assist-as-needed Hip Exoskeleton Control for Gait Asymmetry Correction via Human-in-the-loop Optimization**|Yuepeng Qian et.al.|[2503.18051](http://arxiv.org/abs/2503.18051)|null|
 |**2025-03-21**|**PRIMAL: Physically Reactive and Interactive Motor Model for Avatar Learning**|Yan Zhang et.al.|[2503.17544](http://arxiv.org/abs/2503.17544)|null|
 |**2025-03-21**|**Time irreversibility, entropy production and effective temperature are independently regulated in the actin cortex of living cells**|N Narinder et.al.|[2503.17016](http://arxiv.org/abs/2503.17016)|null|
-|**2025-03-22**|**Deep learning framework for action prediction reveals multi-timescale locomotor control**|Wei-Chen Wang et.al.|[2503.16340](http://arxiv.org/abs/2503.16340)|null|
+|**2025-03-25**|**Deep learning framework for action prediction reveals multi-timescale locomotor control**|Wei-Chen Wang et.al.|[2503.16340](http://arxiv.org/abs/2503.16340)|null|
 |**2025-03-20**|**Development of a Magnetorheological Hand Exoskeleton Featuring High Force-to-power Ratio for Enhancing Grip Endurance**|Wenbo Li et.al.|[2503.15915](http://arxiv.org/abs/2503.15915)|null|
 |**2025-03-19**|**Friction-Scaled Vibrotactile Feedback for Real-Time Slip Detection in Manipulation using Robotic Sixth Finger**|Naqash Afzal et.al.|[2503.15447](http://arxiv.org/abs/2503.15447)|null|
 |**2025-03-19**|**A Personalized Data-Driven Generative Model of Human Motion**|Angelo Di Porzio et.al.|[2503.15225](http://arxiv.org/abs/2503.15225)|null|
