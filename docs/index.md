@@ -1973,6 +1973,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**A detection module to increase the spatial bandwidth product of a microscope**|Charlie Kersuzan et.al.|[2503.21312](http://arxiv.org/abs/2503.21312)|null|
+|**2025-03-27**|**Haptic bilateral teleoperation system for free-hand dental procedures**|Lorenzo Pagliara et.al.|[2503.21288](http://arxiv.org/abs/2503.21288)|null|
+|**2025-03-27**|**Dimensional optimization of single-DOF planar rigid link-flapping mechanisms for high lift and low power**|Shyam Sunder Nishad et.al.|[2503.21204](http://arxiv.org/abs/2503.21204)|null|
+|**2025-03-25**|**Thermodynamic Relations in Time-Dependent Temperatures and Time-Varying Forces: A Study of Entropy Production and Extraction Rates Governed by the Fokker-Planck Equation in Active Brownian Systems**|Mesfin Taye et.al.|[2503.20812](http://arxiv.org/abs/2503.20812)|null|
 |**2025-03-23**|**Critical role of the motor density and distribution on polar active polymers**|Surabhi Jaiswal et.al.|[2503.18099](http://arxiv.org/abs/2503.18099)|null|
 |**2025-03-23**|**Assist-as-needed Hip Exoskeleton Control for Gait Asymmetry Correction via Human-in-the-loop Optimization**|Yuepeng Qian et.al.|[2503.18051](http://arxiv.org/abs/2503.18051)|null|
 |**2025-03-21**|**PRIMAL: Physically Reactive and Interactive Motor Model for Avatar Learning**|Yan Zhang et.al.|[2503.17544](http://arxiv.org/abs/2503.17544)|null|
