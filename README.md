@@ -1994,6 +1994,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**Control of Humanoid Robots with Parallel Mechanisms using Kinematic Actuation Models**|Victor Lutz et.al.|[2503.22459](http://arxiv.org/abs/2503.22459)|null|
+|**2025-03-28**|**Estimating City-wide operating mode Distribution of Light-Duty Vehicles: A Neural Network-based Approach**|Muhammad Usama et.al.|[2503.22118](http://arxiv.org/abs/2503.22118)|null|
 |**2025-03-27**|**A detection module to increase the spatial bandwidth product of a microscope**|Charlie Kersuzan et.al.|[2503.21312](http://arxiv.org/abs/2503.21312)|null|
 |**2025-03-27**|**Haptic bilateral teleoperation system for free-hand dental procedures**|Lorenzo Pagliara et.al.|[2503.21288](http://arxiv.org/abs/2503.21288)|null|
 |**2025-03-27**|**Dimensional optimization of single-DOF planar rigid link-flapping mechanisms for high lift and low power**|Shyam Sunder Nishad et.al.|[2503.21204](http://arxiv.org/abs/2503.21204)|null|
