@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-29**|**Incorporating GNSS Information with LIDAR-Inertial Odometry for Accurate Land-Vehicle Localization**|Jintao Cheng et.al.|[2503.23199](http://arxiv.org/abs/2503.23199)|null|
+|**2025-03-29**|**Towards Mobile Sensing with Event Cameras on High-mobility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943](http://arxiv.org/abs/2503.22943)|null|
 |**2025-03-25**|**Scene-agnostic Pose Regression for Visual Localization**|Junwei Zheng et.al.|[2503.19543](http://arxiv.org/abs/2503.19543)|null|
 |**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112](http://arxiv.org/abs/2503.05112)|null|
 |**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944](http://arxiv.org/abs/2503.04944)|null|
@@ -1994,6 +1996,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Cell divisions both challenge and refine tissue boundaries in the Drosophila embryo**|Veronica Castle et.al.|[2503.24261](http://arxiv.org/abs/2503.24261)|null|
+|**2025-03-31**|**HACTS: a Human-As-Copilot Teleoperation System for Robot Learning**|Zhiyuan Xu et.al.|[2503.24070](http://arxiv.org/abs/2503.24070)|null|
+|**2025-03-31**|**Two-wheel-driven Electric Superbike Powertrain Optimization**|Adelmo Niccolai et.al.|[2503.23984](http://arxiv.org/abs/2503.23984)|null|
+|**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Shutong Jin et.al.|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
+|**2025-03-30**|**OnSiteVRU: A High-Resolution Trajectory Dataset for High-Density Vulnerable Road Users**|Zhangcun Yan et.al.|[2503.23365](http://arxiv.org/abs/2503.23365)|null|
+|**2025-03-28**|**Sensorless Field Oriented Control of CSI-Fed PMSM Drives Used in Submersible Pumps**|Milad Bahrami-Fard et.al.|[2503.22855](http://arxiv.org/abs/2503.22855)|null|
+|**2025-03-28**|**A reduced-scale autonomous morphing vehicle prototype with enhanced aerodynamic efficiency**|Peng Zhang et.al.|[2503.22777](http://arxiv.org/abs/2503.22777)|null|
 |**2025-03-28**|**Control of Humanoid Robots with Parallel Mechanisms using Kinematic Actuation Models**|Victor Lutz et.al.|[2503.22459](http://arxiv.org/abs/2503.22459)|null|
 |**2025-03-28**|**Estimating City-wide operating mode Distribution of Light-Duty Vehicles: A Neural Network-based Approach**|Muhammad Usama et.al.|[2503.22118](http://arxiv.org/abs/2503.22118)|null|
 |**2025-03-27**|**A detection module to increase the spatial bandwidth product of a microscope**|Charlie Kersuzan et.al.|[2503.21312](http://arxiv.org/abs/2503.21312)|null|
