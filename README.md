@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261](http://arxiv.org/abs/2504.01261)|null|
 |**2025-03-29**|**Incorporating GNSS Information with LIDAR-Inertial Odometry for Accurate Land-Vehicle Localization**|Jintao Cheng et.al.|[2503.23199](http://arxiv.org/abs/2503.23199)|null|
 |**2025-03-29**|**Towards Mobile Sensing with Event Cameras on High-mobility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943](http://arxiv.org/abs/2503.22943)|null|
 |**2025-03-25**|**Scene-agnostic Pose Regression for Visual Localization**|Junwei Zheng et.al.|[2503.19543](http://arxiv.org/abs/2503.19543)|null|
@@ -1996,6 +1997,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**Nonlinear Bandwidth and Bode Diagrams based on Scaled Relative Graphs**|Julius P. J. Krebbekx et.al.|[2504.01585](http://arxiv.org/abs/2504.01585)|null|
+|**2025-04-01**|**In-Context Learning for Zero-Shot Speed Estimation of BLDC motors**|Alessandro Colombo et.al.|[2504.00673](http://arxiv.org/abs/2504.00673)|null|
+|**2025-04-01**|**FingerSlid: Towards Finger-Sliding Continuous Authentication on Smart Devices Via Vibration**|Yadong Xie et.al.|[2504.00436](http://arxiv.org/abs/2504.00436)|null|
 |**2025-03-31**|**Cell divisions both challenge and refine tissue boundaries in the Drosophila embryo**|Veronica Castle et.al.|[2503.24261](http://arxiv.org/abs/2503.24261)|null|
 |**2025-03-31**|**HACTS: a Human-As-Copilot Teleoperation System for Robot Learning**|Zhiyuan Xu et.al.|[2503.24070](http://arxiv.org/abs/2503.24070)|null|
 |**2025-03-31**|**Two-wheel-driven Electric Superbike Powertrain Optimization**|Adelmo Niccolai et.al.|[2503.23984](http://arxiv.org/abs/2503.23984)|null|
