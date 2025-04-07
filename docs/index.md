@@ -1977,6 +1977,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**MultiClear: Multimodal Soft Exoskeleton Glove for Transparent Object Grasping Assistance**|Chen Hu et.al.|[2504.03379](http://arxiv.org/abs/2504.03379)|null|
+|**2025-04-04**|**A Modular Energy Aware Framework for Multicopter Modeling in Control and Planning Applications**|Sebastian Gasche et.al.|[2504.03256](http://arxiv.org/abs/2504.03256)|null|
 |**2025-04-02**|**Nonlinear Bandwidth and Bode Diagrams based on Scaled Relative Graphs**|Julius P. J. Krebbekx et.al.|[2504.01585](http://arxiv.org/abs/2504.01585)|null|
 |**2025-04-01**|**In-Context Learning for Zero-Shot Speed Estimation of BLDC motors**|Alessandro Colombo et.al.|[2504.00673](http://arxiv.org/abs/2504.00673)|null|
 |**2025-04-01**|**FingerSlid: Towards Finger-Sliding Continuous Authentication on Smart Devices Via Vibration**|Yadong Xie et.al.|[2504.00436](http://arxiv.org/abs/2504.00436)|null|
