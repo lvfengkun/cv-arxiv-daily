@@ -1977,6 +1977,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Morphological Effects on Bacterial Brownian Motion: Validation of a Chiral Two-Body Model**|Baopi Liu et.al.|[2504.05053](http://arxiv.org/abs/2504.05053)|null|
+|**2025-04-07**|**CONCERT: a Modular Reconfigurable Robot for Construction**|Luca Rossini et.al.|[2504.04998](http://arxiv.org/abs/2504.04998)|null|
+|**2025-04-05**|**Automated Polarization Rotation for Multi-Axis Rotational-Anisotropy Second Harmonic Generation Experiments**|Karna A. Morey et.al.|[2504.03999](http://arxiv.org/abs/2504.03999)|null|
+|**2025-04-04**|**Optimized Feature Selection and Neural Network-Based Classification of Motor Imagery Using EEG Signals**|Muhammad Sudipto Siam Dip et.al.|[2504.03984](http://arxiv.org/abs/2504.03984)|null|
+|**2025-04-04**|**Adaptation and synchronization -- basic mechanisms in music performance**|Jakub Sawicki et.al.|[2504.03958](http://arxiv.org/abs/2504.03958)|null|
+|**2025-04-04**|**Experimental Study on Time Series Analysis of Lower Limb Rehabilitation Exercise Data Driven by Novel Model Architecture and Large Models**|Hengyu Lin et.al.|[2504.03799](http://arxiv.org/abs/2504.03799)|null|
+|**2025-04-02**|**EEG2GAIT: A Hierarchical Graph Convolutional Network for EEG-based Gait Decoding**|Xi Fu et.al.|[2504.03757](http://arxiv.org/abs/2504.03757)|null|
 |**2025-04-04**|**MultiClear: Multimodal Soft Exoskeleton Glove for Transparent Object Grasping Assistance**|Chen Hu et.al.|[2504.03379](http://arxiv.org/abs/2504.03379)|null|
 |**2025-04-04**|**A Modular Energy Aware Framework for Multicopter Modeling in Control and Planning Applications**|Sebastian Gasche et.al.|[2504.03256](http://arxiv.org/abs/2504.03256)|null|
 |**2025-04-02**|**Nonlinear Bandwidth and Bode Diagrams based on Scaled Relative Graphs**|Julius P. J. Krebbekx et.al.|[2504.01585](http://arxiv.org/abs/2504.01585)|null|
