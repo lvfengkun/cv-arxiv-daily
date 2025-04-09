@@ -1998,6 +1998,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Continual Learning of Multiple Cognitive Functions with Brain-inspired Temporal Development Mechanism**|Bing Han et.al.|[2504.05621](http://arxiv.org/abs/2504.05621)|null|
+|**2025-04-06**|**Development and Experimental Evaluation of a Vibration-Based Adhesion System for Miniature Wall-Climbing Robots**|Siqian Li et.al.|[2504.05351](http://arxiv.org/abs/2504.05351)|null|
 |**2025-04-07**|**Morphological Effects on Bacterial Brownian Motion: Validation of a Chiral Two-Body Model**|Baopi Liu et.al.|[2504.05053](http://arxiv.org/abs/2504.05053)|null|
 |**2025-04-07**|**CONCERT: a Modular Reconfigurable Robot for Construction**|Luca Rossini et.al.|[2504.04998](http://arxiv.org/abs/2504.04998)|null|
 |**2025-04-05**|**Automated Polarization Rotation for Multi-Axis Rotational-Anisotropy Second Harmonic Generation Experiments**|Karna A. Morey et.al.|[2504.03999](http://arxiv.org/abs/2504.03999)|null|
