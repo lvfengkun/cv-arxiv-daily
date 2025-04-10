@@ -1977,6 +1977,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Hyperparameter Optimisation with Practical Interpretability and Explanation Methods in Probabilistic Curriculum Learning**|Llewyn Salt et.al.|[2504.06683](http://arxiv.org/abs/2504.06683)|null|
+|**2025-04-09**|**Design and use of devices to assist movement of the upper limb: review of the literature**|Charlotte Le Goff et.al.|[2504.06640](http://arxiv.org/abs/2504.06640)|null|
 |**2025-04-08**|**Continual Learning of Multiple Cognitive Functions with Brain-inspired Temporal Development Mechanism**|Bing Han et.al.|[2504.05621](http://arxiv.org/abs/2504.05621)|null|
 |**2025-04-06**|**Development and Experimental Evaluation of a Vibration-Based Adhesion System for Miniature Wall-Climbing Robots**|Siqian Li et.al.|[2504.05351](http://arxiv.org/abs/2504.05351)|null|
 |**2025-04-07**|**Morphological Effects on Bacterial Brownian Motion: Validation of a Chiral Two-Body Model**|Baopi Liu et.al.|[2504.05053](http://arxiv.org/abs/2504.05053)|null|
