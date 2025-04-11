@@ -1998,6 +1998,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Cable Optimization and Drag Estimation for Tether-Powered Multirotor UAVs**|Max Beffert et.al.|[2504.07802](http://arxiv.org/abs/2504.07802)|null|
+|**2025-04-09**|**Compound Fault Diagnosis for Train Transmission Systems Using Deep Learning with Fourier-enhanced Representation**|Jonathan Adam Rico et.al.|[2504.07155](http://arxiv.org/abs/2504.07155)|null|
 |**2025-04-09**|**Hyperparameter Optimisation with Practical Interpretability and Explanation Methods in Probabilistic Curriculum Learning**|Llewyn Salt et.al.|[2504.06683](http://arxiv.org/abs/2504.06683)|null|
 |**2025-04-09**|**Design and use of devices to assist movement of the upper limb: review of the literature**|Charlotte Le Goff et.al.|[2504.06640](http://arxiv.org/abs/2504.06640)|null|
 |**2025-04-08**|**Continual Learning of Multiple Cognitive Functions with Brain-inspired Temporal Development Mechanism**|Bing Han et.al.|[2504.05621](http://arxiv.org/abs/2504.05621)|null|
