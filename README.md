@@ -1998,6 +1998,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Intracellular phagosome shell is rigid enough to transfer outside torque to the inner spherical particle**|Srestha Roy et.al.|[2504.08498](http://arxiv.org/abs/2504.08498)|null|
+|**2025-04-11**|**PlugSelect: Pruning Channels with Plug-and-Play Flexibility for Electroencephalography-based Brain Computer Interface**|Xue Yuan et.al.|[2504.08486](http://arxiv.org/abs/2504.08486)|null|
+|**2025-04-10**|**Fringe around a Beet Slice: Wetting-induced Dimple in a Thin Liquid Film**|Zhengyang Liu et.al.|[2504.08092](http://arxiv.org/abs/2504.08092)|null|
 |**2025-04-10**|**Cable Optimization and Drag Estimation for Tether-Powered Multirotor UAVs**|Max Beffert et.al.|[2504.07802](http://arxiv.org/abs/2504.07802)|null|
 |**2025-04-09**|**Compound Fault Diagnosis for Train Transmission Systems Using Deep Learning with Fourier-enhanced Representation**|Jonathan Adam Rico et.al.|[2504.07155](http://arxiv.org/abs/2504.07155)|null|
 |**2025-04-09**|**Hyperparameter Optimisation with Practical Interpretability and Explanation Methods in Probabilistic Curriculum Learning**|Llewyn Salt et.al.|[2504.06683](http://arxiv.org/abs/2504.06683)|null|
