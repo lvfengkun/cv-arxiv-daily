@@ -1998,6 +1998,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-13**|**Neural mechanisms of predictive processing: a collaborative community experiment through the OpenScope program**|Ido Aizenbud et.al.|[2504.09614](http://arxiv.org/abs/2504.09614)|null|
+|**2025-04-12**|**Spiking Neural Network for Intra-cortical Brain Signal Decoding**|Song Yang et.al.|[2504.09213](http://arxiv.org/abs/2504.09213)|null|
+|**2025-04-12**|**Stability Control of Metastable States as a Unified Mechanism for Flexible Temporal Modulation in Cognitive Processing**|Tomoki Kurikawa et.al.|[2504.09080](http://arxiv.org/abs/2504.09080)|null|
 |**2025-04-11**|**Intracellular phagosome shell is rigid enough to transfer outside torque to the inner spherical particle**|Srestha Roy et.al.|[2504.08498](http://arxiv.org/abs/2504.08498)|null|
 |**2025-04-11**|**PlugSelect: Pruning Channels with Plug-and-Play Flexibility for Electroencephalography-based Brain Computer Interface**|Xue Yuan et.al.|[2504.08486](http://arxiv.org/abs/2504.08486)|null|
 |**2025-04-10**|**Fringe around a Beet Slice: Wetting-induced Dimple in a Thin Liquid Film**|Zhengyang Liu et.al.|[2504.08092](http://arxiv.org/abs/2504.08092)|null|
