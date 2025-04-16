@@ -1977,6 +1977,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Hunting for Maxwell's Demon in the Wild**|Johan du Buisson et.al.|[2504.11329](http://arxiv.org/abs/2504.11329)|null|
+|**2025-04-14**|**Time-varying EEG spectral power predicts evoked and spontaneous fMRI motor brain activity**|Neil Mehta et.al.|[2504.10752](http://arxiv.org/abs/2504.10752)|null|
+|**2025-04-14**|**Vehicle Dynamics Control for Simultaneous Optimization of Tire Emissions and Performance in EVs**|Chi-Bach Pham et.al.|[2504.10709](http://arxiv.org/abs/2504.10709)|null|
+|**2025-04-14**|**Correcting Domain Shifts in Electric Motor Vibration Data for Unseen Operating Conditions**|Lesley Wheat et.al.|[2504.10661](http://arxiv.org/abs/2504.10661)|null|
 |**2025-04-13**|**Neural mechanisms of predictive processing: a collaborative community experiment through the OpenScope program**|Ido Aizenbud et.al.|[2504.09614](http://arxiv.org/abs/2504.09614)|null|
 |**2025-04-12**|**Spiking Neural Network for Intra-cortical Brain Signal Decoding**|Song Yang et.al.|[2504.09213](http://arxiv.org/abs/2504.09213)|null|
 |**2025-04-12**|**Stability Control of Metastable States as a Unified Mechanism for Flexible Temporal Modulation in Cognitive Processing**|Tomoki Kurikawa et.al.|[2504.09080](http://arxiv.org/abs/2504.09080)|null|
