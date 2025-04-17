@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**An Online Adaptation Method for Robust Depth Estimation and Visual Odometry in the Open World**|Xingwu Ji et.al.|[2504.11698](http://arxiv.org/abs/2504.11698)|null|
 |**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437](http://arxiv.org/abs/2504.02437)|null|
 |**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261](http://arxiv.org/abs/2504.01261)|**[link](https://github.com/aerialroboticsgroup/forest-vo)**|
 |**2025-03-29**|**Incorporating GNSS Information with LIDAR-Inertial Odometry for Accurate Land-Vehicle Localization**|Jintao Cheng et.al.|[2503.23199](http://arxiv.org/abs/2503.23199)|null|
@@ -1998,6 +1999,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**Dysarthria Normalization via Local Lie Group Transformations for Robust ASR**|Mikhail Osipov et.al.|[2504.12279](http://arxiv.org/abs/2504.12279)|null|
+|**2025-04-16**|**Discrete-Time Modeling of Interturn Short Circuits in Interior PMSMs**|Lukas Zezula et.al.|[2504.12193](http://arxiv.org/abs/2504.12193)|null|
+|**2025-04-16**|**An Extended Generalized Prandtl-Ishlinskii Hysteresis Model for I2RIS Robot**|Yiyao Yue et.al.|[2504.12114](http://arxiv.org/abs/2504.12114)|null|
+|**2025-04-16**|**Steerable rolling of a 1-DoF robot using an internal pendulum**|Christopher Y. Xu et.al.|[2504.11748](http://arxiv.org/abs/2504.11748)|null|
+|**2025-04-15**|**Adaptively Pruned Spiking Neural Networks for Energy-Efficient Intracortical Neural Decoding**|Francesca Rivelli et.al.|[2504.11568](http://arxiv.org/abs/2504.11568)|null|
+|**2025-04-15**|**Multi-output Classification Framework and Frequency Layer Normalization for Compound Fault Diagnosis in Motor**|Wonjun Yi et.al.|[2504.11513](http://arxiv.org/abs/2504.11513)|null|
 |**2025-04-15**|**Hunting for Maxwell's Demon in the Wild**|Johan du Buisson et.al.|[2504.11329](http://arxiv.org/abs/2504.11329)|null|
 |**2025-04-14**|**Time-varying EEG spectral power predicts evoked and spontaneous fMRI motor brain activity**|Neil Mehta et.al.|[2504.10752](http://arxiv.org/abs/2504.10752)|null|
 |**2025-04-14**|**Vehicle Dynamics Control for Simultaneous Optimization of Tire Emissions and Performance in EVs**|Chi-Bach Pham et.al.|[2504.10709](http://arxiv.org/abs/2504.10709)|null|
