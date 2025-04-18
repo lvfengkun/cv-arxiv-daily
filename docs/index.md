@@ -1978,6 +1978,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Krysalis Hand: A Lightweight, High-Payload, 18-DoF Anthropomorphic End-Effector for Robotic Learning and Dexterous Manipulation**|Al Arsh Basheer et.al.|[2504.12967](http://arxiv.org/abs/2504.12967)|null|
+|**2025-04-17**|**IdentiARAT: Toward Automated Identification of Individual ARAT Items from Wearable Sensors**|Daniel Homm et.al.|[2504.12921](http://arxiv.org/abs/2504.12921)|null|
+|**2025-04-17**|**Versatile, Robust, and Explosive Locomotion with Rigid and Articulated Compliant Quadrupeds**|Jiatao Ding et.al.|[2504.12854](http://arxiv.org/abs/2504.12854)|null|
+|**2025-04-16**|**Optimal packing of attractor states in neural representations**|John J. Vastola et.al.|[2504.12429](http://arxiv.org/abs/2504.12429)|null|
 |**2025-04-16**|**Dysarthria Normalization via Local Lie Group Transformations for Robust ASR**|Mikhail Osipov et.al.|[2504.12279](http://arxiv.org/abs/2504.12279)|null|
 |**2025-04-16**|**Discrete-Time Modeling of Interturn Short Circuits in Interior PMSMs**|Lukas Zezula et.al.|[2504.12193](http://arxiv.org/abs/2504.12193)|null|
 |**2025-04-16**|**An Extended Generalized Prandtl-Ishlinskii Hysteresis Model for I2RIS Robot**|Yiyao Yue et.al.|[2504.12114](http://arxiv.org/abs/2504.12114)|null|
