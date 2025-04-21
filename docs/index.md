@@ -1978,6 +1978,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Self-Mixing Laser Interferometry: In Search of an Ambient Noise-Resilient Alternative to Acoustic Sensing**|Remko Proesmans et.al.|[2504.13711](http://arxiv.org/abs/2504.13711)|null|
+|**2025-04-17**|**Multi-Sensor Fusion-Based Mobile Manipulator Remote Control for Intelligent Smart Home Assistance**|Xiao Jin et.al.|[2504.13370](http://arxiv.org/abs/2504.13370)|null|
+|**2025-04-17**|**SSTAF: Spatial-Spectral-Temporal Attention Fusion Transformer for Motor Imagery Classification**|Ummay Maria Muna et.al.|[2504.13220](http://arxiv.org/abs/2504.13220)|null|
 |**2025-04-17**|**Krysalis Hand: A Lightweight, High-Payload, 18-DoF Anthropomorphic End-Effector for Robotic Learning and Dexterous Manipulation**|Al Arsh Basheer et.al.|[2504.12967](http://arxiv.org/abs/2504.12967)|null|
 |**2025-04-17**|**IdentiARAT: Toward Automated Identification of Individual ARAT Items from Wearable Sensors**|Daniel Homm et.al.|[2504.12921](http://arxiv.org/abs/2504.12921)|null|
 |**2025-04-17**|**Versatile, Robust, and Explosive Locomotion with Rigid and Articulated Compliant Quadrupeds**|Jiatao Ding et.al.|[2504.12854](http://arxiv.org/abs/2504.12854)|null|
