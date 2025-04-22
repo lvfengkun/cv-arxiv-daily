@@ -1978,6 +1978,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**Learning via mechanosensitivity and activity in cytoskeletal networks**|Deb S. Banerjee et.al.|[2504.15107](http://arxiv.org/abs/2504.15107)|null|
+|**2025-04-21**|**NeuGaze: Reshaping the future BCI**|Yiqian Yang et.al.|[2504.15101](http://arxiv.org/abs/2504.15101)|**[link](https://github.com/neuspeech/neugaze)**|
+|**2025-04-21**|**Mapping Emotional Feeling in the Body: A Tripartite Framework for Understanding the Embodied Mind**|Tatsuya Daikoku et.al.|[2504.14865](http://arxiv.org/abs/2504.14865)|null|
+|**2025-04-20**|**ExFace: Expressive Facial Control for Humanoid Robots with Diffusion Transformers and Bootstrap Training**|Dong Zhang et.al.|[2504.14477](http://arxiv.org/abs/2504.14477)|null|
+|**2025-04-19**|**Bacteria exploit torque-induced buckling instability for flagellar wrapping**|Takuro Kataoka et.al.|[2504.14207](http://arxiv.org/abs/2504.14207)|null|
+|**2025-04-19**|**Collision Induced Binding and Transport of Shape Changing Robot Pairs**|Akash Vardhan et.al.|[2504.14170](http://arxiv.org/abs/2504.14170)|null|
 |**2025-04-18**|**Self-Mixing Laser Interferometry: In Search of an Ambient Noise-Resilient Alternative to Acoustic Sensing**|Remko Proesmans et.al.|[2504.13711](http://arxiv.org/abs/2504.13711)|null|
 |**2025-04-17**|**Multi-Sensor Fusion-Based Mobile Manipulator Remote Control for Intelligent Smart Home Assistance**|Xiao Jin et.al.|[2504.13370](http://arxiv.org/abs/2504.13370)|null|
 |**2025-04-17**|**SSTAF: Spatial-Spectral-Temporal Attention Fusion Transformer for Motor Imagery Classification**|Ummay Maria Muna et.al.|[2504.13220](http://arxiv.org/abs/2504.13220)|null|
