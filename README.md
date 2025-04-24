@@ -1999,6 +1999,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Application of an attention-based CNN-BiLSTM framework for in vivo two-photon calcium imaging of neuronal ensembles: decoding complex bilateral forelimb movements from unilateral M1**|Ghazal Mirzaee et.al.|[2504.16917](http://arxiv.org/abs/2504.16917)|null|
+|**2025-04-23**|**Preliminary design of a Cavity Tuner for Superconducting Radio-Frequency Cavity**|Ming Liu et.al.|[2504.16645](http://arxiv.org/abs/2504.16645)|null|
 |**2025-04-22**|**Enhancing Tennis Training with Real-Time Swing Data Visualisation in Immersive Virtual Reality**|Ryan Najami et.al.|[2504.15746](http://arxiv.org/abs/2504.15746)|null|
 |**2025-04-21**|**Learning via mechanosensitivity and activity in cytoskeletal networks**|Deb S. Banerjee et.al.|[2504.15107](http://arxiv.org/abs/2504.15107)|null|
 |**2025-04-21**|**NeuGaze: Reshaping the future BCI**|Yiqian Yang et.al.|[2504.15101](http://arxiv.org/abs/2504.15101)|**[link](https://github.com/neuspeech/neugaze)**|
