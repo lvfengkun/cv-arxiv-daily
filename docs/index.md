@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1978,6 +1978,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Enhancing Tennis Training with Real-Time Swing Data Visualisation in Immersive Virtual Reality**|Ryan Najami et.al.|[2504.15746](http://arxiv.org/abs/2504.15746)|null|
 |**2025-04-21**|**Learning via mechanosensitivity and activity in cytoskeletal networks**|Deb S. Banerjee et.al.|[2504.15107](http://arxiv.org/abs/2504.15107)|null|
 |**2025-04-21**|**NeuGaze: Reshaping the future BCI**|Yiqian Yang et.al.|[2504.15101](http://arxiv.org/abs/2504.15101)|**[link](https://github.com/neuspeech/neugaze)**|
 |**2025-04-21**|**Mapping Emotional Feeling in the Body: A Tripartite Framework for Understanding the Embodied Mind**|Tatsuya Daikoku et.al.|[2504.14865](http://arxiv.org/abs/2504.14865)|null|
