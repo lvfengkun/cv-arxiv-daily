@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent and Large-Scale Localization**|Guangyang Zeng et.al.|[2504.17410](http://arxiv.org/abs/2504.17410)|null|
 |**2025-04-16**|**An Online Adaptation Method for Robust Depth Estimation and Visual Odometry in the Open World**|Xingwu Ji et.al.|[2504.11698](http://arxiv.org/abs/2504.11698)|**[link](https://github.com/jixingwu/sol-slam)**|
 |**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437](http://arxiv.org/abs/2504.02437)|null|
 |**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261](http://arxiv.org/abs/2504.01261)|**[link](https://github.com/aerialroboticsgroup/forest-vo)**|
@@ -1978,6 +1979,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Interpretable Early Detection of Parkinson's Disease through Speech Analysis**|Lorenzo Simone et.al.|[2504.17739](http://arxiv.org/abs/2504.17739)|null|
+|**2025-04-24**|**Design and benchmarking of a two degree of freedom tendon driver unit for cable-driven wearable technologies**|Adrian Esser et.al.|[2504.17736](http://arxiv.org/abs/2504.17736)|null|
+|**2025-04-24**|**The Riemannian Means Field Classifier for EEG-Based BCI Data**|Anton Andreev et.al.|[2504.17352](http://arxiv.org/abs/2504.17352)|null|
+|**2025-04-23**|**Transferring Spatial Filters via Tangent Space Alignment in Motor Imagery BCIs**|Tekin Gunasar et.al.|[2504.17111](http://arxiv.org/abs/2504.17111)|null|
 |**2025-04-23**|**Application of an attention-based CNN-BiLSTM framework for in vivo two-photon calcium imaging of neuronal ensembles: decoding complex bilateral forelimb movements from unilateral M1**|Ghazal Mirzaee et.al.|[2504.16917](http://arxiv.org/abs/2504.16917)|null|
 |**2025-04-23**|**Preliminary design of a Cavity Tuner for Superconducting Radio-Frequency Cavity**|Ming Liu et.al.|[2504.16645](http://arxiv.org/abs/2504.16645)|null|
 |**2025-04-22**|**Enhancing Tennis Training with Real-Time Swing Data Visualisation in Immersive Virtual Reality**|Ryan Najami et.al.|[2504.15746](http://arxiv.org/abs/2504.15746)|null|
