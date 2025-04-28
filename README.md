@@ -2000,6 +2000,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**More is less in unpercolated active solids**|Jack Binysh et.al.|[2504.18362](http://arxiv.org/abs/2504.18362)|null|
+|**2025-04-25**|**Temperature Estimation in Induction Motors using Machine Learning**|Dinan Li et.al.|[2504.18105](http://arxiv.org/abs/2504.18105)|null|
+|**2025-04-25**|**S3MOT: Monocular 3D Object Tracking with Selective State Space Model**|Zhuohao Yan et.al.|[2504.18068](http://arxiv.org/abs/2504.18068)|null|
+|**2025-04-24**|**A computational model of infant sensorimotor exploration in the mobile paradigm**|Josua Spisak et.al.|[2504.17939](http://arxiv.org/abs/2504.17939)|null|
+|**2025-04-24**|**Beyond Task and Motion Planning: Hierarchical Robot Planning with General-Purpose Policies**|Benned Hedegaard et.al.|[2504.17901](http://arxiv.org/abs/2504.17901)|null|
+|**2025-04-24**|**High-Performance Reinforcement Learning on Spot: Optimizing Simulation Parameters with Distributional Measures**|A. J Miller et.al.|[2504.17857](http://arxiv.org/abs/2504.17857)|null|
 |**2025-04-24**|**Interpretable Early Detection of Parkinson's Disease through Speech Analysis**|Lorenzo Simone et.al.|[2504.17739](http://arxiv.org/abs/2504.17739)|null|
 |**2025-04-24**|**Design and benchmarking of a two degree of freedom tendon driver unit for cable-driven wearable technologies**|Adrian Esser et.al.|[2504.17736](http://arxiv.org/abs/2504.17736)|null|
 |**2025-04-24**|**The Riemannian Means Field Classifier for EEG-Based BCI Data**|Anton Andreev et.al.|[2504.17352](http://arxiv.org/abs/2504.17352)|null|
