@@ -1981,6 +1981,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**A Methodological and Structural Review of Parkinsons Disease Detection Across Diverse Data Modalities**|Abu Saleh Musa Miah et.al.|[2505.00525](http://arxiv.org/abs/2505.00525)|null|
+|**2025-05-01**|**A Neural Network Mode for PX4 on Embedded Flight Controllers**|Sindre M. Hegre et.al.|[2505.00432](http://arxiv.org/abs/2505.00432)|null|
+|**2025-04-30**|**Real-Time Brain-Computer Interface Control of Walking Exoskeleton with Bilateral Sensory Feedback**|Jeffrey Lim et.al.|[2505.00219](http://arxiv.org/abs/2505.00219)|null|
+|**2025-04-30**|**Investigating Adaptive Tuning of Assistive Exoskeletons Using Offline Reinforcement Learning: Challenges and Insights**|Yasin Findik et.al.|[2505.00201](http://arxiv.org/abs/2505.00201)|null|
 |**2025-04-30**|**MovementVR: An open-source tool for the study of motor control and learning in virtual reality**|Cristina Rossi et.al.|[2504.21696](http://arxiv.org/abs/2504.21696)|null|
 |**2025-04-30**|**Self-Supervised Monocular Visual Drone Model Identification through Improved Occlusion Handling**|Stavrow A. Bahnam et.al.|[2504.21695](http://arxiv.org/abs/2504.21695)|null|
 |**2025-04-30**|**One Net to Rule Them All: Domain Randomization in Quadcopter Racing Across Different Platforms**|Robin Ferede et.al.|[2504.21586](http://arxiv.org/abs/2504.21586)|null|
