@@ -2002,6 +2002,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Efficiently driving F $_1$ molecular motor in experiment by suppressing nonequilibrium variation**|Takahide Mishima et.al.|[2505.01101](http://arxiv.org/abs/2505.01101)|null|
+|**2025-05-02**|**Destructive Interference: Encoding Loss in the Overlap**|Nik Aberle et.al.|[2505.00987](http://arxiv.org/abs/2505.00987)|null|
 |**2025-05-01**|**A Methodological and Structural Review of Parkinsons Disease Detection Across Diverse Data Modalities**|Abu Saleh Musa Miah et.al.|[2505.00525](http://arxiv.org/abs/2505.00525)|null|
 |**2025-05-01**|**A Neural Network Mode for PX4 on Embedded Flight Controllers**|Sindre M. Hegre et.al.|[2505.00432](http://arxiv.org/abs/2505.00432)|null|
 |**2025-04-30**|**Real-Time Brain-Computer Interface Control of Walking Exoskeleton with Bilateral Sensory Feedback**|Jeffrey Lim et.al.|[2505.00219](http://arxiv.org/abs/2505.00219)|null|
