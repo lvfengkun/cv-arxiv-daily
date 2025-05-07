@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
 |**2025-05-04**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956](http://arxiv.org/abs/2505.01956)|null|
 |**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562](http://arxiv.org/abs/2504.21562)|null|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
@@ -1982,6 +1983,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**Validating the Effectiveness of a Large Language Model-based Approach for Identifying Children's Development across Various Free Play Settings in Kindergarten**|Yuanyuan Yang et.al.|[2505.03369](http://arxiv.org/abs/2505.03369)|null|
+|**2025-05-05**|**Revisiting Performance Models of Distal Pointing Tasks in Virtual Reality**|Logan Lane et.al.|[2505.03027](http://arxiv.org/abs/2505.03027)|null|
+|**2025-05-05**|**Magneto-optical trap loading with an effusive oven in a large optical access experiment**|M. Gaudesius et.al.|[2505.03008](http://arxiv.org/abs/2505.03008)|null|
 |**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|Yanjie Ze et.al.|[2505.02833](http://arxiv.org/abs/2505.02833)|null|
 |**2025-05-05**|**Machine-Learning-Powered Neural Interfaces for Smart Prosthetics and Diagnostics**|MohammadAli Shaeri et.al.|[2505.02516](http://arxiv.org/abs/2505.02516)|null|
 |**2025-05-03**|**Optimized Cascaded Position Control of BLDC Motors Considering Torque Ripple**|Mohammad Vedadi et.al.|[2505.01740](http://arxiv.org/abs/2505.01740)|null|
