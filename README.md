@@ -2004,6 +2004,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Accelerating Audio Research with Robotic Dummy Heads**|Austin Lu et.al.|[2505.04548](http://arxiv.org/abs/2505.04548)|null|
+|**2025-05-07**|**Neural Representational Consistency Emerges from Probabilistic Neural-Behavioral Representation Alignment**|Yu Zhu et.al.|[2505.04331](http://arxiv.org/abs/2505.04331)|null|
+|**2025-05-06**|**PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers**|Michael Xu et.al.|[2505.04002](http://arxiv.org/abs/2505.04002)|null|
+|**2025-05-05**|**A Deep Learning approach for Depressive Symptoms assessment in Parkinson's disease patients using facial videos**|Ioannis Kyprakis et.al.|[2505.03845](http://arxiv.org/abs/2505.03845)|null|
 |**2025-05-06**|**Validating the Effectiveness of a Large Language Model-based Approach for Identifying Children's Development across Various Free Play Settings in Kindergarten**|Yuanyuan Yang et.al.|[2505.03369](http://arxiv.org/abs/2505.03369)|null|
 |**2025-05-05**|**Revisiting Performance Models of Distal Pointing Tasks in Virtual Reality**|Logan Lane et.al.|[2505.03027](http://arxiv.org/abs/2505.03027)|null|
 |**2025-05-05**|**Magneto-optical trap loading with an effusive oven in a large optical access experiment**|M. Gaudesius et.al.|[2505.03008](http://arxiv.org/abs/2505.03008)|null|
