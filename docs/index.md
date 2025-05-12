@@ -1983,6 +1983,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Let Humanoids Hike! Integrative Skill Development on Complex Trails**|Kwan-Yee Lin et.al.|[2505.06218](http://arxiv.org/abs/2505.06218)|null|
+|**2025-05-09**|**Counting observables in stochastic excursions**|Guilherme Fiusa et.al.|[2505.06208](http://arxiv.org/abs/2505.06208)|null|
+|**2025-05-09**|**Mechanical Power Modeling and Energy Efficiency Maximization for Movable Antenna Systems**|Xin Wei et.al.|[2505.05914](http://arxiv.org/abs/2505.05914)|null|
+|**2025-05-09**|**Connected C-Core Hybrid SRMs for EV Applications**|Gholamreza Davarpanah et.al.|[2505.05726](http://arxiv.org/abs/2505.05726)|null|
+|**2025-05-08**|**Zippy: The smallest power-autonomous bipedal robot**|Steven Man et.al.|[2505.05686](http://arxiv.org/abs/2505.05686)|null|
 |**2025-05-07**|**Accelerating Audio Research with Robotic Dummy Heads**|Austin Lu et.al.|[2505.04548](http://arxiv.org/abs/2505.04548)|null|
 |**2025-05-07**|**Neural Representational Consistency Emerges from Probabilistic Neural-Behavioral Representation Alignment**|Yu Zhu et.al.|[2505.04331](http://arxiv.org/abs/2505.04331)|null|
 |**2025-05-06**|**PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers**|Michael Xu et.al.|[2505.04002](http://arxiv.org/abs/2505.04002)|null|
