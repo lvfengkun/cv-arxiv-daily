@@ -1983,6 +1983,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Chronocept: Instilling a Sense of Time in Machines**|Krish Goel et.al.|[2505.07637](http://arxiv.org/abs/2505.07637)|null|
+|**2025-05-12**|**Conceptual Design Report of the SUPAX Experiment**|Dhruv Chouhan et.al.|[2505.07541](http://arxiv.org/abs/2505.07541)|null|
+|**2025-05-12**|**From Brain to Motion: Harnessing Higher-Derivative Mechanics for Neural Control**|O. White et.al.|[2505.07454](http://arxiv.org/abs/2505.07454)|null|
+|**2025-05-12**|**FedIFL: A federated cross-domain diagnostic framework for motor-driven systems with inconsistent fault modes**|Zexiao Wang et.al.|[2505.07315](http://arxiv.org/abs/2505.07315)|null|
+|**2025-05-12**|**HuB: Learning Extreme Humanoid Balance**|Tong Zhang et.al.|[2505.07294](http://arxiv.org/abs/2505.07294)|null|
+|**2025-05-09**|**Development of Reduced Feeder and Load Models Using Practical Topological and Loading Data**|Sameer Nekkalapu et.al.|[2505.06439](http://arxiv.org/abs/2505.06439)|null|
 |**2025-05-09**|**Let Humanoids Hike! Integrative Skill Development on Complex Trails**|Kwan-Yee Lin et.al.|[2505.06218](http://arxiv.org/abs/2505.06218)|null|
 |**2025-05-09**|**Counting observables in stochastic excursions**|Guilherme Fiusa et.al.|[2505.06208](http://arxiv.org/abs/2505.06208)|null|
 |**2025-05-09**|**Mechanical Power Modeling and Energy Efficiency Maximization for Movable Antenna Systems**|Xin Wei et.al.|[2505.05914](http://arxiv.org/abs/2505.05914)|null|
