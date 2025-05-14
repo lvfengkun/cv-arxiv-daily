@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1983,7 +1983,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-12**|**Chronocept: Instilling a Sense of Time in Machines**|Krish Goel et.al.|[2505.07637](http://arxiv.org/abs/2505.07637)|null|
+|**2025-05-12**|**Chronocept: Instilling a Sense of Time in Machines**|Krish Goel et.al.|[2505.07637](http://arxiv.org/abs/2505.07637)|**[link](https://github.com/krishgoel/chronocept-baseline-models)**|
 |**2025-05-12**|**Conceptual Design Report of the SUPAX Experiment**|Dhruv Chouhan et.al.|[2505.07541](http://arxiv.org/abs/2505.07541)|null|
 |**2025-05-12**|**From Brain to Motion: Harnessing Higher-Derivative Mechanics for Neural Control**|O. White et.al.|[2505.07454](http://arxiv.org/abs/2505.07454)|null|
 |**2025-05-12**|**FedIFL: A federated cross-domain diagnostic framework for motor-driven systems with inconsistent fault modes**|Zexiao Wang et.al.|[2505.07315](http://arxiv.org/abs/2505.07315)|null|
