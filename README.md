@@ -2004,6 +2004,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Utilization of noise for the control of a class of non-linear systems**|Adrian-Mihail Stoica et.al.|[2505.08257](http://arxiv.org/abs/2505.08257)|null|
+|**2025-05-12**|**Bridging Large Language Models and Single-Cell Transcriptomics in Dissecting Selective Motor Neuron Vulnerability**|Douglas Jiang et.al.|[2505.07896](http://arxiv.org/abs/2505.07896)|null|
 |**2025-05-12**|**Chronocept: Instilling a Sense of Time in Machines**|Krish Goel et.al.|[2505.07637](http://arxiv.org/abs/2505.07637)|**[link](https://github.com/krishgoel/chronocept-baseline-models)**|
 |**2025-05-12**|**Conceptual Design Report of the SUPAX Experiment**|Dhruv Chouhan et.al.|[2505.07541](http://arxiv.org/abs/2505.07541)|null|
 |**2025-05-12**|**From Brain to Motion: Harnessing Higher-Derivative Mechanics for Neural Control**|O. White et.al.|[2505.07454](http://arxiv.org/abs/2505.07454)|null|
