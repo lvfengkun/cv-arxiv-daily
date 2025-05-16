@@ -1983,6 +1983,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Quad-LCD: Layered Control Decomposition Enables Actuator-Feasible Quadrotor Trajectory Planning**|Anusha Srikanthan et.al.|[2505.10228](http://arxiv.org/abs/2505.10228)|null|
+|**2025-05-15**|**Training People to Reward Robots**|Endong Sun et.al.|[2505.10151](http://arxiv.org/abs/2505.10151)|null|
+|**2025-05-14**|**Visual Feedback of Pattern Separability Improves Myoelectric Decoding Performance of Upper Limb Prostheses**|Ruichen Yang et.al.|[2505.09819](http://arxiv.org/abs/2505.09819)|null|
+|**2025-05-14**|**Neural Associative Skill Memories for safer robotics and modelling human sensorimotor repertoires**|Pranav Mahajan et.al.|[2505.09760](http://arxiv.org/abs/2505.09760)|null|
 |**2025-05-14**|**MrTrack: Register Mamba for Needle Tracking with Rapid Reciprocating Motion during Ultrasound-Guided Aspiration Biopsy**|Yuelin Zhang et.al.|[2505.09450](http://arxiv.org/abs/2505.09450)|null|
 |**2025-05-14**|**Imitation Learning for Adaptive Control of a Virtual Soft Exoglove**|Shirui Lyu et.al.|[2505.09099](http://arxiv.org/abs/2505.09099)|null|
 |**2025-05-13**|**Utilization of noise for the control of a class of non-linear systems**|Adrian-Mihail Stoica et.al.|[2505.08257](http://arxiv.org/abs/2505.08257)|null|
