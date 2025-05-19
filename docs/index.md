@@ -1983,6 +1983,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Learning Multimodal AI Algorithms for Amplifying Limited User Input into High-dimensional Control Space**|Ali Rabiee et.al.|[2505.11366](http://arxiv.org/abs/2505.11366)|null|
+|**2025-05-16**|**Covariance Density Neural Networks**|Om Roy et.al.|[2505.11139](http://arxiv.org/abs/2505.11139)|null|
+|**2025-05-15**|**Modular Robot Control with Motor Primitives**|Moses C. Nah et.al.|[2505.10694](http://arxiv.org/abs/2505.10694)|null|
 |**2025-05-15**|**Quad-LCD: Layered Control Decomposition Enables Actuator-Feasible Quadrotor Trajectory Planning**|Anusha Srikanthan et.al.|[2505.10228](http://arxiv.org/abs/2505.10228)|null|
 |**2025-05-15**|**Training People to Reward Robots**|Endong Sun et.al.|[2505.10151](http://arxiv.org/abs/2505.10151)|null|
 |**2025-05-16**|**Visual Feedback of Pattern Separability Improves Myoelectric Decoding Performance of Upper Limb Prostheses**|Ruichen Yang et.al.|[2505.09819](http://arxiv.org/abs/2505.09819)|null|
