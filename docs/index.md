@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309](http://arxiv.org/abs/2505.13309)|null|
+|**2025-05-18**|**Structureless VIO**|Junlin Song et.al.|[2505.12337](http://arxiv.org/abs/2505.12337)|null|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
 |**2025-05-13**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956](http://arxiv.org/abs/2505.01956)|null|
 |**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562](http://arxiv.org/abs/2504.21562)|null|
@@ -1983,10 +1985,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**PLAICraft: Large-Scale Time-Aligned Vision-Speech-Action Dataset for Embodied AI**|Yingchen He et.al.|[2505.12707](http://arxiv.org/abs/2505.12707)|null|
+|**2025-05-19**|**The Robot of Theseus: A modular robotic testbed for legged locomotion**|Karthik Urs et.al.|[2505.12649](http://arxiv.org/abs/2505.12649)|null|
+|**2025-05-18**|**Development of a non-wearable support robot capable of reproducing natural standing-up movements**|Atsuya Kusui et.al.|[2505.12525](http://arxiv.org/abs/2505.12525)|null|
+|**2025-05-18**|**Design of a 3-DOF Hopping Robot with an Optimized Gearbox: An Intermediate Platform Toward Bipedal Robots**|JongHun Choe et.al.|[2505.12231](http://arxiv.org/abs/2505.12231)|null|
+|**2025-05-18**|**Learning Impact-Rich Rotational Maneuvers via Centroidal Velocity Rewards and Sim-to-Real Techniques: A One-Leg Hopper Flip Case Study**|Dongyun Kang et.al.|[2505.12222](http://arxiv.org/abs/2505.12222)|null|
 |**2025-05-16**|**Learning Multimodal AI Algorithms for Amplifying Limited User Input into High-dimensional Control Space**|Ali Rabiee et.al.|[2505.11366](http://arxiv.org/abs/2505.11366)|null|
 |**2025-05-16**|**Covariance Density Neural Networks**|Om Roy et.al.|[2505.11139](http://arxiv.org/abs/2505.11139)|null|
 |**2025-05-15**|**Modular Robot Control with Motor Primitives**|Moses C. Nah et.al.|[2505.10694](http://arxiv.org/abs/2505.10694)|null|
-|**2025-05-15**|**Quad-LCD: Layered Control Decomposition Enables Actuator-Feasible Quadrotor Trajectory Planning**|Anusha Srikanthan et.al.|[2505.10228](http://arxiv.org/abs/2505.10228)|null|
+|**2025-05-15**|**Quad-LCD: Layered Control Decomposition Enables Actuator-Feasible Quadrotor Trajectory Planning**|Anusha Srikanthan et.al.|[2505.10228](http://arxiv.org/abs/2505.10228)|**[link](https://github.com/Nusha97/Quad-LCD)**|
 |**2025-05-15**|**Training People to Reward Robots**|Endong Sun et.al.|[2505.10151](http://arxiv.org/abs/2505.10151)|null|
 |**2025-05-16**|**Visual Feedback of Pattern Separability Improves Myoelectric Decoding Performance of Upper Limb Prostheses**|Ruichen Yang et.al.|[2505.09819](http://arxiv.org/abs/2505.09819)|null|
 |**2025-05-14**|**Neural Associative Skill Memories for safer robotics and modelling human sensorimotor repertoires**|Pranav Mahajan et.al.|[2505.09760](http://arxiv.org/abs/2505.09760)|null|
