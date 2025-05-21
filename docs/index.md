@@ -1985,6 +1985,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**From the perceptron to the cerebellum**|Nicolas Brunel et.al.|[2505.14355](http://arxiv.org/abs/2505.14355)|null|
+|**2025-05-20**|**Robotic Monitoring of Colorimetric Leaf Sensors for Precision Agriculture**|Malakhi Hopkins et.al.|[2505.13916](http://arxiv.org/abs/2505.13916)|null|
+|**2025-05-20**|**Duawlfin: A Drone with Unified Actuation for Wheeled Locomotion and Flight Operation**|Jerry Tang et.al.|[2505.13836](http://arxiv.org/abs/2505.13836)|null|
+|**2025-05-19**|**Reduced Muscle Fatigue Using Continuous Subthreshold Kilohertz Stimulation of Peripheral Nerves**|Long Meng et.al.|[2505.13690](http://arxiv.org/abs/2505.13690)|null|
+|**2025-05-19**|**Learning Dynamics of RNNs in Closed-Loop Environments**|Yoav Ger et.al.|[2505.13567](http://arxiv.org/abs/2505.13567)|null|
 |**2025-05-19**|**PLAICraft: Large-Scale Time-Aligned Vision-Speech-Action Dataset for Embodied AI**|Yingchen He et.al.|[2505.12707](http://arxiv.org/abs/2505.12707)|null|
 |**2025-05-19**|**The Robot of Theseus: A modular robotic testbed for legged locomotion**|Karthik Urs et.al.|[2505.12649](http://arxiv.org/abs/2505.12649)|null|
 |**2025-05-18**|**Development of a non-wearable support robot capable of reproducing natural standing-up movements**|Atsuya Kusui et.al.|[2505.12525](http://arxiv.org/abs/2505.12525)|null|
