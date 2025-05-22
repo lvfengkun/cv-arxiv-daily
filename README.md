@@ -2006,6 +2006,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**World Models as Reference Trajectories for Rapid Motor Adaptation**|Carlos Stein Brito et.al.|[2505.15589](http://arxiv.org/abs/2505.15589)|null|
+|**2025-05-21**|**On the Relevance of Clinical Assessment Tasks for the Automatic Detection of Parkinson's Disease Medication State from Speech**|David Gimeno-Gómez et.al.|[2505.15378](http://arxiv.org/abs/2505.15378)|null|
 |**2025-05-20**|**From the perceptron to the cerebellum**|Nicolas Brunel et.al.|[2505.14355](http://arxiv.org/abs/2505.14355)|null|
 |**2025-05-20**|**Robotic Monitoring of Colorimetric Leaf Sensors for Precision Agriculture**|Malakhi Hopkins et.al.|[2505.13916](http://arxiv.org/abs/2505.13916)|null|
 |**2025-05-20**|**Duawlfin: A Drone with Unified Actuation for Wheeled Locomotion and Flight Operation**|Jerry Tang et.al.|[2505.13836](http://arxiv.org/abs/2505.13836)|null|
