@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1989,11 +1989,11 @@ layout: default
 |**2025-05-20**|**Robotic Monitoring of Colorimetric Leaf Sensors for Precision Agriculture**|Malakhi Hopkins et.al.|[2505.13916](http://arxiv.org/abs/2505.13916)|null|
 |**2025-05-20**|**Duawlfin: A Drone with Unified Actuation for Wheeled Locomotion and Flight Operation**|Jerry Tang et.al.|[2505.13836](http://arxiv.org/abs/2505.13836)|null|
 |**2025-05-19**|**Reduced Muscle Fatigue Using Continuous Subthreshold Kilohertz Stimulation of Peripheral Nerves**|Long Meng et.al.|[2505.13690](http://arxiv.org/abs/2505.13690)|null|
-|**2025-05-19**|**Learning Dynamics of RNNs in Closed-Loop Environments**|Yoav Ger et.al.|[2505.13567](http://arxiv.org/abs/2505.13567)|null|
+|**2025-05-19**|**Learning Dynamics of RNNs in Closed-Loop Environments**|Yoav Ger et.al.|[2505.13567](http://arxiv.org/abs/2505.13567)|**[link](https://github.com/yoavger/closed_loop_rnn_learning_dynamics)**|
 |**2025-05-19**|**PLAICraft: Large-Scale Time-Aligned Vision-Speech-Action Dataset for Embodied AI**|Yingchen He et.al.|[2505.12707](http://arxiv.org/abs/2505.12707)|null|
 |**2025-05-19**|**The Robot of Theseus: A modular robotic testbed for legged locomotion**|Karthik Urs et.al.|[2505.12649](http://arxiv.org/abs/2505.12649)|null|
 |**2025-05-18**|**Development of a non-wearable support robot capable of reproducing natural standing-up movements**|Atsuya Kusui et.al.|[2505.12525](http://arxiv.org/abs/2505.12525)|null|
-|**2025-05-18**|**Design of a 3-DOF Hopping Robot with an Optimized Gearbox: An Intermediate Platform Toward Bipedal Robots**|JongHun Choe et.al.|[2505.12231](http://arxiv.org/abs/2505.12231)|null|
+|**2025-05-21**|**Design of a 3-DOF Hopping Robot with an Optimized Gearbox: An Intermediate Platform Toward Bipedal Robots**|JongHun Choe et.al.|[2505.12231](http://arxiv.org/abs/2505.12231)|null|
 |**2025-05-20**|**Learning Impact-Rich Rotational Maneuvers via Centroidal Velocity Rewards and Sim-to-Real Techniques: A One-Leg Hopper Flip Case Study**|Dongyun Kang et.al.|[2505.12222](http://arxiv.org/abs/2505.12222)|null|
 |**2025-05-16**|**Learning Multimodal AI Algorithms for Amplifying Limited User Input into High-dimensional Control Space**|Ali Rabiee et.al.|[2505.11366](http://arxiv.org/abs/2505.11366)|null|
 |**2025-05-16**|**Covariance Density Neural Networks**|Om Roy et.al.|[2505.11139](http://arxiv.org/abs/2505.11139)|null|
