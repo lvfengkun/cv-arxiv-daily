@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1985,6 +1985,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**Meta-reinforcement learning with minimum attention**|Pilhwa Lee et.al.|[2505.16741](http://arxiv.org/abs/2505.16741)|null|
+|**2025-05-22**|**Data Center Model for Transient Stability Analysis of Power Systems**|Alberto Jimenez-Ruiz et.al.|[2505.16575](http://arxiv.org/abs/2505.16575)|null|
+|**2025-05-21**|**Accurate Angle-Resolved Raman Spectroscopy Methodology: Quantifying the Dichroic Edge Filter Effect**|Tehseen Adel et.al.|[2505.16063](http://arxiv.org/abs/2505.16063)|null|
 |**2025-05-21**|**World Models as Reference Trajectories for Rapid Motor Adaptation**|Carlos Stein Brito et.al.|[2505.15589](http://arxiv.org/abs/2505.15589)|null|
 |**2025-05-21**|**On the Relevance of Clinical Assessment Tasks for the Automatic Detection of Parkinson's Disease Medication State from Speech**|David Gimeno-Gómez et.al.|[2505.15378](http://arxiv.org/abs/2505.15378)|null|
 |**2025-05-20**|**From the perceptron to the cerebellum**|Nicolas Brunel et.al.|[2505.14355](http://arxiv.org/abs/2505.14355)|null|
