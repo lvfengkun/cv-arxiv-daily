@@ -1985,6 +1985,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras**|Masataka Kobayashi et.al.|[2505.17582](http://arxiv.org/abs/2505.17582)|null|
+|**2025-05-23**|**Research on Defect Detection Method of Motor Control Board Based on Image Processing**|Jingde Huang et.al.|[2505.17493](http://arxiv.org/abs/2505.17493)|null|
+|**2025-05-23**|**Autonomous Circular Drift Control for 4WD-4WS Vehicles Without Precomputed Drifting Equilibrium**|Yue Xiao et.al.|[2505.17487](http://arxiv.org/abs/2505.17487)|null|
+|**2025-05-22**|**Acceleration of enzymatic reaction-diffusion kinetics by intermediate state**|Akihiro Fukuda et.al.|[2505.17130](http://arxiv.org/abs/2505.17130)|null|
 |**2025-05-22**|**Meta-reinforcement learning with minimum attention**|Pilhwa Lee et.al.|[2505.16741](http://arxiv.org/abs/2505.16741)|null|
 |**2025-05-22**|**Data Center Model for Transient Stability Analysis of Power Systems**|Alberto Jimenez-Ruiz et.al.|[2505.16575](http://arxiv.org/abs/2505.16575)|null|
 |**2025-05-21**|**Accurate Angle-Resolved Raman Spectroscopy Methodology: Quantifying the Dichroic Edge Filter Effect**|Tehseen Adel et.al.|[2505.16063](http://arxiv.org/abs/2505.16063)|null|
