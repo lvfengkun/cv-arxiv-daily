@@ -2006,6 +2006,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-25**|**Reduce Computational Cost In Deep Reinforcement Learning Via Randomized Policy Learning**|Zhuochen Liu et.al.|[2505.19054](http://arxiv.org/abs/2505.19054)|null|
+|**2025-05-24**|**Literature review on assistive technologies for people with Parkinson's disease**|Subek Acharya et.al.|[2505.18862](http://arxiv.org/abs/2505.18862)|null|
+|**2025-05-23**|**MorphEUS: Morphable Omnidirectional Unmanned System**|Ivan Bao et.al.|[2505.18270](http://arxiv.org/abs/2505.18270)|null|
 |**2025-05-23**|**Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras**|Masataka Kobayashi et.al.|[2505.17582](http://arxiv.org/abs/2505.17582)|null|
 |**2025-05-23**|**Research on Defect Detection Method of Motor Control Board Based on Image Processing**|Jingde Huang et.al.|[2505.17493](http://arxiv.org/abs/2505.17493)|null|
 |**2025-05-23**|**Autonomous Circular Drift Control for 4WD-4WS Vehicles Without Precomputed Drifting Equilibrium**|Yue Xiao et.al.|[2505.17487](http://arxiv.org/abs/2505.17487)|null|
