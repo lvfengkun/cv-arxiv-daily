@@ -1985,6 +1985,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**MRSD: Multi-Resolution Skill Discovery for HRL Agents**|Shashank Sharma et.al.|[2505.21410](http://arxiv.org/abs/2505.21410)|null|
+|**2025-05-27**|**Object-Centric Action-Enhanced Representations for Robot Visuo-Motor Policy Learning**|Nikos Giannakakis et.al.|[2505.20962](http://arxiv.org/abs/2505.20962)|null|
 |**2025-05-25**|**Reduce Computational Cost In Deep Reinforcement Learning Via Randomized Policy Learning**|Zhuochen Liu et.al.|[2505.19054](http://arxiv.org/abs/2505.19054)|null|
 |**2025-05-24**|**Literature review on assistive technologies for people with Parkinson's disease**|Subek Acharya et.al.|[2505.18862](http://arxiv.org/abs/2505.18862)|null|
 |**2025-05-23**|**MorphEUS: Morphable Omnidirectional Unmanned System**|Ivan Bao et.al.|[2505.18270](http://arxiv.org/abs/2505.18270)|null|
