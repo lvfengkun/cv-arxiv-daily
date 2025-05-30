@@ -1985,6 +1985,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Interturn Fault Detection in IPMSMs: Two Adaptive Observer-based Solutions**|Romeo Ortega et.al.|[2505.23125](http://arxiv.org/abs/2505.23125)|null|
+|**2025-05-29**|**Bi-Residual Neural Network based Synchronous Motor Electrical Faults Diagnosis: Intra-link Layer Design for High-frequency Features**|Qianchao Wang et.al.|[2505.23097](http://arxiv.org/abs/2505.23097)|null|
+|**2025-05-28**|**Spring-Brake! Handed Shearing Auxetics Improve Efficiency of Hopping and Standing**|Joseph Sullivan et.al.|[2505.22898](http://arxiv.org/abs/2505.22898)|null|
+|**2025-05-28**|**The global communication pathways of the human brain transcend the cortical-subcortical-cerebellar division**|Julian Schulte et.al.|[2505.22893](http://arxiv.org/abs/2505.22893)|null|
+|**2025-05-28**|**Early Assessment of Artificial Lower Extremity Sensory Response Times and Proprioceptive Acuity via Sensory Cortex Electrical Stimulation**|Won Joon Sohn et.al.|[2505.22691](http://arxiv.org/abs/2505.22691)|null|
 |**2025-05-27**|**MRSD: Multi-Resolution Skill Discovery for HRL Agents**|Shashank Sharma et.al.|[2505.21410](http://arxiv.org/abs/2505.21410)|null|
 |**2025-05-27**|**Object-Centric Action-Enhanced Representations for Robot Visuo-Motor Policy Learning**|Nikos Giannakakis et.al.|[2505.20962](http://arxiv.org/abs/2505.20962)|null|
 |**2025-05-25**|**Reduce Computational Cost In Deep Reinforcement Learning Via Randomized Policy Learning**|Zhuochen Liu et.al.|[2505.19054](http://arxiv.org/abs/2505.19054)|null|
