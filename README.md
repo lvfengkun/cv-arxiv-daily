@@ -2006,6 +2006,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**|Yaxin Luo et.al.|[2505.24878](http://arxiv.org/abs/2505.24878)|null|
+|**2025-05-30**|**6D Pose Estimation on Point Cloud Data through Prior Knowledge Integration: A Case Study in Autonomous Disassembly**|Chengzhi Wu et.al.|[2505.24669](http://arxiv.org/abs/2505.24669)|null|
+|**2025-05-30**|**Weak but influential: Nonlinear contributions of structural connectivity to human cognitive abilities and brain functions**|Rong Wang et.al.|[2505.24125](http://arxiv.org/abs/2505.24125)|null|
+|**2025-05-29**|**Advancing Digital Accessibility In Digital Pharmacy, Healthcare, And Wearable Devices: Inclusive Solutions for Enhanced Patient Engagement**|Vishnu Ramineni et.al.|[2505.24042](http://arxiv.org/abs/2505.24042)|null|
+|**2025-05-29**|**Advancing Digital Accessibility: Integrating AR/VR and Health Tech for Inclusive Healthcare Solutions**|Vishnu Ramineni et.al.|[2505.24039](http://arxiv.org/abs/2505.24039)|null|
+|**2025-05-29**|**Multi-output Classification using a Cross-talk Architecture for Compound Fault Diagnosis of Motors in Partially Labeled Condition**|Wonjun Yi et.al.|[2505.24001](http://arxiv.org/abs/2505.24001)|null|
 |**2025-05-29**|**Interturn Fault Detection in IPMSMs: Two Adaptive Observer-based Solutions**|Romeo Ortega et.al.|[2505.23125](http://arxiv.org/abs/2505.23125)|null|
 |**2025-05-29**|**Bi-Residual Neural Network based Synchronous Motor Electrical Faults Diagnosis: Intra-link Layer Design for High-frequency Features**|Qianchao Wang et.al.|[2505.23097](http://arxiv.org/abs/2505.23097)|null|
 |**2025-05-28**|**Spring-Brake! Handed Shearing Auxetics Improve Efficiency of Hopping and Standing**|Joseph Sullivan et.al.|[2505.22898](http://arxiv.org/abs/2505.22898)|null|
