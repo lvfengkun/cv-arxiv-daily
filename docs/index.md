@@ -1985,6 +1985,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-02**|**LoL-NMPC: Low-Level Dynamics Integration in Nonlinear Model Predictive Control for Unmanned Aerial Vehicles**|Parakh M. Gupta et.al.|[2506.02169](http://arxiv.org/abs/2506.02169)|null|
+|**2025-06-02**|**A meaningful prediction of functional decline in amyotrophic lateral sclerosis based on multi-event survival analysis**|Christian Marius Lillelund et.al.|[2506.02076](http://arxiv.org/abs/2506.02076)|null|
+|**2025-05-30**|**High-throughput viscometry via machine-learning from videos of inverted vials**|Ignacio Arretche et.al.|[2506.02034](http://arxiv.org/abs/2506.02034)|null|
+|**2025-06-02**|**Coarse-graining dynamics to maximize irreversibility**|Qiwei Yu et.al.|[2506.01909](http://arxiv.org/abs/2506.01909)|null|
+|**2025-06-02**|**EEG Foundation Models for BCI Learn Diverse Features of Electrophysiology**|Mattson Ogg et.al.|[2506.01867](http://arxiv.org/abs/2506.01867)|null|
+|**2025-06-02**|**Lipschitz-Free Mirror Descent Methods for Non-Smooth Optimization Problems**|Bowen Yuan et.al.|[2506.01681](http://arxiv.org/abs/2506.01681)|null|
+|**2025-06-02**|**EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models**|Andy Bonnetto et.al.|[2506.01608](http://arxiv.org/abs/2506.01608)|null|
+|**2025-06-02**|**Driving factors of auditory category learning success**|Nan Wang et.al.|[2506.01508](http://arxiv.org/abs/2506.01508)|null|
+|**2025-06-01**|**MOOSE: Pay Attention to Temporal Dynamics for Video Understanding via Optical Flows**|Hong Nguyen et.al.|[2506.01119](http://arxiv.org/abs/2506.01119)|null|
+|**2025-05-31**|**Towards Temporally Explainable Dysarthric Speech Clarity Assessment**|Seohyun Park et.al.|[2506.00454](http://arxiv.org/abs/2506.00454)|null|
 |**2025-05-30**|**Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**|Yaxin Luo et.al.|[2505.24878](http://arxiv.org/abs/2505.24878)|null|
 |**2025-05-30**|**6D Pose Estimation on Point Cloud Data through Prior Knowledge Integration: A Case Study in Autonomous Disassembly**|Chengzhi Wu et.al.|[2505.24669](http://arxiv.org/abs/2505.24669)|null|
 |**2025-05-30**|**Weak but influential: Nonlinear contributions of structural connectivity to human cognitive abilities and brain functions**|Rong Wang et.al.|[2505.24125](http://arxiv.org/abs/2505.24125)|null|
