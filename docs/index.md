@@ -1985,6 +1985,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Frame-Level Real-Time Assessment of Stroke Rehabilitation Exercises from Video-Level Labeled Data: Task-Specific vs. Foundation Models**|Gonçalo Mesquita et.al.|[2506.03752](http://arxiv.org/abs/2506.03752)|null|
+|**2025-06-03**|**Sub-Scalp EEG for Sensorimotor Brain-Computer Interface**|Timothy B Mahoney et.al.|[2506.03423](http://arxiv.org/abs/2506.03423)|null|
 |**2025-06-02**|**LoL-NMPC: Low-Level Dynamics Integration in Nonlinear Model Predictive Control for Unmanned Aerial Vehicles**|Parakh M. Gupta et.al.|[2506.02169](http://arxiv.org/abs/2506.02169)|null|
 |**2025-06-02**|**A meaningful prediction of functional decline in amyotrophic lateral sclerosis based on multi-event survival analysis**|Christian Marius Lillelund et.al.|[2506.02076](http://arxiv.org/abs/2506.02076)|null|
 |**2025-05-30**|**High-throughput viscometry via machine-learning from videos of inverted vials**|Ignacio Arretche et.al.|[2506.02034](http://arxiv.org/abs/2506.02034)|null|
