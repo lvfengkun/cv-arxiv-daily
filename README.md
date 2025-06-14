@@ -2017,7 +2017,7 @@
 |**2025-06-10**|**Learning to Hear Broken Motors: Signature-Guided Data Augmentation for Induction-Motor Diagnostics**|Saraa Ali et.al.|[2506.08412](http://arxiv.org/abs/2506.08412)|null|
 |**2025-06-09**|**Surgeon Style Fingerprinting and Privacy Risk Quantification via Discrete Diffusion Models in a Vision-Language-Action Framework**|Huixin Zhan et.al.|[2506.08185](http://arxiv.org/abs/2506.08185)|null|
 |**2025-06-06**|**AI Magnetic Levitation (Maglev) Conveyor for Automated Assembly Production**|Ray Wai Man Kong et.al.|[2506.08039](http://arxiv.org/abs/2506.08039)|null|
-|**2025-06-09**|**Dataset combining EEG, eye-tracking, and high-speed video for ocular activity analysis across BCI paradigms**|E. Guttmann-Flury et.al.|[2506.07488](http://arxiv.org/abs/2506.07488)|null|
+|**2025-06-09**|**Dataset combining EEG, eye-tracking, and high-speed video for ocular activity analysis across BCI paradigms**|E. Guttmann-Flury et.al.|[2506.07488](http://arxiv.org/abs/2506.07488)|**[link](https://github.com/qinxinlan/eeg-experiment-to-understand-differences-in-blinking)**|
 |**2025-06-09**|**Decoding Saccadic Eye Movements from Brain Signals Using an Endovascular Neural Interface**|Suleman Rasheed et.al.|[2506.07481](http://arxiv.org/abs/2506.07481)|null|
 |**2025-06-06**|**Technical Report for Egocentric Mistake Detection for the HoloAssist Challenge**|Constantin Patsch et.al.|[2506.06174](http://arxiv.org/abs/2506.06174)|null|
 |**2025-06-05**|**Generalizable, real-time neural decoding with hybrid state-space models**|Avery Hee-Woon Ryoo et.al.|[2506.05320](http://arxiv.org/abs/2506.05320)|null|
