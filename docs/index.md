@@ -1989,6 +1989,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**SIMSHIFT: A Benchmark for Adapting Neural Surrogates to Distribution Shifts**|Paul Setinek et.al.|[2506.12007](http://arxiv.org/abs/2506.12007)|null|
+|**2025-06-13**|**mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity**|Elvis Nava et.al.|[2506.11916](http://arxiv.org/abs/2506.11916)|null|
+|**2025-06-13**|**CLEAN-MI: A Scalable and Efficient Pipeline for Constructing High-Quality Neurodata in Motor Imagery Paradigm**|Dingkun Liu et.al.|[2506.11830](http://arxiv.org/abs/2506.11830)|null|
 |**2025-06-11**|**Exploring EEG Responses during Observation of Actions Performed by Human Actor and Humanoid Robot**|Anh T. Nguyen et.al.|[2506.10170](http://arxiv.org/abs/2506.10170)|null|
 |**2025-06-11**|**Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation**|Wenbo Zhang et.al.|[2506.09990](http://arxiv.org/abs/2506.09990)|null|
 |**2025-06-11**|**From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models**|Irving Fang et.al.|[2506.09930](http://arxiv.org/abs/2506.09930)|null|
