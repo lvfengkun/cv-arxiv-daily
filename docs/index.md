@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1997,7 +1997,7 @@ layout: default
 |**2025-06-11**|**From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models**|Irving Fang et.al.|[2506.09930](http://arxiv.org/abs/2506.09930)|null|
 |**2025-06-10**|**The Predictive Brain: Neural Correlates of Word Expectancy Align with Large Language Model Prediction Probabilities**|Nikola Kölbl et.al.|[2506.08511](http://arxiv.org/abs/2506.08511)|null|
 |**2025-06-10**|**Learning to Hear Broken Motors: Signature-Guided Data Augmentation for Induction-Motor Diagnostics**|Saraa Ali et.al.|[2506.08412](http://arxiv.org/abs/2506.08412)|null|
-|**2025-06-09**|**Surgeon Style Fingerprinting and Privacy Risk Quantification via Discrete Diffusion Models in a Vision-Language-Action Framework**|Huixin Zhan et.al.|[2506.08185](http://arxiv.org/abs/2506.08185)|null|
+|**2025-06-14**|**Agentic Surgical AI: Surgeon Style Fingerprinting and Privacy Risk Quantification via Discrete Diffusion in a Vision-Language-Action Framework**|Huixin Zhan et.al.|[2506.08185](http://arxiv.org/abs/2506.08185)|**[link](https://github.com/huixin-zhan-ai/surgeon_style_fingerprinting)**|
 |**2025-06-06**|**AI Magnetic Levitation (Maglev) Conveyor for Automated Assembly Production**|Ray Wai Man Kong et.al.|[2506.08039](http://arxiv.org/abs/2506.08039)|null|
 |**2025-06-09**|**Dataset combining EEG, eye-tracking, and high-speed video for ocular activity analysis across BCI paradigms**|E. Guttmann-Flury et.al.|[2506.07488](http://arxiv.org/abs/2506.07488)|**[link](https://github.com/qinxinlan/eeg-experiment-to-understand-differences-in-blinking)**|
 |**2025-06-09**|**Decoding Saccadic Eye Movements from Brain Signals Using an Endovascular Neural Interface**|Suleman Rasheed et.al.|[2506.07481](http://arxiv.org/abs/2506.07481)|null|
