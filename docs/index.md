@@ -19,7 +19,7 @@ layout: default
 |**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013](http://arxiv.org/abs/2506.07013)|null|
 |**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|null|
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309](http://arxiv.org/abs/2505.13309)|null|
-|**2025-05-18**|**Structureless VIO**|Junlin Song et.al.|[2505.12337](http://arxiv.org/abs/2505.12337)|null|
+|**2025-06-16**|**Structureless VIO**|Junlin Song et.al.|[2505.12337](http://arxiv.org/abs/2505.12337)|null|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
 |**2025-05-13**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956](http://arxiv.org/abs/2505.01956)|null|
 |**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562](http://arxiv.org/abs/2504.21562)|null|
@@ -1989,6 +1989,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Realtime-Capable Hybrid Spiking Neural Networks for Neural Decoding of Cortical Activity**|Jann Krausse et.al.|[2506.13400](http://arxiv.org/abs/2506.13400)|null|
+|**2025-06-16**|**NeuroPhysNet: A FitzHugh-Nagumo-Based Physics-Informed Neural Network Framework for Electroencephalograph (EEG) Analysis and Motor Imagery Classification**|Zhenyu Xia et.al.|[2506.13222](http://arxiv.org/abs/2506.13222)|null|
+|**2025-06-16**|**A Novel ViDAR Device With Visual Inertial Encoder Odometry and Reinforcement Learning-Based Active SLAM Method**|Zhanhua Xin et.al.|[2506.13100](http://arxiv.org/abs/2506.13100)|null|
+|**2025-06-15**|**Frequency Dynamic Convolutions for Sound Event Detection**|Hyeonuk Nam et.al.|[2506.12785](http://arxiv.org/abs/2506.12785)|null|
+|**2025-06-14**|**Explosive Output to Enhance Jumping Ability: A Variable Reduction Ratio Design Paradigm for Humanoid Robots Knee Joint**|Xiaoshuai Ma et.al.|[2506.12314](http://arxiv.org/abs/2506.12314)|null|
 |**2025-06-13**|**SIMSHIFT: A Benchmark for Adapting Neural Surrogates to Distribution Shifts**|Paul Setinek et.al.|[2506.12007](http://arxiv.org/abs/2506.12007)|null|
 |**2025-06-13**|**mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity**|Elvis Nava et.al.|[2506.11916](http://arxiv.org/abs/2506.11916)|null|
 |**2025-06-13**|**CLEAN-MI: A Scalable and Efficient Pipeline for Constructing High-Quality Neurodata in Motor Imagery Paradigm**|Dingkun Liu et.al.|[2506.11830](http://arxiv.org/abs/2506.11830)|null|
