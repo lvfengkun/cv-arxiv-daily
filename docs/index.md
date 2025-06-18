@@ -1989,6 +1989,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Learning From the Past with Cascading Eligibility Traces**|Tokiniaina Raharison Ralambomihanta et.al.|[2506.14598](http://arxiv.org/abs/2506.14598)|null|
+|**2025-06-17**|**Lasso Gripper: A String Shooting-Retracting Mechanism for Shape-Adaptive Grasping**|Qiyuan Qiao et.al.|[2506.14163](http://arxiv.org/abs/2506.14163)|null|
+|**2025-06-16**|**Quadrotor Morpho-Transition: Learning vs Model-Based Control Strategies**|Ioannis Mandralis et.al.|[2506.14039](http://arxiv.org/abs/2506.14039)|null|
+|**2025-06-16**|**Harnessing the "Reactive Falling Effect" for rehabilitation and performance boosting**|Paul-Emmanuel Sornette et.al.|[2506.13959](http://arxiv.org/abs/2506.13959)|null|
 |**2025-06-16**|**Realtime-Capable Hybrid Spiking Neural Networks for Neural Decoding of Cortical Activity**|Jann Krausse et.al.|[2506.13400](http://arxiv.org/abs/2506.13400)|null|
 |**2025-06-16**|**NeuroPhysNet: A FitzHugh-Nagumo-Based Physics-Informed Neural Network Framework for Electroencephalograph (EEG) Analysis and Motor Imagery Classification**|Zhenyu Xia et.al.|[2506.13222](http://arxiv.org/abs/2506.13222)|null|
 |**2025-06-16**|**A Novel ViDAR Device With Visual Inertial Encoder Odometry and Reinforcement Learning-Based Active SLAM Method**|Zhanhua Xin et.al.|[2506.13100](http://arxiv.org/abs/2506.13100)|null|
