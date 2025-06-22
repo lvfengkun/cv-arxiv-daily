@@ -1995,7 +1995,7 @@ layout: default
 |**2025-06-18**|**A Force Feedback Exoskeleton for Teleoperation Using Magnetorheological Clutches**|Zhongyuan Kong et.al.|[2506.15124](http://arxiv.org/abs/2506.15124)|null|
 |**2025-06-17**|**Learning From the Past with Cascading Eligibility Traces**|Tokiniaina Raharison Ralambomihanta et.al.|[2506.14598](http://arxiv.org/abs/2506.14598)|null|
 |**2025-06-17**|**Lasso Gripper: A String Shooting-Retracting Mechanism for Shape-Adaptive Grasping**|Qiyuan Qiao et.al.|[2506.14163](http://arxiv.org/abs/2506.14163)|**[link](https://github.com/qiaoqy/lasso_gripper)**|
-|**2025-06-16**|**Quadrotor Morpho-Transition: Learning vs Model-Based Control Strategies**|Ioannis Mandralis et.al.|[2506.14039](http://arxiv.org/abs/2506.14039)|null|
+|**2025-06-16**|**Quadrotor Morpho-Transition: Learning vs Model-Based Control Strategies**|Ioannis Mandralis et.al.|[2506.14039](http://arxiv.org/abs/2506.14039)|**[link](https://github.com/mandralis/isaaclab)**|
 |**2025-06-16**|**Harnessing the "Reactive Falling Effect" for rehabilitation and performance boosting**|Paul-Emmanuel Sornette et.al.|[2506.13959](http://arxiv.org/abs/2506.13959)|null|
 |**2025-06-16**|**Realtime-Capable Hybrid Spiking Neural Networks for Neural Decoding of Cortical Activity**|Jann Krausse et.al.|[2506.13400](http://arxiv.org/abs/2506.13400)|null|
 |**2025-06-16**|**NeuroPhysNet: A FitzHugh-Nagumo-Based Physics-Informed Neural Network Framework for Electroencephalograph (EEG) Analysis and Motor Imagery Classification**|Zhenyu Xia et.al.|[2506.13222](http://arxiv.org/abs/2506.13222)|null|
