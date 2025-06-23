@@ -2010,6 +2010,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**IsoNet: Causal Analysis of Multimodal Transformers for Neuromuscular Gesture Classification**|Eion Tyacke et.al.|[2506.16744](http://arxiv.org/abs/2506.16744)|null|
+|**2025-06-19**|**Closed-Loop Control of Electrical Stimulation through Spared Motor Unit Ensembles Restores Foot Movements after Spinal Cord Injury**|Vlad Cnejevici et.al.|[2506.16468](http://arxiv.org/abs/2506.16468)|null|
+|**2025-06-19**|**Comparison between External and Internal Single Stage Planetary gearbox actuators for legged robots**|Aman Singh et.al.|[2506.16356](http://arxiv.org/abs/2506.16356)|null|
+|**2025-06-19**|**Human-Centered Shared Autonomy for Motor Planning, Learning, and Control Applications**|MH Farhadi et.al.|[2506.16044](http://arxiv.org/abs/2506.16044)|null|
+|**2025-06-19**|**Quantification of Information Flow by Dual Reporter System and Its Application to Bacterial Chemotaxis**|Kento Nakamura et.al.|[2506.15957](http://arxiv.org/abs/2506.15957)|null|
 |**2025-06-18**|**Learning Task-Agnostic Skill Bases to Uncover Motor Primitives in Animal Behaviors**|Jiyi Wang et.al.|[2506.15190](http://arxiv.org/abs/2506.15190)|null|
 |**2025-06-18**|**Accessible Gesture-Driven Augmented Reality Interaction System**|Yikan Wang et.al.|[2506.15189](http://arxiv.org/abs/2506.15189)|null|
 |**2025-06-18**|**Determination of Optimum Warranty Region for Two Dimensional Dependent Data**|Rathin Das et.al.|[2506.15152](http://arxiv.org/abs/2506.15152)|null|
