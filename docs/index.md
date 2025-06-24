@@ -1989,6 +1989,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-22**|**Newtonian and Lagrangian Neural Networks: A Comparison Towards Efficient Inverse Dynamics Identification**|Minh Trinh et.al.|[2506.17994](http://arxiv.org/abs/2506.17994)|null|
+|**2025-06-22**|**One Does Not Simply 'Mm-hmm': Exploring Backchanneling in the AAC Micro-Culture**|Tobias Weinberg et.al.|[2506.17890](http://arxiv.org/abs/2506.17890)|null|
+|**2025-06-20**|**Learning golf swing signatures from a single wrist-worn inertial sensor**|Jessy Lauer et.al.|[2506.17505](http://arxiv.org/abs/2506.17505)|null|
 |**2025-06-20**|**IsoNet: Causal Analysis of Multimodal Transformers for Neuromuscular Gesture Classification**|Eion Tyacke et.al.|[2506.16744](http://arxiv.org/abs/2506.16744)|null|
 |**2025-06-19**|**Closed-Loop Control of Electrical Stimulation through Spared Motor Unit Ensembles Restores Foot Movements after Spinal Cord Injury**|Vlad Cnejevici et.al.|[2506.16468](http://arxiv.org/abs/2506.16468)|null|
 |**2025-06-19**|**Comparison between External and Internal Single Stage Planetary gearbox actuators for legged robots**|Aman Singh et.al.|[2506.16356](http://arxiv.org/abs/2506.16356)|null|
