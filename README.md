@@ -2010,6 +2010,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Simulation of Flagellated Bacteria Near a Solid Surface: Effects of Flagellar Morphology and Ionic Strength**|Baopi Liu et.al.|[2506.19271](http://arxiv.org/abs/2506.19271)|null|
+|**2025-06-23**|**AgenticControl: An Automated Control Design Framework Using Large Language Models**|Mohammad Narimani et.al.|[2506.19160](http://arxiv.org/abs/2506.19160)|null|
+|**2025-06-19**|**Interpretable and Granular Video-Based Quantification of Motor Characteristics from the Finger Tapping Test in Parkinson Disease**|Tahereh Zarrat Ehsan et.al.|[2506.18925](http://arxiv.org/abs/2506.18925)|null|
 |**2025-06-22**|**Newtonian and Lagrangian Neural Networks: A Comparison Towards Efficient Inverse Dynamics Identification**|Minh Trinh et.al.|[2506.17994](http://arxiv.org/abs/2506.17994)|null|
 |**2025-06-22**|**One Does Not Simply 'Mm-hmm': Exploring Backchanneling in the AAC Micro-Culture**|Tobias Weinberg et.al.|[2506.17890](http://arxiv.org/abs/2506.17890)|null|
 |**2025-06-20**|**Learning golf swing signatures from a single wrist-worn inertial sensor**|Jessy Lauer et.al.|[2506.17505](http://arxiv.org/abs/2506.17505)|null|
