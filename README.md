@@ -26,7 +26,7 @@
 |**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang et.al.|[2506.09278](http://arxiv.org/abs/2506.09278)|null|
 |**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005](http://arxiv.org/abs/2506.08005)|null|
 |**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013](http://arxiv.org/abs/2506.07013)|null|
-|**2025-06-23**|**cuVSLAM: CUDA accelerated visual odometry and mapping**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|null|
+|**2025-06-23**|**cuVSLAM: CUDA accelerated visual odometry and mapping**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|**[link](https://github.com/nvlabs/pycuvslam)**|
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309](http://arxiv.org/abs/2505.13309)|null|
 |**2025-06-16**|**Structureless VIO**|Junlin Song et.al.|[2505.12337](http://arxiv.org/abs/2505.12337)|null|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
@@ -2010,6 +2010,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**Behavior Foundation Model: Towards Next-Generation Whole-Body Control System of Humanoid Robots**|Mingqi Yuan et.al.|[2506.20487](http://arxiv.org/abs/2506.20487)|null|
 |**2025-06-24**|**Simulation of Flagellated Bacteria Near a Solid Surface: Effects of Flagellar Morphology and Ionic Strength**|Baopi Liu et.al.|[2506.19271](http://arxiv.org/abs/2506.19271)|null|
 |**2025-06-23**|**AgenticControl: An Automated Control Design Framework Using Large Language Models**|Mohammad Narimani et.al.|[2506.19160](http://arxiv.org/abs/2506.19160)|null|
 |**2025-06-19**|**Interpretable and Granular Video-Based Quantification of Motor Characteristics from the Finger Tapping Test in Parkinson Disease**|Tahereh Zarrat Ehsan et.al.|[2506.18925](http://arxiv.org/abs/2506.18925)|null|
