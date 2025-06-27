@@ -2010,6 +2010,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**AGTCNet: A Graph-Temporal Approach for Principled Motor Imagery EEG Classification**|Galvin Brice S. Lim et.al.|[2506.21338](http://arxiv.org/abs/2506.21338)|null|
+|**2025-06-26**|**DBConformer: Dual-Branch Convolutional Transformer for EEG Decoding**|Ziwei Wang et.al.|[2506.21140](http://arxiv.org/abs/2506.21140)|null|
+|**2025-06-26**|**Modeling active nematics via the nematic locking principle**|Kevin A. Mitchell et.al.|[2506.20996](http://arxiv.org/abs/2506.20996)|null|
+|**2025-06-26**|**Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends**|Tian-Yu Xiang et.al.|[2506.20966](http://arxiv.org/abs/2506.20966)|null|
 |**2025-06-25**|**Behavior Foundation Model: Towards Next-Generation Whole-Body Control System of Humanoid Robots**|Mingqi Yuan et.al.|[2506.20487](http://arxiv.org/abs/2506.20487)|null|
 |**2025-06-24**|**Simulation of Flagellated Bacteria Near a Solid Surface: Effects of Flagellar Morphology and Ionic Strength**|Baopi Liu et.al.|[2506.19271](http://arxiv.org/abs/2506.19271)|null|
 |**2025-06-23**|**AgenticControl: An Automated Control Design Framework Using Large Language Models**|Mohammad Narimani et.al.|[2506.19160](http://arxiv.org/abs/2506.19160)|null|
