@@ -1989,6 +1989,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Spherical Pendulum with Quad-Rotor Thrust Vectoring Actuation -- A Novel Mechatronics and Control Benchmark Platform**|Yuchen Li et.al.|[2506.22410](http://arxiv.org/abs/2506.22410)|null|
+|**2025-06-27**|**Identifying High-Risk Areas for Traffic Collisions in Montgomery, Maryland Using KDE and Spatial Autocorrelation Analysis**|Stanislav Liashkov et.al.|[2506.21930](http://arxiv.org/abs/2506.21930)|null|
+|**2025-06-26**|**The Spatiotemporal Organization of Motor Cortex Activity Supporting Manual Dexterity**|Nicholas Chehade et.al.|[2506.21738](http://arxiv.org/abs/2506.21738)|null|
 |**2025-06-26**|**AGTCNet: A Graph-Temporal Approach for Principled Motor Imagery EEG Classification**|Galvin Brice S. Lim et.al.|[2506.21338](http://arxiv.org/abs/2506.21338)|null|
 |**2025-06-26**|**DBConformer: Dual-Branch Convolutional Transformer for EEG Decoding**|Ziwei Wang et.al.|[2506.21140](http://arxiv.org/abs/2506.21140)|null|
 |**2025-06-26**|**Modeling active nematics via the nematic locking principle**|Kevin A. Mitchell et.al.|[2506.20996](http://arxiv.org/abs/2506.20996)|null|
