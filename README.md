@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-29**|**Event-based Stereo Visual-Inertial Odometry with Voxel Map**|Zhaoxing Zhang et.al.|[2506.23078](http://arxiv.org/abs/2506.23078)|null|
 |**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang et.al.|[2506.09278](http://arxiv.org/abs/2506.09278)|null|
 |**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005](http://arxiv.org/abs/2506.08005)|null|
 |**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013](http://arxiv.org/abs/2506.07013)|null|
@@ -2010,6 +2011,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Rotational Dynamics of ATP Synthase: Mechanical Constraints and Energy Dissipative Channels**|Islam K. Matar et.al.|[2506.23439](http://arxiv.org/abs/2506.23439)|null|
+|**2025-06-28**|**Grazing incidence X-ray scattering alignment using the area detector**|Edward Tortorici et.al.|[2506.22970](http://arxiv.org/abs/2506.22970)|null|
+|**2025-06-28**|**MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering**|Mai A. Shaaban et.al.|[2506.22900](http://arxiv.org/abs/2506.22900)|null|
 |**2025-06-27**|**Spherical Pendulum with Quad-Rotor Thrust Vectoring Actuation -- A Novel Mechatronics and Control Benchmark Platform**|Yuchen Li et.al.|[2506.22410](http://arxiv.org/abs/2506.22410)|null|
 |**2025-06-27**|**Identifying High-Risk Areas for Traffic Collisions in Montgomery, Maryland Using KDE and Spatial Autocorrelation Analysis**|Stanislav Liashkov et.al.|[2506.21930](http://arxiv.org/abs/2506.21930)|null|
 |**2025-06-26**|**The Spatiotemporal Organization of Motor Cortex Activity Supporting Manual Dexterity**|Nicholas Chehade et.al.|[2506.21738](http://arxiv.org/abs/2506.21738)|null|
