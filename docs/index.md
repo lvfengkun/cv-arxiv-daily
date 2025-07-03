@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**VOCAL: Visual Odometry via ContrAstive Learning**|Chi-Yao Huang et.al.|[2507.00243](http://arxiv.org/abs/2507.00243)|null|
 |**2025-06-29**|**Event-based Stereo Visual-Inertial Odometry with Voxel Map**|Zhaoxing Zhang et.al.|[2506.23078](http://arxiv.org/abs/2506.23078)|null|
 |**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang et.al.|[2506.09278](http://arxiv.org/abs/2506.09278)|null|
 |**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005](http://arxiv.org/abs/2506.08005)|null|
@@ -1990,6 +1991,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**TriVLA: A Unified Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
+|**2025-07-01**|**Magnetocrystalline anisotropy of FeNi and FeCo along the Bain path**|Nica Jane B. Ferrer et.al.|[2507.01120](http://arxiv.org/abs/2507.01120)|null|
+|**2025-06-30**|**EEG-Based Auditory BCI for Communication in a Completely Locked-In Patient Using Volitional Frequency Band Modulation**|Deland Liu et.al.|[2507.00305](http://arxiv.org/abs/2507.00305)|null|
+|**2025-06-30**|**Gliding microtubules exhibit tunable collective rotation driven by chiral active forces**|Madhuvanthi Guruprasad Athani et.al.|[2507.00245](http://arxiv.org/abs/2507.00245)|null|
 |**2025-06-30**|**Rotational Dynamics of ATP Synthase: Mechanical Constraints and Energy Dissipative Channels**|Islam K. Matar et.al.|[2506.23439](http://arxiv.org/abs/2506.23439)|null|
 |**2025-06-28**|**Grazing incidence X-ray scattering alignment using the area detector**|Edward Tortorici et.al.|[2506.22970](http://arxiv.org/abs/2506.22970)|null|
 |**2025-06-28**|**MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering**|Mai A. Shaaban et.al.|[2506.22900](http://arxiv.org/abs/2506.22900)|null|
