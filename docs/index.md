@@ -1991,6 +1991,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Padé Approximant Neural Networks for Enhanced Electric Motor Fault Diagnosis Using Vibration and Acoustic Data**|Sertac Kilickaya et.al.|[2507.02599](http://arxiv.org/abs/2507.02599)|null|
+|**2025-07-03**|**Vibration of Soft, Twisted Beams for Under-Actuated Quadrupedal Locomotion**|Yuhao Jiang et.al.|[2507.02547](http://arxiv.org/abs/2507.02547)|null|
+|**2025-07-03**|**TFOC-Net: A Short-time Fourier Transform-based Deep Learning Approach for Enhancing Cross-Subject Motor Imagery Classification**|Ahmed G. Habashi et.al.|[2507.02510](http://arxiv.org/abs/2507.02510)|null|
 |**2025-07-03**|**TriVLA: A Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
 |**2025-07-01**|**Magnetocrystalline anisotropy of FeNi and FeCo along the Bain path**|Nica Jane B. Ferrer et.al.|[2507.01120](http://arxiv.org/abs/2507.01120)|null|
 |**2025-06-30**|**EEG-Based Auditory BCI for Communication in a Completely Locked-In Patient Using Volitional Frequency Band Modulation**|Deland Liu et.al.|[2507.00305](http://arxiv.org/abs/2507.00305)|null|
