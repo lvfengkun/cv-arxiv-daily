@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1991,7 +1991,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-02**|**TriVLA: A Unified Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
+|**2025-07-03**|**TriVLA: A Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
 |**2025-07-01**|**Magnetocrystalline anisotropy of FeNi and FeCo along the Bain path**|Nica Jane B. Ferrer et.al.|[2507.01120](http://arxiv.org/abs/2507.01120)|null|
 |**2025-06-30**|**EEG-Based Auditory BCI for Communication in a Completely Locked-In Patient Using Volitional Frequency Band Modulation**|Deland Liu et.al.|[2507.00305](http://arxiv.org/abs/2507.00305)|null|
 |**2025-06-30**|**Gliding microtubules exhibit tunable collective rotation driven by chiral active forces**|Madhuvanthi Guruprasad Athani et.al.|[2507.00245](http://arxiv.org/abs/2507.00245)|null|
