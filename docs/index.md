@@ -1991,6 +1991,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-06**|**Entropy measures as indicators of connectivity paths in the human brain**|Ania Mesa-Rodríguez et.al.|[2507.04442](http://arxiv.org/abs/2507.04442)|null|
+|**2025-07-04**|**RECA-PD: A Robust Explainable Cross-Attention Method for Speech-based Parkinson's Disease Classification**|Terry Yi Zhong et.al.|[2507.03594](http://arxiv.org/abs/2507.03594)|null|
+|**2025-07-04**|**Optimization-Based Comparative System Evaluation of Single and Dual Traction Inverters with Focus on Partial Load Efficiency and Chip Area**|Christoph Sachs et.al.|[2507.03573](http://arxiv.org/abs/2507.03573)|null|
+|**2025-07-04**|**Statistical-Spatial Model for Motor Potentials Evoked Through Transcranial Magnetic Stimulation for the Development of Closed-Loop Procedures**|Maryam Farahmandrad et.al.|[2507.03416](http://arxiv.org/abs/2507.03416)|null|
 |**2025-07-03**|**Padé Approximant Neural Networks for Enhanced Electric Motor Fault Diagnosis Using Vibration and Acoustic Data**|Sertac Kilickaya et.al.|[2507.02599](http://arxiv.org/abs/2507.02599)|null|
 |**2025-07-03**|**Vibration of Soft, Twisted Beams for Under-Actuated Quadrupedal Locomotion**|Yuhao Jiang et.al.|[2507.02547](http://arxiv.org/abs/2507.02547)|null|
 |**2025-07-03**|**TFOC-Net: A Short-time Fourier Transform-based Deep Learning Approach for Enhancing Cross-Subject Motor Imagery Classification**|Ahmed G. Habashi et.al.|[2507.02510](http://arxiv.org/abs/2507.02510)|null|
