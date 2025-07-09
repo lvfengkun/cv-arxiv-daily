@@ -19,7 +19,7 @@ layout: default
 |**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang et.al.|[2506.09278](http://arxiv.org/abs/2506.09278)|null|
 |**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005](http://arxiv.org/abs/2506.08005)|null|
 |**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013](http://arxiv.org/abs/2506.07013)|null|
-|**2025-06-23**|**cuVSLAM: CUDA accelerated visual odometry and mapping**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|**[link](https://github.com/nvlabs/pycuvslam)**|
+|**2025-07-08**|**cuVSLAM: CUDA accelerated visual odometry and mapping**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|**[link](https://github.com/nvlabs/pycuvslam)**|
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309](http://arxiv.org/abs/2505.13309)|null|
 |**2025-06-16**|**Structureless VIO**|Junlin Song et.al.|[2505.12337](http://arxiv.org/abs/2505.12337)|null|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
@@ -1991,6 +1991,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Hierarchy or Heterarchy? A Theory of Long-Range Connections for the Sensorimotor Brain**|Jeff Hawkins et.al.|[2507.05888](http://arxiv.org/abs/2507.05888)|null|
+|**2025-07-08**|**Noninvasive Focused Ultrasound Spinal Cord Stimulation in Humans: A Computational Feasibility Study**|Koharu Isomura et.al.|[2507.05702](http://arxiv.org/abs/2507.05702)|null|
+|**2025-07-07**|**Neural-Driven Image Editing**|Pengfei Zhou et.al.|[2507.05397](http://arxiv.org/abs/2507.05397)|null|
 |**2025-07-06**|**Entropy measures as indicators of connectivity paths in the human brain**|Ania Mesa-Rodríguez et.al.|[2507.04442](http://arxiv.org/abs/2507.04442)|null|
 |**2025-07-04**|**RECA-PD: A Robust Explainable Cross-Attention Method for Speech-based Parkinson's Disease Classification**|Terry Yi Zhong et.al.|[2507.03594](http://arxiv.org/abs/2507.03594)|null|
 |**2025-07-04**|**Optimization-Based Comparative System Evaluation of Single and Dual Traction Inverters with Focus on Partial Load Efficiency and Chip Area**|Christoph Sachs et.al.|[2507.03573](http://arxiv.org/abs/2507.03573)|null|
