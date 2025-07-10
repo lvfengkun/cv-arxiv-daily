@@ -2012,6 +2012,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**PINN-Obs: Physics-Informed Neural Network-Based Observer for Nonlinear Dynamical Systems**|Ayoub Farkane et.al.|[2507.06712](http://arxiv.org/abs/2507.06712)|null|
+|**2025-07-08**|**Development and Real-World Application of Commercial Motor Vehicle Safety Enforcement Dashboards**|Dhairya Parekh et.al.|[2507.06351](http://arxiv.org/abs/2507.06351)|null|
 |**2025-07-08**|**Hierarchy or Heterarchy? A Theory of Long-Range Connections for the Sensorimotor Brain**|Jeff Hawkins et.al.|[2507.05888](http://arxiv.org/abs/2507.05888)|null|
 |**2025-07-08**|**Noninvasive Focused Ultrasound Spinal Cord Stimulation in Humans: A Computational Feasibility Study**|Koharu Isomura et.al.|[2507.05702](http://arxiv.org/abs/2507.05702)|null|
 |**2025-07-07**|**Neural-Driven Image Editing**|Pengfei Zhou et.al.|[2507.05397](http://arxiv.org/abs/2507.05397)|null|
