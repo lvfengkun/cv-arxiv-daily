@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903](http://arxiv.org/abs/2507.07903)|null|
 |**2025-06-30**|**VOCAL: Visual Odometry via ContrAstive Learning**|Chi-Yao Huang et.al.|[2507.00243](http://arxiv.org/abs/2507.00243)|null|
 |**2025-06-29**|**Event-based Stereo Visual-Inertial Odometry with Voxel Map**|Zhaoxing Zhang et.al.|[2506.23078](http://arxiv.org/abs/2506.23078)|null|
 |**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang et.al.|[2506.09278](http://arxiv.org/abs/2506.09278)|null|
@@ -1991,6 +1992,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**On Nonlinear Dynamics Of A Nonideal Magnetic System With Shape Memory Alloy To Energy Harvesting Using Uncertainty Exponent And Entropy Of Basin Of Attractions Approaches**|A Ribeiro et.al.|[2507.07740](http://arxiv.org/abs/2507.07740)|null|
+|**2025-07-10**|**Adaptive Gaussian Mixture Models-based Anomaly Detection for under-constrained Cable-Driven Parallel Robots**|Julio Garrido et.al.|[2507.07714](http://arxiv.org/abs/2507.07714)|null|
+|**2025-07-10**|**Uncertainty Quantification for Motor Imagery BCI -- Machine Learning vs. Deep Learning**|Joris Suurmeijer et.al.|[2507.07511](http://arxiv.org/abs/2507.07511)|null|
 |**2025-07-09**|**PINN-Obs: Physics-Informed Neural Network-Based Observer for Nonlinear Dynamical Systems**|Ayoub Farkane et.al.|[2507.06712](http://arxiv.org/abs/2507.06712)|null|
 |**2025-07-08**|**Development and Real-World Application of Commercial Motor Vehicle Safety Enforcement Dashboards**|Dhairya Parekh et.al.|[2507.06351](http://arxiv.org/abs/2507.06351)|null|
 |**2025-07-08**|**Hierarchy or Heterarchy? A Theory of Long-Range Connections for the Sensorimotor Brain**|Jeff Hawkins et.al.|[2507.05888](http://arxiv.org/abs/2507.05888)|null|
