@@ -2013,6 +2013,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Robust RL Control for Bipedal Locomotion with Closed Kinematic Chains**|Egor Maslennikov et.al.|[2507.10164](http://arxiv.org/abs/2507.10164)|null|
+|**2025-07-14**|**Physics-Informed Neural Networks with Unscented Kalman Filter for Sensorless Joint Torque Estimation in Humanoid Robots**|Ines Sorrentino et.al.|[2507.10105](http://arxiv.org/abs/2507.10105)|null|
+|**2025-07-13**|**Low-Cost Fuel Dispenser Prototype Using STM32 and an H-bridge motor driver**|MD Zobaer Hossain Bhuiyan et.al.|[2507.09774](http://arxiv.org/abs/2507.09774)|null|
+|**2025-07-13**|**Experimental Observation of Temporally-Evolving Stochastic Vibration Patterns in a Vibrating Motor**|Adhinarayan Naembin Ashok et.al.|[2507.09548](http://arxiv.org/abs/2507.09548)|null|
+|**2025-07-09**|**Preliminary Analysis of Construction Work Zone on Roadways in Florida by Crash Severity**|Tatiana Deslouches et.al.|[2507.08869](http://arxiv.org/abs/2507.08869)|null|
 |**2025-07-11**|**SPINT: Spatial Permutation-Invariant Neural Transformer for Consistent Intracortical Motor Decoding**|Trung Le et.al.|[2507.08402](http://arxiv.org/abs/2507.08402)|null|
 |**2025-07-08**|**SSSUMO: Real-Time Semi-Supervised Submovement Decomposition**|Evgenii Rudakov et.al.|[2507.08028](http://arxiv.org/abs/2507.08028)|null|
 |**2025-07-10**|**On Nonlinear Dynamics Of A Nonideal Magnetic System With Shape Memory Alloy To Energy Harvesting Using Uncertainty Exponent And Entropy Of Basin Of Attractions Approaches**|A Ribeiro et.al.|[2507.07740](http://arxiv.org/abs/2507.07740)|null|
