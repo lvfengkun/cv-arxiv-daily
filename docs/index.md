@@ -1992,6 +1992,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**CATVis: Context-Aware Thought Visualization**|Tariq Mehmood et.al.|[2507.11522](http://arxiv.org/abs/2507.11522)|null|
 |**2025-07-14**|**Robust RL Control for Bipedal Locomotion with Closed Kinematic Chains**|Egor Maslennikov et.al.|[2507.10164](http://arxiv.org/abs/2507.10164)|null|
 |**2025-07-14**|**Physics-Informed Neural Networks with Unscented Kalman Filter for Sensorless Joint Torque Estimation in Humanoid Robots**|Ines Sorrentino et.al.|[2507.10105](http://arxiv.org/abs/2507.10105)|null|
 |**2025-07-13**|**Low-Cost Fuel Dispenser Prototype Using STM32 and an H-bridge motor driver**|MD Zobaer Hossain Bhuiyan et.al.|[2507.09774](http://arxiv.org/abs/2507.09774)|null|
