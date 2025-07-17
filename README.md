@@ -2013,6 +2013,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Understanding visual attention beehind bee-inspired UAV navigation**|Pranav Rajbhandari et.al.|[2507.11992](http://arxiv.org/abs/2507.11992)|null|
+|**2025-07-16**|**AFPM: Alignment-based Frame Patch Modeling for Cross-Dataset EEG Decoding**|Xiaoqing Chen et.al.|[2507.11911](http://arxiv.org/abs/2507.11911)|null|
+|**2025-07-15**|**Perception of Brain-Computer Interface Implantation Surgery for Motor, Sensory, and Autonomic Restoration in Spinal Cord Injury and Stroke**|Derrick Lin et.al.|[2507.11572](http://arxiv.org/abs/2507.11572)|null|
 |**2025-07-15**|**CATVis: Context-Aware Thought Visualization**|Tariq Mehmood et.al.|[2507.11522](http://arxiv.org/abs/2507.11522)|null|
 |**2025-07-14**|**Robust RL Control for Bipedal Locomotion with Closed Kinematic Chains**|Egor Maslennikov et.al.|[2507.10164](http://arxiv.org/abs/2507.10164)|null|
 |**2025-07-14**|**Physics-Informed Neural Networks with Unscented Kalman Filter for Sensorless Joint Torque Estimation in Humanoid Robots**|Ines Sorrentino et.al.|[2507.10105](http://arxiv.org/abs/2507.10105)|null|
