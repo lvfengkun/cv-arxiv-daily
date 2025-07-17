@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2002,7 +2002,7 @@ layout: default
 |**2025-07-08**|**SSSUMO: Real-Time Semi-Supervised Submovement Decomposition**|Evgenii Rudakov et.al.|[2507.08028](http://arxiv.org/abs/2507.08028)|null|
 |**2025-07-10**|**On Nonlinear Dynamics Of A Nonideal Magnetic System With Shape Memory Alloy To Energy Harvesting Using Uncertainty Exponent And Entropy Of Basin Of Attractions Approaches**|A Ribeiro et.al.|[2507.07740](http://arxiv.org/abs/2507.07740)|null|
 |**2025-07-10**|**Adaptive Gaussian Mixture Models-based Anomaly Detection for under-constrained Cable-Driven Parallel Robots**|Julio Garrido et.al.|[2507.07714](http://arxiv.org/abs/2507.07714)|null|
-|**2025-07-10**|**Uncertainty Quantification for Motor Imagery BCI -- Machine Learning vs. Deep Learning**|Joris Suurmeijer et.al.|[2507.07511](http://arxiv.org/abs/2507.07511)|null|
+|**2025-07-16**|**Uncertainty Quantification for Motor Imagery BCI -- Machine Learning vs. Deep Learning**|Joris Suurmeijer et.al.|[2507.07511](http://arxiv.org/abs/2507.07511)|null|
 |**2025-07-09**|**PINN-Obs: Physics-Informed Neural Network-Based Observer for Nonlinear Dynamical Systems**|Ayoub Farkane et.al.|[2507.06712](http://arxiv.org/abs/2507.06712)|null|
 |**2025-07-08**|**Development and Real-World Application of Commercial Motor Vehicle Safety Enforcement Dashboards**|Dhairya Parekh et.al.|[2507.06351](http://arxiv.org/abs/2507.06351)|null|
 |**2025-07-08**|**Hierarchy or Heterarchy? A Theory of Long-Range Connections for the Sensorimotor Brain**|Jeff Hawkins et.al.|[2507.05888](http://arxiv.org/abs/2507.05888)|null|
