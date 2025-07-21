@@ -1993,6 +1993,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Benchmarking of EEG Analysis Techniques for Parkinson's Disease Diagnosis: A Comparison between Traditional ML Methods and Foundation DL Methods**|Danilo Avola et.al.|[2507.13716](http://arxiv.org/abs/2507.13716)|null|
 |**2025-07-16**|**Understanding visual attention beehind bee-inspired UAV navigation**|Pranav Rajbhandari et.al.|[2507.11992](http://arxiv.org/abs/2507.11992)|null|
 |**2025-07-16**|**AFPM: Alignment-based Frame Patch Modeling for Cross-Dataset EEG Decoding**|Xiaoqing Chen et.al.|[2507.11911](http://arxiv.org/abs/2507.11911)|null|
 |**2025-07-15**|**Perception of Brain-Computer Interface Implantation Surgery for Motor, Sensory, and Autonomic Restoration in Spinal Cord Injury and Stroke**|Derrick Lin et.al.|[2507.11572](http://arxiv.org/abs/2507.11572)|null|
