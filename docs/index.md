@@ -1995,6 +1995,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Morpheus: A Neural-driven Animatronic Face with Hybrid Actuation and Diverse Emotion Control**|Zongzheng Zhang et.al.|[2507.16645](http://arxiv.org/abs/2507.16645)|null|
+|**2025-07-22**|**A statistical complexity measure can differentiate Go/NoGo trials during a visual-motor task using human electroencephalogram data**|Francisco Leandro P. Carlos et.al.|[2507.16159](http://arxiv.org/abs/2507.16159)|null|
 |**2025-07-20**|**An approach to the LQG/LTR design problem with specifications for finite-dimensional SISO control systems**|Mahyar Mahinzaeim et.al.|[2507.14952](http://arxiv.org/abs/2507.14952)|null|
 |**2025-07-19**|**Baseline behaviour in human vision**|Thomas Fabian et.al.|[2507.14573](http://arxiv.org/abs/2507.14573)|null|
 |**2025-07-19**|**A 21-DOF Humanoid Dexterous Hand with Hybrid SMA-Motor Actuation: CYJ Hand-0**|Jin Chai et.al.|[2507.14538](http://arxiv.org/abs/2507.14538)|null|
