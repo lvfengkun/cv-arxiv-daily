@@ -1995,6 +1995,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Automatic Blink-based Bad EEG channels Detection for BCI Applications**|Eva Guttmann-Flury et.al.|[2507.17405](http://arxiv.org/abs/2507.17405)|null|
+|**2025-07-23**|**Confidence Calibration in Vision-Language-Action Models**|Thomas P Zollo et.al.|[2507.17383](http://arxiv.org/abs/2507.17383)|null|
+|**2025-07-23**|**Reconfigurable Tendon-Driven Robots: Eliminating Inter-segmental Coupling via Independently Lockable Joints**|Botao Lin et.al.|[2507.17163](http://arxiv.org/abs/2507.17163)|null|
+|**2025-07-23**|**Multi-Angle Rotational Actuation in a 0.8-mm-Thick Preload-Free Piezoelectric Micromotor**|Haijia Yu et.al.|[2507.17155](http://arxiv.org/abs/2507.17155)|null|
+|**2025-07-22**|**Hierarchical Reinforcement Learning Framework for Adaptive Walking Control Using General Value Functions of Lower-Limb Sensor Signals**|Sonny T. Jones et.al.|[2507.16983](http://arxiv.org/abs/2507.16983)|null|
 |**2025-07-22**|**Morpheus: A Neural-driven Animatronic Face with Hybrid Actuation and Diverse Emotion Control**|Zongzheng Zhang et.al.|[2507.16645](http://arxiv.org/abs/2507.16645)|null|
 |**2025-07-22**|**A statistical complexity measure can differentiate Go/NoGo trials during a visual-motor task using human electroencephalogram data**|Francisco Leandro P. Carlos et.al.|[2507.16159](http://arxiv.org/abs/2507.16159)|null|
 |**2025-07-20**|**An approach to the LQG/LTR design problem with specifications for finite-dimensional SISO control systems**|Mahyar Mahinzaeim et.al.|[2507.14952](http://arxiv.org/abs/2507.14952)|null|
